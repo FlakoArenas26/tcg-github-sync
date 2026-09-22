@@ -73,8 +73,8 @@ def main():
 
     publisher = Publisher(
         repo_dir=os.getcwd(),
-        github_token=os.environ["GITHUB_TOKEN"],
         github_repo=os.environ["GITHUB_REPO"],
+        github_token=os.getenv("GITHUB_TOKEN") or None,
     )
     publisher.publish()
     print("🎉 Sync completo.")

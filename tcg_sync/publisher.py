@@ -3,9 +3,15 @@ import os
 import subprocess
 
 class Publisher:
-    """Commit + push al repo de GitHub usando un token."""
+    """Commit + push al repo de GitHub.
 
-    def __init__(self, repo_dir: str, github_token: str, github_repo: str):
+    Si hay `github_token` (ej. en GitHub Actions, via secrets.GITHUB_TOKEN)
+    lo usa para armar el remote con credenciales embebidas. Si no hay token
+    (uso local normal), deja el remote `origin` tal cual esta y confia en
+    las credenciales de git/gh ya configuradas en la maquina.
+    """
+
+    def __init__(self, repo_dir: str, github_repo: str, github_token: str | None = None):
         self.repo_dir = repo_dir
         self.token = github_token
         self.repo = github_repo  # ej: "usuario/mi-repo"
@@ -15,12 +21,13 @@ class Publisher:
                               capture_output=True, text=True)
 
     def publish(self, message: str = "chore: sync card data"):
-        remote = (f"https://x-access-token:{self.token}"
-                  f"@github.com/{self.repo}.git")
-        self._run("git", "config", "user.name", "tcg-sync-bot")
-        self._run("git", "config", "user.email", "bot@tcg-sync.local")
-        self._run("git", "remote", "remove", "origin", check=False)
-        self._run("git", "remote", "add", "origin", remote)
+        self._run("git", "config", "user.name", "tcg-sync-bot", check=False)
+        self._run("git", "config", "user.email", "bot@tcg-sync.local", check=False)
+        if self.token:
+            remote = (f"https://x-access-token:{self.token}"
+                      f"@github.com/{self.repo}.git")
+            self._run("git", "remote", "remove", "origin", check=False)
+            self._run("git", "remote", "add", "origin", remote)
         fetch = self._run("git", "fetch", "origin", "main", check=False)
         if fetch.returncode == 0:
             self._run("git", "reset", "--soft", "origin/main")

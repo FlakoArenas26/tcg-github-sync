@@ -2,9 +2,7 @@
 name: sync-data
 
 on:
-  schedule:
-    - cron: "0 6 * * *"   # 6 AM UTC todos los días
-  workflow_dispatch:      # también manual desde la pestaña Actions
+  workflow_dispatch:      # correr manualmente desde la pestaña Actions cuando haga falta
 
 permissions:
   contents: write

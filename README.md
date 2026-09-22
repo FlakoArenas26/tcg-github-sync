@@ -53,6 +53,12 @@ data/
 `deck`, `name`, `count` y `path`, para que el juego sepa qué mazos existen
 sin tener que descargar todo.
 
+## Explorar / previsualizar los datos
+
+- **Todo el catálogo de un vistazo:** [`data/manifest.json`](https://github.com/FlakoArenas26/tcg-github-sync/blob/main/data/manifest.json) — lista cada mazo (fuente, nombre, cantidad de cartas, ruta al archivo).
+- **Navegar carpeta por carpeta:** [`data/`](https://github.com/FlakoArenas26/tcg-github-sync/tree/main/data) en GitHub — GitHub renderea el JSON directo en el navegador.
+- **Un mazo puntual sin abrir el repo:** `https://raw.githubusercontent.com/FlakoArenas26/tcg-github-sync/main/<path del manifest>`.
+
 ## Uso
 
 ```bash
@@ -84,9 +90,13 @@ guardar lo relacional propio de cada partida/usuario (referenciando
 `source` + `deck` + `id`), y pedir el JSON del mazo puntual cuando lo
 necesita.
 
-## Sync automático
+## Re-sincronizar (manual)
 
-El workflow `.github/workflows/sync.yml` corre el sync automáticamente
-una vez al día usando GitHub Actions. Necesitás agregar el secret
-`APITCG_API_KEY` en Settings → Secrets → Actions (el `GITHUB_TOKEN` ya lo
-provee GitHub Actions automáticamente).
+Este repo es prácticamente una base de datos de solo lectura para el
+juego: no hay cron ni sync automático corriendo todo el tiempo. Cuando
+quieras traer datos nuevos:
+
+- **Local:** `python sync.py` (con `.env` configurado).
+- **Sin tocar tu PC:** pestaña **Actions** del repo → workflow
+  `sync-data` → botón **Run workflow**. Necesita el secret
+  `APITCG_API_KEY` en Settings → Secrets → Actions (ya configurado).
