@@ -1,0 +1,2822 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40110,
+    "name": "Ampharos - Pikachu 28",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556880_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556880_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556880_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "109",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "160",
+      "Stage": "Stage 2",
+      "Attack 1": "[L][C] Electric Ball (110)",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "GIDORA",
+      "code": "109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40109,
+    "name": "Ampharos - Pikachu 47",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556879_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556879_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556879_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "109",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "160",
+      "Stage": "Stage 2",
+      "Attack 1": "[L][C] Electric Ball (110)",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "GIDORA",
+      "code": "109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40096,
+    "name": "Armarouge ex (Armarouge 60)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556445_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556445_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556445_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "105",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "260",
+      "Stage": "Stage 1",
+      "Attack 1": "[RRC] Armor Cannon (200)\r\n<br>Discard a R Energy from this Pokemon",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "PLANETA Tsuji",
+      "code": "105"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40100,
+    "name": "Basic Darkness Energy - Darkrai Deck",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556825_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556825_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556825_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "007",
+      "Rarity": "Common",
+      "Card Type": "Basic Darkness Energy",
+      "code": "007"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40185,
+    "name": "Basic Fire Energy - Armarouge 10",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557016_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557016_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557016_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "002",
+      "Rarity": "Unconfirmed",
+      "Card Type": "Basic Energy",
+      "code": "002"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40186,
+    "name": "Basic Fire Energy - Armarouge 11",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557017_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557017_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557017_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "002",
+      "Rarity": "Unconfirmed",
+      "Card Type": "Basic Energy",
+      "code": "002"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40187,
+    "name": "Basic Fire Energy - Armarouge 12",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557018_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557018_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557018_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "002",
+      "Rarity": "Unconfirmed",
+      "Card Type": "Basic Energy",
+      "code": "002"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40188,
+    "name": "Basic Fire Energy - Armarouge 16",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557019_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557019_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557019_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "002",
+      "Rarity": "Unconfirmed",
+      "Card Type": "Basic Energy",
+      "code": "002"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40179,
+    "name": "Basic Fire Energy - Armarouge 2",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557010_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557010_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557010_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "002",
+      "Rarity": "Unconfirmed",
+      "Card Type": "Basic Energy",
+      "code": "002"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40189,
+    "name": "Basic Fire Energy - Armarouge 20",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557020_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557020_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557020_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "002",
+      "Rarity": "Unconfirmed",
+      "Card Type": "Basic Energy",
+      "code": "002"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40190,
+    "name": "Basic Fire Energy - Armarouge 22",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557021_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557021_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557021_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "002",
+      "Rarity": "Unconfirmed",
+      "Card Type": "Basic Energy",
+      "code": "002"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40191,
+    "name": "Basic Fire Energy - Armarouge 24",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557022_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557022_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557022_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "002",
+      "Rarity": "Unconfirmed",
+      "Card Type": "Basic Energy",
+      "code": "002"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40192,
+    "name": "Basic Fire Energy - Armarouge 26",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557023_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557023_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557023_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "002",
+      "Rarity": "Unconfirmed",
+      "Card Type": "Basic Energy",
+      "code": "002"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40193,
+    "name": "Basic Fire Energy - Armarouge 29",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557024_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557024_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557024_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "002",
+      "Rarity": "Unconfirmed",
+      "Card Type": "Basic Energy",
+      "code": "002"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40180,
+    "name": "Basic Fire Energy - Armarouge 3",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557011_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557011_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557011_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "002",
+      "Rarity": "Unconfirmed",
+      "Card Type": "Basic Energy",
+      "code": "002"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40194,
+    "name": "Basic Fire Energy - Armarouge 32",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557025_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557025_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557025_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "002",
+      "Rarity": "Unconfirmed",
+      "Card Type": "Basic Energy",
+      "code": "002"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40195,
+    "name": "Basic Fire Energy - Armarouge 35",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557026_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557026_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557026_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "002",
+      "Rarity": "Unconfirmed",
+      "Card Type": "Basic Energy",
+      "code": "002"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40196,
+    "name": "Basic Fire Energy - Armarouge 38",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557027_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557027_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557027_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "002",
+      "Rarity": "Unconfirmed",
+      "Card Type": "Basic Energy",
+      "code": "002"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40181,
+    "name": "Basic Fire Energy - Armarouge 5",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557012_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557012_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557012_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "002",
+      "Rarity": "Unconfirmed",
+      "Card Type": "Basic Energy",
+      "code": "002"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40182,
+    "name": "Basic Fire Energy - Armarouge 6",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557013_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557013_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557013_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "002",
+      "Rarity": "Unconfirmed",
+      "Card Type": "Basic Energy",
+      "code": "002"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40183,
+    "name": "Basic Fire Energy - Armarouge 8",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557014_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557014_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557014_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "002",
+      "Rarity": "Unconfirmed",
+      "Card Type": "Basic Energy",
+      "code": "002"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40184,
+    "name": "Basic Fire Energy - Armarouge 9",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557015_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557015_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557015_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "002",
+      "Rarity": "Unconfirmed",
+      "Card Type": "Basic Energy",
+      "code": "002"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40123,
+    "name": "Basic Lightning Energy - Pikachu 10",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556896_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556896_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556896_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "004",
+      "Rarity": "Common",
+      "Card Type": "Basic Lightning Energy",
+      "code": "004"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40124,
+    "name": "Basic Lightning Energy - Pikachu 11",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556897_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556897_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556897_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "004",
+      "Rarity": "Common",
+      "Card Type": "Basic Lightning Energy",
+      "code": "004"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40125,
+    "name": "Basic Lightning Energy - Pikachu 12",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556898_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556898_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556898_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "004",
+      "Rarity": "Common",
+      "Card Type": "Basic Lightning Energy",
+      "code": "004"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40126,
+    "name": "Basic Lightning Energy - Pikachu 16",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556899_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556899_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556899_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "004",
+      "Rarity": "Common",
+      "Card Type": "Basic Lightning Energy",
+      "code": "004"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40127,
+    "name": "Basic Lightning Energy - Pikachu 20",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556900_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556900_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556900_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "004",
+      "Rarity": "Common",
+      "Card Type": "Basic Lightning Energy",
+      "code": "004"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40128,
+    "name": "Basic Lightning Energy - Pikachu 22",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556901_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556901_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556901_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "004",
+      "Rarity": "Common",
+      "Card Type": "Basic Lightning Energy",
+      "code": "004"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40129,
+    "name": "Basic Lightning Energy - Pikachu 24",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556902_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556902_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556902_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "004",
+      "Rarity": "Common",
+      "Card Type": "Basic Lightning Energy",
+      "code": "004"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40130,
+    "name": "Basic Lightning Energy - Pikachu 27",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556903_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556903_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556903_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "004",
+      "Rarity": "Common",
+      "Card Type": "Basic Lightning Energy",
+      "code": "004"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40117,
+    "name": "Basic Lightning Energy - Pikachu 3",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556890_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556890_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556890_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "004",
+      "Rarity": "Common",
+      "Card Type": "Basic Lightning Energy",
+      "code": "004"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40131,
+    "name": "Basic Lightning Energy - Pikachu 31",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556904_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556904_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556904_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "004",
+      "Rarity": "Common",
+      "Card Type": "Basic Lightning Energy",
+      "code": "004"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40132,
+    "name": "Basic Lightning Energy - Pikachu 35",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556905_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556905_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556905_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "004",
+      "Rarity": "Common",
+      "Card Type": "Basic Lightning Energy",
+      "code": "004"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40133,
+    "name": "Basic Lightning Energy - Pikachu 39",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556906_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556906_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556906_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "004",
+      "Rarity": "Common",
+      "Card Type": "Basic Lightning Energy",
+      "code": "004"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40119,
+    "name": "Basic Lightning Energy - Pikachu 4",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556892_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556892_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556892_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "004",
+      "Rarity": "Common",
+      "Card Type": "Basic Lightning Energy",
+      "code": "004"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40134,
+    "name": "Basic Lightning Energy - Pikachu 43",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556907_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556907_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556907_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "004",
+      "Rarity": "Common",
+      "Card Type": "Basic Lightning Energy",
+      "code": "004"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40135,
+    "name": "Basic Lightning Energy - Pikachu 48",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556908_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556908_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556908_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "004",
+      "Rarity": "Common",
+      "Card Type": "Basic Lightning Energy",
+      "code": "004"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40231,
+    "name": "Basic Lightning Energy - Pikachu 7",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/607999_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/607999_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/607999_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "004",
+      "Rarity": "Common",
+      "Card Type": "Basic Lightning Energy",
+      "code": "004"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40121,
+    "name": "Basic Lightning Energy - Pikachu 8",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556894_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556894_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556894_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "004",
+      "Rarity": "Common",
+      "Card Type": "Basic Lightning Energy",
+      "code": "004"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40122,
+    "name": "Basic Lightning Energy - Pikachu 9",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556895_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556895_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556895_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "004",
+      "Rarity": "Common",
+      "Card Type": "Basic Lightning Energy",
+      "code": "004"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40097,
+    "name": "Bisharp - Darkrai Deck",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556815_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556815_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556815_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "112",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[D] Cut (30)",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "AKIRA EGAWA",
+      "code": "112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40098,
+    "name": "Boss's Orders - Darkrai Deck",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556818_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556818_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556818_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "172/193",
+      "Rarity": "Rare",
+      "Card Type": "Trainer - Supporter",
+      "CardText": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon.<br><br> You may play only 1 Supporter card during your turn.",
+      "Artist": "NC Empire",
+      "code": "172/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40173,
+    "name": "Charcadet - Armarouge 13",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557004_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557004_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557004_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "039/193",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[C] Live Coal (10)",
+      "Attack 2": "[CCC] Magnum Punch (50)",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "KEIICHIRO ITO",
+      "code": "039/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40174,
+    "name": "Charcadet - Armarouge 19",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557005_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557005_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557005_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "039/193",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[C] Live Coal (10)",
+      "Attack 2": "[CCC] Magnum Punch (50)",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "KEIICHIRO ITO",
+      "code": "039/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40175,
+    "name": "Charcadet - Armarouge 56",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557006_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557006_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557006_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "039/193",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[C] Live Coal (10)",
+      "Attack 2": "[CCC] Magnum Punch (50)",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "KEIICHIRO ITO",
+      "code": "039/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40176,
+    "name": "Crocalor - Armarouge 15",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557007_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557007_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557007_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "036/193",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "Attack 1": "[R] Steady Firebreathing (30)",
+      "Attack 2": "[RR] Hyper Voice (70)",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "036/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40177,
+    "name": "Crocalor - Armarouge 30",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557008_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557008_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557008_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "036/193",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "Attack 1": "[R] Steady Firebreathing (30)",
+      "Attack 2": "[RR] Hyper Voice (70)",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "036/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40178,
+    "name": "Crocalor - Armarouge 51",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557009_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557009_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557009_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "036/193",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "Attack 1": "[R] Steady Firebreathing (30)",
+      "Attack 2": "[RR] Hyper Voice (70)",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "036/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40099,
+    "name": "Cyclizar - Darkrai Deck",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556821_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556821_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556821_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "164/193",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "110",
+      "Stage": "Basic",
+      "Attack 1": "[1] Touring\r\n<br>\r\nDraw 2 cards.",
+      "Attack 2": "[3] Speed Attack (100)",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "Artist": "Ryota Murayama",
+      "code": "164/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40095,
+    "name": "Darkrai ex (Darkrai)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556444_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556444_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556444_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "110",
+      "Rarity": "Holo Rare",
+      "Card Type": "Darkness",
+      "HP": "210",
+      "Stage": "Basic",
+      "Attack 1": "[DC] Wind of Darkness (40)",
+      "Attack 2": "[DDC] Night Impact (110)",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "110"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40111,
+    "name": "Electric Generator - Pikachu 32",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556884_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556884_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556884_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "170/198",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Look at the top 5 cards of your deck and attach up to 2 basic [L] Energy cards you find there to your Benched [L] Pokemon in any way you like. Shuffle the other cards back into your deck.",
+      "Artist": "Toyste Beach",
+      "code": "170/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40116,
+    "name": "Electrode - Pikachu 25",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556889_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556889_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556889_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "067/193",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[L] Lightning Ball (60)",
+      "Attack 2": "[C][C][C] Rolling Tackle (90)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Scav",
+      "code": "067/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40113,
+    "name": "Electrode - Pikachu 56",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556886_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556886_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556886_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "067/193",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[L] Lightning Ball (60)",
+      "Attack 2": "[C][C][C] Rolling Tackle (90)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Scav",
+      "code": "067/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40114,
+    "name": "Electrode - Pikachu 6",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556887_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556887_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556887_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "067/193",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[L] Lightning Ball (60)",
+      "Attack 2": "[C][C][C] Rolling Tackle (90)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Scav",
+      "code": "067/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40138,
+    "name": "Flaaffy - Pikachu 37",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556911_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556911_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556911_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "108",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[L] Headbutt (20)",
+      "Attack 2": "[L][C] Electro Ball (50)",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "Akira Komayama",
+      "code": "108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40137,
+    "name": "Flaaffy - Pikachu 5",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556910_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556910_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556910_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "108",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[L] Headbutt (20)",
+      "Attack 2": "[L][C] Electro Ball (50)",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "Akira Komayama",
+      "code": "108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40139,
+    "name": "Flaaffy - Pikachu 53",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556912_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556912_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556912_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "108",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[L] Headbutt (20)",
+      "Attack 2": "[L][C] Electro Ball (50)",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "Akira Komayama",
+      "code": "108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40197,
+    "name": "Fuecoco - Armarouge 1",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557028_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557028_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557028_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "023/182",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[R] Live Coal (10)",
+      "Attack 2": "[RR] Ram (30)",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "023/182"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40198,
+    "name": "Fuecoco - Armarouge 14",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557029_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557029_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557029_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "023/182",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[R] Live Coal (10)",
+      "Attack 2": "[RR] Ram (30)",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "023/182"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40199,
+    "name": "Fuecoco - Armarouge 17",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557039_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557039_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557039_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "023/182",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[R] Live Coal (10)",
+      "Attack 2": "[RR] Ram (30)",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "023/182"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40200,
+    "name": "Fuecoco - Armarouge 42",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557040_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557040_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557040_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "023/182",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[R] Live Coal (10)",
+      "Attack 2": "[RR] Ram (30)",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "023/182"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40202,
+    "name": "Great Ball - Armarouge 33",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557042_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557042_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557042_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "183/193",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Look at the top 7 cards of your deck. You may reveal a Pokemon you find there and put it into your hand. Shuffle the other cards back into your deck.\r\n<br><br>\r\nYou may play as many Item cards as you like during your turn.",
+      "code": "183/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40201,
+    "name": "Great Ball - Armarouge 43",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557041_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557041_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557041_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "183/193",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Look at the top 7 cards of your deck. You may reveal a Pokemon you find there and put it into your hand. Shuffle the other cards back into your deck.\r\n<br><br>\r\nYou may play as many Item cards as you like during your turn.",
+      "code": "183/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40203,
+    "name": "Great Ball - Armarouge 48",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557043_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557043_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557043_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "183/193",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Look at the top 7 cards of your deck. You may reveal a Pokemon you find there and put it into your hand. Shuffle the other cards back into your deck.\r\n<br><br>\r\nYou may play as many Item cards as you like during your turn.",
+      "code": "183/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40204,
+    "name": "Great Ball - Armarouge 55",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557044_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557044_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557044_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "183/193",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Look at the top 7 cards of your deck. You may reveal a Pokemon you find there and put it into your hand. Shuffle the other cards back into your deck.\r\n<br><br>\r\nYou may play as many Item cards as you like during your turn.",
+      "code": "183/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40101,
+    "name": "Great Ball - Darkrai Deck",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556829_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556829_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556829_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "183/193",
+      "Rarity": "Common",
+      "Card Type": "Trainer - Item",
+      "CardText": "Look at the top 7 cards of your deck. You may reveal a Pokemon you find there and put it into your hand. Shuffle the other cards back into your deck.\r\n<br><br>\r\nYou may play as many Item cards as you like during your turn.",
+      "code": "183/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40140,
+    "name": "Great Ball - Pikachu 29",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556913_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556913_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556913_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "183/193",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.",
+      "Artist": "Studio Bora Inc.",
+      "code": "183/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40141,
+    "name": "Great Ball - Pikachu 38",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556914_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556914_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556914_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "183/193",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.",
+      "Artist": "Studio Bora Inc.",
+      "code": "183/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40142,
+    "name": "Great Ball - Pikachu 49",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556915_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556915_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556915_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "183/193",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.",
+      "Artist": "Studio Bora Inc.",
+      "code": "183/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40143,
+    "name": "Great Ball - Pikachu 57",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556916_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556916_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556916_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "183/193",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.",
+      "Artist": "Studio Bora Inc.",
+      "code": "183/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40205,
+    "name": "Houndoom - Armarouge 23",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557046_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557046_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557046_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "034/198",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "Attack 1": "[C] Sharp Fang (30)",
+      "Attack 2": "[RRC] Fire Blast (150)\r\n<br>Discard a [R] Energy attached to this Pokemon.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "034/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40206,
+    "name": "Houndoom - Armarouge 27",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557050_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557050_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557050_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "034/198",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "Attack 1": "[C] Sharp Fang (30)",
+      "Attack 2": "[RRC] Fire Blast (150)\r\n<br>Discard a [R] Energy attached to this Pokemon.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "034/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40208,
+    "name": "Houndour - Armarouge 21",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557052_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557052_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557052_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "033/198",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[C] Bite (10)",
+      "Attack 2": "[RC] Flare (30)",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "033/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40209,
+    "name": "Houndour - Armarouge 39",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557053_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557053_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557053_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "033/198",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[C] Bite (10)",
+      "Attack 2": "[RC] Flare (30)",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "033/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40207,
+    "name": "Houndour - Armarouge 7",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557051_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557051_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557051_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "033/198",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[C] Bite (10)",
+      "Attack 2": "[RC] Flare (30)",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "033/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40102,
+    "name": "Jacq - Darkrai Deck",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556832_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556832_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556832_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "175/198",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer - Supporter",
+      "CardText": "Search your deck for up to 2 Evolution Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.\r\n<br><br>\r\nYou may play only 1 Supporter card during your turn.",
+      "Artist": "GIDORA",
+      "code": "175/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40145,
+    "name": "Jacq - Pikachu 51",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556919_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556919_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556919_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "175/198",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "Search your deck for up to 2 Evolution Pokemon, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "Artist": "GIDORA",
+      "code": "175/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40148,
+    "name": "Kilowattrel - Pikachu 40",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556922_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556922_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556922_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "082/193",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "Attack 1": "[C] Peck (20)",
+      "Attack 2": "[C][C][C] Jet Wing (150) During your next turn, this Pokemon can't attack.",
+      "Weakness": "Lx2",
+      "Resistance": "F-30",
+      "Artist": "Pani Kobayashi",
+      "code": "082/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40103,
+    "name": "Kingambit - Darkrai Deck",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556835_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556835_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556835_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "113",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "170",
+      "Stage": "Stage 2",
+      "Attack 1": "[D] Elbow Strike (40)",
+      "Attack 2": "[1D] Slicing Blade (100)",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "nagimiso",
+      "code": "113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40210,
+    "name": "Larvesta - Armarouge 31",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557055_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557055_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557055_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "040/197",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[R] Flare (10)",
+      "Attack 2": "[RC] Take Down <br>\r\nThis Pokemon also does 10 damage to itself.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "040/197"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40211,
+    "name": "Larvesta - Armarouge 44",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557056_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557056_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557056_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "040/197",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[R] Flare (10)",
+      "Attack 2": "[RC] Take Down <br>\r\nThis Pokemon also does 10 damage to itself.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "040/197"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40149,
+    "name": "Mareep - Pikachu 19",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556923_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556923_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556923_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "107",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[L] Headbutt (10)",
+      "Attack 2": "[L][C] Lightning Ball (20)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Orca",
+      "code": "107"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40153,
+    "name": "Mareep - Pikachu 2",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556927_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556927_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556927_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "107",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[L] Headbutt (10)",
+      "Attack 2": "[L][C] Lightning Ball (20)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Orca",
+      "code": "107"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40150,
+    "name": "Mareep - Pikachu 41",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556924_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556924_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556924_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "107",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[L] Headbutt (10)",
+      "Attack 2": "[L][C] Lightning Ball (20)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Orca",
+      "code": "107"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40152,
+    "name": "Mareep - Pikachu 45",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556926_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556926_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556926_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "107",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[L] Headbutt (10)",
+      "Attack 2": "[L][C] Lightning Ball (20)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Orca",
+      "code": "107"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40212,
+    "name": "Mela - Armarouge 54",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557057_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557057_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557057_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "167/182",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "You can use this card only if any of your Pokémon were Knocked Out during your opponent's last turn.\r\n<br>Attach a Basic [R] Energy card from your discard pile to 1 of your Pokémon. If you do, draw cards until you have 6 cards in your hand.\r\n<br>You may play only 1 Supporter card during your turn.",
+      "code": "167/182"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40155,
+    "name": "Miraidon - Pikachu 23",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556929_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556929_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556929_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "148",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "120",
+      "Stage": "Basic",
+      "Attack 1": "[L] Electric Claws (30)",
+      "Attack 2": "[L][L] Mach Bolt (60)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "hncl",
+      "code": "148"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40213,
+    "name": "Nemona - Armarouge 28",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557058_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557058_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557058_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "180/198",
+      "Rarity": "Common",
+      "Card Type": "Trainer - Supporter",
+      "CardText": "Draw 3 cards.\r\n<br><br>You may play only 1 Supporter card during your turn.",
+      "Artist": "Sanosuke Sakuma",
+      "code": "180/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40214,
+    "name": "Nemona - Armarouge 41",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557059_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557059_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557059_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "180/198",
+      "Rarity": "Common",
+      "Card Type": "Trainer - Supporter",
+      "CardText": "Draw 3 cards.\r\n<br><br>You may play only 1 Supporter card during your turn.",
+      "Artist": "Sanosuke Sakuma",
+      "code": "180/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40215,
+    "name": "Nemona - Armarouge 52",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557060_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557060_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557060_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "180/198",
+      "Rarity": "Common",
+      "Card Type": "Trainer - Supporter",
+      "CardText": "Draw 3 cards.\r\n<br><br>You may play only 1 Supporter card during your turn.",
+      "Artist": "Sanosuke Sakuma",
+      "code": "180/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40216,
+    "name": "Nemona - Armarouge 57",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557061_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557061_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557061_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "180/198",
+      "Rarity": "Common",
+      "Card Type": "Trainer - Supporter",
+      "CardText": "Draw 3 cards.\r\n<br><br>You may play only 1 Supporter card during your turn.",
+      "Artist": "Sanosuke Sakuma",
+      "code": "180/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40104,
+    "name": "Nemona - Darkrai Deck",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556845_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556845_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556845_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "180/198",
+      "Rarity": "Common",
+      "Card Type": "Trainer - Supporter",
+      "CardText": "Draw 3 cards.\r\n<br><br>You may play only 1 Supporter card during your turn.",
+      "Artist": "Sanosuke Sakuma",
+      "code": "180/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40156,
+    "name": "Nemona - Pikachu 13",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556930_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556930_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556930_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "180/198",
+      "Rarity": "Common",
+      "Card Type": "Supporter",
+      "CardText": "Draw 3 cards.",
+      "Artist": "Sanosuke Sakuma",
+      "code": "180/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40158,
+    "name": "Nemona - Pikachu 33",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556932_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556932_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556932_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "180/198",
+      "Rarity": "Common",
+      "Card Type": "Supporter",
+      "CardText": "Draw 3 cards.",
+      "Artist": "Sanosuke Sakuma",
+      "code": "180/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40159,
+    "name": "Nemona - Pikachu 42",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556933_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556933_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556933_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "180/198",
+      "Rarity": "Common",
+      "Card Type": "Supporter",
+      "CardText": "Draw 3 cards.",
+      "Artist": "Sanosuke Sakuma",
+      "code": "180/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40160,
+    "name": "Nemona - Pikachu 54",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556934_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556934_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556934_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "180/198",
+      "Rarity": "Common",
+      "Card Type": "Supporter",
+      "CardText": "Draw 3 cards.",
+      "Artist": "Sanosuke Sakuma",
+      "code": "180/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40217,
+    "name": "Nest Ball - Armarouge 45",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557062_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557062_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557062_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "181/198",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck.\r\n<br>\r\nYou may play any number of Item cards during your turn.",
+      "code": "181/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40105,
+    "name": "Nest Ball - Darkrai Deck",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556849_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556849_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556849_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "181/198",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer - Item",
+      "CardText": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck.\r\n<br><br>You may play any number of Item cards during your turn.",
+      "Artist": "Toyste Beach",
+      "code": "181/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40164,
+    "name": "Nest Ball - Pikachu 44",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556938_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556938_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556938_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "181/198",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Search your deck for a Basic Pokemon and put it onto your Bench. Then, shuffle your deck.",
+      "Artist": "Toyste Beach",
+      "code": "181/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40106,
+    "name": "Pawniard - Darkrai Deck",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556854_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556854_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556854_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "111",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[D] Pierce (10)",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "matazo",
+      "code": "111"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40218,
+    "name": "Picnicker - Armarouge 34",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557063_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557063_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557063_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "114",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Flip a coin. If heads, draw 4 cards. If tails, draw 2 cards.",
+      "Artist": "Susumu Maeya",
+      "code": "114"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40219,
+    "name": "Picnicker - Armarouge 47",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557064_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557064_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557064_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "114",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Flip a coin. If heads, draw 4 cards. If tails, draw 2 cards.",
+      "Artist": "Susumu Maeya",
+      "code": "114"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40107,
+    "name": "Picnicker - Darkrai Deck",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556861_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556861_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556861_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "114",
+      "Rarity": "Promo",
+      "Card Type": "Trainer - Supporter",
+      "CardText": "Flip a coin. If heads, draw 4 cards. If tails, draw 2 cards.\r\n<br><br>You may play only 1 Supporter card during your turn.",
+      "Artist": "Susumu Maeya",
+      "code": "114"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40161,
+    "name": "Picnicker - Pikachu 26",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556935_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556935_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556935_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "114",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Flip a coin. If heads, draw 4 cards. If tails, draw 2 cards.",
+      "Artist": "Susumu Maeya",
+      "code": "114"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40162,
+    "name": "Picnicker - Pikachu 46",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556936_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556936_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556936_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "114",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Flip a coin. If heads, draw 4 cards. If tails, draw 2 cards.",
+      "Artist": "Susumu Maeya",
+      "code": "114"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40094,
+    "name": "Pikachu ex (Pikachu 60)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556443_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556443_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556443_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "106",
+      "Rarity": "Holo Rare",
+      "Card Type": "Lightning",
+      "HP": "200",
+      "Stage": "Basic",
+      "Attack 1": "[LLC] Thunderbolt (120)",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "takutaa",
+      "code": "106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40220,
+    "name": "Potion - Armarouge 25",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557065_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557065_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557065_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "188/198",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Heal 30 damage from 1 of your Pokémon.\r\n<br>\r\nYou may play any number of Item cards during your turn.",
+      "code": "188/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40221,
+    "name": "Potion - Armarouge 37",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557066_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557066_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557066_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "188/198",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Heal 30 damage from 1 of your Pokémon.\r\n<br>\r\nYou may play any number of Item cards during your turn.",
+      "code": "188/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40108,
+    "name": "Potion - Darkrai Deck",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556871_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556871_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556871_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "188/198",
+      "Rarity": "Common",
+      "Card Type": "Trainer - Item",
+      "CardText": "Heal 30 damage from 1 of your Pokémon.\r\n<br><br>You may play any number of Item cards during your turn.",
+      "Artist": "Ayaka Yoshida",
+      "code": "188/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40146,
+    "name": "Potion - Pikachu 15",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556920_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556920_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556920_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "188/192",
+      "Rarity": "Common",
+      "Card Type": "Trainer - Item",
+      "CardText": "Heal 30 damage from 1 of your Pokémon.\r\n<br><br>You may play any number of Item cards during your turn.",
+      "Artist": "Ayaka Yoshida",
+      "code": "188/192"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40147,
+    "name": "Potion - Pikachu 18",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556921_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556921_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556921_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "188/192",
+      "Rarity": "Common",
+      "Card Type": "Trainer - Item",
+      "CardText": "Heal 30 damage from 1 of your Pokémon.\r\n<br><br>You may play any number of Item cards during your turn.",
+      "Artist": "Ayaka Yoshida",
+      "code": "188/192"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40151,
+    "name": "Rotom - Pikachu 14",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556925_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556925_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556925_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "069/198",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Linear Attack\r\n<br>This attack does 20 damage to 1 of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "Nisota Niso",
+      "code": "069/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40112,
+    "name": "Salandit - Darkrai Deck",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556885_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556885_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556885_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "139/197",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[D] Suffocating Gas (10)",
+      "Attack 2": "[1D] Scratch (30)",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "Shiburingaru",
+      "code": "139/197"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40115,
+    "name": "Salazzle - Darkrai Deck",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556888_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556888_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556888_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "140/197",
+      "Rarity": "Uncommon",
+      "Card Type": "Darkness",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "Attack 1": "[D] Suffocating Gas (40)",
+      "Attack 2": "[1D] Gentle Slap (70)",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "Shigenori Negishi",
+      "code": "140/197"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40118,
+    "name": "Seviper - Darkrai Deck",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556891_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556891_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556891_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "137/193",
+      "Rarity": "Uncommon",
+      "Card Type": "Darkness",
+      "HP": "110",
+      "Stage": "Basic",
+      "Attack 1": "[1] Sharp Fang (40)",
+      "Attack 2": "[1D] Cross-Cut (50+)\r\n<br>If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 50 more damage.",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "Nisota Niso",
+      "code": "137/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40222,
+    "name": "Skeledirge - Armarouge 36",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557067_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557067_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557067_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "038/198",
+      "Rarity": "Rare",
+      "Card Type": "Fire",
+      "HP": "180",
+      "Stage": "Stage 2",
+      "Attack 1": "[R] Passionate Singing (50)\r\n<br>Attach up to 2 Basic Energy cards from your discard pile to your Pokémon in any way y3.",
+      "Attack 2": "[RRC] Blazing Shout (190)\r\n<br>This Pokémon also does 30 damage to itself.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "038/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40223,
+    "name": "Switch - Armarouge 40",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557068_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557068_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557068_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "194/198",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Switch your Active Pokémon with 1 of your Benched Pokémon.\r\n<br>\r\nYou may play as many Item cards as you like during your turn.",
+      "code": "194/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40224,
+    "name": "Switch - Armarouge 58",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557069_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557069_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557069_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "194/198",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Switch your Active Pokémon with 1 of your Benched Pokémon.\r\n<br>\r\nYou may play as many Item cards as you like during your turn.",
+      "code": "194/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40120,
+    "name": "Switch - Darkrai Deck",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556893_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556893_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556893_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "194/198",
+      "Rarity": "Common",
+      "Card Type": "Trainer - Item",
+      "CardText": "Switch your Active Pokémon with 1 of your Benched Pokémon.\r\n<br><br>You may play any number of Item cards during your turn.",
+      "Artist": "Studio Bora Inc.",
+      "code": "194/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40154,
+    "name": "Switch - Pikachu 36",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556928_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556928_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556928_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "194/198",
+      "Rarity": "Common",
+      "Card Type": "Trainer - Item",
+      "CardText": "Switch your Active Pokémon with 1 of your Benched Pokémon.\r\n<br><br>You may play any number of Item cards during your turn.",
+      "Artist": "Studio Bora Inc.",
+      "code": "194/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40157,
+    "name": "Switch - Pikachu 52",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556931_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556931_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556931_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "194/198",
+      "Rarity": "Common",
+      "Card Type": "Trainer - Item",
+      "CardText": "Switch your Active Pokémon with 1 of your Benched Pokémon.\r\n<br><br>You may play any number of Item cards during your turn.",
+      "Artist": "Studio Bora Inc.",
+      "code": "194/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40225,
+    "name": "Torkoal - Armarouge 4",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557070_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557070_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557070_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "035/198",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[CC] Stampede (30)",
+      "Attack 2": "[RCC] Concentrated Fire (80x)\r\n<br>Flip a coin for each [R] Energy attached to this Pokémon. This attack does 80 damage times the number of heads.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "035/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40226,
+    "name": "Torkoal - Armarouge 53",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557071_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557071_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557071_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "035/198",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[CC] Stampede (30)",
+      "Attack 2": "[RCC] Concentrated Fire (80x)\r\n<br>Flip a coin for each [R] Energy attached to this Pokémon. This attack does 80 damage times the number of heads.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "035/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40227,
+    "name": "Volcarona - Armarouge 46",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557072_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557072_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557072_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "041/197",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "140",
+      "Stage": "Stage 1",
+      "Attack 1": "[R] Flame Cloak (30) <br>\r\n Attach a [R] Energy card from your discard pile to this Pokemon.",
+      "Attack 2": "[RR1] Heat Blast (130)",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "041/197"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40163,
+    "name": "Voltorb - Pikachu 1",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556937_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556937_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556937_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "066/193",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[L] Lightning Ball (10)",
+      "Attack 2": "[2] Rollout (20)",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "sui",
+      "code": "066/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40165,
+    "name": "Voltorb - Pikachu 30",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556939_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556939_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556939_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "066/193",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[L] Lightning Ball (10)",
+      "Attack 2": "[2] Rollout (20)",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "sui",
+      "code": "066/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40166,
+    "name": "Voltorb - Pikachu 34",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556940_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556940_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556940_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "066/193",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[L] Lightning Ball (10)",
+      "Attack 2": "[2] Rollout (20)",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "sui",
+      "code": "066/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40167,
+    "name": "Voltorb - Pikachu 55",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556941_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556941_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556941_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "066/193",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[L] Lightning Ball (10)",
+      "Attack 2": "[2] Rollout (20)",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "sui",
+      "code": "066/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40168,
+    "name": "Wattrel - Pikachu 17",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556942_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556942_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556942_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "077/193",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Collect\r\n<br>Draw a card.",
+      "Attack 2": "[1L] Glide (20)",
+      "Weakness": "Lx2",
+      "Resistance": "F-30",
+      "RetreatCost": "1",
+      "Artist": "Saya Tsuruta",
+      "code": "077/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40169,
+    "name": "Wattrel - Pikachu 58",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556943_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556943_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556943_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "077/193",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Collect\r\n<br>Draw a card.",
+      "Attack 2": "[1L] Glide (20)",
+      "Weakness": "Lx2",
+      "Resistance": "F-30",
+      "RetreatCost": "1",
+      "Artist": "Saya Tsuruta",
+      "code": "077/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40228,
+    "name": "Youngster - Armarouge 18",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557073_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557073_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557073_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "198/198",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer - Supporter",
+      "CardText": "Shuffle your hand into your deck. Then, draw 5 cards.\r\n<br><br>You may play only 1 Supporter card during your turn.",
+      "Artist": "Hitoshi Ariga",
+      "code": "198/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40229,
+    "name": "Youngster - Armarouge 50",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557074_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557074_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557074_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "198/198",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer - Supporter",
+      "CardText": "Shuffle your hand into your deck. Then, draw 5 cards.\r\n<br><br>You may play only 1 Supporter card during your turn.",
+      "Artist": "Hitoshi Ariga",
+      "code": "198/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40230,
+    "name": "Youngster - Armarouge 59",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/557075_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/557075_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/557075_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "198/198",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer - Supporter",
+      "CardText": "Shuffle your hand into your deck. Then, draw 5 cards.\r\n<br><br>You may play only 1 Supporter card during your turn.",
+      "Artist": "Hitoshi Ariga",
+      "code": "198/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40136,
+    "name": "Youngster - Darkrai Deck",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556909_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556909_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556909_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "198/198",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer - Supporter",
+      "CardText": "Shuffle your hand into your deck. Then, draw 5 cards.\r\n<br><br>You may play only 1 Supporter card during your turn.",
+      "Artist": "Hitoshi Ariga",
+      "code": "198/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40170,
+    "name": "Youngster - Pikachu 21",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556944_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556944_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556944_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "198/198",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer - Supporter",
+      "CardText": "Shuffle your hand into your deck. Then, draw 5 cards.\r\n<br><br>You may play only 1 Supporter card during your turn.",
+      "Artist": "Hitoshi Ariga",
+      "code": "198/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40171,
+    "name": "Youngster - Pikachu 50",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556946_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556946_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556946_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "198/198",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer - Supporter",
+      "CardText": "Shuffle your hand into your deck. Then, draw 5 cards.\r\n<br><br>You may play only 1 Supporter card during your turn.",
+      "Artist": "Hitoshi Ariga",
+      "code": "198/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40172,
+    "name": "Youngster - Pikachu 59",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556947_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556947_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556947_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "198/198",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer - Supporter",
+      "CardText": "Shuffle your hand into your deck. Then, draw 5 cards.\r\n<br><br>You may play only 1 Supporter card during your turn.",
+      "Artist": "Hitoshi Ariga",
+      "code": "198/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2024",
+    "id": 40144,
+    "name": "Yveltal - Darkrai Deck",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556917_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556917_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556917_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "118/182",
+      "Rarity": "Rare",
+      "Card Type": "Darkness",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[2] Cross-Cut (30+)\r\n<br>If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 60 more damage.",
+      "Attack 2": "[1DD] Dark Edge (120)\r\n<br>Discard an Energy from this Pokémon.",
+      "Weakness": "Lx2",
+      "Resistance": "F-30",
+      "RetreatCost": "2",
+      "Artist": "kawayoo",
+      "code": "118/182"
+    }
+  }
+]

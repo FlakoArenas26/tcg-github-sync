@@ -1,0 +1,2437 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63957,
+    "name": "Absol ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83456_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83456_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83456_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "92/108",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Darkness",
+      "HP": "100",
+      "Stage": "Basic",
+      "CardText": "Cursed Eyes - Once during your turn, when you put Absol ex from your hand onto your Bench, you may move 3 damage counters from 1 of your opponent's Pokemon to another of his or her Pokemon.  (Poke-POWER)",
+      "Attack 1": "[1D] Psychic Pulse (30) Does 10 damage to each of your opponent's Benched Pokemon that has any damage counters on it.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "F",
+      "Resistance": "P",
+      "RetreatCost": "1",
+      "code": "92/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63958,
+    "name": "Aggron",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83477_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83477_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83477_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "1/108",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal",
+      "HP": "110",
+      "Stage": "Stage 2",
+      "CardText": "Terraforming - Once during your turn (before your attack), you may look at the top 5 cards from your deck and put them back on top of your deck in any order.  This power can't be used if Aggron is affected by a Special Condition.  (Poke-POWER)",
+      "Attack 1": "[3] Metal Claw (50)",
+      "Attack 2": "[2MM] Mix-Up (70) Your opponent discards the top card of his or her deck.",
+      "Weakness": "R",
+      "Resistance": "G",
+      "RetreatCost": "4",
+      "code": "1/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63959,
+    "name": "Altaria",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83515_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83515_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83515_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "2/108",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "Synergy Effect - If Drake's Stadium is in play, remove 1 damage counter from Altaria between turns.  (Poke-BODY)",
+      "Attack 1": "[1W] Surprise (30) Choose 1 card from your opponent's hand without looking.  Look at the card you chose, then have your opponent shuffle that card into his or her deck.",
+      "Attack 2": "[2L] Gust (50)",
+      "Weakness": "C",
+      "Resistance": "FG",
+      "RetreatCost": "1",
+      "code": "2/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63960,
+    "name": "Anorith",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83560_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83560_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83560_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "26/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "Solid Shell - Any damage done to Anorith by attacks is reduced by 10 (after applying Weakness and Resistance).  (Poke-BODY)",
+      "Attack 1": "[1F] Fury Cutter (10+) Flip 3 coins.  If 1 of them is heads, this attack does 10 damage plus 10 more damage.  If 2 of them are heads, this attack does 10 damage plus 30 more damage.  If all of them are heads, this attack does 10 damage plus 50 more damage.",
+      "Weakness": "G",
+      "RetreatCost": "1",
+      "code": "26/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63961,
+    "name": "Armaldo",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83620_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83620_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83620_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "3/108",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "Attack 1": "[F] Rock Blast - Discard up to 5 F Energy cards attached to Armaldo.  For each Energy card you discarded, choose an opponent's Pokemon in play and this attack does 20 damage to those Pokemon.  (You may choose the same Pokemon more than once.)  This attack's damage isn't affected by Weakness or Resistance.",
+      "Attack 2": "[3] Mach Claw (60) This attack's damage isn't affected by Resistance.",
+      "Weakness": "G",
+      "RetreatCost": "3",
+      "code": "3/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63962,
+    "name": "Aron",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83635_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83635_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83635_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "42/108",
+      "Rarity": "Common",
+      "Card Type": "Metal",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Dig Deep - Search your discard pile for an Energy card, show it to your opponent, and put it into your hand.",
+      "Attack 2": "[1M] Tackle (20)",
+      "Weakness": "R",
+      "Resistance": "G",
+      "RetreatCost": "2",
+      "code": "42/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63963,
+    "name": "Bagon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83696_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83696_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83696_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "43/108",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Retaliate (10x) Does 10 damage times the number of damage counters on Bagon.",
+      "Weakness": "C",
+      "Resistance": "FR",
+      "RetreatCost": "1",
+      "code": "43/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63964,
+    "name": "Baltoy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83715_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83715_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83715_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "44/108",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[P] Psybeam (10) Flip a coin.  If heads, the Defending Pokemon is now Confused.",
+      "Attack 2": "[2] Spinning Attack (20)",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "44/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63965,
+    "name": "Banette",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83721_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83721_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83721_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "4/108",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1P] Grudge (20+) Does 20 damage plus 10 more damage for each Prize card your opponent has taken.",
+      "Attack 2": "[1PP] Bench Manipulation (40x) Your opponent flips a number of coins equal to the number of his or her Benched Pokemon.  This attack does 40 damage times the number of tails.  This attack's damage isn't affected by Weakness or Resistance.",
+      "Weakness": "D",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "4/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63966,
+    "name": "Battle Frontier",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83741_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83741_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83741_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "71/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "HP": "0",
+      "Stage": "Stadium",
+      "CardText": "This card stays in play when you play it.  Discard this card if another Stadium card comes into play.  If another card with the same name is in play, you can't play this card.",
+      "Attack 1": "Each player's C Evolved Pokemon, D Evolved Pokemon, and M Evolved Pokemon can't use any Poke-Powers or Poke-Bodies.",
+      "code": "71/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63967,
+    "name": "Beldum",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83787_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83787_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83787_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "45/108",
+      "Rarity": "Common",
+      "Card Type": "Metal",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[M] Magnetic Lines (10) Flip a coin.  If heads, move a basic Energy card from the Defending Pokemon to another of your opponent's Pokemon.  (Ignore this effect if your opponent has only 1 Pokemon.)",
+      "Weakness": "R",
+      "Resistance": "G",
+      "RetreatCost": "2",
+      "code": "45/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63968,
+    "name": "Blaziken",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83908_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83908_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83908_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "5/108",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "CardText": "Firestarter - Once during your turn (before your attack), you may attach a R Energy card from your discard pile to 1 of your Benched Pokemon.  This power can't be used if Blaziken is affected by a Special Condition.  (Poke-POWER)",
+      "Attack 1": "[2R] Fire Stream (50) Discard a R Energy card attached to Blaziken.  This attack does 10 damage to each of your opponent's Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "W",
+      "RetreatCost": "2",
+      "code": "5/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63969,
+    "name": "Cacnea",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84074_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84074_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84074_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "46/108",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Feint Attack - Choose 1 of your opponent's Pokemon.  This attack does 10 damage to that Pokemon.  This attack's damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies, or any other effects on that Pokemon.",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "code": "46/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63970,
+    "name": "Cacturne",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84079_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84079_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84079_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "27/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Darkness",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "Poison Structure - Once during your turn (before your attack), if Sidney's Stadium is in play, you may choose 1 of the Defending Pokemon.  That Pokemon is now Poisoned.  This power can't be used if Cacturne is affected by a Special Condition.  (Poke-POWER)",
+      "Attack 1": "[3] Pin Missile (20x) Flip 4 coins.  This attack does 20 damage times the number of heads.",
+      "Weakness": "F",
+      "Resistance": "P",
+      "RetreatCost": "1",
+      "code": "27/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63971,
+    "name": "Carvanha",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84113_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84113_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84113_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "47/108",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "40",
+      "Stage": "Basic",
+      "CardText": "Rough Skin - If Carvanha is your Active Pokemon and is damage by an opponent's attack (even if Carvanha is Knocked Out), put 1 damage counter on the Attacking Pokemon.  (Poke-BODY)",
+      "Attack 1": "[1D] Gnaw (20)",
+      "Weakness": "G",
+      "Resistance": "P",
+      "RetreatCost": "1",
+      "code": "47/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63972,
+    "name": "Charizard",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84188_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84188_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84188_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "6/108",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "Attack 1": "[R] Combustion (30)",
+      "Attack 2": "[2RR] Bursting Inferno (50) Each Defending Pokemon is now Burned.",
+      "Weakness": "W",
+      "RetreatCost": "2",
+      "code": "6/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63973,
+    "name": "Charmander",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84214_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84214_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84214_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "48/108",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[R] Smokescreen (10) If the Defending Pokemon tries to attack during your opponent's next turn, your opponent flips a coin.  If tails, that attack does nothing.",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "code": "48/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63974,
+    "name": "Charmeleon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84230_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84230_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84230_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "28/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Scary Face - Flip a coin.  If heads, the Defending Pokemon can't attack or retreat during your opponent's next turn.",
+      "Attack 2": "[1RR] Flame Tail (50)",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "code": "28/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63975,
+    "name": "Chinchou",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84307_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84307_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84307_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "49/108",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[L] Positive Ion (10+) Flip a coin.  If heads, this attack does 10 damage plus 10 more damage.",
+      "Attack 2": "[2] Negative Ion (10) During your opponent's next turn, any damage done by attacks from the Defending Pokemon is reduced by 10 (before applying Weakness and Resistance).",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "code": "49/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63976,
+    "name": "Claw Fossil",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84331_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84331_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84331_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "84/108",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "HP": "40",
+      "Stage": "Trainer",
+      "CardText": "Play Claw Fossil as if it were a Basic Pokemon.  While in play, Claw Fossil counts as a C Pokemon (as well as a Trainer card).  Claw Fossil has no attacks of its own, can't retreat, and can't be affected by any Special Conditions.  If Claw Fossil is Knocked Out, it doesn't count as a Knocked Out Pokemon.  (Discard it anyway.) At any time during your turn before your attack, you may discard Claw Fossil from play.\r\n\r\nJagged Stone - If Claw Fossil is your Active Pokemon and is damaged by an opponent's attack (even if Claw Fossil is Knocked Out), put 1 damage counter on the Attacking Pokemon.  (Poke-BODY)",
+      "code": "84/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63977,
+    "name": "Claydol ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84340_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84340_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84340_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "93/108",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Psychic",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "CardText": "Type Shift - Once during your turn (before your attack), you may use this power.  Claydol ex's type is F until the end of your turn.  (Poke-POWER)",
+      "Attack 1": "[2] Psychic Boom (20+) Does 20 damage plus 10 more damage for each Energy attached to the Defending Pokemon.",
+      "Attack 2": "[1PP] Shadow Crush (60) You may discard a P Energy card attached to Claydol ex.  If you do, discard an Energy card attached to the Defending Pokemon.",
+      "Weakness": "P",
+      "RetreatCost": "2",
+      "code": "93/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63978,
+    "name": "Combusken",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84410_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84410_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84410_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "29/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "Natural Cure - When you attach a R Energy from your hand to Combusken remove all Special Conditions from Combusken.  (Poke-BODY)",
+      "Attack 1": "[2] Lunge (50) Flip a coin.  If tails, this attack does nothing.",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "code": "29/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63979,
+    "name": "Cradily",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84453_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84453_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84453_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "7/108",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "110",
+      "Stage": "Stage 2",
+      "CardText": "Evolutionary Call - Once during your turn, when you play Cradily from your hand to evolve 1 of your Pokemon, you may search your deck for up to 3 in any combination of Basic Pokemon or Evolution cards.  Show them to your opponent and put them into your hand.  Shuffle your deck afterward.  (Poke-POWER)",
+      "Attack 1": "[1GG] Poison Ring (50) The Defending Pokemon is now Poisoned.  The Defending Pokemon can't retreat during your opponent's next turn.",
+      "Weakness": "R",
+      "RetreatCost": "2",
+      "code": "7/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63980,
+    "name": "Cyclone Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84541_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84541_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84541_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "90/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Energy",
+      "HP": "0",
+      "Stage": "Special Energy",
+      "Attack 1": "Cyclone Energy provides C Energy.  When you attach this card from your hand to your Active Pokemon, switch 1 of the Defending Pokemon with 1 of your opponent's Benched Pokemon.  Your opponent chooses the Benched Pokemon to switch.",
+      "code": "90/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63981,
+    "name": "Darkness Energy (Special)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84688_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84688_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84688_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "87/108",
+      "Rarity": "Rare",
+      "Card Type": "Energy",
+      "HP": "0",
+      "Stage": "Special Energy",
+      "Attack 1": "If the Pokemon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokemon (before applying Weakness and Resistance).  Ignore this effect unless the Attacking Pokemon is D or has Dark in its name.  Darkness Energy provides D Energy.  (Doesn't count as a basic Energy card.)",
+      "code": "87/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63982,
+    "name": "Delcatty",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84739_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84739_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84739_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "8/108",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "Energy Draw - Once during your turn (before your attack), you may discard 1 Energy card from your hand.  Then draw up to 3 cards from your deck.  This power can't be used if Delcatty is affected by a Special Condition.  (Poke-POWER)",
+      "Attack 1": "[1] Max Energy Source (10x) Does 10 damage times the amount of Energy attached to all of your Active Pokemon.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "code": "8/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63983,
+    "name": "Drake's Stadium",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84921_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84921_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84921_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "72/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "HP": "0",
+      "Stage": "Stadium",
+      "CardText": "This card stays in play when you play it.  Discard this card if another Stadium card comes into play.  If another card with the same name is in play, you can't play this card.",
+      "Attack 1": "Any damage done to C Active Pokemon (both yours and your opponent's) by an opponent's attack is reduced by 10 (after applying Weakness and Resistance).",
+      "code": "72/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63984,
+    "name": "Dusclops",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85027_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85027_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85027_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "14/108",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1P] Dark Mind (20) Does 20 damage to 1 of your opponent's Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Attack 2": "[2P] Mysterious Light (50) If Phoebe's Stadium is in play, the Defending Pokemon is now Confused.",
+      "Weakness": "D",
+      "Resistance": "F",
+      "RetreatCost": "2",
+      "code": "14/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63985,
+    "name": "Duskull",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85049_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85049_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85049_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "50/108",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1P] Surprise Attack (30) Flip a coin.  If tails, this attack does nothing.",
+      "Weakness": "D",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "50/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63986,
+    "name": "Energy Recycle System",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85218_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85218_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85218_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "73/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer",
+      "HP": "0",
+      "Stage": "Trainer",
+      "Attack 1": "Search your discard pile for basic Energy cards.  You may either show 1 basic Energy card to your opponent and put it into your hand, or show 3 basic Energy cards to your opponent and shuffle them into your deck.",
+      "code": "73/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63987,
+    "name": "Energy Removal 2",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85224_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85224_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85224_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "74/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer",
+      "HP": "0",
+      "Stage": "Trainer",
+      "Attack 1": "Flip a coin.  If heads, choose 1 Energy card attached to 1 of your opponent's Pokemon and discard it.",
+      "code": "74/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63988,
+    "name": "Energy Switch",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85256_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85256_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85256_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "75/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer",
+      "HP": "0",
+      "Stage": "Trainer",
+      "Attack 1": "Move a basic Energy card attached to 1 of your Pokemon to another of your Pokemon.",
+      "code": "75/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63989,
+    "name": "Fighting Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85441_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85441_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85441_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "108/108",
+      "Rarity": "Rare",
+      "Card Type": "Energy",
+      "HP": "0",
+      "Stage": "Energy",
+      "code": "108/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63990,
+    "name": "Fire Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85462_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85462_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85462_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "104/108",
+      "Rarity": "Rare",
+      "Card Type": "Energy",
+      "HP": "0",
+      "Stage": "Energy",
+      "code": "104/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63991,
+    "name": "Flareon Star",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85503_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85503_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85503_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "100/108",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Crimson Ray \r\n<br>Once during your turn, when you put Flareon Star from your hand onto your Bench, you may use this power.  Each Active Pokemon (both yours and your opponent's) is now Burned.",
+      "Attack 1": "[1RR] Flamethrower (50) \r\n<br>Discard a R Energy attached to Flareon Star.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "100/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63992,
+    "name": "Flygon ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85531_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85531_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85531_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "94/108",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Colorless",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "CardText": "Psychic Protector - If Flygon ex is damaged by an opponent's attack, you may discard up to 4 cards from your hand.  If you do, any damage done to Flygon ex is reduced by 10 for each card you discarded.  (Poke-BODY)",
+      "Attack 1": "[3] Slashing Strike (70) Flip a coin.  If tails, Flygon ex can't use Slashing Strike during your next turn.",
+      "Weakness": "C",
+      "Resistance": "FL",
+      "RetreatCost": "0",
+      "code": "94/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63993,
+    "name": "Gardevoir",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85634_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85634_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85634_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "9/108",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "CardText": "Psy Shadow - Once during your turn (before your attack), you may search your deck for a P Energy card and attach it to 1 of your Pokemon.  Put 2 damage counters on that Pokemon.  Shuffle your deck afterward.  This power can't be used if Gardevoir is affected by a Special Condition.  (Poke-POWER)",
+      "Attack 1": "[P] Energy Burst (10x) Does 10 damage times the total amount of Energy attached to Gardevoir and the Defending Pokemon.",
+      "Weakness": "P",
+      "RetreatCost": "2",
+      "code": "9/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63994,
+    "name": "Glacia's Stadium",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85751_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85751_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85751_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "76/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "HP": "0",
+      "Stage": "Stadium",
+      "CardText": "This card stays in play when you play it.  Discard this card if another Stadium card comes into play.  If another card with the same name is in play, you can't play this card.",
+      "Attack 1": "Each player's W Pokemon (excluding Pokemon-ex) has no Weakness.",
+      "code": "76/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63995,
+    "name": "Glalie",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85754_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85754_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85754_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "30/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "Synergy Effect - If Glacia's Stadium is in play, any damage done to Glalie by attacks from your opponent's Pokemon is reduced by 30 (after applying Weakness and Resistance).  (Poke-BODY)",
+      "Attack 1": "[1W] Powder Snow (20) The Defending Pokemon is now Asleep.",
+      "Attack 2": "[2W] Double-edge (60) Glalie does 10 damage to itself.",
+      "Weakness": "M",
+      "RetreatCost": "1",
+      "code": "30/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63996,
+    "name": "Grass Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85877_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85877_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85877_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "103/108",
+      "Rarity": "Rare",
+      "Card Type": "Energy",
+      "HP": "0",
+      "Stage": "Energy",
+      "code": "103/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63997,
+    "name": "Great Ball",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85897_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85897_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85897_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "77/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer",
+      "HP": "0",
+      "Stage": "Trainer",
+      "Attack 1": "Search your deck for a Basic Pokemon (excluding Pokemon-ex) and put it onto your Bench.  Shuffle your deck afterward.",
+      "code": "77/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63998,
+    "name": "Jolteon Star",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86351_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86351_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86351_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "101/108",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Yellow Ray  \r\n<br>Once during your turn, when you put Jolteon Star from your hand onto your Bench, you may put 1 damage counter on each Active Pokemon <em>(both yours and your opponent's)</em>.",
+      "Attack 1": "[1LL] Agility (40) \r\n<br>Flip a coin.  If heads, prevent all effects of an attack, including damage, done to Jolteon Star during your opponent's next turn.",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "1",
+      "code": "101/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 63999,
+    "name": "Kabuto",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86385_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86385_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86385_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "51/108",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Fast Evolution - Search your deck for an Evolution card, show it to your opponent, and put it into your hand.  Shuffle your deck afterward.",
+      "Attack 2": "[1F] Double Scratch (20x) Flip 2 coins.  This attack does 20 damage times the number of heads.",
+      "Weakness": "G",
+      "RetreatCost": "2",
+      "code": "51/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64000,
+    "name": "Kabutops",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86398_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86398_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86398_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "10/108",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "110",
+      "Stage": "Stage 2",
+      "CardText": "Primal Stage - As long as Kabutops is your Active Pokemon, your opponent can't play any Basic Pokemon or Evolutions Cards from his or her hand to evolve his or her Active Pokemon.  (Poke-BODY)",
+      "Attack 1": "[1F] Luring Antenna (20) Before doing damage, you may choose 1 of your opponent's Benched Pokemon and switch it with 1 of the Defending Pokemon.  If you do, this attack does 20 damage to the new Defending Pokemon.  Your opponent chooses the Defending Pokemon to switch.",
+      "Attack 2": "[1FF] Blinding Scythe (60)",
+      "Weakness": "G",
+      "RetreatCost": "2",
+      "code": "10/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64001,
+    "name": "Kirlia",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86465_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86465_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86465_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "31/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Hypnosis - The Defending Pokemon is now Asleep.",
+      "Attack 2": "[1P] Dream Eater (50) If the Defending Pokemon is not Asleep, this attack does nothing.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "31/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64002,
+    "name": "Lairon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86579_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86579_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86579_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "32/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Metal",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1M] Granite Head (20) During your opponent's next turn, any damage done to Lairon by attacks is reduced by 10 (after applying Weakness and Resistance).",
+      "Attack 2": "[3] Stomp (30+) Flip a coin.  If heads, this attack does 30 damage plus 20 more damage.",
+      "Weakness": "R",
+      "Resistance": "G",
+      "RetreatCost": "2",
+      "code": "32/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64003,
+    "name": "Lanturn",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86607_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86607_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86607_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "15/108",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "Energy Grounding - Once during your opponent's turn, when any of your Pokemon is Knocked Out by your opponent's attacks, you may use this power.  Choose a basic Energy card discarded from the Knocked Out Pokemon and attach it to Lanturn.  You can't use more than 1 Energy Grounding Poke-Power each turn.  (Poke-POWER)",
+      "Attack 1": "[1LL] Lightning Strike (50) You may discard all L Energy attached to Lanturn.  If you do, this attack's base damage is 90 instead of 50.",
+      "Weakness": "F",
+      "RetreatCost": "2",
+      "code": "15/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64004,
+    "name": "Lightning Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86766_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86766_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86766_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "106/108",
+      "Rarity": "Rare",
+      "Card Type": "Energy",
+      "HP": "0",
+      "Stage": "Energy",
+      "code": "106/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64005,
+    "name": "Lileep",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86788_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86788_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86788_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "52/108",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1G] Surprise (20) Choose 1 card from your opponent's hand without looking.  Look at the card you chose, then have your opponent shuffle that card into his or her deck.",
+      "Attack 2": "[2G] Acid (40) The Defending Pokemon can't retreat during your opponent's next turn.",
+      "Weakness": "R",
+      "RetreatCost": "2",
+      "code": "52/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64006,
+    "name": "Machamp",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86964_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86964_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86964_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "11/108",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "CardText": "Overzealous - If your opponent has any Pokemon-ex in play, each of Machamp's attacks does 30 more damage to the Defending Pokemon.  (Poke-BODY)",
+      "Attack 1": "[1F] Brick Smash (40) This attack's damage isn't affected by Resistance, Poke-Powers, Poke-Bodies, or any other effects on the Defending Pokemon.",
+      "Attack 2": "[3F] Cross Chop (60+) Flip a coin.  If heads, this attack does 60 damage plus 30 more damage.",
+      "Weakness": "P",
+      "RetreatCost": "2",
+      "code": "11/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64007,
+    "name": "Machoke",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86980_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86980_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86980_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "33/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Steady Punch (10+) Flip a coin.  If heads, this attack does 10 damage plus 20 more damage.",
+      "Attack 2": "[2F] Mega Kick (50)",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "33/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64008,
+    "name": "Machop",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86994_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86994_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86994_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "53/108",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Smash Punch (20) Flip a coin.  If tails, this attack does nothing.",
+      "Attack 2": "[1F] Submission (30) Machop does 10 damage to itself.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "53/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64009,
+    "name": "Magnemite",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87080_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87080_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87080_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "54/108",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Ram (10)",
+      "Attack 2": "[1L] Spark (20) Does 10 damage to 1 of your opponent's Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "1",
+      "code": "54/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64010,
+    "name": "Magneton",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87106_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87106_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87106_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "16/108",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "Magnetic Field - Once during your turn (before your attack), if you have basic Energy cards in your discard pile, you may discard any 1 card from your hand.  Then search for up to 2 basic Energy cards from your discard pile, show them to your opponent, and put them into your hand.  You can't return the card you first discarded to your hand in this way.  This power can't be used if Magneton is affected by a Special Condition.  (Poke-POWER)",
+      "Attack 1": "[1L] Magnetic Force (10x) Does 10 damage times the amount of Energy attached to all of your Pokemon (including Magneton).",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "1",
+      "code": "16/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64011,
+    "name": "Master Ball",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87255_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87255_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87255_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "78/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer",
+      "HP": "0",
+      "Stage": "Trainer",
+      "Attack 1": "Look at the top 7 cards from your deck.  Choose a Basic Pokemon or Evolution card from those cards, show it to your opponent, and put it into your hand.  Put the other 6 cards back on top of your deck.  Shuffle your deck afterward.",
+      "code": "78/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64012,
+    "name": "Mawile",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87260_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87260_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87260_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "17/108",
+      "Rarity": "Rare",
+      "Card Type": "Metal",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Call for Family - Search your deck for a Basic Pokemon and put it onto your Bench.  Shuffle your deck afterward.",
+      "Attack 2": "[2] Pull Away (20) If your opponent has 5 or more cards in his or her hand, your opponent discards a number of cards until your opponent has 4 cards left in his or her hand.",
+      "Weakness": "R",
+      "Resistance": "G",
+      "RetreatCost": "1",
+      "code": "17/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64013,
+    "name": "Medicham",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87274_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87274_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87274_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "34/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "Vigorous Aura - As long as Medicham is your Active Pokemon, attacks by each player's Active Pokemon do 10 more damage to any Active Pokemon (before applying Weakness and Resistance).  (Poke-BODY)",
+      "Attack 1": "[2] Punch (30)",
+      "Attack 2": "[1FF] Rolling Kick (40) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "34/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64014,
+    "name": "Meditite",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87283_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87283_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87283_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "55/108",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[P] Psyshock (10) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[F] Cross Chop (10+) Flip a coin.  If heads, this attack does 10 damage plus 10 more damage.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "55/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64015,
+    "name": "Metagross ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87347_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87347_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87347_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "95/108",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Metal",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "CardText": "Magnetic Redraw - Once during your turn (before your attack), if Metagross ex is your Active Pokemon, you may use this power.  Each player shuffles his or her hand into his or her deck.  Then, each player draws 4 cards.  This power can't be used if Metagross ex is affected by a Special Condition.  (Poke-POWER)",
+      "Attack 1": "[1MM] Scanblast (70) Does 70 damage to each of your opponent's Benched Pokemon that has the same name as the Defending Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "FR",
+      "Resistance": "G",
+      "RetreatCost": "4",
+      "code": "95/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64016,
+    "name": "Metal Energy (Special)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87361_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87361_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87361_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "88/108",
+      "Rarity": "Rare",
+      "Card Type": "Special Metal Energy",
+      "CardText": "Damage done by attacks to the Pokemon that Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance).  Ignore this effect if the Pokemon that Metal Energy is attached to isn't M.  Metal Energy provides M Energy.  (Doesn't count as a basic Energy card.)",
+      "code": "88/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64017,
+    "name": "Metang",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87377_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87377_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87377_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "35/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Metal",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "Clear Body - Metang cant be affected by any Special Conditions.  (Poke-BODY)",
+      "Attack 1": "[1M] Extra Comet Punch (30+) During your next turn, Extra Comet Punch does 30 more damage.",
+      "Weakness": "R",
+      "Resistance": "G",
+      "RetreatCost": "2",
+      "code": "35/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64018,
+    "name": "Mightyena",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87446_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87446_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87446_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "18/108",
+      "Rarity": "Rare",
+      "Card Type": "Darkness",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Plunder (20) Before doing damage, discard all Trainer cards attached to the Defending Pokemon.",
+      "Attack 2": "[1DD] Dark Burst (50+) If Sidney's Stadium is in play, this attack does 50 damage plus 20 more damage.",
+      "Weakness": "F",
+      "Resistance": "P",
+      "RetreatCost": "0",
+      "code": "18/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64019,
+    "name": "Multi Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87633_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87633_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87633_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "89/108",
+      "Rarity": "Rare",
+      "Card Type": "Energy",
+      "HP": "0",
+      "Stage": "Special Energy",
+      "Attack 1": "Attach Multi Energy to 1 of your Pokemon.  While in play, Multi Energy provides every type of Energy but provides only 1 Energy at a time.  (Has no effect other than providing Energy.)  Multi Energy provides C Energy when attached to a Pokemon that already has Special Energy cards attached to it.",
+      "code": "89/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64020,
+    "name": "Mysterious Fossil",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87665_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87665_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87665_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "85/108",
+      "Rarity": "Common",
+      "Card Type": "Trainer",
+      "HP": "50",
+      "Stage": "Trainer",
+      "Attack 1": "Play Mysterious Fossil as if it were a Basic Pokemon.  While in play, Mysterious Fossil counts as a C Pokemon (as well as a Trainer card).  Mysterious Fossil has no attacks, can't retreat, and can't be affected by any Special Conditions.  If Mysterious Fossil is Knocked Out, it doesn't count as a Knocked Out Pokemon.  (Discard it anyway.) At any time during your turn before your attack, you may discard Mysterious Fossil from play.",
+      "code": "85/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64021,
+    "name": "Ninetales",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87771_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87771_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87771_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "19/108",
+      "Rarity": "Rare",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "Safeguard - Prevent all effects of attacks, including damage, done to Ninetales by your opponent's Pokemon-ex.  (Poke-BODY)",
+      "Attack 1": "[2] Quick Attack (20+) Flip a coin.  If heads, this attack does 20 damage plus 20 more damage.",
+      "Attack 2": "[2R] Will-o'-the-wisp (50)",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "code": "19/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64022,
+    "name": "Nuzleaf",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87824_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87824_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87824_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "36/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Darkness",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Fake Out (10) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[2D] Gentle Slap (40)",
+      "Weakness": "F",
+      "Resistance": "P",
+      "RetreatCost": "1",
+      "code": "36/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64023,
+    "name": "Omanyte",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87859_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87859_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87859_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "56/108",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[W] Influence - Search your deck for Omanyte, Kabuto, Aerodactyl, Lileep, or Anorith and put 2 of them onto your Bench.  Shuffle you deck afterward.  Treat the new Benched Pokemon as Basic Pokemon.",
+      "Attack 2": "[2] Mud Shot (20)",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "code": "56/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64024,
+    "name": "Omastar",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87869_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87869_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87869_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "20/108",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "110",
+      "Stage": "Stage 2",
+      "Attack 1": "[1] Pull Down - If your opponent has any Evolved Pokemon in play, remove the highest Stage Evolution card from each of them and put those cards back into his or her hand.",
+      "Attack 2": "[2] Hydrocannon (30+) Does 30 damage plus 20 more damage for each W Energy attached to Omastar but not used to pay for this attack's Energy cost.  You can't add more than 40 damage in this way.",
+      "Weakness": "L",
+      "RetreatCost": "2",
+      "code": "20/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64025,
+    "name": "Phoebe's Stadium",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88010_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88010_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88010_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "79/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "HP": "0",
+      "Stage": "Stadium",
+      "CardText": "This card stays in play when you play it.  Discard this card if another Stadium card comes into play.  If another card with the same name is in play, you can't play this card.",
+      "Attack 1": "Each player pays 2 less to retreat his or her P Pokemon.",
+      "code": "79/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64026,
+    "name": "Pichu",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88017_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88017_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88017_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "21/108",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "CardText": "Baby Evolution - Once during your turn (before your attack), you may put Pikachu from your hand onto Pichu (this counts as evolving Pichu) and remove all damage counters from Pichu.  (Poke-POWER)",
+      "Attack 1": "[L] Cry for Help - Search your deck for a L Pokemon (excluding Pokemon-ex), show it to your opponent, and put it into your hand.  Shuffle your deck afterward.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "code": "21/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64027,
+    "name": "Pikachu",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88084_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88084_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88084_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "57/108",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[L] Charge - Search your discard pile for a L Energy card and attach it to Pikachu.",
+      "Attack 2": "[2] Slam (20x) Flip 2 coins.  This attack does 20 damage times the number of heads.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "code": "57/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64028,
+    "name": "Poochyena",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88299_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88299_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88299_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "58/108",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[D] Double Kick (10x) Flip 2 coins.  This attack does 10 times the number of heads.",
+      "Weakness": "F",
+      "Resistance": "P",
+      "RetreatCost": "1",
+      "code": "58/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64029,
+    "name": "Professor Birch",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88383_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88383_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88383_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "80/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "HP": "0",
+      "Stage": "Supporter",
+      "CardText": "You can play only one Supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.",
+      "Attack 1": "Draw cards from your deck until you have 6 cards in your hand.",
+      "code": "80/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64030,
+    "name": "Psychic Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88422_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88422_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88422_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "107/108",
+      "Rarity": "Rare",
+      "Card Type": "Energy",
+      "HP": "0",
+      "Stage": "Energy",
+      "code": "107/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64031,
+    "name": "Raichu",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88509_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88509_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88509_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "12/108",
+      "Rarity": "Holo Rare",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Plasma (10) Search your discard pile for a L Energy card and attach it to Raichu.",
+      "Attack 2": "[1LL] Thunderbolt (100) Discard all Energy cards attached to Raichu.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "code": "12/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64032,
+    "name": "Ralts",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88560_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88560_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88560_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "59/108",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Slap (10)",
+      "Attack 2": "[1P] Teleportation Burst (20) Switch Ralts with 1 of your Benched Pokemon.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "59/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64033,
+    "name": "Root Fossil",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88813_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88813_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88813_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "86/108",
+      "Rarity": "Common",
+      "Card Type": "Trainer",
+      "HP": "40",
+      "Stage": "Trainer",
+      "CardText": "Play Root Fossil as if it were a Basic Pokemon.  While in play, Root Fossil counts as a C Pokemon (as well as a Trainer card).  Root Fossil has no attacks of its own, can't retreat, and can't be affected by any Special Conditions.  If Root Fossil is Knocked Out, it doesn't count as a Knocked Out Pokemon.  (Discard it anyway.) At any time during your turn before your attack, you may discard Root Fossil from play.\r\n\r\nSpongy Stone - At any time between turns, remove 1 damage counter from Root Fossil (Poke-BODY)",
+      "code": "86/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64034,
+    "name": "Sableye",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88851_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88851_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88851_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "22/108",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "Synergy Effect - If Phoebe's Stadium is in play, prevent all damage done to Sableye by attacks from your opponent's Pokemon-ex.  (Poke-BODY)",
+      "Attack 1": "[1] Down Draw - Draw 2 cards from the bottom of your deck.",
+      "Attack 2": "[1P] Feint Attack - Choose 1 of your opponent's Pokemon.  This attack does 20 damage to that Pokemon.  This attack's damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies, or any other effects on that Pokemon.",
+      "Resistance": "C",
+      "RetreatCost": "1",
+      "code": "22/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64035,
+    "name": "Salamence ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88904_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88904_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88904_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "96/108",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Colorless",
+      "HP": "160",
+      "Stage": "Stage 2",
+      "Attack 1": "[2RR] Volcanic Flame (150) Discard the top 5 cards from your deck.",
+      "Attack 2": "[2WW] Hydro Wave - Discard all W Energy attached to Salamence ex.  This attack does 30 damage to each of your opponent's Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "C",
+      "Resistance": "FR",
+      "RetreatCost": "2",
+      "code": "96/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64036,
+    "name": "Scott",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88976_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88976_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88976_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "81/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "HP": "0",
+      "Stage": "Supporter",
+      "CardText": "You can play only one Supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.",
+      "Attack 1": "Search your deck for up to 3 cards in any combination of Supporter cards and Stadium cards, show them to your opponent, and put them into your hand.  Shuffle your deck afterward.",
+      "code": "81/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64037,
+    "name": "Sealeo",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89031_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89031_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89031_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "37/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1W] Ice Beam (20) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "code": "37/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64038,
+    "name": "Seedot",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89042_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89042_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89042_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "60/108",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Nap - Remove 2 damage counters from Seedot.",
+      "Attack 2": "[1G] Double Spin (20x) Flip 2 coins.  This attack does 20 damage times the number of heads.",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "code": "60/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64039,
+    "name": "Seviper",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89085_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89085_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89085_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "23/108",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[G] Sharp Fang (10)",
+      "Attack 2": "[2G] Toxic - The Defending Pokemon is now Poisoned.  Put 2 damage counters instead of 1 on the Defending Pokemon between turns.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "23/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64040,
+    "name": "Sharpedo",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89098_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89098_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89098_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "38/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Darkness",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1D] Tight Jaw (20) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[2D] Darkness Charge (50) Put 1 damage counter on Sharpedo.",
+      "Weakness": "G",
+      "Resistance": "P",
+      "RetreatCost": "0",
+      "code": "38/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64041,
+    "name": "Shelgon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89126_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89126_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89126_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "39/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1R] Rage (10+) Does 10 damage plus 10 more damage for each damage counter on Shelgon.",
+      "Attack 2": "[2W] Rolling Tackle (40)",
+      "Weakness": "C",
+      "Resistance": "FR",
+      "RetreatCost": "2",
+      "code": "39/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64042,
+    "name": "Shiftry ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89161_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89161_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89161_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "97/108",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Darkness",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[D] Skill Hack - Look at your opponent's hand and choose a Basic Pokemon or Evolution card you find there.  Choose 1 of that Pokemon's attacks.  Skill Hack copies that attack except for its Energy cost.  (You must still do anything else required for that attack.)  (No matter what type that Pokemon is, Shiftry ex's type is still D.)  Shiftry ex performs that attack.",
+      "Attack 2": "[2D] Dirge (60) Does 60 damage to each of your opponent's Benched Pokemon that has the same name as the Defending Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "FG",
+      "Resistance": "P",
+      "RetreatCost": "1",
+      "code": "97/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64043,
+    "name": "Shuppet",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89199_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89199_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89199_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "61/108",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[P] Bad Dream (10) Flip a coin.  If heads, the Defending Pokemon is now Asleep.  If tails, the Defending Pokemon is now Confused.",
+      "Weakness": "D",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "61/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64044,
+    "name": "Sidney's Stadium",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89203_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89203_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89203_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "82/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "HP": "0",
+      "Stage": "Stadium",
+      "CardText": "This card stays in play when you play it.  Discard this card if another Stadium card comes into play.  If another card with the same name is in play, you can't play this card.",
+      "Attack 1": "Each player's D Pokemon can't be Asleep, Confused, or Paralyzed.",
+      "code": "82/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64045,
+    "name": "Skarmory ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89247_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89247_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89247_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "98/108",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Metal",
+      "HP": "100",
+      "Stage": "Basic",
+      "CardText": "Metal Gravity - If your opponent's Active Pokemon retreats and has 40 or more remaining HP, put 3 damage counters on that Pokemon.  You can't use more than 1 Metal Gravity Poke-Body each turn.  (Poke-BODY)",
+      "Attack 1": "[2] Whirlwind (30) Your opponent switches the Defending Pokemon with 1 of his or her Benched Pokemon.",
+      "Attack 2": "[1MM] Razor Wing (60)",
+      "Weakness": "R",
+      "Resistance": "G",
+      "RetreatCost": "1",
+      "code": "98/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64046,
+    "name": "Skitty",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89266_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89266_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89266_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "62/108",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Tail Whip - Flip a coin.  If heads, the Defending Pokemon can't attack during your opponent's next turn.",
+      "Attack 2": "[2] Tackle (20)",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "code": "62/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64047,
+    "name": "Slaking",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89290_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89290_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89290_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "13/108",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "CardText": "Lazy - As long as Slaking is your Active Pokemon, your opponent's Pokemon can't use Poke-Powers.  (Poke-BODY)",
+      "Attack 1": "[4] Critical Move (100) Discard a Basic Energy card attached to Slaking or this attack does nothing.  Slaking can't attack during your next turn.",
+      "Weakness": "F",
+      "RetreatCost": "3",
+      "code": "13/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64048,
+    "name": "Slakoth",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89297_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89297_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89297_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "63/108",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Amnesia - Choose 1 of the Defending Pokemon's attacks.  That Pokemon can't use that attack during your opponent's next turn.",
+      "Attack 2": "[1] Scratch (10)",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "code": "63/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64049,
+    "name": "Snorunt",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89401_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89401_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89401_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "64/108",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Pebble Throw - Choose 1 of your opponent's Benched Pokemon.  This attack does 10 damage to that Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Attack 2": "[1W] Double Headbutt (20x) Flip 2 coins.  This attack does 20 damage times the number of heads.",
+      "Weakness": "M",
+      "RetreatCost": "1",
+      "code": "64/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64050,
+    "name": "Spheal",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89447_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89447_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89447_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "65/108",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Defense Curl - Flip a coin.  If heads, prevent all damage done to Spheal during your opponent's next turn.",
+      "Attack 2": "[1W] Aurora Beam (20)",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "code": "65/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64051,
+    "name": "Steven's Advice",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89568_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89568_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89568_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "83/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "HP": "0",
+      "Stage": "Supporter",
+      "CardText": "You can play only one Supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.",
+      "Attack 1": "Draw a number of cards up to the number of your opponent's Pokemon in play.  If you have 7 or more cards (including this one) in your hand, you can't play this card.",
+      "code": "83/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64052,
+    "name": "Swablu",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89656_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89656_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89656_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "66/108",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Fury Attack (10x) Flip 3 coins.  This attack does 10 times the number of heads.",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "66/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64053,
+    "name": "Torchic",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89959_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89959_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89959_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "67/108",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[R] Super Singe (10) Flip a coin.  If heads, the Defending Pokemon is now Burned.",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "code": "67/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64054,
+    "name": "Trapinch",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90022_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90022_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90022_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "68/108",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Surprise Attack (20) Flip a coin.  If tails, this attack does nothing.",
+      "Weakness": "G",
+      "RetreatCost": "1",
+      "code": "68/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64055,
+    "name": "Vaporeon Star",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90292_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90292_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90292_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "102/108",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Blue Ray \r\n<br>Once during your turn, when you put Vaporeon Star from your hand onto your Bench, you may remove all Special conditions and 3 damage counters from each Active Pokemon (both yours and your opponent's).",
+      "Attack 1": "[1WW] Whirlpool (40) \r\n<br>Flip a coin.  If heads, discard an Energy card attached to the Defending Pokemon.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "102/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64056,
+    "name": "Vibrava",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90336_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90336_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90336_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "40/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Ram (20)",
+      "Attack 2": "[1GL] Dragonbreath (60) Flip a coin.  If tails, this attack does nothing.  If heads, the Defending Pokemon is Paralyzed.",
+      "Weakness": "C",
+      "Resistance": "FL",
+      "RetreatCost": "1",
+      "code": "40/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64057,
+    "name": "Vigoroth",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90369_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90369_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90369_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "41/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "Strikes Back - If Vigoroth is your Active Pokemon and is damage by an opponent's attack (even if Vigoroth is Knocked Out), put 1 damage counter on the Attacking Pokemon.  (Poke-BODY)",
+      "Attack 1": "[2] Ambush (20+) Flip a coin.  If heads, this attack does 20 damage plus 20 more damage.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "code": "41/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64058,
+    "name": "Vulpix",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90440_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90440_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90440_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "69/108",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Confuse Ray - Flip a coin.  If heads, the Defending Pokemon is now Confused.",
+      "Attack 2": "[1R] Ember (30) Discard a R Energy attached to Vulpix.",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "code": "69/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64059,
+    "name": "Walrein ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90471_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90471_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90471_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "99/108",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Water",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "CardText": "Chilling Breath - Once during your turn, when you play Walrein ex from your hand to evolve 1 of your Pokemon, you may use this power.  Your opponent can't play any Trainer cards from his or her hand during your opponent's next turn.  (Poke-POWER)",
+      "Attack 1": "[1WW] Wreck (70+) If there is any Stadium in play, this attack does 70 damage plus 20 more damage.  Discard that Stadium card.",
+      "Weakness": "L",
+      "RetreatCost": "3",
+      "code": "99/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64060,
+    "name": "Warp Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90474_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90474_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90474_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "91/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Energy",
+      "HP": "0",
+      "Stage": "Special Energy",
+      "Attack 1": "Warp Energy provides C Energy.  When you attach this card from your hand to your Active Pokemon, switch that Pokemon with 1 of your Benched Pokemon.",
+      "code": "91/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64061,
+    "name": "Water Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90509_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90509_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90509_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "105/108",
+      "Rarity": "Rare",
+      "Card Type": "Energy",
+      "HP": "0",
+      "Stage": "Energy",
+      "code": "105/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64062,
+    "name": "Wobbuffet",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90619_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90619_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90619_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "24/108",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Basic",
+      "CardText": "Safeguard - Prevent all effects of attacks, including damage, done to Wobbuffet by your opponent's Pokemon-ex.  (Poke-BODY)",
+      "Attack 1": "[2P] Flip Over (50) Wobbuffet does 10 damage to itself, and don't apply Weakness and Resistance to this damage.",
+      "Weakness": "P",
+      "RetreatCost": "2",
+      "code": "24/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64063,
+    "name": "Wynaut",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90656_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90656_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90656_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "70/108",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "CardText": "Baby Evolution - Once during your turn (before your attack), you may put Wobbuffet from your hand onto Wynaut (this counts as evolving Wynaut) and remove all damage counters from Wynaut.  (Poke-POWER)",
+      "Attack 1": "[1] Flail (10x) Does 10 times the number of damage counters on Wynaut.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "70/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-power-keepers",
+    "id": 64064,
+    "name": "Zangoose",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90705_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90705_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90705_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "25/108",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "Thick Skin - Zangoose can't be affected by any Special Conditions.  (Poke-BODY)",
+      "Attack 1": "[1] Call for Family - Search your deck for up to 2 Basic Pokemon and put them onto your Bench.  Shuffle your deck afterward.",
+      "Attack 2": "[2] Sharp Claws (10+) Flip a coin.  If heads, this attack does 10 damage plus 20 more damage.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "code": "25/108"
+    }
+  }
+]

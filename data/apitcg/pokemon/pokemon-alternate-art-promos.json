@@ -1,0 +1,1285 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54882,
+    "name": "Aegislash EX - 65a/119",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/148340_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/148340_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/148340_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "065a/119",
+      "Rarity": "Promo",
+      "Card Type": "Metal",
+      "HP": "170",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Mighty Shield</strong>\r\n<br>\r\nPrevent all damage done to this Pokémon by attacks from each of your opponent's Pokémon that has Special Energy attached to it.",
+      "Attack 1": "[3] Slash Blast (40+)\r\n<br>\r\nThis attack does 20 more damage for each Metal Energy attached to this Pokemon.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "3",
+      "Artist": "Ryo Ueda",
+      "code": "065a/119"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54909,
+    "name": "Alolan Exeggutor - 2a/131",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/180514_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/180514_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/180514_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "002a/131",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "160",
+      "Stage": "Stage 1",
+      "Attack 1": "[G] Tropical Shake (20+)\r\n<br>This attack does 20 more damage for each type of basic Energy card in your discard pile. You can't add more than 100 damage in this way.",
+      "Weakness": "Rx2",
+      "RetreatCost": "3",
+      "Artist": "kawayoo",
+      "code": "002a/131"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54915,
+    "name": "Alolan Sandshrew - 19a/145",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/197853_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/197853_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/197853_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "019a/145",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[0] Defense Curl\r\n<br>Flip a coin. If heads, prevent all damage done to this Pokémon by attacks during your opponent's next turn.",
+      "Attack 2": "[2W] Ice Ball (30)",
+      "Weakness": "Mx2",
+      "RetreatCost": "1",
+      "Artist": "Hideki Ishikawa",
+      "code": "019a/145"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54902,
+    "name": "Alolan Vulpix - 21a/145",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/174488_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/174488_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/174488_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "021a/145",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[0] Beacon\r\n<br>Search your deck for up to 2 Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "Attack 2": "[2] Icy Snow (20)",
+      "Weakness": "Mx2",
+      "RetreatCost": "1",
+      "Artist": "kirisAki",
+      "code": "021a/145"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54910,
+    "name": "Altaria - 40a/70",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/184219_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/184219_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/184219_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "040a/070",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Ability — Fight Song</strong>\r\n<br>Your Dragon Pokémon's attacks do 20 more damage to your opponent’s Active Pokémon </em>(before applying Weakness and Resistance)</em>.",
+      "Attack 1": "[2] Pierce (20)",
+      "Weakness": "Yx2",
+      "RetreatCost": "1",
+      "Artist": "Shin Nagasawa",
+      "code": "040a/070"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54881,
+    "name": "Blacksmith - 88a/106",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/148339_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/148339_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/148339_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "088a/106",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Attach 2 Fire Energy cards from your discard pile to 1 of your Fire Pokémon.\r\n<br><br>\r\nYou may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Masakazu Fukuda",
+      "code": "088a/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54912,
+    "name": "Charmander - 18a/147",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/186106_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/186106_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/186106_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "018a/147",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Scratch (10)",
+      "Attack 2": "[1R] Flame Tail (20)",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "Artist": "Masakazu Fukuda",
+      "code": "018a/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54898,
+    "name": "Darkrai GX - 88a/147",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/162041_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/162041_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/162041_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "088a/147",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "180",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Restoration</strong>\r\n<br> Once during your turn <em>(before your attack)</em>, if this Pokémon is in your discard pile, you may put it onto your Bench. Then, attach a Darkness Energy card from your discard pile to this Pokémon.\r\n<br><br>\r\n<em>Pokémon-GX rule — When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.</em>",
+      "Attack 1": "[1DD] Dark Cleave (130)\r\n<br>This attack's damage isn't affected by Resistance.",
+      "Attack 2": "<span style=\"color:Teal\"><strong>[1DD] Dead End GX</strong>\r\n<br>If your opponent's Active Pokémon is affected by a Special Condition, that Pokémon is Knocked Out. <em>(You can't use more than 1 GX attack in a game.)</em></span>",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "Artist": "PLANETA",
+      "code": "088a/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54923,
+    "name": "Dedenne GX - 195a/214",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/216699_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/216699_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/216699_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "195a/214",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "160",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Dedechange</strong>\r\n<br>When you play this Pokémon from your hand onto your Bench during your turn, you may discard your hand and draw 6 cards. You can't use more than 1 Dedechange Ability each turn.",
+      "Attack 1": "[1L] Static Shock (50)",
+      "Attack 2": "<span style=\"color:Teal\"><strong>[1L] Tingly Return GX (50)</strong>\r\n<br>Your opponent's Active Pokémon is now Paralyzed. Put this Pokémon and all cards attached to it into your hand. <em>(You can't use more than 1 GX attack in a game.)</em></span>",
+      "Weakness": "Fx2",
+      "Resistance": "M-20",
+      "RetreatCost": "1",
+      "Artist": "kanahei",
+      "code": "195a/214"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54905,
+    "name": "Delinquent - 98a/122",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/177167_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/177167_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/177167_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "098a/122",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Discard any Stadium card in play. If you do, your opponent discards 3 cards from his or her hand.\r\n<br><br>\r\nYou may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Megumi Mizutani",
+      "code": "098a/122"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54883,
+    "name": "Delinquent - 98b/122 (Full Art)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/148341_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/148341_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/148341_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "098b/122",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Discard any Stadium card in play. If you do, your opponent discards 3 cards from his or her hand.\r\n<br><br>\r\nYou may play only 1 Supporter card during your turn <em>(before your attack)</em>",
+      "Artist": "Sanosuke Sakuma",
+      "code": "098b/122"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54908,
+    "name": "Eevee - 101a/149",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/179380_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/179380_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/179380_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "101a/149",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Energy Evolution</strong>\r\n<br>When you attach a basic Energy card from your hand to this Pokémon during your turn, you may search your deck for a card that evolves from this Pokémon that is the same type as that Energy card and put it onto this Pokémon to evolve it. Then, shuffle your deck.",
+      "Attack 1": "[1] Quick Draw\r\n<br>Flip a coin. If heads, draw a card.",
+      "Weakness": "Fx2",
+      "RetreatCost": "2",
+      "Artist": "Saya Tsuruta",
+      "code": "101a/149"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54899,
+    "name": "Entei GX - 10a/73",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/164234_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/164234_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/164234_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "010a/073",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "180",
+      "Stage": "Basic",
+      "Attack 1": "[1R] Combustion (50)",
+      "Attack 2": "[1RR] Fire Fang (100)\r\n<br>Your opponent's Active Pokémon is now Burned.",
+      "Attack 3": "<span style=\"color:Teal\"><strong>[1RR] Brave Burn GX</strong>\r\n<br>This attack does 150 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)</em></span>",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "Artist": "5ban Graphics",
+      "code": "010a/073"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54914,
+    "name": "Garbodor - 51a/145 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/191907_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/191907_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/191907_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "051a/145",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "Attack 1": "[P] Trashalance (20x)\r\n<br>This attack does 20 damage for each Item card in your opponent's discard pile.",
+      "Attack 2": "[2P] Acid Spray (70)\r\n<br>Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.",
+      "Weakness": "Px2",
+      "RetreatCost": "3",
+      "Artist": "nagimiso",
+      "code": "051a/145"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54896,
+    "name": "Guzzlord GX - 63a/111",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/155599_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/155599_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/155599_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "063a/111",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "210",
+      "Stage": "Basic",
+      "CardText": "<em>Pokémon-GX rule — When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.</em>",
+      "Attack 1": "[D] Eat Sloppily\r\n<br>Discard the top 5 cards of your deck. If any of those cards are Energy cards, attach them to this Pokémon.",
+      "Attack 2": "[2DDD] Tyrannical Hole (180)",
+      "Attack 3": "<span style=\"color:DarkRed\"><strong>[DDDDD] Glutton GX (100)</strong>\r\n<br>If your opponent's Pokémon is Knocked Out by damage from this attack, take 2 more Prize cards.\r\n<em> (You can't use more than 1 GX attack in a game.)</em></span>",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "4",
+      "Artist": "5ban Graphics",
+      "code": "063a/111"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54922,
+    "name": "Heatran - 88/156 (Prerelease)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/212993_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/212993_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/212993_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "088/156",
+      "Rarity": "Promo",
+      "Card Type": "Metal",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[1M] Guard Press (30)\r\n<br>\r\nDuring your opponent's next turn, this Pokémon takes 30 less damage from attacks <em>(after applying Weakness and Resistance)</em>.",
+      "Attack 2": "[1MM] Boiling Impact (130)\r\n<br>\r\nDiscard 2 Energy from this Pokémon.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "3",
+      "Artist": "tetsuya koizumi",
+      "code": "088/156"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54884,
+    "name": "Hex Maniac - 75a/98",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/148342_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/148342_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/148342_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "075a/098",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Until the end of your opponent's next turn, each Pokémon in play, in each player's hand, and in each player's discard pile has no Abilities. (This includes cards that come into play on that turn.)\r\n<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "You Iribi",
+      "code": "075a/098"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54885,
+    "name": "Jirachi - XY67a",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/148343_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/148343_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/148343_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "XY67a",
+      "Rarity": "Promo",
+      "Card Type": "Metal",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Stardust (10)\r\n<br>Discard a Special Energy attached to your opponent's Active Pokémon. If you do, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn.",
+      "Attack 2": "[1M] Dream Dance (20)\r\n<br>Both Active Pokémon are now Asleep.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "Artist": "Naoki Saito",
+      "code": "XY67a"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54928,
+    "name": "Jirachi GX - 79a/236",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/226132_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/226132_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/226132_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "079a/236",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "160",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Psychic Zone</strong>\r\n<br>Don't apply Psychic Weakness when Pokémon <em>(both yours and your opponent's)</em> take damage from attacks.\r\n<br><br>\r\n<em>Pokémon-GX rule — When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.</em>",
+      "Attack 1": "[P] Star Search\r\n<br>Search your deck for an Energy card and attach it to 1 of your Psychic Pokémon. Then, shuffle your deck.",
+      "Attack 2": "<span style=\"color:Teal\"><strong>[PPP] Star Shield GX (100)</strong>\r\n<br>Prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn. <em>(You can't use more than 1 GX attack in a game.)</em></span>",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "Artist": "5ban Graphics",
+      "code": "079a/236"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54874,
+    "name": "Jolteon EX - 28a/83",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/131697_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/131697_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/131697_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "028a/083",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "160",
+      "Stage": "Basic",
+      "CardText": "<em>Pokémon-EX rule — When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.</em>",
+      "Attack 1": "[L] Swift (30)\r\n<br>This attack's damage isn't affected by Weakness, Resistance, or any other effects on your opponent's Active Pokémon.",
+      "Attack 2": "[2L] Flash Ray (70)\r\n<br>During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon.",
+      "Weakness": "Fx2",
+      "Resistance": "M-20",
+      "Artist": "Ryo Ueda",
+      "code": "028a/083"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54886,
+    "name": "Karen - XY177a",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/148344_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/148344_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/148344_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "XY177a",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Each player shuffles all Pokémon in his or her discard pile into his or her deck.\r\n<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Hitoshi Ariga",
+      "code": "XY177a"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54900,
+    "name": "Kirlia - 92a/147",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/171033_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/171033_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/171033_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "092a/147",
+      "Rarity": "Promo",
+      "Card Type": "Fairy",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Smack (20)",
+      "Attack 2": "[1Y] Magical Shot (30)",
+      "Weakness": "Mx2",
+      "Resistance": "D-20",
+      "RetreatCost": "1",
+      "Artist": "Anesaki Dynamic",
+      "code": "092a/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54887,
+    "name": "M Camerupt EX - XY198a",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/148345_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/148345_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/148345_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "XY198a",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "230",
+      "Stage": "Mega Evolution",
+      "CardText": "<em>Mega Evolution rule — When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.</em>\r\n<br><br>\r\n<em>Pokémon-EX rule — When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.</em>",
+      "Attack 1": "[2RR] Magma Eruption (120+)\r\n<br>You may discard the top 3 cards of each player's deck. If you do, this attack does 40 more damage for each Energy card you discarded this way.",
+      "Weakness": "Wx2",
+      "RetreatCost": "4",
+      "Artist": "5ban Graphics",
+      "code": "XY198a"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54872,
+    "name": "M Lucario EX - 55a/111",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/131695_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/131695_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/131695_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "055a/111",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "220",
+      "Stage": "Mega",
+      "CardText": "<em>Mega Evolution rule — When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.</em>\r\n<br><br>\r\n<em>Pokémon-EX rule — When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.</em>",
+      "Attack 1": "[FFF] Rising Fist (140)\r\n<br>Discard an Energy attached to your opponent's Active Pokémon.",
+      "Weakness": "Px2",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "055a/111"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54873,
+    "name": "M Manectric EX - 24a/119",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/131696_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/131696_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/131696_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "024a/119",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "210",
+      "Stage": "Mega",
+      "CardText": "<em>Mega Evolution rule — When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.</em>\r\n<br>\r\n<em>Pokémon-EX rule — When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.</em>",
+      "Attack 1": "[1L] Turbo Bolt (110)\r\nAttach 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon.",
+      "Weakness": "Fx2",
+      "Resistance": "M-20",
+      "Artist": "5ban Graphics",
+      "code": "024a/119"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54888,
+    "name": "M Sharpedo EX - XY200a",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/148346_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/148346_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/148346_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "XY200a",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "210",
+      "Stage": "Mega Evolution",
+      "CardText": "<em>Mega Evolution rule — When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.</em>\r\n<br><br>\r\n<em>Pokémon-EX rule — When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.</em>",
+      "Attack 1": "[1DD] Torpedo Strike (120)\r\n<br>This attack does 10 damage to each of your opponent's Benched Pokémon for each Colorless in that Pokémon's Retreat Cost. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Weakness": "Lx2",
+      "Artist": "5ban Graphics",
+      "code": "XY200a"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54917,
+    "name": "Metagross GX - 157a/145",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/198530_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/198530_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/198530_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "157a/145",
+      "Rarity": "Promo",
+      "Card Type": "Metal",
+      "HP": "250",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Geotech System</strong>\r\n<br>Once during your turn <em>(before your attack)</em>, you may attach a Psychic or Metal Energy card from your discard pile to your Active Pokémon.\r\n<br><br>\r\n<em>Pokémon-GX rule — When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.</em>",
+      "Attack 1": "[1MM] Giga Hammer (150)\r\n<br>This Pokémon can't use Giga Hammer during your next turn.",
+      "Attack 2": "<span style=\"color:Teal\"><strong>[1] Algorithm GX</strong>\r\n<br>Search your deck for up to 5 cards and put them into your hand. Then, shuffle your deck. <em>(You can't use more than 1 GX attack in a game.)</em></span>",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "3",
+      "Artist": "5ban Graphics",
+      "code": "157a/145"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54889,
+    "name": "N (Supporter) - 105a/124",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/148347_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/148347_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/148347_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "105a/124",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Each player shuffles his or her hand into his or her deck. Then, each player draws a card for each of his or her remaining Prize cards.\r\n<br><br>\r\nYou may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Megumi Mizutani",
+      "code": "105a/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54921,
+    "name": "Oshawott - 27/114 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/211603_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/211603_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/211603_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "027/114",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[W] Tackle (10)",
+      "Attack 2": "[1W] Water Gun (20)",
+      "Weakness": "L x2",
+      "RetreatCost": "1",
+      "Artist": "Masakazu Fukuda",
+      "code": "027/114"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54925,
+    "name": "Pokegear 3.0 - 182b/214",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/216705_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/216705_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/216705_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "182b/214",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Look at the top 7 cards of your deck. You may reveal a Supporter card you find there and put it into your hand. Shuffle the other cards back into your deck.\r\n<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "OOYAMA",
+      "code": "182b/214"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54924,
+    "name": "Pokemon Communication - 152b/181",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/216702_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/216702_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/216702_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "152b/181",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Reveal a Pokémon from your hand and put it into your deck. if you do, search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.\r\n<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "OOYAMA",
+      "code": "152b/181"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54897,
+    "name": "Porygon-Z - 105a/147",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/161362_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/161362_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/161362_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "105a/147",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "130",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Initialize</strong>\r\n<br>When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may devolve each of your opponent's evolved Pokémon by putting the highest Stage Evolution card on it into your opponent's hand.",
+      "Attack 1": "[3] Zap Cannon (80)\r\n<br>This Pokémon can't use Zap Cannon during your next turn.",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "Shin Nagasawa",
+      "code": "105a/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54876,
+    "name": "Professor Sycamore - 107a/122 (Holofoil)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/133813_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/133813_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/133813_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "107a/122",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Discard your hand and draw 7 cards.\r\n<br><br>\r\nYou may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Naoki Saito",
+      "code": "107a/122"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54877,
+    "name": "Professor Sycamore - 107a/122 (Non-Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/133814_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/133814_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/133814_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "107a/122",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Discard your hand and draw 7 cards.\r\n<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Naoki Saito",
+      "code": "107a/122"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54904,
+    "name": "Professor's Letter - 146a/162",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/177166_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/177166_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/177166_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "146a/162",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Search your deck for up to 2 basic Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward.\r\n<br><br>\r\nYou may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "Yoshinobu Saito",
+      "code": "146a/162"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54920,
+    "name": "Rayquaza GX - 177a/168",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/202638_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/202638_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/202638_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "177a/168",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "180",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Stormy Winds</strong>\r\n<br>When you play this Pokemon from your hand onto your Bench during your turn, you may discard the top 3 cards of your deck. If you do, attach a basic Energy card from your discard pile to this Pokémon.\r\n<br><br>\r\n<em>Pokémon-GX rule — When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.</em>",
+      "Attack 1": "[1GL] Dragon Break (30x)\r\n<br>This attack does 30 damage times the amount of basic Grass and basic Lightning Energy attached to your Pokémon.",
+      "Attack 2": "<span style=\"color:Teal\"><strong>[G] Tempest GX</strong>\r\n<br>Discard your hand and draw 10 cards. <em>(You can't use more than 1 GX attack in a game.)</em></span>",
+      "Weakness": "Yx2",
+      "RetreatCost": "3",
+      "Artist": "5ban Graphics",
+      "code": "177a/168"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54911,
+    "name": "Regigigas - 84a/111",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/184331_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/184331_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/184331_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "084a/111",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "180",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Seal of Antiquity</strong>\r\n<br>This Pokémon can't attack unless Regirock, Regice, and Registeel are on your Bench.",
+      "Attack 1": "[5] Giant Stomp (160)\r\n<br>Discard any Stadium card in play.",
+      "Weakness": "Fx2",
+      "RetreatCost": "4",
+      "Artist": "Hasuno",
+      "code": "084a/111"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54890,
+    "name": "Regirock EX - 43a/124",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/148348_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/148348_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/148348_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "043a/124",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "180",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Regi Power</strong>\r\n<br>\r\nThe attacks of your Fighting Pokémon (excluding Regirock-EX) do 10 more damage to your opponent's Active Pokémon <em>(before applying Weakness and Resistance)</em>.\r\n<br><br>\r\n<em>Pokémon-EX rule — When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.</em>",
+      "Attack 1": "[FFF] Bedrock Press (100)\r\n<br>During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 <em>(after applying Weakness and Resistance.)</em>.",
+      "Weakness": "Gx2",
+      "RetreatCost": "3",
+      "Artist": "Ryo Ueda",
+      "code": "043a/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54926,
+    "name": "Reset Stamp - 206a/236",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/216707_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/216707_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/216707_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "206a/236",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Your opponent shuffles their hand into their deck and draws a card for each of their remaining Prize cards.\r\n<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "OOYAMA",
+      "code": "206a/236"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54913,
+    "name": "Sceptile - 10a/168",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/189786_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/189786_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/189786_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "010a/168",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Power of Nature</strong>\r\n<br>Prevent all damage done to your Pokémon that have any Grass Energy attached to them by attacks from your opponent's Ultra Beasts.",
+      "Attack 1": "[G] Powerful Storm (20x)\r\n<br>This attack does 20 damage times the amount of Energy attached to all of your Pokémon.",
+      "Weakness": "Rx2",
+      "RetreatCost": "1",
+      "Artist": "Hitoshi Ariga",
+      "code": "010a/168"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54891,
+    "name": "Shauna - 111a/124",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/148349_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/148349_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/148349_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "111a/124",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Shuffle your hand into your deck. Then, draw 5 cards.\r\n<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Naoki Saito",
+      "code": "111a/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54892,
+    "name": "Shaymin EX - 77a/108",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/148350_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/148350_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/148350_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "077a/108",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "110",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Set Up</strong>\r\nWhen you play this Pokémon from your hand onto your Bench, you may draw cards until you have 6 cards in your hand.\r\n<br><br>\r\n<em>Pokémon-EX rule — When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.</em>",
+      "Attack 1": "[2] Sky Return (30)\r\n<br>Return this Pokémon and all cards attached to it to your hand.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "Artist": "TOKIYA",
+      "code": "077a/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54919,
+    "name": "Sightseer - 189a/214",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/200204_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/200204_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/200204_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "189a/214",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "You may discard any number of cards from your hand. Then, draw cards until you have 5 cards in your hand. If you can't draw any cards this way, you can't play this card.\r\n<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Naoki Saito",
+      "code": "189a/214"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54895,
+    "name": "Slowking - 21/122 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/148388_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/148388_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/148388_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "021/122",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Ability — Royal Flash</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may flip a coin. If heads, move an Energy from your opponent's Active Pokémon to 1 of his or her Benched Pokémon.",
+      "Attack 1": "[1W] Psych Up (40)\r\n<br>During your next turn, this Pokémon's Psych Up attack does 40 more damage <em>(before applying Weakness and Resistance)</em>.",
+      "Weakness": "Gx2",
+      "RetreatCost": "2",
+      "Artist": "Aya Kusube",
+      "code": "021/122"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54903,
+    "name": "Sylveon GX - 92a/145",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/177113_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/177113_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/177113_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "092a/145",
+      "Rarity": "Promo",
+      "Card Type": "Fairy",
+      "HP": "200",
+      "Stage": "Stage 1",
+      "CardText": "<em>Pokémon-GX rule — When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.</em>",
+      "Attack 1": "[Y] Magical Ribbon\r\n<br>Search your deck for up to 3 cards and put them into your hand. Then shuffle your deck.",
+      "Attack 2": "[2Y] Fairy Wind (110)",
+      "Attack 3": "<span style=\"color:Teal\"><strong>[2Y] Plea GX</strong>\r\n<br>Put 2 of your opponent's Benched Pokémon and all cards attached to them into your opponent's hand. <em>(You can't use more than 1 GX attack in a game.)</em></span>",
+      "Weakness": "Mx2",
+      "Resistance": "D-20",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "092a/145"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54907,
+    "name": "Tapu Fini GX - 39a/147",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/179371_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/179371_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/179371_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "039a/147",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "170",
+      "Stage": "Basic",
+      "CardText": "<em>Pokémon-GX rule — When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.</em>",
+      "Attack 1": "[1] Aqua Ring (20)\r\n<br>You may switch this Pokémon with 1 of your Benched Pokémon.",
+      "Attack 2": "[1WW] Hydro Shot\r\n<br>Discard 2 Water Energy from this Pokémon. This attack does 120 damage to 1 of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Attack 3": "<span style=\"color:Teal\"><strong>[W] Tapu Storm GX</strong>\r\n<br>Shuffle your opponent's Active Pokémon and all cards attached to it into their deck. If your opponent has no Benched Pokémon, this attack does nothing. <em>(You can't use more than 1 GX attack in a game.)</em></span>",
+      "RetreatCost": "1",
+      "Artist": "5ban Graphics",
+      "code": "039a/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54901,
+    "name": "Tapu Koko - SM30a",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/173381_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/173381_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/173381_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "SM30a",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "110",
+      "Stage": "Basic",
+      "Attack 1": "[2] Flying Flip\r\n<br>This attack does 20 damage to each of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Attack 2": "[1LL] Electric Ball (100)",
+      "Weakness": "Fx2",
+      "Resistance": "M-20",
+      "Artist": "kirisAki",
+      "code": "SM30a"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54906,
+    "name": "Tapu Lele GX - 60a/145",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/179367_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/179367_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/179367_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "060a/145",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "170",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Wonder Tag</strong>\r\n<br>\r\nWhen you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck.\r\n<br><br>\r\n<em>Pokémon-GX rule — When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.</em>",
+      "Attack 1": "[2] Energy Drive (20x)\r\n<br>This attack does 20 damage times the amount of Energy attached to both Active Pokémon. This damage isn't affect by Weakness or Resistance.",
+      "Attack 2": "<span style=\"color:Teal\"><strong>[P] Tapu Cure GX</strong>\r\n<br>Heal all damage from 2 of your Benched Pokémon. <em>(You can't use more than 1 GX attack in a game.)</em></span>",
+      "RetreatCost": "1",
+      "Artist": "5ban Graphics",
+      "code": "060a/145"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54918,
+    "name": "Tate & Liza - 148a/168",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/200203_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/200203_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/200203_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "148a/168",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Choose one: \r\n<br>• Shuffle your hand into your deck, then draw 5 cards.\r\n<br>• Switch your Active Pokémon with 1 of your Benched Pokémon\r\n<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "You Iribi",
+      "code": "148a/168"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54893,
+    "name": "Team Flare Grunt - 73a/83",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/148351_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/148351_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/148351_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "073a/083",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Discard an Energy attached to your opponent's Active Pokémon.\r\n<br><br>\r\nYou may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Naoki Saito",
+      "code": "073a/083"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54927,
+    "name": "Togepi & Cleffa & Igglybuff GX - 143a/236",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/226129_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/226129_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/226129_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "143a/236",
+      "Rarity": "Promo",
+      "Card Type": "Fairy",
+      "HP": "240",
+      "Stage": "Basic",
+      "CardText": "<em>TAG TEAM rule — When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards.</em>",
+      "Attack 1": "[1YY] Rolling Panic (120+)\r\n<br>Flip a coin until you get tails. This attack does 30 more damage for each heads.",
+      "Attack 2": "<span style=\"color:Teal\"><strong>[YY+] Supreme Puff GX</strong>\r\n<br>Take another turn after this one. <em>(Skip the between-turns step.)</em> If this Pokémon has at least 14 extra Fairy Energy attached to it <em>(in addition to this attack’s cost)</em>, your opponent shuffles all of their Benched Pokémon and all cards attached to them into their deck.<em> (You can't use more than 1 GX attack in a game.)</em></span>",
+      "Weakness": "Mx2",
+      "Resistance": "D-20",
+      "RetreatCost": "2",
+      "Artist": "0313",
+      "code": "143a/236"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54879,
+    "name": "Trainers' Mail - 92a/108 (Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/133816_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/133816_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/133816_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "092a/108",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Look at the top 4 cards of your deck. You may reveal a Trainer card you find there (except for Trainers' Mail) and put it into your hand. Shuffle the other cards back into your deck.\r\n<br><br>\r\nYou may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "Toyste Beach",
+      "code": "092a/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54878,
+    "name": "Trainers' Mail - 92a/108 (Non-Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/133815_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/133815_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/133815_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "092a/108",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Look at the top 4 cards of your deck. You may reveal a Trainer card you find there (except for Trainers' Mail) and put it into your hand. Shuffle the other cards back into your deck.\r\n<br><br>\r\nYou may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "Toyste Beach",
+      "code": "092a/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54894,
+    "name": "Yveltal EX - XY150a",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/148352_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/148352_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/148352_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "XY150a",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "170",
+      "Stage": "Basic",
+      "CardText": "<em>Pokémon-EX rule — When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.</em>",
+      "Attack 1": "[1D] Evil Ball (20+)\r\n<br>This attack does 20 more damage times the amount of Energy attached to both Active Pokémon.",
+      "Attack 2": "[2D] Y Cyclone (90)\r\n<br>Move an Energy from this Pokémon to 1 of your Benched Pokémon.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "2",
+      "Artist": "Hasuno",
+      "code": "XY150a"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54916,
+    "name": "Zoroark GX - 77a/73",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/198529_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/198529_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/198529_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "077a/073",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "210",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Ability — Trade</strong>\r\n<br>Once during your turn <em>(before your attack)</em>, you may discard a card from your hand. If you do, draw 2 cards.\r\n<br><br>\r\n<em>Pokémon-GX rule — When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards.</em>",
+      "Attack 1": "[2] Riotous Beating (20x)\r\n<br>This attack does 20 damage for each of your Pokémon in play.",
+      "Attack 2": "<span style=\"color:Teal\"><strong>[DD] Trickster GX</strong>\r\n<br>Choose 1 of your opponent's Pokémon's attacks and use it as this attack. <em>(You can't use more than 1 GX attack in a game.)</em></span>",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "077a/073"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-alternate-art-promos",
+    "id": 54875,
+    "name": "Zygarde EX - 54a/124",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/131698_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/131698_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/131698_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "054a/124",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "190",
+      "Stage": "Basic",
+      "CardText": "<em>Pokémon-EX rule — When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards.</em>",
+      "Attack 1": "[F] Land's Pulse (20+)\r\n<br>If there is any Stadium card in play, this attack does 20 more damage.",
+      "Attack 2": "[1F] Cell Storm (60)\r\n<br>Heal 30 damage from this Pokémon.",
+      "Attack 3": "[1FF] Land's Wrath (100)",
+      "Weakness": "Gx2",
+      "RetreatCost": "3",
+      "Artist": "5ban Graphics",
+      "code": "054a/124"
+    }
+  }
+]

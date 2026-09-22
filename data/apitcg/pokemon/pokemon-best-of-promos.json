@@ -1,0 +1,361 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-best-of-promos",
+    "id": 66165,
+    "name": "Dark Ivysaur - 6",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84616_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84616_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84616_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "006/009",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-BODY — Vine Pull</strong>\r\n<br>\r\nOne during your turn when Dark Ivysaur retreats, choose 1 of your opponent's Benched Pokémon and switch it with his or her Active Pokémon.",
+      "Attack 1": "[GG] Fury Strikes \r\n<br>\r\nYour opponent puts 3 markers onto his or her Pokémon (divided as he or she chooses). <em>(More than 1 marker can be put on the same Pokémon.)</em> Then, this attack does 10 damage to each Pokémon for each marker on it. Don't apply Weakness and Resistance. Remove the markers at the end of the turn.",
+      "Weakness": "R",
+      "RetreatCost": "2",
+      "Artist": "Shin-ichi Yoshida",
+      "code": "006/009"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-best-of-promos",
+    "id": 66172,
+    "name": "Dark Ivysaur - 6 [Winner]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/107876_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/107876_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/107876_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "006/009",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-BODY — Vine Pull</strong>\r\n<br>\r\nOne during your turn when Dark Ivysaur retreats, choose 1 of your opponent's Benched Pokémon and switch it with his or her Active Pokémon.",
+      "Attack 1": "[GG] Fury Strikes \r\n<br>\r\nYour opponent puts 3 markers onto his or her Pokémon (divided as he or she chooses). <em>(More than 1 marker can be put on the same Pokémon.)</em> Then, this attack does 10 damage to each Pokémon for each marker on it. Don't apply Weakness and Resistance. Remove the markers at the end of the turn.",
+      "Weakness": "R",
+      "RetreatCost": "2",
+      "Artist": "Shin-ichi Yoshida",
+      "code": "006/009"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-best-of-promos",
+    "id": 66166,
+    "name": "Dark Venusaur - 7",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84666_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84666_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84666_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "007/009",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 2",
+      "Attack 1": "[GGG] Horrid Pollen (30) \r\n<br>\r\nFlip 2 coins. If 1 is heads, the Defending Pokémon is now Asleep and Poisoned. If both are heads, the Defending Pokémon is now Confused and Poisoned. If both are tails, the Defending Pokémon is now Paralyzed and Poisoned.",
+      "Weakness": "R",
+      "RetreatCost": "2",
+      "Artist": "Shin-ichi Yoshida",
+      "code": "007/009"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-best-of-promos",
+    "id": 66175,
+    "name": "Dark Venusaur - 7 [Winner]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/167077_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/167077_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/167077_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "007/009",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 2",
+      "Attack 1": "[GGG] Horrid Pollen (30) \r\n<br>\r\nFlip 2 coins. If 1 is heads, the Defending Pokémon is now Asleep and Poisoned. If both are heads, the Defending Pokémon is now Confused and Poisoned. If both are tails, the Defending Pokémon is now Paralyzed and Poisoned.",
+      "Weakness": "R",
+      "RetreatCost": "2",
+      "Artist": "Shin-ichi Yoshida",
+      "code": "007/009"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-best-of-promos",
+    "id": 66167,
+    "name": "Electabuzz - 1",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85106_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85106_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85106_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "001/009",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[L] Thundershock (10) \r\n<br>Flip a coin. If heads, defender is now Paralyzed.",
+      "Attack 2": "[1L] Thunderpunch (30+) \r\n<br>Flip a coin. If heads, this attack does 30 damage plus 10 more damage. If tails, this attack does 30 damage and Electabuzz does 10 damage to itself.",
+      "Weakness": "F",
+      "RetreatCost": "2",
+      "Artist": "Ken Sugimori",
+      "code": "001/009"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-best-of-promos",
+    "id": 66176,
+    "name": "Electabuzz - 1 [Winner]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/167078_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/167078_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/167078_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "001/009",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[L] Thundershock (10) \r\n<br>Flip a coin. If heads, defender is now Paralyzed.",
+      "Attack 2": "[1L] Thunderpunch (30+) \r\n<br>Flip a coin. If heads, this attack does 30 damage plus 10 more damage. If tails, this attack does 30 damage and Electabuzz does 10 damage to itself.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "Ken Sugimori",
+      "code": "001/009"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-best-of-promos",
+    "id": 66168,
+    "name": "Hitmonchan - 2",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86098_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86098_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86098_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "002/009",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[F] Jab (20)",
+      "Attack 2": "[1FF] Special Punch (40)",
+      "Weakness": "P",
+      "RetreatCost": "2",
+      "Artist": "Ken Sugimori",
+      "code": "002/009"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-best-of-promos",
+    "id": 66174,
+    "name": "Hitmonchan - 2 [Winner]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/117599_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/117599_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/117599_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "002/009",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[F] Jab (20)",
+      "Attack 2": "[1FF] Special Punch (40)",
+      "Weakness": "P",
+      "RetreatCost": "2",
+      "Artist": "Ken Sugimori",
+      "code": "002/009"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-best-of-promos",
+    "id": 66169,
+    "name": "Professor Elm - 3",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88387_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88387_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88387_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "003/009",
+      "Rarity": "Promo",
+      "Card Type": "Trainer",
+      "CardText": "Shuffle your hand into your deck. Then, draw 7 cards. You can't play any more Trainer cards this turn.",
+      "Artist": "Ken Sugimori",
+      "code": "003/009"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-best-of-promos",
+    "id": 66177,
+    "name": "Rocket's Hitmonchan - 9 [Winner]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/167079_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/167079_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/167079_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "009/009",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[F] Crosscounter \r\n<br>\r\nIf an attack does damage to Rocket's Hitmonchan during your opponent's next turn (even if Rocket's Hitmonchan is Knocked Out), flip a coin. If heads, Rocket's Hitmonchan attacks your opponent's Active Pokémon for double that amount of damage. <em>(If Rocket's Hitmonchan takes 20 damage, it does 40 damage to that Pokémon.)</em>",
+      "Attack 2": "[1FF] Magnum Punch (50)",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "009/009"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-best-of-promos",
+    "id": 66178,
+    "name": "Rocket's Mewtwo - 8 [Winner]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/167080_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/167080_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/167080_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "008/009",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[P] Juxtapose \r\n<br>Flip a coin. If heads, switch the number of damage counters on Rocket's Mewtwo with the number of damage counters on the Defending Pokémon <em>(even if it would Knock Out either Pokemon)</em>. <em>(It's okay if 1 of the Pokémon has no damage counters on it.)</em>",
+      "Attack 2": "[PP] Hypnoblast (20) \r\n<br>Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+      "Attack 3": "[1PPP] Psyburn (60)",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "008/009"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-best-of-promos",
+    "id": 66170,
+    "name": "Rocket's Scizor - 4",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88786_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88786_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88786_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "004/009",
+      "Rarity": "Promo",
+      "Card Type": "Metal",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Focus \r\n<br>During your next turn, Rocket's Scizor's Agility attack's damage is doubled.",
+      "Attack 2": "[2M] Agility (20) \r\n<br>Flip a coin. If heads, during your opponent's next turn, prevent all effects, including damage, done to Rocket's Scizor.",
+      "Weakness": "R",
+      "Resistance": "G",
+      "RetreatCost": "2",
+      "Artist": "K. Hoshiba",
+      "code": "004/009"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-best-of-promos",
+    "id": 66179,
+    "name": "Rocket's Scizor - 4 [Winner]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/167081_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/167081_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/167081_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "004/009",
+      "Rarity": "Promo",
+      "Card Type": "Metal",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Focus \r\n<br>During your next turn, Rocket's Scizor's Agility attack's damage is doubled.",
+      "Attack 2": "[2M] Agility (20) \r\n<br>Flip a coin. If heads, during your opponent's next turn, prevent all effects, including damage, done to Rocket's Scizor.",
+      "Weakness": "R",
+      "Resistance": "G",
+      "RetreatCost": "2",
+      "Artist": "K. Hoshiba",
+      "code": "004/009"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-best-of-promos",
+    "id": 66171,
+    "name": "Rocket's Sneasel - 5",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88793_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88793_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88793_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "005/009",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[D] Entrap \r\n<br>The Defending Pokémon can't retreat during your opponent's next turn.",
+      "Attack 2": "[2] Continuous Scratch (10x) \r\n<br>Flip 4 coins. This attack does 10 damage times the number of heads.",
+      "Weakness": "F",
+      "Resistance": "P",
+      "RetreatCost": "1",
+      "Artist": "Katsura Tabata",
+      "code": "005/009"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-best-of-promos",
+    "id": 66173,
+    "name": "Rocket's Sneasel - 5 [Winner]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/107877_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/107877_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/107877_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "005/009",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[D] Entrap \r\n<br>The Defending Pokémon can't retreat during your opponent's next turn.",
+      "Attack 2": "[2] Continuous Scratch (10x) \r\n<br>Flip 4 coins. This attack does 10 damage times the number of heads.",
+      "Weakness": "F",
+      "Resistance": "P",
+      "RetreatCost": "1",
+      "Artist": "Katsura Tabata",
+      "code": "005/009"
+    }
+  }
+]

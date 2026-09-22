@@ -1,0 +1,380 @@
+{
+  "decks": [
+    {
+      "source": "deckofcards",
+      "tcg": null,
+      "deck": "poker-standard",
+      "name": "Baraja estandar (52 + jokers)",
+      "count": 54,
+      "path": "data/deckofcards/standard-52.json"
+    },
+    {
+      "source": "pokeapi",
+      "tcg": null,
+      "deck": "pokemon",
+      "name": "Pokémon",
+      "count": 1351,
+      "path": "data/pokeapi/pokemon.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-alternate-art-promos",
+      "name": "pokemon-alternate-art-promos",
+      "count": 56,
+      "path": "data/apitcg/pokemon/pokemon-alternate-art-promos.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-aquapolis",
+      "name": "pokemon-aquapolis",
+      "count": 186,
+      "path": "data/apitcg/pokemon/pokemon-aquapolis.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-arceus",
+      "name": "pokemon-arceus",
+      "count": 111,
+      "path": "data/apitcg/pokemon/pokemon-arceus.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-base-set-2",
+      "name": "pokemon-base-set-2",
+      "count": 130,
+      "path": "data/apitcg/pokemon/pokemon-base-set-2.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-base-set-shadowless",
+      "name": "pokemon-base-set-shadowless",
+      "count": 102,
+      "path": "data/apitcg/pokemon/pokemon-base-set-shadowless.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-base-set",
+      "name": "pokemon-base-set",
+      "count": 102,
+      "path": "data/apitcg/pokemon/pokemon-base-set.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-battle-academy-2022",
+      "name": "pokemon-battle-academy-2022",
+      "count": 101,
+      "path": "data/apitcg/pokemon/pokemon-battle-academy-2022.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-battle-academy-2024",
+      "name": "pokemon-battle-academy-2024",
+      "count": 138,
+      "path": "data/apitcg/pokemon/pokemon-battle-academy-2024.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-battle-academy",
+      "name": "pokemon-battle-academy",
+      "count": 101,
+      "path": "data/apitcg/pokemon/pokemon-battle-academy.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-best-of-promos",
+      "name": "pokemon-best-of-promos",
+      "count": 15,
+      "path": "data/apitcg/pokemon/pokemon-best-of-promos.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-black-and-white-promos",
+      "name": "pokemon-black-and-white-promos",
+      "count": 148,
+      "path": "data/apitcg/pokemon/pokemon-black-and-white-promos.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-black-and-white",
+      "name": "pokemon-black-and-white",
+      "count": 115,
+      "path": "data/apitcg/pokemon/pokemon-black-and-white.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-blister-exclusives",
+      "name": "pokemon-blister-exclusives",
+      "count": 146,
+      "path": "data/apitcg/pokemon/pokemon-blister-exclusives.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-boundaries-crossed",
+      "name": "pokemon-boundaries-crossed",
+      "count": 153,
+      "path": "data/apitcg/pokemon/pokemon-boundaries-crossed.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-burger-king-promos",
+      "name": "pokemon-burger-king-promos",
+      "count": 24,
+      "path": "data/apitcg/pokemon/pokemon-burger-king-promos.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+      "name": "pokemon-bw-trainer-kit-excadrill-zoroark",
+      "count": 60,
+      "path": "data/apitcg/pokemon/pokemon-bw-trainer-kit-excadrill-zoroark.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-call-of-legends",
+      "name": "pokemon-call-of-legends",
+      "count": 106,
+      "path": "data/apitcg/pokemon/pokemon-call-of-legends.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-celebrations-classic-collection",
+      "name": "pokemon-celebrations-classic-collection",
+      "count": 25,
+      "path": "data/apitcg/pokemon/pokemon-celebrations-classic-collection.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-celebrations",
+      "name": "pokemon-celebrations",
+      "count": 26,
+      "path": "data/apitcg/pokemon/pokemon-celebrations.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-champions-path",
+      "name": "pokemon-champions-path",
+      "count": 80,
+      "path": "data/apitcg/pokemon/pokemon-champions-path.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-countdown-calendar-promos",
+      "name": "pokemon-countdown-calendar-promos",
+      "count": 24,
+      "path": "data/apitcg/pokemon/pokemon-countdown-calendar-promos.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-crystal-guardians",
+      "name": "pokemon-crystal-guardians",
+      "count": 101,
+      "path": "data/apitcg/pokemon/pokemon-crystal-guardians.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-dark-explorers",
+      "name": "pokemon-dark-explorers",
+      "count": 111,
+      "path": "data/apitcg/pokemon/pokemon-dark-explorers.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-deck-exclusives",
+      "name": "pokemon-deck-exclusives",
+      "count": 489,
+      "path": "data/apitcg/pokemon/pokemon-deck-exclusives.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-delta-species",
+      "name": "pokemon-delta-species",
+      "count": 114,
+      "path": "data/apitcg/pokemon/pokemon-delta-species.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-deoxys",
+      "name": "pokemon-deoxys",
+      "count": 108,
+      "path": "data/apitcg/pokemon/pokemon-deoxys.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-detective-pikachu",
+      "name": "pokemon-detective-pikachu",
+      "count": 18,
+      "path": "data/apitcg/pokemon/pokemon-detective-pikachu.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-diamond-and-pearl-promos",
+      "name": "pokemon-diamond-and-pearl-promos",
+      "count": 66,
+      "path": "data/apitcg/pokemon/pokemon-diamond-and-pearl-promos.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-diamond-and-pearl",
+      "name": "pokemon-diamond-and-pearl",
+      "count": 130,
+      "path": "data/apitcg/pokemon/pokemon-diamond-and-pearl.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-double-crisis",
+      "name": "pokemon-double-crisis",
+      "count": 34,
+      "path": "data/apitcg/pokemon/pokemon-double-crisis.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-dp-trainer-kit-manaphy-lucario",
+      "name": "pokemon-dp-trainer-kit-manaphy-lucario",
+      "count": 23,
+      "path": "data/apitcg/pokemon/pokemon-dp-trainer-kit-manaphy-lucario.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-dragon-frontiers",
+      "name": "pokemon-dragon-frontiers",
+      "count": 101,
+      "path": "data/apitcg/pokemon/pokemon-dragon-frontiers.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-dragon-majesty",
+      "name": "pokemon-dragon-majesty",
+      "count": 78,
+      "path": "data/apitcg/pokemon/pokemon-dragon-majesty.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-dragon-vault",
+      "name": "pokemon-dragon-vault",
+      "count": 21,
+      "path": "data/apitcg/pokemon/pokemon-dragon-vault.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-dragon",
+      "name": "pokemon-dragon",
+      "count": 100,
+      "path": "data/apitcg/pokemon/pokemon-dragon.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-dragons-exalted",
+      "name": "pokemon-dragons-exalted",
+      "count": 128,
+      "path": "data/apitcg/pokemon/pokemon-dragons-exalted.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-emerald",
+      "name": "pokemon-emerald",
+      "count": 107,
+      "path": "data/apitcg/pokemon/pokemon-emerald.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-ex-battle-stadium",
+      "name": "pokemon-ex-battle-stadium",
+      "count": 49,
+      "path": "data/apitcg/pokemon/pokemon-ex-battle-stadium.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-firered-leafgreen",
+      "name": "pokemon-firered-leafgreen",
+      "count": 116,
+      "path": "data/apitcg/pokemon/pokemon-firered-leafgreen.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-hidden-legends",
+      "name": "pokemon-hidden-legends",
+      "count": 102,
+      "path": "data/apitcg/pokemon/pokemon-hidden-legends.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-holon-phantoms",
+      "name": "pokemon-holon-phantoms",
+      "count": 111,
+      "path": "data/apitcg/pokemon/pokemon-holon-phantoms.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-legend-maker",
+      "name": "pokemon-legend-maker",
+      "count": 93,
+      "path": "data/apitcg/pokemon/pokemon-legend-maker.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-power-keepers",
+      "name": "pokemon-power-keepers",
+      "count": 108,
+      "path": "data/apitcg/pokemon/pokemon-power-keepers.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-ruby-and-sapphire",
+      "name": "pokemon-ruby-and-sapphire",
+      "count": 109,
+      "path": "data/apitcg/pokemon/pokemon-ruby-and-sapphire.json"
+    },
+    {
+      "source": "apitcg",
+      "tcg": "pokemon",
+      "deck": "pokemon-sandstorm",
+      "name": "pokemon-sandstorm",
+      "count": 100,
+      "path": "data/apitcg/pokemon/pokemon-sandstorm.json"
+    }
+  ]
+}

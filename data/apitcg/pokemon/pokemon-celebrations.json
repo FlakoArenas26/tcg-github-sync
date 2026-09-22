@@ -1,0 +1,596 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations",
+    "id": 45846,
+    "name": "Cosmoem",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250297_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250297_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250297_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "014/025",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Star Protection\r\n<br>Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks.",
+      "Weakness": "Dx2",
+      "Resistance": "F-30",
+      "code": "014/025"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations",
+    "id": 45860,
+    "name": "Cosmog",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250311_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250311_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250311_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "013/025",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Star Protection\r\n<br>Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks.",
+      "Weakness": "Dx2",
+      "Resistance": "F-30",
+      "RetreatCost": "1",
+      "Artist": "kirisAki",
+      "code": "013/025"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations",
+    "id": 45845,
+    "name": "Dialga",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250296_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250296_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250296_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "020/025",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[M] <strong>Temporal Backflow</strong>\r\n<br>Put a card from your discard pile into your hand.",
+      "Attack 2": "[3] <strong>Metal Blast</strong> (60+)\r\n<br>This attack does 20 more damage for each {M} Energy attached to this Pokémon.",
+      "Weakness": "Fx2",
+      "Resistance": "G-30",
+      "code": "020/025"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations",
+    "id": 45853,
+    "name": "Flying Pikachu V",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250304_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250304_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250304_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "006/025",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Lightning",
+      "HP": "190",
+      "Stage": "Basic",
+      "Attack 1": "[L] Thunder Shock (20)\r\n<br>Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+      "Attack 2": "[3] Fly (120)\r\n<br>Flip a coin. If tails, this attack does nothing. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.",
+      "Weakness": "Lx2",
+      "Resistance": "F-30",
+      "RetreatCost": "0",
+      "Artist": "aky CG Works",
+      "code": "006/025"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations",
+    "id": 45854,
+    "name": "Flying Pikachu VMAX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250305_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250305_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250305_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "007/025",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Lightning",
+      "HP": "310",
+      "Stage": "VMAX",
+      "Attack 1": "[2L] Max Balloon (160)\r\n<br>During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon.",
+      "Weakness": "Lx2",
+      "Resistance": "F-30",
+      "RetreatCost": "0",
+      "Artist": "aky CG Works",
+      "code": "007/025"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations",
+    "id": 45863,
+    "name": "Groudon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250314_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250314_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250314_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "017/025",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "Attack 1": "[1FF] <strong>Magma Volcano</strong> (80x)\r\n<br>Discard the top 5 cards of your deck. This attack does 80 damage for each Energy card you discarded in this way.",
+      "Attack 2": "[2FF] <strong>Massive Rend</strong> (120)",
+      "code": "017/025"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations",
+    "id": 45849,
+    "name": "Ho-Oh",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250300_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250300_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250300_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "001/025",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[1R] Sacred Fire\r\n<br>This attack does 50 damage to 1 of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Attack 2": "[1RR] Fire Blast (120)\r\n<br>Discard an Energy from this Pokémon.",
+      "Weakness": "Lx2",
+      "Resistance": "F-30",
+      "RetreatCost": "2",
+      "Artist": "Kouki Saitou",
+      "code": "001/025"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations",
+    "id": 45847,
+    "name": "Kyogre",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250298_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250298_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250298_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "003/025",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[1WW] Aqua Storm\r\n<br>Discard the top 5 cards of your deck, and then choose 2 of your opponent's Benched Pokémon. This attack does 50 damage for each Energy card you discarded this way to each of those Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Attack 2": "[2WW] Surf (120)",
+      "Weakness": "Lx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "Artist": "Ryuta Fuse",
+      "code": "003/025"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations",
+    "id": 45866,
+    "name": "Lugia",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250317_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250317_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250317_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "022/025",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "(2) Aero Ball (20x)\r\n<br>This attack does 20 damage for each Energy attached to both Active Pokemon.",
+      "Attack 2": "(4) Deep Crush (160)\r\n<br>During your next turn, this Pokemon can't attack.",
+      "Weakness": "Lx2",
+      "Resistance": "F-30",
+      "RetreatCost": "2",
+      "code": "022/025"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations",
+    "id": 45861,
+    "name": "Lunala",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250312_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250312_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250312_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "015/025",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "Attack 1": "[2] <strong>Lunar Pain</strong>\r\n<br>Double the number of damage counters on each of your opponent’s Pokémon.",
+      "Attack 2": "[2P] <strong>Psychic Shot</strong> (130)\r\n<br>This attack also does 30 damage to 1 of your opponent’s Benched Pokémon. <em>(Don’t apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "code": "015/025"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations",
+    "id": 45858,
+    "name": "Mew",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250309_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250309_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250309_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "011/025",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Mysterious Tail</strong>\r\n<br>Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Item card you find there, and put it into your hand. Shuffle the other cards back into your deck.",
+      "Attack 1": "[1P] Psyshot (30)",
+      "Weakness": "Dx2",
+      "Resistance": "F-30",
+      "RetreatCost": "1",
+      "Artist": "Yuu Nishida",
+      "code": "011/025"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations",
+    "id": 45844,
+    "name": "Mew (Secret)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250295_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250295_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250295_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "025/025",
+      "Rarity": "Secret Rare",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Mysterious Tail</strong> Once during your turn, if this Pokemon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Item card you find there, and put it into your hand. Shuffle the other cards back into your deck.",
+      "Attack 1": "[1P] Psyshot (30)",
+      "Weakness": "Dx2",
+      "Resistance": "F-30",
+      "RetreatCost": "1",
+      "Artist": "Saki Hayashiro",
+      "code": "025/025"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations",
+    "id": 45851,
+    "name": "Palkia",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250302_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250302_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250302_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "004/025",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "130",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Absolute Space</strong>\r\n<br>As long as this Pokémon is in the Active Spot, your opponent can't play any Stadium cards from their hand.",
+      "Attack 1": "[2W] Overdrive Smash (80+)\r\n<br>During your next turn, this Pokémon's Overdrive Smash does 80 more damage <em>(before applying Weakness and Resistance)</em>.",
+      "Weakness": "Lx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "004/025"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations",
+    "id": 45852,
+    "name": "Pikachu",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250303_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250303_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250303_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "005/025",
+      "Rarity": "Holo Rare",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Gnaw (10)",
+      "Attack 2": "[1L] Thunder Jolt (30)\r\n<br>Flip a coin. If tails, this Pokémon also does 10 damage to itself.",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "005/025"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations",
+    "id": 45896,
+    "name": "Ponyta",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/600428_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/600428_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/600428_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "014/083",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[R] Agility (10)\r\n<br>Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn.",
+      "Attack 2": "[2] Flame Tail (20)",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "Artist": "Tomokazu Komiya",
+      "code": "014/083"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations",
+    "id": 45867,
+    "name": "Professor's Research [Professor Oak]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250318_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250318_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250318_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "023/025",
+      "Rarity": "Holo Rare",
+      "Card Type": "Supporter",
+      "CardText": "Discard your hand and draw 7 cards.",
+      "code": "023/025"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations",
+    "id": 45843,
+    "name": "Professor's Research [Professor Oak] (Full Art)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250293_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250293_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250293_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "024/025",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Supporter",
+      "CardText": "Discard your hand and draw 7 cards.",
+      "Artist": "Ken Sugimori",
+      "code": "024/025"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations",
+    "id": 45850,
+    "name": "Reshiram",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250301_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250301_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250301_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "002/025",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[2] Scorching Wind \r\n<br>This attack does 20 damage to each of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Attack 2": "[1RR] Black Flame (80+)\r\n<br>If Zekrom is on your Bench, this attack does 80 more damage.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "Artist": "Aya Kusube",
+      "code": "002/025"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations",
+    "id": 45865,
+    "name": "Solgaleo",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250316_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250316_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250316_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "021/025",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal",
+      "CardText": "<strong>Ability — Rush In</strong>                                             \r\n<br>Once during your turn <em>(before your attack)</em>, if this Pokémon is on your Bench, you may switch this Pokémon with your Active Pokémon.",
+      "Attack 1": "[2] <strong>Solar Geyser</strong> (100)\r\n<br>Attach up to 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon.",
+      "code": "021/025"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations",
+    "id": 45855,
+    "name": "Surfing Pikachu V",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250306_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250306_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250306_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "008/025",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Lightning",
+      "HP": "200",
+      "Stage": "Basic",
+      "Attack 1": "[WWW] Surf (150)",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "aky CG Works",
+      "code": "008/025"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations",
+    "id": 45856,
+    "name": "Surfing Pikachu VMAX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250307_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250307_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250307_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "009/025",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Lightning",
+      "HP": "310",
+      "Stage": "VMAX",
+      "Attack 1": "[WWW] Max Surfer (160)\r\n<br>This attack also does 30 damage to each of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "aky CG Works",
+      "code": "009/025"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations",
+    "id": 45859,
+    "name": "Xerneas",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250310_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250310_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250310_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "012/025",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "120",
+      "Stage": "Basic",
+      "Attack 1": "[2] Breath of Life\r\n<br>Search your deck for up to 3 basic Energy cards of different types and attach them to your Pokemon in any way you like. Then, shuffle your deck.",
+      "Attack 2": "[2P] Aurora Horns (100)",
+      "Weakness": "Mx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "AKIRA EGAWA",
+      "code": "012/025"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations",
+    "id": 45864,
+    "name": "Yveltal",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250315_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250315_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250315_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "019/025",
+      "Rarity": "Holo Rare",
+      "Card Type": "Darkness",
+      "Attack 1": "[2] <strong>Cry of Destruction</strong>\r\n<br>Discard up to 3 Special Energy from your opponent’s Pokémon.",
+      "Attack 2": "[2D] <strong>Dark Feather</strong> (100)",
+      "code": "019/025"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations",
+    "id": 45862,
+    "name": "Zacian V",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250313_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250313_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250313_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "016/025",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Psychic",
+      "CardText": "<strong>Ability — Roar of the Sword</strong>                                             \r\n<br>Once during your turn, you may search your deck for a P Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck. If you use this Ability, your turn ends.",
+      "Attack 1": "[3] <strong>Storm Slash</strong> (60+)\r\n<br>This attack does 30 more damage for each P Energy attached to this Pokémon.",
+      "code": "016/025"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations",
+    "id": 45848,
+    "name": "Zamazenta V",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250299_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250299_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250299_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "018/025",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fighting",
+      "HP": "220",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Growl of the Shield</strong>                                             \r\n<br>All of your F Pokémon take 20 less damage from attacks from your opponent’s Pokémon VMAX <em>(after applying Weakness and Resistance)</em>. You can’t apply more than 1 Growl of the Shield Ability at a time.",
+      "Attack 1": "[1FF] <strong>Heavy Impact</strong> (150)",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "code": "018/025"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations",
+    "id": 45857,
+    "name": "Zekrom",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250308_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250308_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250308_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "010/025",
+      "Rarity": "Holo Rare",
+      "Card Type": "Lightning",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[2] Field Crush (30)\r\n<br>If your opponent has a Stadium in play, discard it.",
+      "Attack 2": "[1LL] White Thunder (80+)\r\n<br>If Reshiram is on your Bench, this attack does 80 more damage.",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "Artist": "Aya Kusube",
+      "code": "010/025"
+    }
+  }
+]

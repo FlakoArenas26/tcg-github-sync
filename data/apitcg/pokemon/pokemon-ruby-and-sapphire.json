@@ -1,0 +1,2472 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65681,
+    "name": "Aggron",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83475_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83475_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83475_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "1/109",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal",
+      "HP": "110",
+      "Stage": "Stage 2",
+      "Attack 1": "[1] Retaliate (10x) \r\n<br>Flip a coin.  If heads, this attack does 10 damage times the number of damage counters on Aggron.",
+      "Attack 2": "[3] Mega Punch (40)",
+      "Attack 3": "[3MM] Double Lariat (70x) \r\n<br>Flip 2 coins.  This attack does 70 damage times the number of heads.",
+      "Weakness": "R",
+      "Resistance": "G",
+      "RetreatCost": "4",
+      "code": "1/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65682,
+    "name": "Aron - 25/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83628_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83628_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83628_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "25/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Metal",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[M] Rollout (10)",
+      "Attack 2": "[2] Double Stab (20x) \r\n<br>Flip 2 coins.  This attack does 20 damage times the number of heads.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "25/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65683,
+    "name": "Aron - 49/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83629_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83629_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83629_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "49/109",
+      "Rarity": "Common",
+      "Card Type": "Metal",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Teary Eyes \r\n<br>During your opponent's next turn, any damage done to Aron is reduced by 10.",
+      "Attack 2": "[2] Ram (20)",
+      "Weakness": "R",
+      "Resistance": "G",
+      "RetreatCost": "1",
+      "code": "49/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65684,
+    "name": "Aron - 50/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83630_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83630_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83630_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "50/109",
+      "Rarity": "Common",
+      "Card Type": "Metal",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Gnaw (10)",
+      "Weakness": "R",
+      "Resistance": "G",
+      "RetreatCost": "2",
+      "code": "50/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65685,
+    "name": "Beautifly",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83755_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83755_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83755_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "2/109",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-BODY</b> Withering Dust \r\n<br>As long as Beautifly is in play, do not apply resistance for all Active Pokemon.",
+      "Attack 1": "[G] Stun Spore (20) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[2G] Parallel Gain (50) \r\n<br>Remove 1 damage counter from each of your Pokemon including Beautifly.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "0",
+      "code": "2/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65687,
+    "name": "Blaziken - 15/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83904_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83904_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83904_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "15/109",
+      "Rarity": "Rare",
+      "Card Type": "Fire",
+      "HP": "110",
+      "Stage": "Stage 2",
+      "Attack 1": "[2] Clutch (20) \r\n<br>The Defending Pokemon can't retreat until the end of your opponent's next turn.",
+      "Attack 2": "[3R] Flamethrower (80) \r\n<br>Discard a Fire Energy card attached to Blaziken.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "15/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65686,
+    "name": "Blaziken - 3/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83903_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83903_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83903_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "3/109",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-POWER</b> Firestarter \r\n<br>Once during your turn <em>(before your attack)</em>, you may attach a Fire Energy card from your discard pile to 1 of your Benched Pokemon.  This power can't be used if Blaziken is affected by a Special Condition.",
+      "Attack 1": "[2R] Fire Stream (50) \r\n<br>Discard a Fire Energy card attached to Blaziken.  If you do, this attack does 10 damage to each of your opponent's Benched Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "3/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65688,
+    "name": "Breloom",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83953_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83953_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83953_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "16/109",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Headbutt (20)",
+      "Attack 2": "[2G] Battle Blast (40+)\r\n<br>Does 40 damage plus 10 more damage for each Fightning Energy attached to Breloom.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "16/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65689,
+    "name": "Camerupt",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84087_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84087_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84087_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "4/109",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1R] Lava Burn (20) \r\n<br>Choose 1 of your opponent's Benched Pokemon.  This attack does 10 damage to that Pokemon.  <i>(Don't apply weakness and resistance for Benched Pokemon.)</i>",
+      "Attack 2": "[2RR] Fire Spin (100) \r\n<br>Discard 2 Basic Energy cards attached to Camerupt or this attack does nothing.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "4/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65690,
+    "name": "Carvanha",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84111_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84111_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84111_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "51/109",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "40",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Rough Skin\r\n<br>If Carvanha is your Active Pokemon and is damaged by an opponent's attack<em> (even if Carvanha is Knocked Out)</em>, put 1 damage counter on the Attacking Pokemon.",
+      "Attack 1": "[1] Big Bite (10) \r\n<br>The Defending Pokemon can't retreat until the end of your opponent's next turn.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "51/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65691,
+    "name": "Cascoon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84119_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84119_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84119_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "26/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Hard Cocoon\r\n<br>During your opponent's turn, if Cascoon would be damaged by an opponent's attack <em>(after applying Weakness and Resistance)</em>, flip a coin.  If heads, reduce that damage by 30.",
+      "Attack 1": "[G] Poison Thread \r\n<br>The Defending Pokemon is now Poisoned.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "26/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65692,
+    "name": "Chansey ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84180_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84180_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84180_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "96/109",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Colorless",
+      "HP": "120",
+      "Stage": "Basic",
+      "Attack 1": "[2] Healing Egg \r\n<br>Remove 2 damage counters (1 if there is only 1) from each of your Pokemon.  Remove no damage counters from Chansey ex.",
+      "Attack 2": "[3] Double-edge (80) \r\n<br>Chansey ex does 60 damage to itself.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "96/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65693,
+    "name": "Combusken - 27/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84400_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84400_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84400_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "27/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[R] Flare (20)",
+      "Attack 2": "[3] Double Kick (40x) \r\n<br>Flip 2 coins.  This attack does 40 damage times the number of heads.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "27/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65694,
+    "name": "Combusken - 28/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84401_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84401_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84401_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "28/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Natural Care\r\n<br>When you attach a Fire Energy card from your hand to Combusken, remove all Special Conditions from Combusken.",
+      "Attack 1": "[2] Lunge (50)\r\n<br>Flip a coin.  If tails, this attack does nothing.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "28/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65695,
+    "name": "Darkness Energy (Special)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84683_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84683_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84683_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "93/109",
+      "Rarity": "Rare",
+      "Card Type": "Special Energy",
+      "CardText": "If the Pokemon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokemon <em>(before applying Weakness and Resistance). </em> Ignore this effect unless the Attacking Pokemon is Darkness or has Dark in its name.  Darkness Energy provides Darkness energy. <em> (Doesn't count as a basic Energy card.)</em>",
+      "code": "93/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65697,
+    "name": "Delcatty - 29/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84735_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84735_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84735_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "29/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Energy Call (10) \r\n<br>Attach 1 Energy card from your discard pile to your Active Pokemon.",
+      "Attack 2": "[2] Cannonball (30+) \r\n<br>Does 30 damage plus 10 more damage for each Energy attached to Delcatty but not used to pay for this attack's Energy cost.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "29/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65696,
+    "name": "Delcatty - 5/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84734_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84734_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84734_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "5/109",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-POWER</b> Energy Draw \r\n<br>Once during your turn <em>(before your attack)</em>, you may discard 1 Energy card from your hand.  Then draw up to 3 cards from your deck.  This power can't be used if Delcatty is affected by a Special Condition.",
+      "Attack 1": "[1] Max Energy Source (10x) \r\n<br>Does 10 damage times the number of Energy attached to all of your Active Pokemon.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "5/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65698,
+    "name": "Donphan",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84871_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84871_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84871_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "17/109",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1F] Rend (20+) \r\n<br>If the Defending Pokemon has any damage counters on it, this attack does 20 damage plus 20 more damage.",
+      "Attack 2": "[3F] Double Spin (60x) \r\n<br>Flip 2 coins.  This attack does 60 damage times the number of heads.",
+      "Weakness": "G",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "17/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65699,
+    "name": "Dustox",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85056_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85056_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85056_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "6/109",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "90",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-BODY</b> Protective Dust \r\n<br>Prevent all effects of attacks, except damage, done to Dustox by the Attacking Pokemon.",
+      "Attack 1": "[1G] Toxic \r\n<br>The Defending Pokemon is now Poisoned.  Put 2 Damage Counters instead of 1 on the Defending Pokemon between turns.",
+      "Attack 2": "[2G] Gust (50)",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "0",
+      "code": "6/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65700,
+    "name": "Electabuzz ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85120_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85120_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85120_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "97/109",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Lightning",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[L] Thundershock (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[1LL] Quick Attack (40+) \r\n<br>Flip a coin.  If heads, this attack does 40 damage plus 20 more damage.",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "2",
+      "code": "97/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65701,
+    "name": "Electrike - 30/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85128_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85128_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85128_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "30/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[L] Charge\r\n<br>Attach a Lightning Energy card from your discard pile to Electrike.",
+      "Attack 2": "[1L] Thunder Jolt (30) \r\n<br>Flip a coin.  If tails, Electrike does 10 damage to itself.",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "1",
+      "code": "30/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65702,
+    "name": "Electrike - 52/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85129_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85129_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85129_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "52/109",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Headbutt (10)",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "1",
+      "code": "52/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65703,
+    "name": "Electrike - 53/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85130_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85130_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85130_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "53/109",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Super Thunder Wave  \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[2] Tackle (20)",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "1",
+      "code": "53/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65704,
+    "name": "Energy Removal 2",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85220_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85220_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85220_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "80/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Flip a coin.  If heads, choose 1 Energy card attached to 1 of your opponent's Pokemon and discard it.",
+      "code": "80/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65705,
+    "name": "Energy Restore",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85225_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85225_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85225_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "81/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Flip 3 coins.  For each heads, put a basic Energy card from your discard pile into your hand.  If you don't have that many basic Energy cards in your discard pile, put all of them into your hand.",
+      "code": "81/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65706,
+    "name": "Energy Search",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85237_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85237_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85237_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "90/109",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand.  Shuffle your deck afterward.",
+      "code": "90/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65707,
+    "name": "Energy Switch",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85252_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85252_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85252_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "82/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Move a basic Energy card from 1 of your Pokemon to another of your Pokemon.",
+      "code": "82/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65708,
+    "name": "Fighting Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85438_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85438_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85438_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "105/109",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "105/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65709,
+    "name": "Fire Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85458_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85458_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85458_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "108/109",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "108/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65710,
+    "name": "Gardevoir",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85632_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85632_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85632_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "7/109",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-POWER</b> Psy Shadow \r\n<br>Once during your turn <em>(before your attack)</em>, you may search your deck for a Psychic Energy card and attach it to 1 of your Pokemon.  Put 2 damage counters on that Pokemon.  Shuffle your deck afterward.  This power can't be used if Gardevoir is affected by a Special Condition.",
+      "Attack 1": "[P] Energy Burst (10x) \r\n<br>Does 10 damage times the total amount of Energy attached to Gardevoir and the Defending Pokemon.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "7/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65711,
+    "name": "Goldeen",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85803_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85803_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85803_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "55/109",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Flail (10x) \r\n<br>Does 10 damage for each damage counter on Goldeen.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "55/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65712,
+    "name": "Grass Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85874_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85874_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85874_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "104/109",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "104/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65713,
+    "name": "Grovyle - 31/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85935_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85935_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85935_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "31/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Poison Breath \r\n<br>The Defending Pokemon is now Poisoned.",
+      "Attack 2": "[2G] Swift (30) \r\n<br>This attack's damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies, or any other effects on the Defending Pokemon.",
+      "Weakness": "R",
+      "Resistance": "W",
+      "RetreatCost": "1",
+      "code": "31/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65714,
+    "name": "Grovyle - 32/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85936_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85936_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85936_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "32/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Natural Care\r\n<br>When you attach a Grass Energy card from your hand to Grovyle, remove all Special Conditions from Grovyle.",
+      "Attack 1": "[2] Slash (20)",
+      "Weakness": "R",
+      "Resistance": "W",
+      "RetreatCost": "1",
+      "code": "32/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65716,
+    "name": "Hariyama - 33/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86011_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86011_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86011_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "33/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1F] Shove (20) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[2F] Slap Down (40+) \r\n<br>Flip 2 coins.  This attack does 40 damage plus 10 more damage for each heads.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "33/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65715,
+    "name": "Hariyama - 8/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86010_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86010_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86010_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "8/109",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[F] Super Slap Push \r\n<br>Does 20 damage to each Defending Pokemon.",
+      "Attack 2": "[2F] Mega Throw (40+) \r\n<br>If the Defending Pokemon is a Pokemon-ex, this attack does 40 damage plus 40 more damage.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "8/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65717,
+    "name": "Hitmonchan ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86099_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86099_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86099_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "98/109",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fighting",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[F] Steady Punch (10+)\r\n<br>Flip a coin.  If heads, this attack does 10 damage plus 10 more damage.",
+      "Attack 2": "[2FF] Sky Uppercut (50) \r\n<br>This attack's damage is not affected by Resistance.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "98/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65718,
+    "name": "Kirlia - 34/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86459_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86459_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86459_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "34/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[P] Removal Beam (10) \r\n<br>Flip a coin.  If heads, discard 1 Energy card attached to the Defending Pokemon.",
+      "Attack 2": "[2P] Super Psy (50)",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "34/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65719,
+    "name": "Kirlia - 35/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86460_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86460_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86460_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "35/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Dazzle Dance \r\n<br>Flip a coin.  If heads, each Defending Pokemon is now Confused.",
+      "Attack 2": "[P] Life Drain - Flip a coin.  If heads, put damage counters on the Defending Pokemon until it is 10 HP away from being Knocked Out.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "35/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65720,
+    "name": "Koffing",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86490_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86490_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86490_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "54/109",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Tackle (10)",
+      "Attack 2": "[1G] Double Edge (30) \r\n<br>Koffing does 10 damage to itself.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "54/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65721,
+    "name": "Lady Outing",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86571_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86571_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86571_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "83/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "You can play only one Supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.\r\n<br>\r\n<br>Search your deck for up to 3 different types of basic Energy cards, show them to your opponent, and put them into your hand.  Shuffle your deck afterward.",
+      "code": "83/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65722,
+    "name": "Lairon - 36/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86573_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86573_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86573_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "36/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Metal",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Ram (20)",
+      "Attack 2": "[2M] Metal Claw (40)",
+      "Weakness": "R",
+      "Resistance": "G",
+      "RetreatCost": "2",
+      "code": "36/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65723,
+    "name": "Lairon - 37/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86574_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86574_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86574_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "37/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Metal",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[M] Magnitude (20) \r\n<br>Does 10 damage to each Benched Pokemon (both yours and your opponent's). <i> (Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Attack 2": "[4] One-Two Strike (30+) \r\n<br>Flip 2 coins.  This attack does 30 damage plus 20 more for each heads.",
+      "Weakness": "R",
+      "Resistance": "G",
+      "RetreatCost": "2",
+      "code": "37/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65724,
+    "name": "Lapras ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86626_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86626_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86626_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "99/109",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Water",
+      "HP": "110",
+      "Stage": "Basic",
+      "Attack 1": "[W] Energy Ball (10+) \r\n<br>Does 10 damage plus 10 more damage for each Energy attached to Lapras ex but not used to pay for this attack's Energy cost.  You can't add more then 20 damage in this way.",
+      "Attack 2": "[1WW] Confuse Ray (30) \r\n<br>The Defending Pokemon is now Confused.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "99/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65725,
+    "name": "Lightning Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86761_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86761_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86761_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "109/109",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "109/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65726,
+    "name": "Linoone",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86803_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86803_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86803_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "38/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Seek Out \r\n<br>Search your deck for up to 2 cards and put them into your hand.  Shuffle your deck afterward.",
+      "Attack 2": "[2] Continuous Headbutt (40x) \r\n<br>Flip a coin until you get tails.  This attack does 40 damage times the number of heads.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "38/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65727,
+    "name": "Lum Berry",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86919_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86919_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86919_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "84/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Tool",
+      "CardText": "Attach Lum Berry to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.  If that Pokemon is Knocked Out, discard this card.\r\n<br>\r\n<br>At any time between turns, if the Pokemon this card is attached to is affected by any Special Conditions, remove all of them.  Then discard Lum Berry.",
+      "code": "84/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65728,
+    "name": "Magmar ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87054_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87054_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87054_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "100/109",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fire",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[R] Smokescreen (10) \r\n<br>If the Defending Pokemon tries to attack during your opponent's next turn, your opponent flips a coin.  If tails, that attack does nothing.",
+      "Attack 2": "[1RR] Super Singe (40) \r\n<br>The Defending Pokemon is now Burned.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "100/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65729,
+    "name": "Makuhita - 56109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87125_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87125_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87125_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "56/109",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Slap Punch (10)",
+      "Attack 2": "[2] Lunge Out (20)",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "56/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65730,
+    "name": "Makuhita - 57/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87126_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87126_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87126_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "57/109",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Fling\r\n<br>Your opponent switches the Defending Pokemon with 1 of his or her Benched Pokemon.",
+      "Attack 2": "[1F] Low Kick (30)",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "57/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65731,
+    "name": "Makuhita - 58/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87127_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87127_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87127_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "58/109",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[F] Fake Out (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "58/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65733,
+    "name": "Manectric - 39/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87154_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87154_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87154_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "39/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Thundershock (20) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[2L] Gigashock (40) \r\n<br>Does 10 damage to 2 of your opponent's Benched Pokemon (1 if there is only 1). <i> (Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "1",
+      "code": "39/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65732,
+    "name": "Manectric - 9/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87153_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87153_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87153_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "9/109",
+      "Rarity": "Holo Rare",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Attract Current (10) \r\n<br>Search your deck for a Lightning Energy card and attach it to 1 of your Pokemon.  Shuffle your deck afterward.",
+      "Attack 2": "[1LL] Thunder jolt (50) \r\n<br>Flip a coin.  If tails, Manectric does 10 damage to itself.",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "1",
+      "code": "9/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65734,
+    "name": "Marshtomp - 40/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87232_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87232_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87232_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "40/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[W] Bubble (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[3] Slash (40)",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "40/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65735,
+    "name": "Marshtomp - 41/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87233_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87233_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87233_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "41/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Natural Care\r\n<br>When you attach a Water Energy card from your hand to Marshtomp, remove all Special Conditions from Marshtomp.",
+      "Attack 1": "[2] Aqua Sonic (20) \r\n<br>This attack's damage is not affected by Resistance.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "41/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65736,
+    "name": "Metal Energy (Special)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87356_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87356_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87356_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "94/109",
+      "Rarity": "Rare",
+      "Card Type": "Special Metal Energy",
+      "CardText": "Damage done by attacks to the Pokemon that Metal Energy is attached to is reduced by 10 <em>(after applying Weakness and Resistance.)</em> Ignore this effect if the Pokemon that Metal Energy is attached to isn't Metal.  Metal Energy provides Metal Energy.  <em>(Doesn't count as a basic Energy card.)</em>",
+      "code": "94/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65737,
+    "name": "Mewtwo ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87428_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87428_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87428_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "101/109",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Psychic",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[P] Energy Absorption \r\n<br>Attach up to 2 Energy cards from your discard pile to Mewtwo ex.",
+      "Attack 2": "[1PP] Psyburn (60)",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "101/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65738,
+    "name": "Mightyena - 10/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87443_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87443_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87443_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "10/109",
+      "Rarity": "Holo Rare",
+      "Card Type": "Darkness",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Intimidating Fang \r\n<br>As long as Mightyena is your Active Pokemon, any damage done to your Pokemon by an opponent's attack is reduced by 10 <em>(before applying Weakness and Resistance). </em>",
+      "Attack 1": "[2D] Shakedown (40) \r\n<br>Flip a coin.  If heads, choose 1 card from your opponent's hand without looking and discard it.",
+      "Weakness": "F",
+      "Resistance": "P",
+      "RetreatCost": "1",
+      "code": "10/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65739,
+    "name": "Mightyena - 42/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87444_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87444_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87444_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "42/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Darkness",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Bite (20)",
+      "Attack 2": "[2D] Ambush (30+) \r\n<br>Flip a coin.  If heads, this attack does 30 damage plus 30 more damage.",
+      "Weakness": "F",
+      "Resistance": "P",
+      "RetreatCost": "1",
+      "code": "42/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65740,
+    "name": "Mudkip - 59/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87605_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87605_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87605_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "59/109",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[W] Bubble (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "59/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65741,
+    "name": "Mudkip - 60/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87606_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87606_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87606_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "60/109",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Pound (10)",
+      "Attack 2": "[2] Fury Swipes (10x) \r\n<br>Flip 3 coins.  This attack does 10 damage times the number of heads.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "60/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65742,
+    "name": "Nosepass",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87797_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87797_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87797_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "18/109",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Invisible Hand \r\n<br>If any of your opponent's Active Pokemon are Evolved Pokemon, search your deck for any 1 card and put it into your hand.  Shuffle your deck afterward.",
+      "Attack 2": "[2] Repulsion\r\n<br>Flip a coin.  If heads, your opponent returns the Defending Pokemon and all cards attached to it in his or her hand.  <i>(If your opponent doesn't have any Benched Pokemon or other Active Pokemon, this attack does nothing.)</i>",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "18/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65743,
+    "name": "Numel",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87805_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87805_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87805_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "61/109",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Headbutt (10)",
+      "Attack 2": "[1R] Burn Off \r\n<br>Flip a coin.  If heads, each Defending Pokemon is now Burned.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "61/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65744,
+    "name": "Oran Berry",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87888_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87888_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87888_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "85/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Tool",
+      "CardText": "Attach Oran Berry to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.  If that Pokemon is Knocked Out, discard this card.\r\n<br>\r\n<br>At any time between turns, if the Pokemon this card is attached to has at least 2 damage counters on it, remove 2 damage counters from it.  The discard Oran Berry.",
+      "code": "85/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65745,
+    "name": "Pelipper",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87974_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87974_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87974_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "19/109",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Stockpile \r\n<br>During your next turn, Spit Up's base damage is 70 instead of 30, and Swallow's base damage is 60 instead of 20.",
+      "Attack 2": "[1W] Spit Up (30)",
+      "Attack 3": "[2W] Swallow (20) \r\n<br>After your attack, remove from Pelipper the number of damage counters equal to the damage you did to the Defending Pokemon.  If Pelipper has fewer damage counters than that, remove all of them.",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "19/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65746,
+    "name": "Phanpy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87996_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87996_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87996_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "62/109",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Stampede (10)",
+      "Attack 2": "[1F] Trembler\r\n<br>Flip a coin.  If heads, this attack does 10 damage to each Defending Pokemon, and each Defending Pokemon is now Paralyzed.",
+      "Weakness": "G",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "62/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65747,
+    "name": "Poke Ball",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88182_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88182_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88182_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "86/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Flip a coin.  If heads, search your deck for a Basic Pokemon or Evolution card, show it to your opponent and put it into your hand.  Shuffle your deck afterward.",
+      "code": "86/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65748,
+    "name": "Pokemon Reversal",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88237_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88237_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88237_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "87/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Choose 1 of your opponent's Benched Pokemon.  Flip a coin.  If heads, switch that Pokemon with the Defending Pokemon.\r\n<br>\r\n<br><b><em>(Old card text, reference latest printing.)</em></b>",
+      "code": "87/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65749,
+    "name": "Pokenav",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88243_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88243_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88243_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "88/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Look at the top 3 cards of your deck, and choose a Basic Pokemon, Evolution, or Energy Card.  Show it to your opponent and put it into your hand.  Put the 2 other cards back on top of your deck in any order.",
+      "code": "88/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65750,
+    "name": "Poochyena - 63/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88293_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88293_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88293_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "63/109",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Bite (10)",
+      "Weakness": "F",
+      "Resistance": "P",
+      "RetreatCost": "1",
+      "code": "63/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65751,
+    "name": "Poochyena - 64/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88294_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88294_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88294_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "64/109",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[D] Knock Off \r\n<br>Flip a coin.  If heads, choose 1 card from your opponent's hand without looking and discard it.",
+      "Attack 2": "[2] Rear Kick (20)",
+      "Weakness": "F",
+      "Resistance": "P",
+      "RetreatCost": "1",
+      "code": "64/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65752,
+    "name": "Poochyena - 65/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88295_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88295_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88295_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "65/109",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[D] Shadow Bind (10) \r\n<br>The Defending Pokemon can't retreat until the end of your opponent's next turn.",
+      "Weakness": "F",
+      "Resistance": "P",
+      "RetreatCost": "1",
+      "code": "65/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65753,
+    "name": "Potion",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88330_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88330_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88330_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "91/109",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Remove 2 damage counters from 1 of your Pokemon (remove 1 damage counter if that Pokemon has only 1).\r\n<br>\r\n<br><b><em>(Old card text, reference latest printing)</b></em>",
+      "code": "91/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65754,
+    "name": "Professor Birch",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88381_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88381_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88381_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "89/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "You can play only one Supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.\r\n<br>\r\n<br>Draw cards from your deck until you have 6 cards in your hand.",
+      "code": "89/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65755,
+    "name": "Psychic Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88418_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88418_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88418_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "107/109",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "107/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65756,
+    "name": "Rainbow Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88545_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88545_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88545_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "95/109",
+      "Rarity": "Rare",
+      "Card Type": "Special Energy",
+      "CardText": "Attach Rainbow Energy to 1 of your Pokemon.  While in play, Rainbow Energy provides every type of energy but provides only 1 energy at a time.  <em>(Doesn't count as a basic Energy card when not in play.)</em> When you attach this card from your hand to 1 of your Pokemon, put 1 damage counter on that Pokemon.",
+      "code": "95/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65757,
+    "name": "Ralts - 66/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88554_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88554_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88554_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "66/109",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[P] Confuse Ray (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Confused.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "66/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65758,
+    "name": "Ralts - 67/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88555_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88555_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88555_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "67/109",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Headbutt (10)",
+      "Attack 2": "[1P] Hypnoblast (20) \r\n<br>The Defending Pokemon is now Asleep.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "67/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65759,
+    "name": "Ralts - 68/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88556_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88556_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88556_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "68/109",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Pound (10)",
+      "Attack 2": "[1P] Link Blast (40) \r\n<br>If Ralts and the Defending Pokemon have a different amount of Energy attached to them, this attack's base damage is 10 instead of 40.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "68/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65760,
+    "name": "Sceptile - 11/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88944_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88944_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88944_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "11/109",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "Attack 1": "[1] Lizard Poison (20) \r\n<br>If 1 Energy is attached to Sceptile, the Defending Pokemon is now Asleep.  If 2 Energy is attached to Sceptile, the Defending Pokemon is now Poisoned.  If 3 Energy is attached to Sceptile, the Defending Pokemon is now Asleep and Poisoned.  If 4 or more Energy is attached to Sceptile, the Defending Pokemon is now Asleep, Burned, and Poisoned.",
+      "Attack 2": "[3GG] Solarbeam (70)",
+      "Weakness": "R",
+      "Resistance": "W",
+      "RetreatCost": "3",
+      "code": "11/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65761,
+    "name": "Sceptile - 20/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88945_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88945_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88945_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "20/109",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-POWER</b> Energy Trans \r\n<br>As often as you like during your turn <em>(before your attack)</em>, move a Grass Energy card attached to 1 of your Pokemon to another of your Pokemon.  This power can't be used if Sceptile is affected by a Special Condition.",
+      "Attack 1": "[2G] Tail Rap (50x) \r\n<br>Flip 2 coins.  This attack does 50 damage times the number of heads.",
+      "Weakness": "R",
+      "Resistance": "W",
+      "RetreatCost": "3",
+      "code": "20/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65762,
+    "name": "Scyther ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89007_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89007_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89007_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "102/109",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[G] Agility (10)\r\n<br>Flip a coin.  If heads, prevent all effects of an attack, including damage, done to Scyther ex during your opponent's next turn.",
+      "Attack 2": "[1GG] Slash (50)",
+      "Weakness": "R",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "102/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65763,
+    "name": "Seaking",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89021_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89021_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89021_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "21/109",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[W] Water Arrow\r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 20 damage to that Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Attack 2": "[2] Fast Stream (30) \r\n<br>Move 1 Energy card attached to the Defending Pokemon to the other Defending Pokemon.  <i>(Ignore this effect if your opponent has only 1 Defending Pokemon.)</i>",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "0",
+      "code": "21/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65764,
+    "name": "Sharpedo",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89097_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89097_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89097_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "22/109",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Rough Skin\r\n<br>If Sharpedo is your Active Pokemon and is damaged by an opponent's attack <em>(even if Sharpedo is Knocked Out)</em>, put 2 damage counters on the Attacking Pokemon.",
+      "Attack 1": "[2W] Dark Slash (40+) \r\n<br>You may discard a D Energy card attached to Sharpedo.  If you do, this attack does 40 damage plus 30 more damage.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "22/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65765,
+    "name": "Shroomish",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89181_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89181_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89181_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "69/109",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Sleep Powder (10) \r\n<br>The Defending Pokemon is now Asleep.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "69/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65766,
+    "name": "Silcoon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89210_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89210_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89210_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "43/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Hard Cocoon \r\n<br>During your opponent's turn, if Silcoon would be damaged by an opponent's attack <em>(after applying Weakness and Resistance)</em>, flip a coin.  If heads, reduce that damage by 30.",
+      "Attack 1": "[G] Gooey Thread (10)\r\n<br>The Defending Pokemon can't retreat until the end of your opponent's next turn.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "43/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65767,
+    "name": "Skitty - 44/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89259_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89259_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89259_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "44/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Minor Errand-Running\r\n<br>Search your deck for 2 basic Energy cards, show them to your opponent, and put them into your hand.  Shuffle your deck afterward.",
+      "Attack 2": "[1] Lullaby (10) \r\n<br>The Defending Pokemon is now Asleep.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "44/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65768,
+    "name": "Skitty - 70/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89260_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89260_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89260_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "70/109",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Plus Energy\r\n<br>Attach a basic Energy card from your hand to 1 of your Pokemon.",
+      "Attack 2": "[1] Scratch (10)",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "70/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65769,
+    "name": "Skitty - 71/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89261_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89261_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89261_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "71/109",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Tackle (10)",
+      "Attack 2": "[2] Lunge (30) \r\n<br>Flip a coin.  If tails, this attack does nothing.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "71/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65770,
+    "name": "Slaking",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89288_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89288_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89288_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "12/109",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-BODY</b> Lazy \r\n<br>As long as Slaking is your Active Pokemon, your opponent's Pokemon can't use Poke-Powers.",
+      "Attack 1": "[4] Critical Move (100) \r\n<br>Discard a Basic Energy card attached to Slaking or this attack does nothing.  Slaking can't attack during your next turn.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "12/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65771,
+    "name": "Slakoth",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89295_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89295_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89295_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "45/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Claw (20)\r\n<br>Flip a coin.  If tails, this attack does nothing.",
+      "Attack 2": "[2] Slack Off \r\n<br>Remove all damage counters from Slakoth.  Slakoth can't attack during your next turn.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "45/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65772,
+    "name": "Sneasel ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89374_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89374_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89374_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "103/109",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Darkness",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[D] Double Scratch (10x) \r\n<br>Flip 2 coins.  This attack does 10 damage times the number of heads.",
+      "Attack 2": "[1DD] Beat Up (20x) \r\n<br>Flip a coin for each of your Pokemon in play <i>(including Sneasel ex)</i>.  This attack does 20 damage times the number of heads.",
+      "Weakness": "F",
+      "Resistance": "P",
+      "RetreatCost": "1",
+      "code": "103/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65773,
+    "name": "Swampert - 13/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89675_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89675_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89675_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "13/109",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "110",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-POWER</b> Water Call \r\n<br>Once during your turn (before your attack), you may attach a Water Energy card from your hand to your Active Pokemon.  This power can't be used if Swampert is affected by a Special Condition.",
+      "Attack 1": "[2WW] Hypno Slash (50) \r\n<br>The Defending Pokemon is now Asleep.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "13/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65774,
+    "name": "Swampert - 23/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89676_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89676_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89676_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "23/109",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-BODY</b> Natural Remedy \r\n<br>Once during your turn <em>(before your attack)</em>, when you attach a Water Energy card from your hand to Swampert, remove 1 damage counter from Swampert.",
+      "Attack 1": "[W] Water Arrow \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 20 damage to that Pokemon. <i> (Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Attack 2": "[2W] Waterfall (50)",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "23/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65775,
+    "name": "Swellow",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89688_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89688_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89688_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "46/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-POWER</b> Drive Off \r\n<br>Once during your turn (before your attack), if Swellow is your Active Pokemon, you may switch 1 of the Defending Pokemon with 1 of your opponent's Benched Pokemon.  Your opponent picks the Benched Pokemon to switch.  This power can't be used if Swellow is affected by a Special Condition.",
+      "Attack 1": "[2] Wing Attack (30)",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "0",
+      "code": "46/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65776,
+    "name": "Switch",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89709_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89709_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89709_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "92/109",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Switch your Active Pokemon with 1 of your Benched Pokemon.",
+      "code": "92/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65777,
+    "name": "Taillow",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89730_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89730_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89730_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "72/109",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Peck (10)",
+      "Attack 2": "[2] Wing Attack (20)",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "72/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65778,
+    "name": "Torchic - 73/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89949_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89949_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89949_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "73/109",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Peck (10)",
+      "Attack 2": "[1R] Fireworks (30) \r\n<br>Flip a coin.  If tails, discard a R Energy card attached to Torchic.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "73/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65779,
+    "name": "Torchic - 74/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89950_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89950_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89950_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "74/109",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Singe \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Burned.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "74/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65780,
+    "name": "Treecko - 75/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90032_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90032_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90032_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "75/109",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[G] Poison Breath\r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Poisoned.",
+      "Weakness": "R",
+      "Resistance": "W",
+      "RetreatCost": "1",
+      "code": "75/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65781,
+    "name": "Treecko - 76/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90033_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90033_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90033_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "76/109",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Tail Slap (10)",
+      "Attack 2": "[1G] Razor Leaf (20)",
+      "Weakness": "R",
+      "Resistance": "W",
+      "RetreatCost": "1",
+      "code": "76/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65782,
+    "name": "Vigoroth",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90366_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90366_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90366_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "47/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Fury Swipes (20x) \r\n<br>Flip 3 coins.  This attack does 20 damage times the number of heads.",
+      "Attack 2": "[3] Rage (20+) \r\n<br>Does 20 damage plus 10 more damage for each damage counter on Vigoroth.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "47/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65783,
+    "name": "Wailmer",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90450_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90450_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90450_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "48/109",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[2] Rest\r\n<br>Remove all Special Conditions and 4 damage counters from Wailmer (all if there are less then 4).  Wailmer is now Asleep.",
+      "Attack 2": "[1W] Water Gun (20+) \r\n<br>This attack does 20 damage plus 10 more damage for each Water Energy attached to Wailmer but not used to pay for this attack's Energy Cost.  You can't add more then 20 damage in this way.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "48/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65784,
+    "name": "Wailord",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90457_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90457_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90457_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "14/109",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "Attack 1": "[3] Take Down (50) \r\n<br>Wailord does 20 damage to itself.",
+      "Attack 2": "[2WWW] Surf (70)",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "4",
+      "code": "14/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65785,
+    "name": "Water Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90506_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90506_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90506_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "106/109",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "106/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65786,
+    "name": "Weezing",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90556_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90556_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90556_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "24/109",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[G] Confusion Gas (10) \r\n<br>The Defending Pokemon is now Confused.",
+      "Attack 2": "[1G] Poison Smog \r\n<br>Each Defending Pokemon is now Poisoned.  Does 10 damage to each of your opponent's Benched Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "24/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65787,
+    "name": "Wingull",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90605_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90605_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90605_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "77/109",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[W] Surprise Attack (20) \r\n<br>Flip a coin.  If tails, this attack does nothing.",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "77/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65788,
+    "name": "Wurmple",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90647_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90647_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90647_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "78/109",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Signs of Evolution\r\n<br>Search your deck for Silcoon and Beautifly, or Cascoon and Dustox cards.  Show 1 card or both cards of a pair to your opponent and put them into your hand.  Shuffle your deck afterward.",
+      "Attack 2": "[G] Poison Barb \r\n<br>The Defending Pokemon is now Poisoned.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "78/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ruby-and-sapphire",
+    "id": 65789,
+    "name": "Zigzagoon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90744_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90744_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90744_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "79/109",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Fury Swipes (10x) \r\n<br>Flip 3 coins.  This attack does 10 damage times the number of heads.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "79/109"
+    }
+  }
+]

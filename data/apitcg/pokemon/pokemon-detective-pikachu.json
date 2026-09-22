@@ -1,0 +1,424 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-detective-pikachu",
+    "id": 49720,
+    "name": "Arcanine",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/186009_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/186009_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/186009_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "6/18",
+      "Rarity": "Rare",
+      "Card Type": "Fire",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Ability — Security Guard</strong>\r\n<br>As long as this Pokemon is your Active Pokemon, all of your Pokemon take 30 less damage from your opponent's attacks <em>(after applying Weakness and Resistance)</em>.",
+      "Attack 1": "[2R] Sharp Fang (90)",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "6/18"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-detective-pikachu",
+    "id": 49715,
+    "name": "Bulbasaur (Holo Common)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/186001_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/186001_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/186001_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "1/18",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[G] Find a Friend\r\n<br>Search your deck for a Grass Pokemon, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "Weakness": "Rx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "1/18"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-detective-pikachu",
+    "id": 49719,
+    "name": "Charizard",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/186007_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/186007_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/186007_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "5/18",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "180",
+      "Stage": "Stage 2",
+      "Attack 1": "[2R] Slash (70)",
+      "Attack 2": "[3R] Wild Tackle (180)\r\n<br>This Pokemon does 50 damage to itself.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "5/18"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-detective-pikachu",
+    "id": 49718,
+    "name": "Charmander (Holo Common)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/186005_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/186005_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/186005_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "4/18",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Reckless Charge (20)\r\n<br>This Pokemon does 10 damage to itself.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "4/18"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-detective-pikachu",
+    "id": 49724,
+    "name": "Detective Pikachu",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/186015_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/186015_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/186015_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "10/18",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[L] Scout\r\n<br>Your opponent reveals their hand.",
+      "Attack 2": "[3] Surprise Attack (80)\r\n<br>Flip a coin. If tails, this attack does nothing.",
+      "Weakness": "Fx2",
+      "Resistance": "M-20",
+      "RetreatCost": "2",
+      "code": "10/18"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-detective-pikachu",
+    "id": 49731,
+    "name": "Ditto",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/186025_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/186025_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/186025_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "17/18",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Copy Anything\r\n<br>Choose 1 of your opponent's Pokemon's attacks and use it as this attack. If this Pokemon doesn't have the necessary Energy to use that attack, this attack does nothing.",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "17/18"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-detective-pikachu",
+    "id": 49723,
+    "name": "Greninja",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/186013_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/186013_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/186013_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "9/18",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Evasion Jutsu</strong>\r\n<br>If any damage is done to this Pokemon by attacks, flip a coin. If heads, prevent that damage.",
+      "Attack 1": "[WW] Furious Shurikens\r\n<br>This attack does 50 damage to 2 of your opponent's Pokemon. <em>(Don't apply Weakness and Resistance for Benched Pokemon.)</em>",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "9/18"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-detective-pikachu",
+    "id": 49728,
+    "name": "Jigglypuff (Holo Common)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/186022_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/186022_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/186022_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "14/18",
+      "Rarity": "Common",
+      "Card Type": "Fairy",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[Y] Healing Melody\r\n<br>Heal 10 damage from each of your Pokemon.",
+      "Weakness": "Mx2",
+      "Resistance": "D-20",
+      "RetreatCost": "1",
+      "code": "14/18"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-detective-pikachu",
+    "id": 49730,
+    "name": "Lickitung (Holo Common)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/186024_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/186024_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/186024_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "16/18",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[2] Continuous Lick (20x)\r\n<br>Flip a coin until you get tails. This attack does 20 damage for each heads.",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "16/18"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-detective-pikachu",
+    "id": 49716,
+    "name": "Ludicolo",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/186003_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/186003_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/186003_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "2/18",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Table Service</strong>\r\n<br>Once during your turn <em>(before your attack)</em>, you may heal 30 damage from 1 of your Pokemon.",
+      "Attack 1": "[2G] Punch and Run (70)\r\n<br>Switch this Pokemon with 1 of your Benched Pokemon.",
+      "Weakness": "Rx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "2/18"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-detective-pikachu",
+    "id": 49727,
+    "name": "Machamp",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/186021_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/186021_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/186021_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "13/18",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "160",
+      "Stage": "Stage 2",
+      "Attack 1": "[F] Directing Traffic\r\n<br>Look at the top 5 cards of your deck and put them back in any order.",
+      "Attack 2": "[FF] Cross Chop (80+)\r\n<br>Flip a coin. If heads, this attack does 60 more damage.",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "13/18"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-detective-pikachu",
+    "id": 49722,
+    "name": "Magikarp (Holo Common)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/186012_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/186012_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/186012_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "8/18",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "30",
+      "Stage": "Basic",
+      "Attack 1": "[W] Hold Still\r\n<br>Heal 10 damage from this Pokemon.",
+      "Weakness": "Lx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "8/18"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-detective-pikachu",
+    "id": 49726,
+    "name": "Mewtwo",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/186020_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/186020_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/186020_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "12/18",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[1P] Psyjack (30)\r\n<br>Choose 1 of your opponent's Active Pokemon's attacks. That Pokemon can't use that attack during your opponent's next turn.",
+      "Attack 2": "[1PP] Break Burn (130)\r\n<br>Discard 2 Psychic Energy from this Pokemon.",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "12/18"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-detective-pikachu",
+    "id": 49717,
+    "name": "Morelull (Holo Common)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/186004_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/186004_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/186004_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "3/18",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[G] Sleep Spore (10)\r\n<br>Your opponent's Active Pokemon is now Asleep.",
+      "Weakness": "Rx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "3/18"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-detective-pikachu",
+    "id": 49725,
+    "name": "Mr. Mime",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/186019_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/186019_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/186019_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "11/18",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Pantomime</strong>\r\n<br>When you play this Pokemon from your hand onto your Bench during your turn, you may switch 1 of your face-down Prize cards with the top card of your deck.",
+      "Attack 1": "[1P] Juggling (20x)\r\n<br>Flip 4 coins. This attack does 20 damage for each heads.",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "11/18"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-detective-pikachu",
+    "id": 49721,
+    "name": "Psyduck (Holo Common)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/186010_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/186010_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/186010_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "7/18",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[W] Panic (10)\r\n<br>This Pokemon is now Confused.",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "7/18"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-detective-pikachu",
+    "id": 49732,
+    "name": "Slaking",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/186026_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/186026_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/186026_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "18/18",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "180",
+      "Stage": "Stage 2",
+      "Attack 1": "[4] Pitch (150)\r\n<br>Your opponent switches their Active Pokemon with 1 of their Benched Pokemon.",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "4",
+      "code": "18/18"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-detective-pikachu",
+    "id": 49729,
+    "name": "Snubbull (Holo Common)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/186023_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/186023_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/186023_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "15/18",
+      "Rarity": "Common",
+      "Card Type": "Fairy",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[2] Play Rough (10+)\r\n<br>Flip a coin. If heads, this attack does 30 more damage.",
+      "Weakness": "Mx2",
+      "Resistance": "D-20",
+      "RetreatCost": "2",
+      "code": "15/18"
+    }
+  }
+]

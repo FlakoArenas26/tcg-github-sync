@@ -1,0 +1,1801 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51773,
+    "name": "Altaria",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175459_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175459_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175459_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "40/70",
+      "Rarity": "Holo Rare",
+      "Card Type": "Dragon",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Ability — Fight Song</strong>\r\n<br>Your Dragon Pokemon’s attacks do 20 more damage to your opponent’s Active Pokemon (before applying Weakness and Resistance).",
+      "Attack 1": "[2] Pierce (20)",
+      "Weakness": "Yx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "40/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51774,
+    "name": "Altaria GX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175467_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175467_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175467_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "41/70",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Dragon",
+      "HP": "200",
+      "Stage": "Stage 1",
+      "Attack 1": "[1Y] Bright Tone (50)\r\n<br>During your opponent’s next turn, this Pokemon can’t be damaged by attacks from your opponent’s Pokemon-GX and Pokemon-EX.",
+      "Attack 2": "[1WY] Sonic Edge (110)\r\n<br>This attack’s damage isn’t affected by effects on your opponent’s Active Pokemon.",
+      "Attack 3": "<span style=\"color:Teal\"><strong>[1Y] Euphoria GX</strong>\r\n<br>Your opponent’s Active Pokemon is now Asleep. Heal all damage from all of your Pokemon in play. <em>(You can't use more than 1 GX attack in a game.)</em></span>",
+      "Weakness": "Yx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "41/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51801,
+    "name": "Altaria GX (Full Art)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175498_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175498_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175498_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "68/70",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Dragon",
+      "HP": "200",
+      "Stage": "Stage 1",
+      "Attack 1": "[1Y] Bright Tone (50)\r\n<br>During your opponent’s next turn, this Pokemon can’t be damaged by attacks from your opponent’s Pokemon-GX and Pokemon-EX.",
+      "Attack 2": "[1WY] Sonic Edge (110)\r\n<br>This attack’s damage isn’t affected by effects on your opponent’s Active Pokemon.",
+      "Attack 3": "<span style=\"color:Teal\"><strong>[1Y] Euphoria GX</strong>\r\n<br>Your opponent’s Active Pokemon is now Asleep. Heal all damage from all of your Pokemon in play. <em>(You can't use more than 1 GX attack in a game.)</em></span>",
+      "Weakness": "Yx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "68/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51805,
+    "name": "Altaria GX (Secret)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175502_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175502_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175502_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "72/70",
+      "Rarity": "Secret Rare",
+      "Card Type": "Dragon",
+      "HP": "200",
+      "Stage": "Stage 1",
+      "Attack 1": "[1Y] Bright Tone (50)\r\n<br>During your opponent’s next turn, this Pokemon can’t be damaged by attacks from your opponent’s Pokemon-GX and Pokemon-EX.",
+      "Attack 2": "[1WY] Sonic Edge (110)\r\n<br>This attack’s damage isn’t affected by effects on your opponent’s Active Pokemon.",
+      "Attack 3": "<span style=\"color:Teal\"><strong>[1Y] Euphoria GX</strong>\r\n<br>Your opponent’s Active Pokemon is now Asleep. Heal all damage from all of your Pokemon in play. <em>(You can't use more than 1 GX attack in a game.)</em></span>",
+      "Weakness": "Yx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "72/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51775,
+    "name": "Bagon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175468_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175468_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175468_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "42/70",
+      "Rarity": "Common",
+      "Card Type": "Dragon",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Risky Kick (10)\r\n<br>Flip a coin. If tails, this attack does nothing.",
+      "Attack 2": "[RW] Dragon Eye (20)\r\n<br>Your opponent’s Active Pokemon is now Asleep.",
+      "Weakness": "Yx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "42/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51791,
+    "name": "Blaine's Last Stand",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175488_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175488_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175488_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "58/70",
+      "Rarity": "Holo Rare",
+      "Card Type": "Supporter",
+      "CardText": "You can only play this card if it is the only card in your hand.\r\n<br>For each of your Fire Pokemon in play, draw 2 cards.",
+      "code": "58/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51802,
+    "name": "Blaine's Last Stand (Full Art)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175499_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175499_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175499_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "69/70",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Supporter",
+      "CardText": "You can only play this card if it is the only card in your hand.\r\n<br>For each of your Fire Pokemon in play, draw 2 cards.",
+      "code": "69/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51739,
+    "name": "Blaziken",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175274_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175274_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175274_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "6/70",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Firestarter</strong>\r\n<br>Once during your turn (before your attack), you may attach a Fire Energy card from your discard pile to 1 of your Benched Pokemon.",
+      "Attack 1": "[2R] Fire Stream (90)\r\n<br>Discard a Fire Energy card attached to this Pokemon, then do 20 damage to each of your opponent’s Benched Pokemon. (Don’t apply Weakness or Resistance for Benched Pokemon.)",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "6/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51736,
+    "name": "Charizard",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175270_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175270_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175270_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "3/70",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "160",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Resolute Flame</strong>\r\n<br>This Pokémon's attacks do 30 more damage to your opponent's Active Pokémon for each of their Pokémon-GX and Pokémon-EX in play.",
+      "Attack 1": "[1RR] Fiery Blast (130)\r\n<br>Discard an Energy from this Pokémon.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "3/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51734,
+    "name": "Charmander",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175263_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175263_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175263_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "1/70",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1R] Fire Fang (20)\r\n<br>Your opponent's Active Pokémon is now Burned.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "1/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51735,
+    "name": "Charmeleon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175269_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175269_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175269_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "2/70",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Ability — Burning Fighter</strong>\r\n<br>When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may discard the top 5 cards of your deck. If any of those cards are Fire Energy cards, attach them to this Pokemon.",
+      "Attack 1": "[1RR] Flamethrower (80)\r\n<br>Discard an Energy from this Pokémon.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "2/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51738,
+    "name": "Combusken",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175273_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175273_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175273_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "5/70",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Ability — Natural Cure</strong>\r\n<br>Whenever you attach an Energy card from your hand to this Pokémon, remove all Special Conditions from it.",
+      "Attack 1": "[2] Lunge (60)\r\n<br>Flip a coin. If tails, this attack does nothing.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "5/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51760,
+    "name": "Corsola",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175400_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175400_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175400_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "27/70",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[W] Bubble Jet\r\n<br>This attack does 20 damage times the number of Water Energy attached to this Pokemon to 1 of your opponent’s Pokemon. <em>(Don’t apply Weakness and Resistance for Benched Pokemon.)</em>",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "27/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51756,
+    "name": "Croconaw",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175385_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175385_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175385_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "23/70",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Tackle (30)",
+      "Attack 2": "[1WW] Sweep Away (90)\r\n<br>Discard the top 3 cards from your deck.",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "23/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51742,
+    "name": "Darmanitan",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175277_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175277_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175277_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "9/70",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "130",
+      "Stage": "Stage 1",
+      "Attack 1": "[R] Heat Assist\r\n<br>Attach up to 3 Fire Energy cards from your hand to your Pokémon in any way you like.",
+      "Attack 2": "[1RR] Darmani-Hands (30+)\r\n<br>Flip 4 coins. This attack does 50 more damage for each heads.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "9/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51741,
+    "name": "Darumaka",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175276_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175276_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175276_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "8/70",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[2] Damage Rush (10+)\r\n<br>Flip a coin until you get tails. This attack does 30 more damage times the number of heads.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "8/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51792,
+    "name": "Dragon Talon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175489_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175489_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175489_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "59/70",
+      "Rarity": "Uncommon",
+      "Card Type": "Tool",
+      "CardText": "If the Dragon Pokemon this Pokemon Tool is attached to is your Active Pokemon and is damaged by an opponent’s attack, put 3 damage counters on the Attacking Pokemon.",
+      "code": "59/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51808,
+    "name": "Dragon Talon (Secret)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175505_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175505_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175505_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "75/70",
+      "Rarity": "Secret Rare",
+      "Card Type": "Tool",
+      "CardText": "If the Dragon Pokemon this Pokemon Tool is attached to is your Active Pokemon and is damaged by an opponent’s attack, put 3 damage counters on the Attacking Pokemon.",
+      "code": "75/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51769,
+    "name": "Dragonair",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175441_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175441_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175441_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "36/70",
+      "Rarity": "Uncommon",
+      "Card Type": "Dragon",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[3] Dragon Tail (60x)\r\n<br>Flip 2 coins. This attack does 60 damage for each heads.",
+      "Attack 2": "[2WL] Waterfall (80)",
+      "Weakness": "Yx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "36/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51770,
+    "name": "Dragonite GX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175450_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175450_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175450_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "37/70",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Dragon",
+      "HP": "250",
+      "Stage": "Stage 2",
+      "Attack 1": "[L] Dragon Claw (70)",
+      "Attack 2": "[2WL] Giga Impact (200)\r\n<br>This Pokemon can’t attack during your next turn.",
+      "Attack 3": "<span style=\"color:Teal\"><strong>[3] Dragonporter GX</strong>\r\n<br>Put 3 Dragon Pokémon from your discard pile onto your Bench. <em>(You can't use more than 1 GX attack in a game.)</em></span>",
+      "Weakness": "Yx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "37/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51800,
+    "name": "Dragonite GX (Full Art)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175497_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175497_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175497_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "67/70",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Dragon",
+      "HP": "250",
+      "Stage": "Stage 2",
+      "Attack 1": "[L] Dragon Claw (70)",
+      "Attack 2": "[2WL] Giga Impact (200)\r\n<br>This Pokemon can’t attack during your next turn.",
+      "Attack 3": "<span style=\"color:Teal\"><strong>[3] Dragonporter GX</strong>\r\n<br>Put 3 Dragon Pokémon from your discard pile onto your Bench. <em>(You can't use more than 1 GX attack in a game.)</em></span>",
+      "Weakness": "Yx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "67/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51784,
+    "name": "Drampa",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175481_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175481_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175481_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "51/70",
+      "Rarity": "Uncommon",
+      "Card Type": "Dragon",
+      "HP": "120",
+      "Stage": "Basic",
+      "Attack 1": "[1] Dragon's Wisdom (20)\r\n<br>Attach a basic Energy card from your discard pile to 1 of your Dragon Pokemon.",
+      "Attack 2": "[3] Hyper Voice (80)",
+      "Weakness": "Yx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "51/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51767,
+    "name": "Dratini (34)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175438_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175438_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175438_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "34/70",
+      "Rarity": "Common",
+      "Card Type": "Dragon",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[L] Wrap (10)\r\n<br>Flip a coin. If heads, your opponent’s Active Pokemon is now Paralyzed.",
+      "Weakness": "Yx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "34/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51768,
+    "name": "Dratini (35)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175439_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175439_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175439_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "35/70",
+      "Rarity": "Common",
+      "Card Type": "Dragon",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1W] Tail Whap (30)",
+      "Weakness": "Yx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "35/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51778,
+    "name": "Druddigon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175473_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175473_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175473_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "45/70",
+      "Rarity": "Uncommon",
+      "Card Type": "Dragon",
+      "HP": "110",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Rough Skin</strong>\r\n<br>If this Pokemon is your Active Pokemon and is damaged by an opponent’s attack, put 3 damage counters on the Attacking Pokemon.",
+      "Attack 1": "[1RW] Dragon Claw (100)",
+      "Weakness": "Yx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "45/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51761,
+    "name": "Feebas",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175403_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175403_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175403_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "28/70",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "30",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Submerge</strong>\r\n<br>If this Pokemon is on your Bench, it takes no damage from attacks.",
+      "Attack 1": "[W] Rain Splash (10)",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "28/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51757,
+    "name": "Feraligatr",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175386_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175386_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175386_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "24/70",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "160",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Downpour</strong>\r\n<br>As often as you like during your turn (before your attack), you may discard a [W] Energy card from your hand.",
+      "Attack 1": "[WW] Riptide (10+)\r\n<br>This attack does 20 more damage for each Water Energy card in your discard pile. Then, shuffle all your Water Energy cards from your discard pile into your deck.",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "24/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51793,
+    "name": "Fiery Flint",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175490_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175490_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175490_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "60/70",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Discard 2 cards from your hand in order to play this card.\r\n<br>Search your deck for up to 4 Fire Energy, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "code": "60/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51809,
+    "name": "Fiery Flint (Secret)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175506_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175506_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175506_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "76/70",
+      "Rarity": "Secret Rare",
+      "Card Type": "Item",
+      "CardText": "Discard 2 cards from your hand in order to play this card.\r\n<br>Search your deck for up to 4 Fire Energy, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "code": "76/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51772,
+    "name": "Flygon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175456_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175456_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175456_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "39/70",
+      "Rarity": "Uncommon",
+      "Card Type": "Dragon",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Dragon Protection</strong>\r\n<br>Prevent all effects of your opponent’s attacks, except damage, done to your Dragon Pokemon.",
+      "Attack 1": "[1FF] Sand Tomb (110)\r\n<br>The Defending Pokemon can’t retreat during your opponent’s next turn.",
+      "Weakness": "Yx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "39/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51753,
+    "name": "Gyarados",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175382_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175382_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175382_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "20/70",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "160",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Ability — Commotion</strong>\r\n<br>If this Pokémon is your Active Pokémon and is damaged by an opponent's attack <em>(even if this Pokémon is Knocked Out)</em>, put 2 damage counters on each of your Benched Pokémon.",
+      "Attack 1": "[1WW] Wild Tail (160)\r\n<br>You may discard any Stadium card in play.",
+      "Weakness": "Lx2",
+      "Resistance": "None",
+      "RetreatCost": "4",
+      "code": "20/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51786,
+    "name": "Hakamo-o",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175483_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175483_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175483_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "53/70",
+      "Rarity": "Common",
+      "Card Type": "Dragon",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[2] Guard Press (30)\r\n<br>During your opponent’s next turn, any damage done to this Pokemon by attacks is reduced by 30.",
+      "Attack 2": "[1LF] Dragon Claw (70)",
+      "Weakness": "Yx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "53/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51743,
+    "name": "Heatmor",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175312_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175312_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175312_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "10/70",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "110",
+      "Stage": "Basic",
+      "Attack 1": "[R] Super Singe\r\n<br>Your opponent’s Active Pokemon is now Burned.",
+      "Attack 2": "[RR] Blackening Breath (120)\r\n<br>If your opponent’s Active Pokemon isn’t Burned, this attack does nothing.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "10/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51748,
+    "name": "Horsea (15)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175369_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175369_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175369_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "15/70",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[W] Splatter\r\n<br>This attack does 20 damage to 1 of your opponent's Pokémon.<em> (Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "15/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51749,
+    "name": "Horsea (16)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175371_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175371_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175371_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "16/70",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Hydro Pump (10+)\r\n<br>This attack does 10 more damage times the amount of Water Energy attached to this Pokémon.",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "16/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51766,
+    "name": "Hydreigon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175431_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175431_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175431_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "33/70",
+      "Rarity": "Holo Rare",
+      "Card Type": "Darkness",
+      "HP": "160",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Weed Out</strong>\r\n<br>Once during your turn <em>(before your attack)</em>, you may choose 3 of your Benched Pokemon. Then, discard your other Benched Pokemon.",
+      "Attack 1": "[1DD] Dark Destruction (120)\r\n<br>You may discard an Energy from this Pokemon. If you do, discard an Energy from your opponent’s Active Pokemon.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "code": "33/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51785,
+    "name": "Jangmo-o",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175482_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175482_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175482_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "52/70",
+      "Rarity": "Common",
+      "Card Type": "Dragon",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[L] Rigidify\r\n<br>During your opponent’s next turn, any damage done to this Pokemon by attacks is reduced by 20.",
+      "Attack 2": "[1F] Dragon Claw (20)",
+      "Weakness": "Yx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "52/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51788,
+    "name": "Kangaskhan",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175485_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175485_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175485_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "55/70",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "120",
+      "Stage": "Basic",
+      "Attack 1": "[1] Fetch\r\n<br>Draw a card.",
+      "Attack 2": "[2] Headbutt (30)",
+      "Attack 3": "[3] One-Two Punch (60+)\r\n<br>Flip a coin. If heads, this attack does 30 more damage.",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "55/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51751,
+    "name": "Kingdra GX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175380_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175380_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175380_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "18/70",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Water",
+      "HP": "230",
+      "Stage": "Stage 2",
+      "Attack 1": "[1] Hydro Pump (10+)\r\n<br>This attack does 50 more damage for each Water Energy attached to this Pokemon.",
+      "Attack 2": "[W] Reverse Thrust (30)\r\n<br>Switch this Pokemon with 1 of your Benched Pokemon.",
+      "Attack 3": "<span style=\"color:Teal\"><strong>[W] Maelstrom GX </strong>\r\n<br>This attack does 40 damage to each of your opponent’s Pokemon. <em>(You can't use more than 1 GX attack in a game.)</em></span>",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "18/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51799,
+    "name": "Kingdra GX (Full Art)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175496_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175496_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175496_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "66/70",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Water",
+      "HP": "230",
+      "Stage": "Stage 2",
+      "Attack 1": "[1] Hydro Pump (10+)\r\n<br>This attack does 50 more damage for each Water Energy attached to this Pokemon.",
+      "Attack 2": "[W] Reverse Thrust (30)\r\n<br>Switch this Pokemon with 1 of your Benched Pokemon.",
+      "Attack 3": "<span style=\"color:Teal\"><strong>[W] Maelstrom GX </strong>\r\n<br>This attack does 40 damage to each of your opponent’s Pokemon. <em>(You can't use more than 1 GX attack in a game.)</em></span>",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "66/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51787,
+    "name": "Kommo-o",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175484_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175484_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175484_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "54/70",
+      "Rarity": "Holo Rare",
+      "Card Type": "Dragon",
+      "HP": "160",
+      "Stage": "Stage 2",
+      "Attack 1": "[1L] Guard Press (60)\r\n<br>During your opponent’s next turn, any damage done to this Pokemon by attacks is reduced by 30.",
+      "Attack 2": "[2F] Enraged Uppercut (90)\r\n<br>If this Pokemon has 8 or more damage counters on it, this attack does 120 more damage.",
+      "Weakness": "Yx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "54/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51780,
+    "name": "Kyurem",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175477_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175477_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175477_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "47/70",
+      "Rarity": "Holo Rare",
+      "Card Type": "Dragon",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[2] Outrage (20+)\r\n<br>This attack does 10 more damage for each damage counter on this Pokemon.",
+      "Attack 2": "[1WW] Frost Spear (100)\r\n<br>This attack does 20 damage to 1 of your opponent’s Benched Pokemon. (Don’t apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "Yx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "47/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51794,
+    "name": "Lance Prism Star",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175491_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175491_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175491_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "61/70",
+      "Rarity": "Prism Rare",
+      "Card Type": "Supporter",
+      "CardText": "You can only play this card if 1 of your Pokemon was Knocked Out during your opponent’s last turn.\r\n<br>Search your deck for 2 Dragon Pokemon and put them onto your Bench. Then, shuffle your deck.",
+      "code": "61/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51754,
+    "name": "Lapras",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175383_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175383_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175383_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "21/70",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "120",
+      "Stage": "Basic",
+      "Attack 1": "[W] Water Bullet (20)\r\n<br>This attack does 20 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Attack 2": "[3] Hydro Pump (70+)\r\n<br>This attack does 10 more damage times the amount of Water Energy attached to this Pokémon.",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "21/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51745,
+    "name": "Litten",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175348_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175348_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175348_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "12/70",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[R] Fury Swipes (10x)\r\n<Br>Flip 3 coins. This attack does 10 damage times the amount of heads.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "12/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51752,
+    "name": "Magikarp",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175381_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175381_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175381_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "19/70",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "30",
+      "Stage": "Basic",
+      "Attack 1": "[W] Water Splash: 10)\r\n<br>Flip a coin. If heads, this attack does 10 more damage.",
+      "Weakness": "Lx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "19/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51762,
+    "name": "Milotic",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175412_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175412_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175412_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "29/70",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "Attack 1": "[W] Aurora Wave (30)\r\n<br>Your opponent’s Active Pokemon is now Confused.",
+      "Attack 2": "[WWW] Aqua Split (40)\r\n<br>This attack does 40 damage to 2 of your opponent’s Benched Pokemon. <em>(Don’t apply Weakness and Resistance for Benched Pokemon.)</em>",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "29/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51763,
+    "name": "Phione",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175416_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175416_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175416_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "30/70",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Ocean Whisper</strong>\r\n<br>Your Water Pokemon can’t be Confused. <em>(Remove any Confusion affecting your Water Pokemon.)</em>",
+      "Attack 1": "[WW] Water Pulse (30)\r\n<br>Your opponent’s Active Pokemon is now Asleep.",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "30/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51759,
+    "name": "Quagsire",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175392_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175392_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175392_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "26/70",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Ability — Wash Out</strong>\r\n<br>As often as you like during your turn <em>(before your attack)</em>, you may move a Water Energy from 1 of your Benched Pokemon to your Active Pokemon.",
+      "Attack 1": "[3] Hydro Pump (60+)\r\n<br>This attack does 20 more damage for each Water Energy attached to this Pokemon.",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "26/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51744,
+    "name": "Reshiram GX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175347_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175347_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175347_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "11/70",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fire",
+      "HP": "180",
+      "Stage": "Basic",
+      "Attack 1": "[1] Flame Charge\r\n<br>Search your deck for 2 basic Fire Energy card and attach them to this Pokemon. Then, shuffle your deck.",
+      "Attack 2": "[1RRR] Scorching Pillar (110)\r\n<br>Your opponent’s Active Pokemon is now Burned.",
+      "Attack 3": "<span style=\"color:Teal\"><strong>[1RRR] Vermilion GX (180)</strong>\r\n<br>You may attach up to 5 Fire Energy from your hand to your Pokemon in any way you like.<em> (You can't use more than 1 GX attack in a game.)</em></span>",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "11/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51798,
+    "name": "Reshiram GX (Full Art)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175495_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175495_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175495_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "65/70",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fire",
+      "HP": "180",
+      "Stage": "Basic",
+      "Attack 1": "[1] Flame Charge\r\n<br>Search your deck for 2 basic Fire Energy card and attach them to this Pokemon. Then, shuffle your deck.",
+      "Attack 2": "[1RRR] Scorching Pillar (110)\r\n<br>Your opponent’s Active Pokemon is now Burned.",
+      "Attack 3": "<span style=\"color:Teal\"><strong>[1RRR] Vermilion GX (180)</strong>\r\n<br>You may attach up to 5 Fire Energy from your hand to your Pokemon in any way you like.<em> (You can't use more than 1 GX attack in a game.)</em></span>",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "65/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51804,
+    "name": "Reshiram GX (Secret)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175501_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175501_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175501_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "71/70",
+      "Rarity": "Secret Rare",
+      "Card Type": "Fire",
+      "HP": "180",
+      "Stage": "Basic",
+      "Attack 1": "[1] Flame Charge\r\n<br>Search your deck for 2 basic Fire Energy card and attach them to this Pokemon. Then, shuffle your deck.",
+      "Attack 2": "[1RRR] Scorching Pillar (110)\r\n<br>Your opponent’s Active Pokemon is now Burned.",
+      "Attack 3": "<span style=\"color:Teal\"><strong>[1RRR] Vermilion GX (180)</strong>\r\n<br>You may attach up to 5 Fire Energy from your hand to your Pokemon in any way you like.<em> (You can't use more than 1 GX attack in a game.)</em></span>",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "71/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51777,
+    "name": "Salamence GX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175472_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175472_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175472_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "44/70",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Dragon",
+      "HP": "250",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Dragon Lift</strong>\r\n<br>The Retreat Cost of each of your Pokemon (excluding Pokemon-EX and Pokemon-GX) is 0.",
+      "Attack 1": "[2RW] Bright Flame (200)\r\n<br>Discard 2 Energy from this Pokemon",
+      "Attack 2": "<span style=\"color:Teal\"><strong>[2R] Flame Jet GX</strong>\r\n<br>This attack does 120 damage to 1 of your opponent’s Pokemon. <em>(You can't use more than 1 GX attack in a game.)</em></span>",
+      "Weakness": "Yx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "44/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51806,
+    "name": "Salamence GX (Secret)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175503_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175503_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175503_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "73/70",
+      "Rarity": "Secret Rare",
+      "Card Type": "Dragon",
+      "HP": "250",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Dragon Lift</strong>\r\n<br>The Retreat Cost of each of your Pokemon (excluding Pokemon-EX and Pokemon-GX) is 0.",
+      "Attack 1": "[2RW] Bright Flame (200)\r\n<br>Discard 2 Energy from this Pokemon",
+      "Attack 2": "<span style=\"color:Teal\"><strong>[2R] Flame Jet GX</strong>\r\n<br>This attack does 120 damage to 1 of your opponent’s Pokemon. <em>(You can't use more than 1 GX attack in a game.)</em></span>",
+      "Weakness": "Yx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "73/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51746,
+    "name": "Salandit",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175365_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175365_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175365_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "13/70",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Call For Family\r\n<br>Search your deck for a Basic Pokemon, reveal it, and put it onto your Bench. Then, shuffle your deck.",
+      "Attack 2": "[1R] Dig Claws (20)",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "13/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51747,
+    "name": "Salazzle",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175366_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175366_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175366_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "14/70",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "Attack 1": "[R] Ring of Fire (20)\r\n<br>Your opponent's Active Pokémon is now Burned. It can't retreat during your opponent's next turn.",
+      "Attack 2": "[1R] Flamethrower (80)\r\n<br>Discard an Energy from this Pokémon.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "14/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51750,
+    "name": "Seadra",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175379_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175379_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175379_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "17/70",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Hydro Pump (10+)\r\n<br>This attack does 20 more damage times the amount of Water Energy attached to this Pokémon.",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "17/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51776,
+    "name": "Shelgon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175469_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175469_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175469_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "43/70",
+      "Rarity": "Uncommon",
+      "Card Type": "Dragon",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Ability — Energy Guard</strong>\r\n<br>As long as this Pokemon has any basic Energy cards attached to it, damage done to this Pokemon by an opponent’s attack is reduced by 10 (after applying Weakness and Resistance).",
+      "Attack 1": "[2] Rollout (20)\r\n<br>Flip a coin. If tails, this attack does nothing.",
+      "Weakness": "Yx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "43/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51789,
+    "name": "Swablu (56)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175486_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175486_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175486_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "56/70",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Collect\r\n<br>Draw a card.",
+      "Attack 2": "[2] Peck (20)",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "code": "56/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51790,
+    "name": "Swablu (57)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175487_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175487_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175487_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "57/70",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Sing \r\n<br>Your opponent’s Active Pokemon is now Asleep.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "code": "57/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51795,
+    "name": "Switch Raft",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175492_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175492_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175492_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "62/70",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Switch your Active Water Pokemon with 1 of your Benched Pokemon. Then, heal 30 damage from the Pokemon you moved to your Bench.",
+      "code": "62/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51810,
+    "name": "Switch Raft (Secret)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175507_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175507_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175507_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "77/70",
+      "Rarity": "Secret Rare",
+      "Card Type": "Item",
+      "CardText": "Switch your Active Water Pokemon with 1 of your Benched Pokemon. Then, heal 30 damage from the Pokemon you moved to your Bench.",
+      "code": "77/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51737,
+    "name": "Torchic",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175272_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175272_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175272_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "4/70",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Singe\r\n<br>Flip a coin. If heads, your opponent's Active Pokémon is now Burned.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "4/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51755,
+    "name": "Totodile",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175384_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175384_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175384_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "22/70",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Leer\r\n<br>Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+      "Attack 2": "[W] Fury Swipes (10x)\r\n<br>Flip 3 coins. This attack does 10 damage for each heads.",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "22/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51765,
+    "name": "Trapinch",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175425_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175425_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175425_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "32/70",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[F] Tremor (20)\r\n<br>This attack does 10 damage to each of your Benched Pokemon. <em>(Don’t apply Weakness and Resistance for Benched Pokemon.)</em>",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "32/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51783,
+    "name": "Turtonator",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175480_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175480_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175480_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "50/70",
+      "Rarity": "Uncommon",
+      "Card Type": "Dragon",
+      "HP": "110",
+      "Stage": "Basic",
+      "Attack 1": "[RRR] Explosive Jet (50x)\r\n<br>You may discard any number of Fire Energy attached to your Pokemon. This attack does 50 damage for each card discarded in this way.",
+      "Weakness": "Yx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "50/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51811,
+    "name": "Ultra Necrozma GX (Secret)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175508_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175508_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175508_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "78/70",
+      "Rarity": "Secret Rare",
+      "Card Type": "Dragon",
+      "HP": "190",
+      "Stage": "Basic",
+      "Attack 1": "[PM] Photon Geyser (20+)\r\n<br>Discard all basic Psychic Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way.",
+      "Attack 2": "<span style=\"color:DarkRed\"><strong>[PM] Sky-Scorching Light GX (Damage)</strong>\r\n<br>You can use this attack only if the total of both players' remaining Prize cards is 6 or less. Put 6 damage counters on each of your opponent's Pokémon. <em>(You can't use more than 1 GX attack in a game.)</em></span>",
+      "Weakness": "Yx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "78/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51771,
+    "name": "Vibrava",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175451_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175451_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175451_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "38/70",
+      "Rarity": "Common",
+      "Card Type": "Dragon",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1F] Sonic Edge (50)\r\n<br>This attack’s damage isn’t affected by any effects on your opponent’s Active Pokemon.",
+      "Weakness": "Yx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "38/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51740,
+    "name": "Victini Prism Star",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175275_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175275_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175275_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "7/70",
+      "Rarity": "Prism Rare",
+      "Card Type": "Fire",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[RR] Infinity (20x)\r\n<br>This attack does 20 damage times the number of basic Energy cards in your discard pile. Then, shuffle those cards into your deck.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "7/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51796,
+    "name": "Wela Volcano Park",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175493_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175493_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175493_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "63/70",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "CardText": "Each player’s Burned Pokemon remains Burned between turns (even if the coin flip is heads).",
+      "code": "63/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51781,
+    "name": "White Kyurem GX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175478_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175478_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175478_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "48/70",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Dragon",
+      "HP": "190",
+      "Stage": "Basic",
+      "Attack 1": "[R] Shred (40)\r\n<br>This attack’s damage isn’t affected by any effects on your opponent’s Active Pokemon.",
+      "Attack 2": "[1RW] Enraged Blade (80+)\r\n<br>If this Pokemon has any damage counters on it, this attack does 80 more damage.",
+      "Attack 3": "<span style=\"color:Teal\"><strong>[1RRW] Dragon Nova GX (200)</strong>\r\n<br>Your opponent’s Active Pokemon is now Burned and Paralyzed. <em>(You can't use more than 1 GX attack in a game.)</em></span>",
+      "Weakness": "Yx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "48/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51807,
+    "name": "White Kyurem GX (Secret)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175504_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175504_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175504_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "74/70",
+      "Rarity": "Secret Rare",
+      "Card Type": "Dragon",
+      "HP": "190",
+      "Stage": "Basic",
+      "Attack 1": "[R] Shred (40)\r\n<br>This attack’s damage isn’t affected by any effects on your opponent’s Active Pokemon.",
+      "Attack 2": "[1RW] Enraged Blade (80+)\r\n<br>If this Pokemon has any damage counters on it, this attack does 80 more damage.",
+      "Attack 3": "<span style=\"color:Teal\"><strong>[1RRW] Dragon Nova GX (200)</strong>\r\n<br>Your opponent’s Active Pokemon is now Burned and Paralyzed. <em>(You can't use more than 1 GX attack in a game.)</em></span>",
+      "Weakness": "Yx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "74/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51764,
+    "name": "Wishiwashi",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175417_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175417_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175417_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "31/70",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "30",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Meetup Pointr</strong>\r\n<br>As long as this Pokémon is in play, each of your Wishiwashi GX get +20 HP and their attacks do 20 more damage to your opponent’s Active Pokemon <em>(before applying Weakness and Resistance)</em>.",
+      "Attack 1": "[W] Water Gun (20)",
+      "Weakness": "Lx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "31/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51758,
+    "name": "Wooper",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175387_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175387_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175387_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "25/70",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Ram (10)",
+      "Attack 2": "[1W] Rain Splash (20)",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "25/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51779,
+    "name": "Zekrom",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175476_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175476_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175476_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "46/70",
+      "Rarity": "Holo Rare",
+      "Card Type": "Dragon",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[2L] Shred (70)\r\n<br>This attack’s damage isn’t affected by any effects on your opponent’s Active Pokemon.",
+      "Attack 2": "[2LL] Bolt Strike (150)\r\n<br>Flip a coin. If tails, this Pokemon does 50 damage to itself.",
+      "Weakness": "Yx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "46/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51797,
+    "name": "Zinnia",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175494_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175494_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175494_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "64/70",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "You can only play this card if 1 of your Pokemon was Knocked Out during your opponent’s last turn.\r\n<br>Attach up to 2 basic Energy cards from your hand to 1 of your Dragon Pokemon.",
+      "code": "64/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51803,
+    "name": "Zinnia (Full Art)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175500_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175500_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175500_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "70/70",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Supporter",
+      "CardText": "You can only play this card if 1 of your Pokemon was Knocked Out during your opponent’s last turn.\r\n<br>Attach up to 2 basic Energy cards from your hand to 1 of your Dragon Pokemon.",
+      "code": "70/70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-majesty",
+    "id": 51782,
+    "name": "Zygarde",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/175479_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/175479_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/175479_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "49/70",
+      "Rarity": "Uncommon",
+      "Card Type": "Dragon",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[F] Rumble (20)\r\n<br>The Defending Pokemon can’t retreat during your opponent’s next turn.",
+      "Attack 2": "[2F] Enraged Blade (60)\r\n<br>If this Pokemon has any damage counters on it, this attack does 60 more damage.",
+      "Weakness": "Yx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "49/70"
+    }
+  }
+]

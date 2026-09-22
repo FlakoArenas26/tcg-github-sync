@@ -1,0 +1,3380 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61552,
+    "name": "Altaria - BW48 (Prerelease)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83520_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83520_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83520_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW48",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Fight Song</strong>\r\n<br>\r\nYour Dragon Pokémon's attacks do 20 more damage to the Active Pokémon <em>(before applying Weakness and Resistance)</em>.",
+      "Attack 1": "[1MW] Glide (40)",
+      "Weakness": "Ox2",
+      "RetreatCost": "1",
+      "Artist": "5ban Graphics",
+      "code": "BW48"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61649,
+    "name": "Altaria - BW48 (Prerelease) [Staff]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96566_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96566_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96566_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW48",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Fight Song</strong>\r\n<br>\r\nYour Dragon Pokémon's attacks do 20 more damage to the Active Pokémon <em>(before applying Weakness and Resistance)</em>.",
+      "Attack 1": "[1WM] Glide (40)",
+      "Weakness": "Ox2",
+      "RetreatCost": "1",
+      "Artist": "5ban Graphics",
+      "code": "BW48"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61553,
+    "name": "Ampharos - BW67",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83548_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83548_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83548_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW67",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[L] Random Spark \r\n<br>\r\nThis attack does 30 damage to 1 of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokemon.)</em>",
+      "Attack 2": "[1LL] Electricannon (60+) \r\n<br>\r\nYou may discard all L Energy attached to this Pokémon. If you do, this attack does 60 more damage.",
+      "Weakness": "Fx2",
+      "RetreatCost": "2",
+      "Artist": "Naoki Saito",
+      "code": "BW67"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61697,
+    "name": "Arcanine - 12/99 (Prerelease)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/230421_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/230421_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/230421_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "12/99",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "130",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Ability — Blazing Mane</strong>\r\n<br>If this Pokémon is your Active Pokémon and is damaged by an opponent's attack <em>(even if this Pokémon is Knocked Out)</em>, the Attacking Pokémon is now Burned.",
+      "Attack 1": "[1RR] Fire Spin (100)\r\n<br>\r\nFlip a coin. If tails, discard 2 Energy attached to this Pokémon.",
+      "Weakness": "Wx2",
+      "RetreatCost": "3",
+      "Artist": "Mitsuhiro Arita",
+      "code": "12/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61698,
+    "name": "Arcanine - 12/99 (Prerelease) [Staff]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/230422_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/230422_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/230422_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "12/99",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "130",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Ability — Blazing Mane</strong>\r\n<br>\r\nIf this Pokémon is your Active Pokémon and is damaged by an opponent's attack <em>(even if this Pokémon is Knocked Out)</em>, the Attacking Pokémon is now Burned.",
+      "Attack 1": "[1RR] Fire Spin (100) \r\n<br>\r\nFlip a coin. If tails, discard 2 Energy attached to this Pokémon.",
+      "Weakness": "Wx2",
+      "RetreatCost": "3",
+      "Artist": "Mitsuhiro Arita",
+      "code": "12/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61554,
+    "name": "Axew - BW10",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83666_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83666_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83666_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW10",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[2] Dragon Rage (50) \r\n<br>\r\nFlip 2 coins. If either of them is tails, this attack does nothing.",
+      "RetreatCost": "1",
+      "Artist": "Masakazu Fukuda",
+      "code": "BW10"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61555,
+    "name": "Axew - BW16",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83667_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83667_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83667_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW16",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[2] Dragon Rage (50) \r\n<br>\r\nFlip 2 coins. If either of them is tails, this attack does nothing.",
+      "RetreatCost": "1",
+      "Artist": "Masakazu Fukuda",
+      "code": "BW16"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61556,
+    "name": "Axew - BW26",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83669_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83669_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83669_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW26",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[2] Big Bite (20) \r\n<br>\r\nThe Defending Pokémon can't retreat during your opponent's next turn.",
+      "RetreatCost": "1",
+      "Artist": "Akira Komayama",
+      "code": "BW26"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61557,
+    "name": "Battle City - BW39",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83739_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83739_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83739_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW39",
+      "Rarity": "Promo",
+      "Card Type": "Stadium",
+      "CardText": "<em>This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.</em>\r\n<br>\r\nOnce during each player's turn, that player may flip a coin. If heads, the player draws a card.",
+      "code": "BW39"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61558,
+    "name": "Black Kyurem - BW58",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83852_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83852_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83852_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW58",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[1L] Dual Claw (20x)\r\n<br>\r\nFlip 2 coins. This attack does 20 damage times the number of heads.",
+      "Attack 2": "[2LW] Flash Freeze (100) \r\n<br>\r\nDiscard an Energy attached to this Pokémon.",
+      "Weakness": "Ox2",
+      "RetreatCost": "2",
+      "code": "BW58"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61559,
+    "name": "Black Kyurem EX - BW62",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83855_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83855_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83855_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW62",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "180",
+      "Stage": "Basic",
+      "Attack 1": "[2L] Dragon Fang (60) \r\n<br>\r\nFlip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Attack 2": "[1LLW] Freeze Shock (150) \r\n<br>\r\nThis Pokémon can't attack during your next turn.",
+      "Weakness": "Ox2",
+      "RetreatCost": "3",
+      "Artist": "Eske Yoshinob",
+      "code": "BW62"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61560,
+    "name": "Champions Festival - BW95 (Worlds 13)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84162_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84162_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84162_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW95",
+      "Rarity": "Promo",
+      "Card Type": "Stadium",
+      "CardText": "<em>This card stays in play when you play it. Discard this card if another Stadium card comes into play.  If another card with the same name is in play, you can't play this card.</em>\r\n<br>\r\nOnce during each player's turn, if that player has 6 Pokémon in play, he or she may heal 10 damage from each of his or her Pokémon.",
+      "Artist": "Naoki Saito",
+      "code": "BW95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61684,
+    "name": "Champions Festival - BW95 (Worlds 13) [Champion]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97089_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97089_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97089_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW95",
+      "Rarity": "Promo",
+      "Card Type": "Stadium",
+      "CardText": "<em>This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.</em>\r\n<br>\r\nOnce during each player's turn, if that player has 6 Pokémon in play, he or she may heal 10 damage from each of his or her Pokémon.",
+      "Artist": "Naoki Saito",
+      "code": "BW95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61654,
+    "name": "Champions Festival - BW95 (Worlds 13) [Finalist]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96571_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96571_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96571_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW95",
+      "Rarity": "Promo",
+      "Card Type": "Stadium",
+      "CardText": "<em>This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.</em>\r\n<br>\r\nOnce during each player's turn, if that player has 6 Pokémon in play, he or she may heal 10 damage from each of his or her Pokémon.",
+      "Artist": "Naoki Saito",
+      "code": "BW95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61652,
+    "name": "Champions Festival - BW95 (Worlds 13) [Quarter-Finalist]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96569_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96569_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96569_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW95",
+      "Rarity": "Promo",
+      "Card Type": "Stadium",
+      "CardText": "<em>This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.</em>\r\n<br>\r\nOnce during each player's turn, if that player has 6 Pokémon in play, he or she may heal 10 damage from each of his or her Pokémon.",
+      "Artist": "Naoki Saito",
+      "code": "BW95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61653,
+    "name": "Champions Festival - BW95 (Worlds 13) [Semi-Finalist]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96570_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96570_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96570_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW95",
+      "Rarity": "Promo",
+      "Card Type": "Stadium",
+      "CardText": "<em>This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.</em>\r\n<br>\r\nOnce during each player's turn, if that player has 6 Pokémon in play, he or she may heal 10 damage from each of his or her Pokémon.",
+      "Artist": "Naoki Saito",
+      "code": "BW95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61655,
+    "name": "Champions Festival - BW95 (Worlds 13) [Staff]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96572_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96572_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96572_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW95",
+      "Rarity": "Promo",
+      "Card Type": "Stadium",
+      "CardText": "<em>This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.</em>\r\n<br>\r\nOnce during each player's turn, if that player has 6 Pokémon in play, he or she may heal 10 damage from each of his or her Pokémon.",
+      "Artist": "Naoki Saito",
+      "code": "BW95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61651,
+    "name": "Champions Festival - BW95 (Worlds 13) [Top 16]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96568_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96568_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96568_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW95",
+      "Rarity": "Promo",
+      "Card Type": "Stadium",
+      "CardText": "<em>This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.</em>\r\n<br>\r\nOnce during each player's turn, if that player has 6 Pokémon in play, he or she may heal 10 damage from each of his or her Pokémon.",
+      "Artist": "Naoki Saito",
+      "code": "BW95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61650,
+    "name": "Champions Festival - BW95 (Worlds 13) [Top Thirty-Two]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96567_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96567_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96567_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW95",
+      "Rarity": "Promo",
+      "Card Type": "Stadium",
+      "CardText": "<em>This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.</em>\r\n<br>\r\nOnce during each player's turn, if that player has 6 Pokémon in play, he or she may heal 10 damage from each of his or her Pokémon.",
+      "Artist": "Naoki Saito",
+      "code": "BW95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61561,
+    "name": "Cobalion - BW72",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84379_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84379_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84379_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW72",
+      "Rarity": "Promo",
+      "Card Type": "Metal",
+      "HP": "120",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Justified</strong>\r\n<br>\r\nEach of this Pokémon's attacks does 50 more damage to Darkness Pokémon <em>(before applying Weakness and Resistance)</em>.",
+      "Attack 1": "[1MM] Iron Head (60+) \r\n<br>\r\nFlip a coin until you get tails. This attack does 20 more damage for each heads.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "3",
+      "Artist": "5ban Graphics",
+      "code": "BW72"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61562,
+    "name": "Crobat - BW51 (Team Plasma) (Prerelease)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84492_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84492_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84492_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW51",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "130",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Night Sight</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may draw a card.",
+      "Attack 1": "[2P] Ultra-Toxic Fang (40) \r\n<br>\r\nThe Defending Pokémon is now Poisoned. Put 4 damage counters instead of 1 on this Pokémon between turns.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "0",
+      "Artist": "5ban Graphics",
+      "code": "BW51"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61656,
+    "name": "Crobat - BW51 (Team Plasma) (Prerelease) [Staff]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96573_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96573_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96573_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW51",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "130",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Night Sight</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may draw a card.",
+      "Attack 1": "[2P] Ultra-Toxic Fang (40) \r\n<br>\r\nThe Defending Pokémon is now Poisoned. Put 4 damage counters instead of 1 on this Pokémon between turns.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "0",
+      "Artist": "5ban Graphics",
+      "code": "BW51"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61563,
+    "name": "Darkrai (Team Plasma) - BW73",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84703_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84703_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84703_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW73",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "110",
+      "Stage": "Basic",
+      "Attack 1": "[1D] Hide in Shadows (30) \r\n<br>You may switch this Pokémon with 1 of your Benched Pokémon.",
+      "Attack 2": "[2DD] Dark Hole (90) \r\n<br>Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "BW73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61564,
+    "name": "Darkrai EX - BW46",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84707_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84707_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84707_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW46",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "180",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Dark Cloak</strong>\r\n<br>\r\nEach of your Pokémon that has any Darkness Energy attached to it has no Retreat Cost.",
+      "Attack 1": "[1DD] Night Spear (90) \r\n<br>Does 30 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "Artist": "Toyste Beach",
+      "code": "BW46"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61693,
+    "name": "Darmanitan - 25/114 (Prerelease)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/228483_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/228483_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/228483_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "25/114",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "Attack 1": "[1R] Fire Fang (20) \r\n<br>The Defending Pokémon is now Burned.",
+      "Attack 2": "[2R] Thrash (70+) \r\n<br>Flip a coin. If heads, this attack does 20 more damage. If tails, this Pokémon does 20 damage to itself.",
+      "Weakness": "Wx2",
+      "RetreatCost": "2",
+      "Artist": "Naoki Saito",
+      "code": "25/114"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61694,
+    "name": "Darmanitan - 25/114 (Prerelease) [Staff]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/228485_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/228485_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/228485_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "25/114",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "Attack 1": "[1R] Fire Fang (20) \r\n<br>The Defending Pokémon is now Burned.",
+      "Attack 2": "[2R] Thrash (70+) \r\n<br>Flip a coin. If heads, this attack does 20 more damage. If tails, this Pokémon does 20 damage to itself.",
+      "Weakness": "Wx2",
+      "RetreatCost": "2",
+      "Artist": "Naoki Saito",
+      "code": "25/114"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61565,
+    "name": "Darumaka - BW18",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84720_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84720_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84720_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW18",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1R] Searing Flame (20) \r\n<br>Flip a coin. If heads, the Defending Pokémon is now Burned.",
+      "Weakness": "Wx2",
+      "RetreatCost": "2",
+      "Artist": "Akira Komayama",
+      "code": "BW18"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61566,
+    "name": "Deoxys EX (Team Plasma) - BW82",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84776_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84776_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84776_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW82",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "170",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Power Connect</strong>\r\n<br>\r\nYour Team Plasma Pokémon’s attacks (excluding Deoxys-EX) do 10 more damage to the Active Pokémon <em>(before applying Weakness and Resistance)</em>.",
+      "Attack 1": "[1P] Helix Force (30+) \r\n<br>If this Pokémon has any Plasma Energy attached to it, this attack does 30 more damage for each Energy attached to the Defending Pokémon.",
+      "Weakness": "Px2",
+      "RetreatCost": "2",
+      "Artist": "Eske Yoshinob",
+      "code": "BW82"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61567,
+    "name": "Drifblim - BW64",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84950_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84950_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84950_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW64",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Shadow Steal (50x) \r\n<br>Does 50 damage times the number of Special Energy cards in your opponent's discard pile.",
+      "Attack 2": "[1P] Plentiful Placement \r\n<br>Put 4 damage counters on 1 of your opponent's Pokémon.",
+      "Weakness": "Dx2",
+      "RetreatCost": "1",
+      "Artist": "Naoki Saito",
+      "code": "BW64"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61568,
+    "name": "Druddigon (Team Plasma) - BW80",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84983_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84983_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84983_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW80",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[1] Taunt  \r\n<br>Switch 1 of your opponent's Benched Pokémon with the Defending Pokémon.",
+      "Attack 2": "[1RW] Boost Claw (60) \r\n<br>During your next turn, each of this Pokémon's attacks does 30 more damage <em>(before applying Weakness and Resistance)</em>.",
+      "Weakness": "Ox2",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "BW80"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61699,
+    "name": "Druddigon (Team Plasma) - BW80 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/242032_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/242032_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/242032_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW80",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[1] Taunt  \r\n<br>Switch 1 of your opponent's Benched Pokémon with the Defending Pokémon.",
+      "Attack 2": "[1RW] Boost Claw (60) \r\n<br>During your next turn, each of this Pokémon's attacks does 30 more damage <em>(before applying Weakness and Resistance)</em>.",
+      "Weakness": "Ox2",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "BW80"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61569,
+    "name": "Ducklett - BW17",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84992_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84992_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84992_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW17",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[W] Water Gun (10)",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "Artist": "Kagemaru Himeno",
+      "code": "BW17"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61570,
+    "name": "Eevee - BW94",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85095_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85095_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85095_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW94",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Growl \r\n<br>During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 <em>(before applying Weakness and Resistance)</em>.",
+      "Attack 2": "[2] Quick Attack (10+)\r\n<br>Flip a coin. If heads, this attack does 10 more damage.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "The Pokémon Company Art Team",
+      "code": "BW94"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61571,
+    "name": "Eevee - BW97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85096_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85096_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85096_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW97",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Growl \r\n<br>During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 <em>(before applying Weakness and Resistance)</em>.",
+      "Attack 2": "[2] Quick Attack (10+) \r\n<br>Flip a coin. If heads, this attack does 10 more damage.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Akira Komayama",
+      "code": "BW97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61572,
+    "name": "Electrode (Team Plasma) - BW76",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85164_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85164_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85164_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW76",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[L] Electribeam (20) \r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Attack 2": "[2L] Self Destruct (100) \r\n<br>This Pokémon does 100 damage to itself.",
+      "Weakness": "Fx2",
+      "RetreatCost": "0",
+      "Artist": "5ban Graphics",
+      "code": "BW76"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61573,
+    "name": "Elgyem - BW55",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85178_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85178_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85178_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW55",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Weak Barrier</strong>\r\n<br>\r\nIf this Pokémon has any Psychic Energy attached to it, this Pokémon has no Weakness.",
+      "Attack 1": "[2] Quick Blow (10+) \r\n<br>Flip a coin. If heads, this attack does 20 more damage.",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "Artist": "Mizue",
+      "code": "BW55"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61574,
+    "name": "Emboar - BW21",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85183_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85183_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85183_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW21",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Inferno Fandango</strong>\r\n<br>\r\nAs often as you like during your turn <em>(before your attack)</em>, you may attach a Fire Energy card from your hand to 1 of your Pokémon.",
+      "Attack 1": "[2RR] Heat Crash (80)",
+      "Weakness": "Wx2",
+      "RetreatCost": "4",
+      "Artist": "5ban Graphics",
+      "code": "BW21"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61575,
+    "name": "Empoleon - BW56",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85202_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85202_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85202_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW56",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[W] Fury Attack (30x) \r\n<br>Flip 3 coins. This attack does 30 damage times the number of heads.",
+      "Attack 2": "[2W] Cold Crush (70) \r\n<br>You may discard an Energy attached to this Pokémon. If you do, discard an Energy attached to the Defending Pokémon.",
+      "Weakness": "Lx2",
+      "RetreatCost": "2",
+      "Artist": "Shin Nagasawa",
+      "code": "BW56"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61576,
+    "name": "Espeon - BW92",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85326_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85326_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85326_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW92",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Ability — Solar Revelation</strong>\r\n<br>\r\nPrevent all effects of your opponent's attacks, except damage, done to each of your Pokémon that has any Energy attached to it.",
+      "Attack 1": "[2P] Psy Report (60) \r\n<br>Your opponent reveals his or her hand.",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "Artist": "The Pokémon Company Art Team",
+      "code": "BW92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61647,
+    "name": "Flareon - BW88",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/91599_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/91599_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/91599_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW88",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Sand-Attack (20) \r\n<br>If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+      "Attack 2": "[2R] Fire Slash (60+)\r\n<br>You may discard a Fire energy attached to this Pokémon. If you do, this attack does 30 more damage.",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "Artist": "The Pokémon Company Art Team",
+      "code": "BW88"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61577,
+    "name": "Flygon - BW53 (Prerelease)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85528_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85528_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85528_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW53",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Sand Slammer</strong>\r\n<br>\r\nAt any time between your turns, if this Pokémon is your Active Pokémon, put 1 damage counter on each of your opponent's Pokémon.",
+      "Attack 1": "[2GF] Flying Beatdown (80) \r\n<br>You may discard a Grass Energy and a Fighting Energy attached to this Pokémon. If you do, the Defending Pokémon is now Paralyzed.",
+      "Weakness": "Ox2",
+      "RetreatCost": "1",
+      "Artist": "BERUBURI",
+      "code": "BW53"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61657,
+    "name": "Flygon - BW53 (Prerelease) [Staff]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96574_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96574_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96574_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW53",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Sand Slammer</strong>\r\n<br>\r\nAt any time between your turns, if this Pokémon is your Active Pokémon, put 1 damage counter on each of your opponent's Pokémon.",
+      "Attack 1": "[2GF] Flying Beatdown (80) \r\n<br>You may discard a Grass Energy and a Fighting Energy attached to this Pokémon. If you do, the Defending Pokémon is now Paralyzed.",
+      "Weakness": "Ox2",
+      "RetreatCost": "1",
+      "Artist": "BERUBURI",
+      "code": "BW53"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61579,
+    "name": "Genesect (Team Plasma) - BW86",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85664_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85664_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85664_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW86",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[1G] Signal Beam (30) \r\n<br>Flip a coin. If heads, the Defending Pokémon is now Confused.",
+      "Attack 2": "[2GG] Overdrive Smash (60) \r\n<br>During your next turn, this Pokémon's Overdrive Smash attack does 60 more damage <em>(before applying Weakness and Resistance)</em>.",
+      "Weakness": "Rx2",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "BW86"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61689,
+    "name": "Genesect - BW101",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/108421_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/108421_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/108421_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW101",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "110",
+      "Stage": "Basic",
+      "Attack 1": "[2] Hyper Beam (30)\r\n<br>Flip a coin. If heads, discard an Energy attached to the Defending Pokémon.",
+      "Attack 2": "[1GG] Breaker Bazooka (100)\r\n<br>Discard all Grass Energy attached to this Pokémon.",
+      "Weakness": "Rx2",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "BW101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61578,
+    "name": "Genesect - BW99",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85663_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85663_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85663_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW99",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "110",
+      "Stage": "Basic",
+      "Attack 1": "[2] Hyper Beam (30)\r\n<br>Flip a coin. If heads, discard an Energy attached to the Defending Pokémon.",
+      "Attack 2": "[1GG] Breaker Bazooka (100)\r\n<br>Discard all Grass Energy attached to this Pokémon.",
+      "Weakness": "Rx2",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "BW99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61690,
+    "name": "Gigalith - 53/98 (Prerelease)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/173095_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/173095_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/173095_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "53/98",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[F] Shear \r\n<br>Discard the top 5 cards of your deck. If any of those cards are Fighting Energy cards, attach them to this Pokémon.",
+      "Attack 2": "[4] Rock Bullet (40+) \r\n<br>Does 20 more damage for each Fighting Energy attached to this Pokémon.",
+      "Weakness": "Gx2",
+      "RetreatCost": "4",
+      "Artist": "Naoki Saito",
+      "code": "53/98"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61691,
+    "name": "Gigalith 53/98 (Prerelease) [Staff]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/173096_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/173096_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/173096_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "53/98",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[F] Shear \r\n<br>Discard the top 5 cards of your deck. If any of those cards are Fighting Energy cards, attach them to this Pokémon.",
+      "Attack 2": "[4] Rock Bullet (40+) \r\n<br>Does 20 more damage for each Fighting Energy attached to this Pokémon.",
+      "Weakness": "Gx2",
+      "RetreatCost": "4",
+      "Artist": "Naoki Saito",
+      "code": "53/98"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61580,
+    "name": "Giratina (Team Plasma)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85739_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85739_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85739_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW74",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[2P] Hex (50+) \r\n<br>If the Defending Pokémon is affected by a Special Condition, this attack does 50 more damage.",
+      "Attack 2": "[2PP] Shadow Claw (90) \r\n<br>Discard a random card from your opponent's hand.",
+      "Weakness": "Dx2",
+      "RetreatCost": "3",
+      "Artist": "5ban Graphics",
+      "code": "BW74"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61581,
+    "name": "Glaceon - BW90",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85748_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85748_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85748_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW90",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Quick Attack (10+) \r\n<br>Flip a coin. If heads, this attack does 30 more damage.",
+      "Attack 2": "[1W] Reflect Energy (40) \r\n<br>Move an Energy from this Pokémon to 1 of your Benched Pokémon.",
+      "Weakness": "Mx2",
+      "RetreatCost": "1",
+      "Artist": "The Pokémon Company Art Team",
+      "code": "BW90"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61582,
+    "name": "Haxorus - BW57",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86035_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86035_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86035_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW57",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[1M] Armor Press (40) \r\n<br>During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 <em>(after applying Weakness and Resistance)</em>.",
+      "Attack 2": "[1FM] Dual Chop (90x) \r\n<br>Flip 2 coins. This attack does 90 damage times the number of heads.",
+      "Weakness": "Ox2",
+      "RetreatCost": "3",
+      "Artist": "kawayoo",
+      "code": "BW57"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61583,
+    "name": "Jigglypuff - BW65",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86321_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86321_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86321_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW65",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Continuous Tumble (10x) \r\n<br>Flip a coin until you get tails. This attack does 10 damage times the number of heads.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "MAHOU",
+      "code": "BW65"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61584,
+    "name": "Jolteon - BW91",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86348_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86348_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86348_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW91",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Electrigun (20+) \r\n<br>You may discard a L Energy attached to this Pokémon. If you do, this attack does 40 more damage.",
+      "Attack 2": "[2L] Pin Missile (40x) \r\n<br>Flip 4 coins. This attack does 40 damage times the number of heads.",
+      "Weakness": "Fx2",
+      "Artist": "The Pokémon Company Art Team",
+      "code": "BW91"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61683,
+    "name": "Keldeo - BW60",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96885_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96885_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96885_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW60",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[1] Swords Dance \r\n<br>During your next turn, this Pokémon's Aqua Blade attack's base damage is 120.",
+      "Attack 2": "[1WW] Aqua Blade (60)",
+      "Weakness": "Gx2",
+      "RetreatCost": "1",
+      "Artist": "5ban Graphics",
+      "code": "BW60"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61585,
+    "name": "Keldeo - BW60 (Tinsel Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86435_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86435_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86435_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW60",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[1] Swords Dance \r\n<br>During your next turn, this Pokémon's Aqua Blade attack's base damage is 120.",
+      "Attack 2": "[1WW] Aqua Blade (60)",
+      "Weakness": "Gx2",
+      "RetreatCost": "1",
+      "Artist": "5ban Graphics",
+      "code": "BW60"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61586,
+    "name": "Keldeo EX - BW61",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86437_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86437_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86437_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW61",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "170",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Rush In</strong>\r\n<br>Once during your turn <em>(before your attack)</em>, if this Pokémon is on your Bench, you may switch this Pokémon with your Active Pokémon.",
+      "Attack 1": "[3] Secret Sword (50+) \r\n<br>Does 20 more damage for each Water Energy attached to this Pokémon.",
+      "Weakness": "Gx2",
+      "RetreatCost": "2",
+      "Artist": "Toyste Beach",
+      "code": "BW61"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61587,
+    "name": "Kyurem - BW44",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86562_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86562_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86562_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW44",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[2] Outrage (20+) \r\n<br>Does 10 more damage for each damage counter on this Pokémon.",
+      "Attack 2": "[1WW] Glaciate \r\n<br>This attack does 30 damage to each of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Weakness": "Mx2",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "BW44"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61588,
+    "name": "Kyurem EX - BW37",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86567_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86567_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86567_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW37",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "180",
+      "Stage": "Basic",
+      "Attack 1": "[2W] Frozen Wings (60) \r\n<br>Discard a Special Energy attached to the Defending Pokémon.",
+      "Attack 2": "[2WW] Hail Blizzard (120) \r\n<br>This Pokémon can't use Hail Blizzard during your next turn.",
+      "Weakness": "Mx2",
+      "RetreatCost": "3",
+      "Artist": "Shizurow",
+      "code": "BW37"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61590,
+    "name": "Landorus (Team Plasma) - BW79",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86594_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86594_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86594_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW79",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "110",
+      "Stage": "Basic",
+      "Attack 1": "[1F] Extrasensory (20+)\r\n<br>If you have the same number of cards in your hand as your opponent, this attack does 30 more damage.",
+      "Attack 2": "[2FF] Rock Tomb (90) \r\n<br>The Defending Pokémon can't retreat during your opponent's next turn.",
+      "Weakness": "Wx2",
+      "Resistance": "L-20",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "BW79"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61589,
+    "name": "Landorus - BW43",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86592_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86592_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86592_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW43",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "110",
+      "Stage": "Basic",
+      "Attack 1": "[F] Abundant Harvest \r\n<br>Attach a basic Energy card from your discard pile to this Pokémon.",
+      "Attack 2": "[1FF] Gaia Hammer (80) \r\n<br>Does 10 damage to each Benched Pokémon <em>(both yours and your opponent's)</em>.  <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Weakness": "Wx2",
+      "Resistance": "L-20",
+      "RetreatCost": "1",
+      "Artist": "5ban Graphics",
+      "code": "BW43"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61648,
+    "name": "Leafeon - BW87",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/91600_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/91600_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/91600_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW87",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Quick Attack (10+) \r\n<br>Flip a coin. If heads, this attack does 30 more damage.",
+      "Attack 2": "[1G] Energy Assist (40) \r\n<br>Attach a basic Energy Card from your discard pile to 1 of your Benched Pokémon.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "Artist": "The Pokémon Company Art Team",
+      "code": "BW87"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61591,
+    "name": "Lilligant - BW49",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86795_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86795_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86795_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW49",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Lead \r\n<br>Search your deck for a Supporter card, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "Attack 2": "[1G] Dream Dance (30) \r\n<br>Both this Pokémon and the Defending Pokémon are now Asleep.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "Artist": "Naoki Saito",
+      "code": "BW49"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61592,
+    "name": "Lillipup - BW52",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86801_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86801_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86801_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW52",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[2] Knock Away (10+) \r\n<br>Flip a coin. If heads, this attack does 10 more damage.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Mizue",
+      "code": "BW52"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61593,
+    "name": "Litwick - BW27",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86810_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86810_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86810_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW27",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Call for Family \r\n<br>Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward.",
+      "Attack 2": "[1P] Will-O-Wisp (20)",
+      "Weakness": "Dx2",
+      "RetreatCost": "1",
+      "Artist": "Atsuko Nishida",
+      "code": "BW27"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61594,
+    "name": "Lucario - BW85",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86885_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86885_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86885_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW85",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Ability — Intuition</strong>\r\n<br>\r\nWhen you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards.",
+      "Attack 1": "[2F] Fast Punch (60+) \r\n<br>Flip a coin. If heads, this attack does 30 more damage.",
+      "Weakness": "Px2",
+      "RetreatCost": "2",
+      "Artist": "Masakazu Fukuda",
+      "code": "BW85"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61595,
+    "name": "Lugia EX (Team Plasma) - BW83",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86914_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86914_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86914_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW83",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "180",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Overflow</strong>\r\n<br>\r\nIf your opponent's Pokémon is Knocked Out by damage from an attack of this Pokémon, take 1 more Prize card.",
+      "Attack 1": "[4] Plasma Gale (120) \r\n<br>Discard a Plasma Energy attached to this Pokémon. If you can't discard a Plasma Energy, this attack does nothing.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "2",
+      "Artist": "Toyste Beach",
+      "code": "BW83"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61596,
+    "name": "Luxio - BW34 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86945_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86945_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86945_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW34",
+      "Rarity": "Holo Rare",
+      "Card Type": "Lightning",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[L] Dazzle Blast (10) \r\n<br>Flip a coin. If heads, the Defending Pokémon is now Confused.",
+      "Attack 2": "[2L] Random Spark \r\n<br>This attack does 40 damage to 1 of your opponent's Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Naoki Saito",
+      "code": "BW34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61682,
+    "name": "Luxio - BW34 (Cracked Ice Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96884_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96884_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96884_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW34",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[L] Dazzle Blast (10) \r\n<br>Flip a coin. If heads, the Defending Pokémon is now Confused.",
+      "Attack 2": "[2L] Random Spark \r\n<br>This attack does 40 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Naoki Saito",
+      "code": "BW34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61597,
+    "name": "Meloetta - BW68",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87300_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87300_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87300_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW68",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[P] Sing \r\n<br>The Defending Pokémon is now Asleep.",
+      "Attack 2": "[2P] Psyburn (50)",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "Artist": "Naoki Saito",
+      "code": "BW68"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61598,
+    "name": "Meloetta - BW69",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87301_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87301_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87301_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW69",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[F] Smack (10)",
+      "Attack 2": "[2F] Acrobatics (40+) \r\n<br>Flip 2 coins. This attack does 20 more damage for each heads.",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "Artist": "Shin Nagasawa",
+      "code": "BW69"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61599,
+    "name": "Meowth - BW35",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87327_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87327_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87327_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW35",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Nap  \r\n<br>Heal 20 damage from this Pokémon.",
+      "Attack 2": "[2] Jump On (20+) \r\n<br>Flip a coin. If heads, this attack does 10 more damage.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Sumiyoshi Kizuki",
+      "code": "BW35"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61600,
+    "name": "Metagross - BW75 (Team Plasma) (Prerelease)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87344_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87344_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87344_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW75",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Plasma Search</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may search your deck for a Team Plasma card, reveal it, and put it into your hand. Shuffle your deck afterward. You may not use an Ability with the same name during your turn.",
+      "Attack 1": "[3P] Mind Bend (60) \r\n<br>The Defending Pokémon is now Confused.",
+      "Weakness": "Px2",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "BW75"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61685,
+    "name": "Metagross - BW75 (Team Plasma) (Prerelease) [Staff]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97090_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97090_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97090_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW75",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Plasma Search</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may search your deck for a Team Plasma card, reveal it, and put it into your hand. Shuffle your deck afterward. You may not use an Ability with the same name during your turn.",
+      "Attack 1": "[3P] Mind Bend (60) \r\n<br>The Defending Pokémon is now Confused.",
+      "Weakness": "Px2",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "BW75"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61601,
+    "name": "Mew - BW98",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87406_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87406_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87406_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW98",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Psyscan</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em), if this Pokémon is your Active Pokémon, you may have your opponent reveal his or her hand.",
+      "Attack 1": "[1] Psychic Exchange \r\n<br>Shuffle your hand into your deck. Then, draw 6 cards.",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "Naoki Saito",
+      "code": "BW98"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61602,
+    "name": "Mewtwo EX - BW45",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87430_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87430_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87430_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW45",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "170",
+      "Stage": "Basic",
+      "Attack 1": "[2] X Ball (20x) \r\n<br>Does 20 damage times the amount of Energy attached to this Pokémon and the Defending Pokémon.",
+      "Attack 2": "[1PP] Psydrive (120) \r\n<br>Discard an Energy attached to this Pokémon.",
+      "Weakness": "Px2",
+      "RetreatCost": "2",
+      "Artist": "Toyste Beach",
+      "code": "BW45"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61603,
+    "name": "Minccino - BW13 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87475_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87475_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87475_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW13",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Gnaw (10)",
+      "Attack 2": "[2] Tail Smack (20)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Atsuko Nishida",
+      "code": "BW13"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61679,
+    "name": "Minccino - BW13 (Cracked Ice Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96881_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96881_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96881_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW13",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Gnaw (10)",
+      "Attack 2": "[2] Tail Smack (20)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Atsuko Nishida",
+      "code": "BW13"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61604,
+    "name": "N (Supporter) - BW100",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87677_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87677_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87677_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW100",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "<em>You may play only 1 Supporter card per turn (before your attack).</em>\r\n<br>\r\nEach player shuffles his or her hand into his or her deck. Then, each player draws a card for each of his or her remaining Prize cards.",
+      "Artist": "Yusuke Ohmura",
+      "code": "BW100"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61605,
+    "name": "Ninetales - BW66",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87779_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87779_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87779_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW66",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Ability — Bright Look</strong>\r\n<br>\r\nWhen you play this Pokémon from your hand to evolve 1 of your Pokémon, you may switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon.",
+      "Attack 1": "[R] Hexed Flame (20+) \r\n<br>Does 50 more damage for each Special Condition affecting the Defending Pokémon.",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "Artist": "Hideaki Hakozaki",
+      "code": "BW66"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61606,
+    "name": "Oshawott - BW03",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87892_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87892_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87892_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW03",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1W] Water Pulse (20) \r\n<br>Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+      "Weakness": "Lx2",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "BW03"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61607,
+    "name": "Oshawott - BW08",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87894_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87894_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87894_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW08",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Sleep Pulse \r\n<br>Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+      "Attack 2": "[1W] Surprise Attack (30) \r\n<br>Flip a coin. If tails, this attack does nothing.",
+      "Weakness": "Lx2",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "BW08"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61608,
+    "name": "Pansage - BW11",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87934_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87934_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87934_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW11",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1G] Bullet Seed (10x) \r\n<br>Flip 4 coins. This attack does 10 damage times the number of heads.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "Artist": "Akira Komayama",
+      "code": "BW11"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61609,
+    "name": "Pansage - BW14",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87935_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87935_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87935_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW14",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1G] Bullet Seed (10x) \r\n<br>Flip 4 coins. This attack does 10 damage times the number of heads.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "Artist": "Akira Komayama",
+      "code": "BW14"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61610,
+    "name": "Pidove - BW15",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88057_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88057_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88057_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW15",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[2] Gust (20)",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "Artist": "Naoki Saito",
+      "code": "BW15"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61692,
+    "name": "Pikachu - BW54",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/202379_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/202379_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/202379_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW54",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[L] Quick Attack (10+) \r\n<br>Flip a coin. If heads, this attack does 10 more damage.",
+      "Attack 2": "[1LL] Electro Ball (50)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "BW54"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61611,
+    "name": "Porygon-Z (Team Plasma) - BW84 (Prerelease)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88318_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88318_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88318_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW84",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "130",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Plasma Transfer</strong>\r\n<br>\r\nAs often as you like during your turn <em>(before your attack)</em>, you may move a Plasma Energy attached to 1 of your Pokémon to another of your Pokémon.",
+      "Attack 1": "[3] Tri Attack (50x) \r\n<br>Flip 3 coins. This attack does 50 damage times the number of heads.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "5ban Graphics",
+      "code": "BW84"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61686,
+    "name": "Porygon-Z (Team Plasma) - BW84 (Prerelease) [Staff]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97091_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97091_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97091_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW84",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "130",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Plasma Transfer</strong>\r\n<br>\r\nAs often as you like during your turn <em>(before your attack)</em>, you may move a Plasma Energy attached to 1 of your Pokémon to another of your Pokémon.",
+      "Attack 1": "[3] Tri Attack (50x) \r\n<br>Flip 3 coins. This attack does 50 damage times the number of heads.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "5ban Graphics",
+      "code": "BW84"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61612,
+    "name": "Rayquaza EX -BW47",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88646_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88646_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88646_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW47",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "170",
+      "Stage": "Basic",
+      "Attack 1": "[1] Celestial Roar  \r\n<br>Discard the top 3 cards of your deck. If any of those cards are Energy cards, attach them to this Pokémon.",
+      "Attack 2": "[RL] Dragon Burst (60x) \r\n<br>Discard all basic Fire Energy or all basic Lightning Energy attached to this Pokémon. This attack does 60 damage times the number of Energy cards you discarded.",
+      "Weakness": "Ox2",
+      "RetreatCost": "1",
+      "Artist": "Eske Yoshinob",
+      "code": "BW47"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61613,
+    "name": "Reshiram - BW004",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88705_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88705_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88705_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW004",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[2] Outrage (20+) \r\n<br>Does 10 more damage for each damage counter on this Pokémon.",
+      "Attack 2": "[1RR] Blue Flare (120) \r\n<br>Discard 2 FIre Energy attached to this Pokémon.",
+      "Weakness": "Wx2",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "BW004"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61614,
+    "name": "Reshiram - BW23",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88706_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88706_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88706_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW23",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[2] Outrage (20+) \r\n<br>Does 10 more damage for each damage counter on this Pokémon.",
+      "Attack 2": "[1RR] Blue Flare (120) \r\n<br>Discard 2 Fire Energy attached to this Pokémon.",
+      "Weakness": "Wx2",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "BW23"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61615,
+    "name": "Reshiram EX - BW36",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88714_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88714_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88714_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW36",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "180",
+      "Stage": "Basic",
+      "Attack 1": "[2R] Glinting Claw (50+) \r\n<br>Flip a coin. If heads, this attack does 30 more damage.",
+      "Attack 2": "[2RR] Brave Fire (150) \r\n<br>Flip a coin. If tails, this Pokemon does 50 damage to itself.",
+      "Weakness": "Wx2",
+      "RetreatCost": "3",
+      "Artist": "Shizurow",
+      "code": "BW36"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61681,
+    "name": "Riolu - BW33",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96883_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96883_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96883_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW33",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Run Around  \r\n<br>Switch this Pokémon with 1 of your Benched Pokémon.",
+      "Attack 2": "[1F] Hook (30)",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "Artist": "sui",
+      "code": "BW33"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61616,
+    "name": "Riolu - BW33 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88760_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88760_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88760_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW33",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Run Around \r\n<br>Switch this Pokémon with 1 of your Benched Pokémon.",
+      "Attack 2": "[1F] Hook (30)",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "Artist": "sui",
+      "code": "BW33"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61617,
+    "name": "Samurott - BW22",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88909_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88909_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88909_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW22",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Shell Armor</strong>\r\n<br>\r\nAny damage done to this Pokémon by attacks is reduced by 20 <em>(after applying Weakness and Resistance)</em>.",
+      "Attack 1": "[3] Hydro Pump (70+) \r\n<br>Does 10 more damage for each Water Energy attached to this Pokémon.",
+      "Weakness": "Lx2",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "BW22"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61618,
+    "name": "Scraggy - BW25 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88982_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88982_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88982_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW25",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Paralyzing Gaze \r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Attack 2": "[2D] High Jump Kick (30)",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "Artist": "Akira Komayama",
+      "code": "BW25"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61680,
+    "name": "Scraggy - BW25 (Cracked Ice Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96882_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96882_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96882_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW25",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "50",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Shell Armor</strong>\r\n<br>\r\nAny damage done to this Pokémon by attacks is reduced by 20 <em>(after applying Weakness and Resistance)</em>.",
+      "Attack 1": "[1] Paralyzing Gaze \r\n<br> Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Attack 2": "[2D] High Jump Kick (30)",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "Artist": "Akira Komayama",
+      "code": "BW25"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61619,
+    "name": "Serperior - BW20",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89071_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89071_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89071_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW20",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "130",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Royal Heal</strong>\r\n<br>\r\nAt any time between turns, heal 10 damage from each of your Pokémon.",
+      "Attack 1": "[1G] Leaf Tornado (60) \r\n<br>Move as many Grass Energy attached to your Pokémon to your other Pokémon in any way you like.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "Artist": "5ban Graphics",
+      "code": "BW20"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61620,
+    "name": "Snivy - BW01",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89377_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89377_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89377_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW01",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1G] Slam (20x) \r\n<br>Flip 2 coins. This attack does 20 damage times the number of heads.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "BW01"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61621,
+    "name": "Snivy - BW06",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89379_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89379_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89379_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW06",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Paralyzing Gaze \r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Attack 2": "[1G] Tail Smack (20)",
+      "Weakness": "Fx2",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "Artist": "Shizurow",
+      "code": "BW06"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61622,
+    "name": "Tepig (BW02)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89881_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89881_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89881_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW02",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1R] Ember (30) \r\n<br>Discard an Energy attached to this Pokemon.",
+      "Weakness": "Wx2",
+      "RetreatCost": "2",
+      "code": "BW02"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61623,
+    "name": "Tepig - BW07",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89883_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89883_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89883_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW07",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Singe \r\n<br>Flip a coin. If heads, the Defending Pokémon is now Burned.",
+      "Attack 2": "[1R] Firebreathing (10+) \r\n<br>Flip a coin. If heads, this attack does 20 more damage.",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "Artist": "Shin Nagasawa",
+      "code": "BW07"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61624,
+    "name": "Terrakion - BW71",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89889_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89889_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89889_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW71",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "130",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Justified</strong>\r\n<br>\r\nEach of this Pokémon's attacks does 50 more damage to Darkness Pokémon <em>(before applying Weakness and Resistance)</em>.",
+      "Attack 1": "[2FF] Crushing Blow (80) \r\n<br>Flip a coin. If heads, discard an Energy attached to the Defending Pokémon.",
+      "Weakness": "Gx2",
+      "RetreatCost": "4",
+      "Artist": "5ban Graphics",
+      "code": "BW71"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61625,
+    "name": "Thundurus - BW41",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89904_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89904_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89904_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW41",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "110",
+      "Stage": "Basic",
+      "Attack 1": "[1] Charge \r\n<br>Search your deck for a Lightning Energy card and attach it to this Pokémon. Shuffle your deck afterward.",
+      "Attack 2": "[1LL] Disaster Volt (80) \r\n<br>Discard an Energy attached to this Pokémon.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "5ban Graphics",
+      "code": "BW41"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61626,
+    "name": "Thundurus EX (Team Plasma) - BW81",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89908_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89908_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89908_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW81",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "170",
+      "Stage": "Basic",
+      "Attack 1": "[L] Raiden Knuckle (30) \r\n<br>Attach an Energy card from your discard pile to 1 of your Benched Team Plasma Pokémon.",
+      "Attack 2": "[2LL] Thunderous Noise (90) \r\n<br>If this Pokémon has any Plasma Energy attached to it, discard an Energy attached to the Defending Pokémon.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Eske Yoshinob",
+      "code": "BW81"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61627,
+    "name": "Tornadus - BW42",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89975_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89975_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89975_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW42",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "110",
+      "Stage": "Basic",
+      "Attack 1": "[1] Energy Wheel \r\n<br>Move an Energy from 1 of your Benched Pokémon to this Pokémon.",
+      "Attack 2": "[3] Hurricane (80) \r\n<br>Move a basic Energy from this Pokémon to 1 of your Benched Pokémon.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "Artist": "5ban Graphics",
+      "code": "BW42"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61628,
+    "name": "Tornadus EX - BW96 (Prerelease)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89979_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89979_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89979_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW96",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "170",
+      "Stage": "Basic",
+      "Attack 1": "[2] Blow Through (30+) \r\n<br>If there is any Stadium card in play, this attack does 30 more damage.",
+      "Attack 2": "[3] Power Blast (100) \r\n<br>Flip a coin. If tails, discard an Energy attached to this Pokémon.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "Artist": "Ryo Ueda",
+      "code": "BW96"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61687,
+    "name": "Tornadus EX - BW96 (Prerelease) [Staff]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97092_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97092_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97092_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW96",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "170",
+      "Stage": "Basic",
+      "Attack 1": "[2] Blow Through (30+) \r\n<br>If there is any Stadium card in play, this attack does 30 more damage.",
+      "Attack 2": "[3] Power Blast (100) \r\n<br>Flip a coin. If tails, discard an Energy attached to this Pokémon.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "Artist": "Ryo Ueda",
+      "code": "BW96"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61629,
+    "name": "Tropical Beach - BW28 (Worlds 11)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90048_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90048_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90048_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW28",
+      "Rarity": "Promo",
+      "Card Type": "Stadium",
+      "CardText": "<em>This card stays in play when you play it. Discard this card if another Stadium card comes into play.  If another card with the same name is in play, you can't play this card.</em>\r\n<br>\r\nOnce during each player's turn, that player may draw cards until he or she has 7 cards in his or her hand. If he or she does, that player's turn ends.",
+      "Artist": "Naoki Saito",
+      "code": "BW28"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61671,
+    "name": "Tropical Beach - BW28 (Worlds 11) [Finalist]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96873_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96873_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96873_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW28",
+      "Rarity": "Promo",
+      "Card Type": "Stadium",
+      "CardText": "<em>This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.</em>\r\n<br>\r\nOnce during each player's turn, that player may draw cards until he or she has 7 cards in his or her hand. If he or she does, that player's turn ends.",
+      "Artist": "Naoki Saito",
+      "code": "BW28"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61669,
+    "name": "Tropical Beach - BW28 (Worlds 11) [Quarter-Finalist]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96871_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96871_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96871_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW28",
+      "Rarity": "Promo",
+      "Card Type": "Stadium",
+      "CardText": "<em>This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.</em>\r\n<br>\r\nOnce during each player's turn, that player may draw cards until he or she has 7 cards in his or her hand. If he or she does, that player's turn ends.",
+      "Artist": "Naoki Saito",
+      "code": "BW28"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61670,
+    "name": "Tropical Beach - BW28 (Worlds 11) [Semi Finalist]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96872_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96872_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96872_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW28",
+      "Rarity": "Promo",
+      "Card Type": "Stadium",
+      "CardText": "<em>This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.</em?\r\n<br>\r\nOnce during each player's turn, that player may draw cards until he or she has 7 cards in his or her hand. If he or she does, that player's turn ends.",
+      "Artist": "Naoki Saito",
+      "code": "BW28"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61672,
+    "name": "Tropical Beach - BW28 (Worlds 11) [Staff]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96874_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96874_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96874_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW28",
+      "Rarity": "Promo",
+      "Card Type": "Stadium",
+      "CardText": "<em>This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.</em>\r\n<br>\r\nOnce during each player's turn, that player may draw cards until he or she has 7 cards in his or her hand. If he or she does, that player's turn ends.",
+      "Artist": "Naoki Saito",
+      "code": "BW28"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61668,
+    "name": "Tropical Beach - BW28 (Worlds 11) [Top 16]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96870_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96870_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96870_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW28",
+      "Rarity": "Promo",
+      "Card Type": "Stadium",
+      "CardText": "<em>This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.</em>\r\n<br>\r\nOnce during each player's turn, that player may draw cards until he or she has 7 cards in his or her hand. If he or she does, that player's turn ends.",
+      "Artist": "Naoki Saito",
+      "code": "BW28"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61667,
+    "name": "Tropical Beach - BW28 (Worlds 11) [Top 32]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96869_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96869_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96869_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW28",
+      "Rarity": "Promo",
+      "Card Type": "Stadium",
+      "CardText": "<em>This card stays in play when you play it. Discard this card if another Stadium card comes into play.  If another card with the same name is in play, you can't play this card.</em>\r\n<br>\r\nOnce during each player's turn, that player may draw cards until he or she has 7 cards in his or her hand. If he or she does, that player's turn ends.",
+      "Artist": "Naoki Saito",
+      "code": "BW28"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61630,
+    "name": "Tropical Beach - BW50 (Worlds 12)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90049_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90049_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90049_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW50",
+      "Rarity": "Promo",
+      "Card Type": "Stadium",
+      "CardText": "<em>This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.</em>\r\n<br>\r\nOnce during each player's turn, that player may draw cards until he or she has 7 cards in his or her hand. If he or she does, that player's turn ends.",
+      "Artist": "Naoki Saito",
+      "code": "BW50"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61677,
+    "name": "Tropical Beach - BW50 (Worlds 12) [Finalist]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96879_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96879_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96879_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW50",
+      "Rarity": "Promo",
+      "Card Type": "Stadium",
+      "CardText": "<em>This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.</em>\r\n<br>\r\nOnce during each player's turn, that player may draw cards until he or she has 7 cards in his or her hand. If he or she does, that player's turn ends.",
+      "Artist": "Naoki Saito",
+      "code": "BW50"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61675,
+    "name": "Tropical Beach - BW50 (Worlds 12) [Quarter-Finalist]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96877_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96877_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96877_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW50",
+      "Rarity": "Promo",
+      "Card Type": "Stadium",
+      "CardText": "<emThis card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.</em>\r\n<br>\r\nOnce during each player's turn, that player may draw cards until he or she has 7 cards in his or her hand. If he or she does, that player's turn ends.",
+      "Artist": "Naoki Saito",
+      "code": "BW50"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61676,
+    "name": "Tropical Beach - BW50 (Worlds 12) [Semi-Finalist]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96878_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96878_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96878_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW50",
+      "Rarity": "Promo",
+      "Card Type": "Stadium",
+      "CardText": "<em>This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.</em>\r\n<br>\r\nOnce during each player's turn, that player may draw cards until he or she has 7 cards in his or her hand. If he or she does, that player's turn ends.",
+      "Artist": "Naoki Saito",
+      "code": "BW50"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61678,
+    "name": "Tropical Beach - BW50 (Worlds 12) [Staff]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96880_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96880_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96880_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW50",
+      "Rarity": "Promo",
+      "Card Type": "Stadium",
+      "CardText": "<em>This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.</em>\r\n<br>\r\nOnce during each player's turn, that player may draw cards until he or she has 7 cards in his or her hand. If he or she does, that player's turn ends.",
+      "Artist": "Naoki Saito",
+      "code": "BW50"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61674,
+    "name": "Tropical Beach - BW50 (Worlds 12) [Top 16]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96876_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96876_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96876_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW50",
+      "Rarity": "Promo",
+      "Card Type": "Stadium",
+      "CardText": "<em>This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.</em>\r\n<br>\r\nOnce during each player's turn, that player may draw cards until he or she has 7 cards in his or her hand. If he or she does, that player's turn ends.",
+      "Artist": "Naoki Saito",
+      "code": "BW50"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61673,
+    "name": "Tropical Beach - BW50 (Worlds 12) [Top 32]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96875_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96875_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96875_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW50",
+      "Rarity": "Promo",
+      "Card Type": "Stadium",
+      "CardText": "<em>This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.</em>\r\n<br>\r\nOnce during each player's turn, that player may draw cards until he or she has 7 cards in his or her hand. If he or she does, that player's turn ends.",
+      "Artist": "Naoki Saito",
+      "code": "BW50"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61631,
+    "name": "Umbreon - BW93",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90150_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90150_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90150_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW93",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Shadow Drain (30) \r\n<br>Heal from this Pokémon the same amount of damage you did to the Defending Pokémon.",
+      "Attack 2": "[2D] Slashing Strike (80)",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "Artist": "The Pokémon Company Art Team",
+      "code": "BW93"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61632,
+    "name": "Vaporeon - BW89",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90289_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90289_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90289_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW89",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Muddy Water (20) \r\n<br>Does 20 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Attack 2": "[2W] Spiral Drain (60) \r\n<br>Heal 20 damage from this Pokémon.",
+      "Weakness": "Lx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "The Pokémon Company Art Team",
+      "code": "BW89"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61695,
+    "name": "Victini - 43/101 (Prerelease)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/228499_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/228499_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/228499_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "43/101",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[P] V-blast (120) \r\n<br>Flip 2 coins. If either of them is tails, this attack does nothing.",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "Artist": "Shin Nagasawa",
+      "code": "43/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61696,
+    "name": "Victini - 43/101 (Prerelease) [Staff]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/228500_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/228500_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/228500_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "43/101",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[P] V-blast (120) \r\n<br>Flip 2 coins. If either of them is tails, this attack does nothing.",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "Artist": "Shin Nagasawa",
+      "code": "43/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61633,
+    "name": "Victini - BW32",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90346_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90346_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90346_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW32",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Victory Star</strong>\r\n<br>\r\nOnce during your turn, after you flip any coins for an attack, you may ignore all effects of those coin flips and begin flipping those coins again. You can't usemore than 1 Victory Star Ability each turn.",
+      "Attack 1": "[1R] Stored Power (30) \r\n<br>Move an Energy attached to this Pokémon to 1 of your Benched Pokémon.",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "Artist": "5ban Graphics",
+      "code": "BW32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61636,
+    "name": "Victory Cup - BW29 (Battle Road Autumn 2011) [3rd Place]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90355_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90355_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90355_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW29",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "<em>You may play as many Item cards as you like during your turn (before your attack.)</em>\r\n<br>\r\nFlip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "Artist": "5ban Graphics",
+      "code": "BW29"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61660,
+    "name": "Victory Cup - BW29 (Battle Road Autumn 2012) [3rd Place]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96862_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96862_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96862_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW29",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "<em>You may play as many Item cards as you like during your turn (before your attack.)</em>\r\n<br>\r\nFlip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "Artist": "5ban Graphics",
+      "code": "BW29"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61661,
+    "name": "Victory Cup - BW29 (Battle Road Spring 2012) [3rd Place]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96863_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96863_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96863_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW29",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "<em>You may play as many Item cards as you like during your turn (before your attack.)</em>\r\n<br>\r\nFlip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "Artist": "5ban Graphics",
+      "code": "BW29"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61666,
+    "name": "Victory Cup - BW29 (Battle Road Spring 2013) [3rd Place]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96868_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96868_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96868_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW29",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "<em>You may play as many Item cards as you like during your turn (before your attack.)</em>\r\n<br>\r\nFlip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "Artist": "5ban Graphics",
+      "code": "BW29"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61635,
+    "name": "Victory Cup - BW30 (Battle Road Autumn 2011) [2nd Place]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90354_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90354_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90354_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW30",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "<em>You may play as many Item cards as you like during your turn (before your attack.)</em>\r\n<br>\r\nFlip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "Artist": "5ban Graphics",
+      "code": "BW30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61659,
+    "name": "Victory Cup - BW30 (Battle Road Autumn 2012) [2nd Place]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96861_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96861_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96861_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW30",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "<em>You may play as many Item cards as you like during your turn (before your attack.)</em>\r\n<br>\r\nFlip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "Artist": "5ban Graphics",
+      "code": "BW30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61662,
+    "name": "Victory Cup - BW30 (Battle Road Spring 2012) [2nd Place]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96864_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96864_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96864_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW30",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "<em>You may play as many Item cards as you like during your turn (before your attack.)</em>\r\n<br>\r\nFlip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "Artist": "5ban Graphics",
+      "code": "BW30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61665,
+    "name": "Victory Cup - BW30 (Battle Road Spring 2013) [2nd Place]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96867_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96867_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96867_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW30",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "<em>You may play as many Item cards as you like during your turn (before your attack.)</em>\r\n<br>\r\nFlip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "Artist": "5ban Graphics",
+      "code": "BW30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61634,
+    "name": "Victory Cup - BW31 (Battle Road Autumn 2011) [1st Place]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90353_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90353_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90353_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW31",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "<em>You may play as many Item cards as you like during your turn (before your attack.)</em>\r\n<br>\r\nFlip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "Artist": "5ban Graphics",
+      "code": "BW31"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61658,
+    "name": "Victory Cup - BW31 (Battle Road Autumn 2012) [1st Place]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96860_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96860_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96860_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW31",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "<em>You may play as many Item cards as you like during your turn (before your attack.)</em>\r\n<br>\r\nFlip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "Artist": "5ban Graphics",
+      "code": "BW31"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61663,
+    "name": "Victory Cup - BW31 (Battle Road Spring 2012) [1st Place]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96865_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96865_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96865_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW31",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "<em>You may play as many Item cards as you like during your turn (before your attack.)</em>\r\n<br>\r\nFlip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "Artist": "5ban Graphics",
+      "code": "BW31"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61664,
+    "name": "Victory Cup - BW31 (Battle Road Spring 2013) [1st Place]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/96866_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/96866_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/96866_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW31",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "<em>You may play as many Item cards as you like during your turn (before your attack.)</em>\r\n<br>\r\nFlip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "Artist": "5ban Graphics",
+      "code": "BW31"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61637,
+    "name": "Virizion - BW70",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90389_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90389_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90389_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW70",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "100",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Justified</strong>\r\n<br>\r\nEach of this Pokémon's attacks does 50 more damage to Darkness Pokémon <em>(before applying Weakness and Resistance)</em>.",
+      "Attack 1": "[2G] Leaf Blade (50+) \r\n<br>Flip a coin. If heads, this attack does 30 more damage.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "Artist": "5ban Graphics",
+      "code": "BW70"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61638,
+    "name": "Volcarona - BW40 (Prerelease)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90403_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90403_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90403_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW40",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Ability — Scorching Scales</strong>\r\n<br>\r\nPut 4 damage counters instead of 2 on your opponent's Burned Pokémon between turns.",
+      "Attack 1": "[2R] Burning Wind (70) \r\n<br>You may discard an Energy attached to this Pokémon. If you do, the Defending Pokémon is now Burned.",
+      "Weakness": "Wx2",
+      "RetreatCost": "3",
+      "Artist": "Shin Nagasawa",
+      "code": "BW40"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61688,
+    "name": "Volcarona - BW40 (Prerelease) [Staff]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97093_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97093_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97093_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW40",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Ability — Scorching Scales</strong>\r\n<br>\r\nPut 4 damage counters instead of 2 on your opponent's Burned Pokémon between turns.",
+      "Attack 1": "[2R] Burning Wind (70) \r\n<br>You may discard an Energy attached to this Pokémon. If you do, the Defending Pokémon is now Burned.",
+      "Weakness": "Wx2",
+      "RetreatCost": "3",
+      "Artist": "Shin Nagasawa",
+      "code": "BW40"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61639,
+    "name": "White Kyurem - BW59",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90587_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90587_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90587_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW59",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[1R] Damage Rush (20x) \r\n<br>Flip a coin until you get tails. This attack does 20 damage times the number of heads.",
+      "Attack 2": "[2RW] Cold Fire (80+) \r\n<br>Flip a coin. If heads, this attack does 40 more damage.",
+      "Weakness": "Ox2",
+      "RetreatCost": "2",
+      "Artist": "Shin Nagasawa",
+      "code": "BW59"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61640,
+    "name": "White Kyurem EX - BW63",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90590_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90590_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90590_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW63",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "180",
+      "Stage": "Basic",
+      "Attack 1": "[2R] Dragon Stream (60) \r\n<br>Flip a coin. If heads, attach a basic Energy card from your discard pile to this Pokémon.",
+      "Attack 2": "[1RRW] Ice Burn (150) \r\n<br>Discard 2 Fire Energy attached to this Pokémon. The Defending Pokémon is now Burned.",
+      "Weakness": "Ox2",
+      "RetreatCost": "3",
+      "Artist": "Eske Yoshinob",
+      "code": "BW63"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61641,
+    "name": "Zekrom - BW005",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90733_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90733_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90733_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW005",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[2] Outrage (20+) \r\n<br>Does 10 more damage for each damage counter on this Pokémon.",
+      "Attack 2": "[1LL] Bolt Strike (120) \r\n<br>This Pokémon does 40 damage to itself.",
+      "Weakness": "Fx2",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "BW005"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61642,
+    "name": "Zekrom - BW24",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90734_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90734_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90734_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW24",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[2] Outrage (20+) \r\n<br>Does 10 more damage for each damage counter on this Pokémon.",
+      "Attack 2": "[1LL] Bolt Strike (120) \r\n<br>This Pokémon does 40 damage to itself.",
+      "Weakness": "Fx2",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "BW24"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61643,
+    "name": "Zekrom EX - BW38",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90741_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90741_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90741_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW38",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "180",
+      "Stage": "Basic",
+      "Attack 1": "[2L] Glinting Claw (50+) \r\n<br>Flip a coin. If heads, this attack does 30 more damage.",
+      "Attack 2": "[2LL] Strong Volt (150) \r\n<br>Discard 2 Energy attached to this Pokémon.",
+      "Weakness": "Fx2",
+      "RetreatCost": "3",
+      "Artist": "Shizurow",
+      "code": "BW38"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61644,
+    "name": "Zoroark - BW09",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90751_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90751_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90751_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW09",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[D] Nasty Plot \r\n<br>Search your deck for a card and put it into your hand. Shuffle your deck afterward.",
+      "Attack 2": "[2] Foul Play \r\n<br>Choose 1 of the Defending Pokémon's attacks and use it as this attack.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "Artist": "Naoki Saito",
+      "code": "BW09"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61645,
+    "name": "Zoroark - BW19",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90752_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90752_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90752_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW19",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Punishment (20+) \r\n<br>If the Defending Pokémon is a Stage 2 Pokémon, this attack does 20 more damage.",
+      "Attack 2": "[1DD] Snarl (60) \r\n<br>During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 <em>(before applying Weakness and Resistance)</em>.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "Artist": "5ban Graphics",
+      "code": "BW19"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-black-and-white-promos",
+    "id": 61646,
+    "name": "Zorua - BW12",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90760_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90760_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90760_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "BW12",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1D] Jump On (20+) \r\n<br>Flip a coin. If heads, this attack does 10 more damage.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "Artist": "Tomokazu Komiya",
+      "code": "BW12"
+    }
+  }
+]

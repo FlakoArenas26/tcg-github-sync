@@ -1,0 +1,536 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations-classic-collection",
+    "id": 45898,
+    "name": "Blastoise",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250319_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250319_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250319_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "2/102",
+      "Rarity": "Classic Collection",
+      "Card Type": "Water",
+      "CardText": "<strong>Pokémon Power: Rain Dance</strong> As often as you like during your turn <em>(before your attack)</em>, you may attach 1 W Energy card to 1 of your W Pokémon. <em>(This doesn’t use up your 1 Energy card attachment for the turn.)</em> This power can’t be used if Blastoise is Asleep, Confused, or Paralyzed.",
+      "Attack 1": "[WWW] <strong>Hydro Pump</strong> (40+)\r\n<br>Does 40 damage plus 10 more damage for each W Energy attached to Blastoise but not used to pay for this attack’s Energy cost. Extra W Energy after the 2nd doesn’t count.",
+      "code": "2/102"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations-classic-collection",
+    "id": 45899,
+    "name": "Charizard",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250320_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250320_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250320_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "4/102",
+      "Rarity": "Classic Collection",
+      "Card Type": "Fire",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Pokemon Power: Energy Burn</strong> As often as you like during your turn <em>(before you attack)</em>, you may turn all Energy attached to Charizard in R Energy for this rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed.",
+      "Attack 1": "(RRRR) Fire Spin (100)\r\n<br>Discard 2 Energy cards attached to Charizard in order to use this attack.",
+      "Weakness": "W",
+      "Resistance": "F-30",
+      "RetreatCost": "3",
+      "code": "4/102"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations-classic-collection",
+    "id": 45912,
+    "name": "Claydol",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250333_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250333_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250333_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "15/106",
+      "Rarity": "Classic Collection",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poke-Power — Cosmic Power</strong>\r\n<br>Once during your turn <em>(before your attack)</em>, you may choose up to 2 cards from your hand and put them on the bottom of your deck in any order. If you do, draw cards until you have 6 cards in your hand. This Power can't be used if Claydol is affected by a Special Condition.",
+      "Attack 1": "[1F] Spinning Attack (40)",
+      "Weakness": "G+20",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "15/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations-classic-collection",
+    "id": 45905,
+    "name": "Cleffa",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250326_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250326_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250326_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "20/111",
+      "Rarity": "Classic Collection",
+      "Card Type": "Colorless",
+      "Attack 1": "[1] <strong>Eeeeeeek</strong>\r\n<br>Shuffle your hand into your deck, then draw 7 cards.",
+      "code": "20/111"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations-classic-collection",
+    "id": 45897,
+    "name": "Dark Gyarados",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250294_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250294_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250294_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "8/82",
+      "Rarity": "Classic Collection",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Pokemon Power: Final Beam</strong> When Dark Gyarados is Knocked Out by an attack, flip a coin. If heads, this power does 20 damage for each Water Energy attached to Dark Gyarados to the Pokemon that Knocked Out Dark Gyarados. Apply Weakness and Resistance. This power doesn't work if Dark Gyarados is Asleep, Confused, or Paralyzed.",
+      "Attack 1": "[WWW] Ice Beam (30)\r\n<br>Flip a coin. If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "Gx2",
+      "Resistance": "F-30",
+      "RetreatCost": "2",
+      "Artist": "Kagemaru Himeno",
+      "code": "8/82"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations-classic-collection",
+    "id": 45915,
+    "name": "Donphan (Prime)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250336_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250336_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250336_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "107/123",
+      "Rarity": "Classic Collection",
+      "Card Type": "Fighting",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poke-BODY — Exoskeleton</strong>                                             \r\n<br>Any damage done to Donphan by attacks is reduced by 20 <em>(after applying Weakness and Resistance).</em>",
+      "Attack 1": "[F] <strong>Earthquake</strong> (60)\r\n<br>Does 10 damage to each of your Benched Pokémon. <em>(Don’t apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Attack 2": "[FFF] <strong>Heavy Impact</strong> (90)",
+      "Weakness": "Wx2",
+      "Resistance": "L-20",
+      "RetreatCost": "4",
+      "code": "107/123"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations-classic-collection",
+    "id": 45914,
+    "name": "Garchomp C LV.X",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250335_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250335_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250335_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "145/147",
+      "Rarity": "Classic Collection",
+      "Card Type": "Colorless",
+      "HP": "110",
+      "Stage": "Level Up",
+      "CardText": "<strong>Poké-Power — Healing Breath</strong>\r\n<br>Once during your turn <em>(before your attack)</em>, when you put Garchomp C LV.X from your hand onto your Active Garchomp C, you may remove all damage counters from each of your Pokémon SP.",
+      "Attack 1": "[3] Dragon Rush\r\n<br>Discard 2 Energy attached to Garchomp C. Choose 1 of your opponent's Pokémon. This attack does 80 damage to that Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em> Garchomp C can't use Dragon Rush during your next turn.",
+      "Weakness": "Cx2",
+      "Resistance": "None",
+      "RetreatCost": "0",
+      "code": "145/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations-classic-collection",
+    "id": 45910,
+    "name": "Gardevoir ex (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250331_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250331_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250331_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "93/101",
+      "Rarity": "Classic Collection",
+      "Card Type": "Psychic",
+      "CardText": "<strong>Poke-POWER — Imprison</strong>                                             \r\n<br>Once during your turn <em>(before your attack)</em>, if Gardevoir ex is your Active Pokémon, you may put an Imprison marker on 1 of your opponent’s Pokémon. Any Pokémon that has any Imprison markers on it can’t use any Poké-Powers or Poké-Bodies. This power can’t be used if Gardevoir ex is affected by a Special Condition.",
+      "Attack 1": "[2R] Flame Ball (80)\r\n<br>You may move a R Energy card attached to Gardevoir ex to 1 of your Benched Pokémon.",
+      "code": "93/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations-classic-collection",
+    "id": 45902,
+    "name": "Here Comes Team Rocket!",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250323_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250323_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250323_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "15/82",
+      "Rarity": "Classic Collection",
+      "Card Type": "Supporter",
+      "CardText": "Each player plays with his or her Prize cards face up for the rest of the game.",
+      "code": "15/82"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations-classic-collection",
+    "id": 45901,
+    "name": "Imposter Professor Oak",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250322_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250322_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250322_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "73/102",
+      "Rarity": "Classic Collection",
+      "Card Type": "Trainer",
+      "CardText": "Your opponent shuffles his or her hand into his or her deck, then draws 7 cards.",
+      "code": "73/102"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations-classic-collection",
+    "id": 45913,
+    "name": "Luxray GL LV.X",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250334_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250334_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250334_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "109/111",
+      "Rarity": "Classic Collection",
+      "Card Type": "Lightning",
+      "HP": "110",
+      "Stage": "Level Up",
+      "CardText": "<strong>Poké-Power — Bright Look</strong>\r\n<br>Once during your turn <em>(before your attack)</em>, when you put Luxray GL LV.X from your hand onto your Active Luxray GL, you may switch the Defending Pokémon with 1 of your opponent's Benched Pokémon.",
+      "Attack 1": "[1L] Flash Impact (60)\r\n<br>Does 30 damage to 1 of your Pokémon, and don't apply Weakness and Resistance to this damage.",
+      "Weakness": "Fx2",
+      "Resistance": "M-20",
+      "RetreatCost": "0",
+      "code": "109/111"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations-classic-collection",
+    "id": 45920,
+    "name": "M Rayquaza EX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250341_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250341_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250341_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "76/108",
+      "Rarity": "Classic Collection",
+      "Card Type": "Colorless",
+      "HP": "220",
+      "Stage": "Mega",
+      "Attack 1": "[3] Emerald Break (30x)\r\n<br>This attack does 30 damage times the number of your Benched Pokémon.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "code": "76/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations-classic-collection",
+    "id": 45909,
+    "name": "Mew ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250330_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250330_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250330_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "88/92",
+      "Rarity": "Classic Collection",
+      "Card Type": "Psychic",
+      "CardText": "<strong>Poke-BODY — Versatile</strong>                                             \r\n<br>Mew ex can use the attacks of all Pokémon in play as its own. (You still need the necessary Energy to use each attack.)",
+      "Attack 1": "[1D] <strong>Power Move</strong>\r\n<br>Search your deck for an Energy card and attach it to Mew ex. Shuffle your deck afterward. Then, you may switch Mew ex with 1 of your Benched Pokémon.",
+      "code": "88/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations-classic-collection",
+    "id": 45918,
+    "name": "Mewtwo EX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250339_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250339_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250339_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "54/99",
+      "Rarity": "Classic Collection",
+      "Card Type": "Psychic",
+      "HP": "170",
+      "Stage": "Basic",
+      "Attack 1": "[2] X Ball (20x)\r\n<br>Does 20 damage times the amount of Energy attached to this Pokemon and the Defending Pokemon.",
+      "Attack 2": "[1PP] Psydrive (120) \r\n<br>Discard an Energy attached to this Pokemon.",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "54/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations-classic-collection",
+    "id": 45916,
+    "name": "Reshiram",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250337_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250337_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250337_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "113/114",
+      "Rarity": "Classic Collection",
+      "Card Type": "Fire",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[2] Outrage (20+)\r\n<br>Does 10 more damage for each damage counter on this Pokémon.",
+      "Attack 2": "[1RR] Blue Flare (120)\r\n<br>Discard 2 Fire Energy attached to this Pokémon.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "113/114"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations-classic-collection",
+    "id": 45908,
+    "name": "Rocket's Admin.",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250329_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250329_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250329_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "86/109",
+      "Rarity": "Classic Collection",
+      "Card Type": "Supporter",
+      "CardText": "Each player shuffles his or her hand into his or her deck. Then, each player counts his or her Prize cards left and draws up to that many cards. (You draw your cards first.)",
+      "code": "86/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations-classic-collection",
+    "id": 45903,
+    "name": "Rocket's Zapdos",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250324_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250324_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250324_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "15/132",
+      "Rarity": "Classic Collection",
+      "Card Type": "Lightning",
+      "Stage": "Basic",
+      "Attack 1": "[L] <strong>Plasma</strong> (20)\\\r\n<br>If there are any L Energy cards in your discard pile, attach 1 of them to Rocket’s Zapdos.",
+      "Attack 2": "[1LLL] <strong>Electroburn</strong> (70)\r\n<br>Rocket’s Zapdos does damage to itself equal to 10 times the number of L Energy cards attached to it.",
+      "code": "15/132"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations-classic-collection",
+    "id": 45906,
+    "name": "Shining Magikarp",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250327_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250327_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250327_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "66/64",
+      "Rarity": "Classic Collection",
+      "Card Type": "Water",
+      "Attack 1": "[W] <strong>Gold Scale</strong>\r\n<br>Your opponent may draw 2 cards. Either way, you may draw 2 cards.",
+      "Attack 2": "[D] <strong>Dragon Bond</strong>\r\n<br>Search your deck for a card named Gyarados, Dark Gyarados, or Shining Gyarados. Show it to your opponent and put it into your hand. Shuffle your deck afterward.",
+      "code": "66/64"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations-classic-collection",
+    "id": 45921,
+    "name": "Tapu Lele GX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250342_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250342_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250342_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "60/145",
+      "Rarity": "Classic Collection",
+      "Card Type": "Psychic",
+      "HP": "170",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Wonder Tag</strong>\r\n<br>When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "Attack 1": "[2] Energy Drive (20x)\r\n<br>This attack does 20 damage times the amount of Energy attached to both Active Pokémon. This damage isn't affect by Weakness or Resistance.",
+      "Attack 2": "<b><font color=\"teal\">[P] Tapu Cure GX</b>\r\n<br>Heal all damage from 2 of your Benched Pokémon. <em>(You can't use more than 1 GX attack in a game.)</em></font>",
+      "Weakness": "None",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "60/145"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations-classic-collection",
+    "id": 45907,
+    "name": "Team Magma's Groudon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250328_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250328_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250328_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "9/95",
+      "Rarity": "Classic Collection",
+      "Card Type": "Fighting",
+      "CardText": "<strong>Poke-POWER — Power Saver</strong>                                             \r\n<br>As long as the number of Pokémon in play <em>(both yours and your opponent’s)</em> that has Team Magma in its name is 3 or less, Team Magma’s Groudon can’t attack.",
+      "Attack 1": "[1F] <strong>Linear Attack</strong>\r\n<br>Choose 1 of your opponent’s Pokémon. This attack does 20 damage to that Pokémon. <em>(Don’t apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Attack 2": "[1FF] <strong>Pulverize</strong> (50+)\r\n<br>If the Defending Pokémon already has at least 2 damage counters on it, this attack does 50 damage plus 20 more damage.",
+      "code": "9/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations-classic-collection",
+    "id": 45911,
+    "name": "Umbreon Star",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250332_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250332_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250332_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "17/17",
+      "Rarity": "Classic Collection",
+      "Card Type": "Darkness",
+      "CardText": "<strong>Poke-POWER — Dark Ray</strong>                                             \r\n<br>Once during your turn, when you put Umbreon Star from your hand onto your Bench, you may choose 1 card from your opponent’s hand without looking and discard it.",
+      "Attack 1": "[DD] <strong>Feint Attack</strong>\r\n<br>Choose 1 of your opponent’s Pokémon. This attack does 30 damage to that Pokémon. This attack’s damage isn’t affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on that Pokémon.",
+      "code": "17/17"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations-classic-collection",
+    "id": 45900,
+    "name": "Venusaur",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250321_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250321_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250321_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "15/102",
+      "Rarity": "Classic Collection",
+      "Card Type": "Grass",
+      "CardText": "<strong>Pokemon Power: Energy Trans</strong> As often as you like during your turn <em>(before your attack)</em>, you may take 1 G Energy card attached to 1 of your Pokémon and attach it to a different one. This power can’t be used if Venusaur is Asleep, Confused, or Paralyzed.",
+      "Attack 1": "[GGGG] <strong>Solar Beam</strong> (60)",
+      "code": "15/102"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations-classic-collection",
+    "id": 45919,
+    "name": "Xerneas EX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250340_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250340_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250340_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "97/146",
+      "Rarity": "Classic Collection",
+      "Card Type": "Fairy",
+      "HP": "170",
+      "Stage": "Basic",
+      "Attack 1": "[2Y] Break Through (60) \r\n<br>This attack does 30 damage to 1 of your opponent's Benched Pokemon.  <em>(Don't apply Weakness and Resistance for Benched Pokemon.)</em>",
+      "Attack 2": "[2YY] X Blast (140) \r\n<br>This Pokemon can't use X Blast during your next turn.",
+      "Weakness": "Mx2",
+      "Resistance": "D-20",
+      "RetreatCost": "2",
+      "code": "97/146"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations-classic-collection",
+    "id": 45917,
+    "name": "Zekrom",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250338_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250338_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250338_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "114/114",
+      "Rarity": "Classic Collection",
+      "Card Type": "Lightning",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[2] Outrage (20+)\r\n<br>Does 10 more damage for each damage counter on this Pokémon.",
+      "Attack 2": "[1LL] Bolt Strike (120)\r\n<br>This Pokémon does 40 damage to itself.",
+      "Weakness": "Rx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "114/114"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-celebrations-classic-collection",
+    "id": 45904,
+    "name": "______'s Pikachu",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250325_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250325_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250325_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "24/53",
+      "Rarity": "Classic Collection",
+      "Card Type": "Lightning",
+      "Attack 1": "[LL] <strong>Birthday Surprise</strong> (30+)\r\n<br>If it’s not your birthday, this attack does 30 damage. If it is your birthday, flip a coin. If heads, this attack does 30 damage plus 50 more damage; if tails, this attack does 30 damage.",
+      "code": "24/53"
+    }
+  }
+]

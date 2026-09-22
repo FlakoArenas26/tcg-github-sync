@@ -1,0 +1,2575 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62415,
+    "name": "Aerodactyl",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83470_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83470_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83470_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "13/99",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "Unearth - Once during your turn (before your attack), you may search your deck for Helix Fossil, Dome Fossil, or Old Amber, show it to your opponent, and put it into your hand.  Shuffle your deck afterward.  This power can't be used if Aerodactyl is affected by a Special Condition.  (Poke-POWER)",
+      "Attack 1": "[2] Hyper  Beam (30) Flip a coin.  If heads, discard an Energy card attached to the Defending Pokemon.",
+      "Weakness": "L+20",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "code": "13/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62416,
+    "name": "Arceus (AR1)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83592_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83592_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83592_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "AR1",
+      "Rarity": "Holo Rare",
+      "Card Type": "Darkness",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1D] Prize Count (20+) If you have more Prize cards left than your opponent, this attack does 20 damage plus 60 more damage.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "code": "AR1"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62417,
+    "name": "Arceus (AR2)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83593_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83593_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83593_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "AR2",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[1G] Leaf Refresh (30) Remove 3 damage counters from each of your Benched Pokemon.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "2",
+      "code": "AR2"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62418,
+    "name": "Arceus (AR3)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83594_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83594_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83594_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "AR3",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[2R] Bright Flame (80) Flip a coin.  If tails, discard 2 Energy attached to Arceus.",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "code": "AR3"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62419,
+    "name": "Arceus (AR4)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83595_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83595_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83595_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "AR4",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[2W] Fastwave (50) This attack's damage isn't affected by Resistance, Poke-Powers, Poke-Bodies, or any other effects on the Defending Pokemon.",
+      "Weakness": "Lx2",
+      "RetreatCost": "2",
+      "code": "AR4"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62420,
+    "name": "Arceus (AR5)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83596_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83596_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83596_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "AR5",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[0] Ripple Swell - If you have 6 Arceus in play and each of them is a different type, search your deck for up to 6 basic Energy cards.  Attach each of those Energy cards to a different Pokemon you have in play.  Shuffle your deck afterward.",
+      "Attack 2": "[3] Sky Spear - Choose 1 of your opponent's Pokemon.  This attack does 80 damage to that Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)  Remove all Energy cards attached to Arceus and put them in the Lost Zone.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "AR5"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62421,
+    "name": "Arceus (AR6)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83597_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83597_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83597_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "AR6",
+      "Rarity": "Holo Rare",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1L] Lightning Turn (30) Switch Arceus with 1 of your Benched Pokemon.",
+      "Weakness": "Fx2",
+      "Resistance": "M-20",
+      "RetreatCost": "1",
+      "code": "AR6"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62422,
+    "name": "Arceus (AR7)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83598_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83598_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83598_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "AR7",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[2P] Mind Bend (40) The Defending Pokemon is now Confused.",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "code": "AR7"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62423,
+    "name": "Arceus (AR8)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83599_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83599_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83599_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "AR8",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[2F] Break Ground (60) Does 10 damage to each of your Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "Wx2",
+      "Resistance": "L-20",
+      "RetreatCost": "2",
+      "code": "AR8"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62424,
+    "name": "Arceus (AR9)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83600_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83600_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83600_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "AR9",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[2M] Metal Barrier (40) Prevent all effects of attacks, including damage, done to Arceus by Pokemon LV.X during your opponent's next turn.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "code": "AR9"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62425,
+    "name": "Arceus Lv.X (94)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83602_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83602_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83602_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "94/99",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Colorless",
+      "HP": "120",
+      "Stage": "Level Up",
+      "CardText": "Multitype - Arceus LV.X's type is the same type as its previous Level.  (Poke-BODY)Omniscient - Arceus can use the attacks of all Arceus you have in play as its own.  (You still need the necessary Energy to use each attack.)  (Poke-BODY)",
+      "RetreatCost": "1",
+      "code": "94/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62426,
+    "name": "Arceus Lv.X (95)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83603_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83603_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83603_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "95/99",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Colorless",
+      "HP": "120",
+      "Stage": "Level Up",
+      "CardText": "Multitype - Arceus LV.X's type is the same type as its previous Level.  (Poke-BODY)",
+      "Attack 1": "[1GR] Meteor Blast (100) Flip a coin.  If tails, this attack's base damage is 50 instead of 100.",
+      "RetreatCost": "1",
+      "code": "95/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62427,
+    "name": "Arceus Lv.X (96)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83604_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83604_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83604_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "96/99",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Colorless",
+      "HP": "120",
+      "Stage": "Level Up",
+      "CardText": "Multitype - Arceus LV.X's type is the same type as its previous Level.  (Poke-BODY)",
+      "Attack 1": "[1LP] Psychic Bolt (100) Discard a L Energy and a P Energy attached to Arceus.",
+      "RetreatCost": "1",
+      "code": "96/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62428,
+    "name": "Bagon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83699_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83699_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83699_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "52/99",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Smash Kick (10)",
+      "Attack 2": "[1R] Super Singe (20) Flip a coin.  If heads, the Defending Pokemon is now Burned.",
+      "Weakness": "C+10",
+      "RetreatCost": "1",
+      "code": "52/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62429,
+    "name": "Bagon (Shiny)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83700_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83700_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83700_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "SH10",
+      "Rarity": "Shiny Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "CardText": "<strong>Poke-BODY — Star Barrier<strong>\r\n<br>As long as Bagon has any Energy attached to it, Bagon has no Weakness.",
+      "Attack 1": "[1] Dragon Rage (40) \r\n<br>Flip 2 coins.  If either of them is tails, this attack does nothing.",
+      "Weakness": "C+10",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "SH10"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62430,
+    "name": "Beedrill G",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83776_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83776_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83776_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "53/99",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[G] Raid (10) If you played Beedrill G from your hand during this turn, this attack's base damage is 40 instead of 10.",
+      "Attack 2": "[2G] Fury Attack (30x) Flip 3 coins.  This attack does 30 damage times the number of heads.",
+      "Weakness": "Rx2",
+      "RetreatCost": "1",
+      "code": "53/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62431,
+    "name": "Beginning Door",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83777_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83777_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83777_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "82/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "HP": "0",
+      "Stage": "Trainer",
+      "Attack 1": "Search your deck for Arceus, show it to your opponent, and put it into your hand.  Shuffle your deck afterward.",
+      "code": "82/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62432,
+    "name": "Bench Shield",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83811_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83811_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83811_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "83/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "HP": "0",
+      "Stage": "Tool",
+      "CardText": "Attach Bench Shield to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.  If that Pokemon is Knocked Out, discard this card.",
+      "Attack 1": "As long as the Pokemon this card is attached to is on your Bench, prevent all damage done to that Pokemon by attacks (both yours and your opponent's).",
+      "code": "83/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62433,
+    "name": "Bronzong (14)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83995_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83995_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83995_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "14/99",
+      "Rarity": "Rare",
+      "Card Type": "Metal",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1M] Oracle Arrow - Choose 1 of your opponent's Pokemon that has any damage counters on it.  This attack does 40 damage to that Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Attack 2": "[2M] Antigravity (60) The Retreat Cost for Bronzong is 0 until the end of your next turn.",
+      "Weakness": "R+20",
+      "Resistance": "P-20",
+      "RetreatCost": "3",
+      "code": "14/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62434,
+    "name": "Bronzong (33)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83996_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83996_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83996_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "33/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Metal",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[M] Wide Laser - This attack does 10 damage to each of your opponent's Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Attack 2": "[3] Hyper Beam (50) Flip a coin.  If heads, discard an Energy card attached to the Defending Pokemon.",
+      "Weakness": "R+20",
+      "Resistance": "P-20",
+      "RetreatCost": "3",
+      "code": "33/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62435,
+    "name": "Bronzor (34)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84004_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84004_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84004_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "34/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Metal",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[M] Speed Dive (10)",
+      "Attack 2": "[3] Extrasensory (30+) If you have the same number of cards in your hand as your opponent, this attack does 30 damage plus 30 more damage.",
+      "Weakness": "R+10",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "code": "34/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62436,
+    "name": "Bronzor (54)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84005_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84005_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84005_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "54/99",
+      "Rarity": "Common",
+      "Card Type": "Metal",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[M] Hypnosis (10) Flip a coin.  If heads, the Defending Pokemon is now Asleep.",
+      "Attack 2": "[2] Spinning Attack (20)",
+      "Weakness": "R+10",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "code": "54/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62437,
+    "name": "Buffer Piece",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84014_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84014_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84014_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "84/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "HP": "0",
+      "Stage": "Tool",
+      "CardText": "Attach Buffer Piece to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.  If that Pokemon is Knocked Out, discard this card.",
+      "Attack 1": "Any damage done to the Pokemon this card is attached to by an opponent's attack is reduced by 20 (after applying Weakness and Resistance).  At the end of your opponent's turn after you played Buffer Piece, discard Buffer Piece.",
+      "code": "84/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62438,
+    "name": "Buneary",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84044_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84044_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84044_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "55/99",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Bunny Hop - Choose 1 of your opponent's Pokemon that doesn't have any damage counters on it.  This attack does 20 damage to that Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.",
+      "Weakness": "F+10",
+      "RetreatCost": "1",
+      "code": "55/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62439,
+    "name": "Burmy Plant Cloak",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84051_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84051_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84051_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "56/99",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "CardText": "Cloak Evolution - Burmy Plant Cloak can evolve during the turn you play it.  (Poke-BODY)",
+      "Attack 1": "[1G] Tackle (20)",
+      "Weakness": "R+10",
+      "RetreatCost": "1",
+      "code": "56/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62440,
+    "name": "Burmy Sandy Cloak",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84055_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84055_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84055_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "57/99",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "CardText": "Cloak Evolution - Burmy Sandy Cloak can evolve during the turn you play it.  (Poke-BODY)",
+      "Attack 1": "[1F] Tackle (20)",
+      "Weakness": "R+10",
+      "RetreatCost": "1",
+      "code": "57/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62441,
+    "name": "Burmy Trash Cloak",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84057_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84057_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84057_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "58/99",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "CardText": "Cloak Evolution - Burmy Trash Cloak can evolve during the turn you play it.  (Poke-BODY)",
+      "Attack 1": "[1M] Tackle (20)",
+      "Weakness": "R+10",
+      "RetreatCost": "1",
+      "code": "58/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62442,
+    "name": "Charizard",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84191_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84191_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84191_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "1/99",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "Fire Formation - Each of Charizard's attacks does 10 more damage for each R Pokemon on your Bench to your opponent's Active Pokemon (before applying Weakness and Resistance).  (Poke-BODY)",
+      "Attack 1": "[R] Fire Wing (30)",
+      "Attack 2": "[1RR] Burning Tail (80) Discard a R Energy attached to Charizard.",
+      "Weakness": "W+30",
+      "Resistance": "F-20",
+      "RetreatCost": "3",
+      "code": "1/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62443,
+    "name": "Charmander",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84217_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84217_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84217_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "59/99",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Call for Friends - Search your deck for a R Basic Pokemon, show it to your opponent, and put it into your hand.  Shuffle your deck afterward.",
+      "Attack 2": "[1R] Steady Firebreathing (20)",
+      "Weakness": "W+10",
+      "RetreatCost": "1",
+      "code": "59/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62444,
+    "name": "Charmeleon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84233_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84233_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84233_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "35/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Slam (30x) Flip 2 coins.  This attack does 30 damage times the number of heads.",
+      "Attack 2": "[2R] Fire Punch (50)",
+      "Weakness": "W+20",
+      "RetreatCost": "1",
+      "code": "35/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62445,
+    "name": "Cherrim",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84255_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84255_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84255_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "15/99",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "Cloudy Sky - If any of your G Pokemon or R Pokemon would be damaged by an attack, reduce that damage by 10 (after applying Weakness and Resistance).  (Poke-BODY)",
+      "Attack 1": "[1G] Worry Seed (30) Flip a coin.  If heads, the Defending Pokemon is now Confused.",
+      "Weakness": "R+20",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "code": "15/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62446,
+    "name": "Cherubi",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84263_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84263_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84263_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "60/99",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Ram (10)",
+      "Attack 2": "[1G] Solarbeam (20)",
+      "Weakness": "R+10",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "code": "60/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62447,
+    "name": "Croagunk",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84478_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84478_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84478_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "61/99",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Astonish - Choose 1 card from your opponent's hand without looking.  Look at the card you chose, then have your opponent shuffle that card into his or her deck.",
+      "Attack 2": "[1F] Punch (30)",
+      "Weakness": "P+10",
+      "RetreatCost": "1",
+      "code": "61/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62448,
+    "name": "Department Store Girl",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84780_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84780_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84780_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "85/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "HP": "0",
+      "Stage": "Supporter",
+      "CardText": "You can play only one Supporter each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.",
+      "Attack 1": "Search your deck for up to 3 Pokemon Tool cards, show them to your opponent, and put them into your hand.  Shuffle your deck afterward.",
+      "code": "85/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62449,
+    "name": "Dome Fossil",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84869_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84869_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84869_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "92/99",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "HP": "50",
+      "Stage": "Trainer",
+      "CardText": "Rock Reaction - When you attach a F Energy card from your hand to Dome Fossil (excluding effects of attacks or Poke-Powers), search your deck for a card that evolves from Dome Fossil and put it onto Dome Fossil (this counts as evolving Dome Fossil).  Shuffle your deck afterward.  (Poke-BODY)",
+      "Attack 1": "Play Dome Fossil as if it were a C Basic Pokemon.  (Dome Fossil counts as a Trainer card as well, but if Dome Fossil is Knocked Out, this counts as a Knocked Out Pokemon.)  Dome Fossil can't be affected by any Special Conditions and can't retreat.  At any time during your turn before your attack, you may discard Dome Fossil from play.  (This doesn't count as a Knocked Out Pokemon.)",
+      "code": "92/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62450,
+    "name": "Electrike (62)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85142_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85142_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85142_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "62/99",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[L] Zap Kick (10)",
+      "Attack 2": "[1L] Thunder Jolt (30) Flip a coin.  If tails, Electrike does 10 damage to itself.",
+      "Weakness": "F+10",
+      "Resistance": "M-20",
+      "RetreatCost": "1",
+      "code": "62/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62451,
+    "name": "Electrike (63)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85143_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85143_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85143_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "63/99",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Bite (10)",
+      "Weakness": "F+10",
+      "Resistance": "M-20",
+      "RetreatCost": "1",
+      "code": "63/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62452,
+    "name": "Energy Restore",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85229_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85229_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85229_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "86/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer",
+      "HP": "0",
+      "Stage": "Trainer",
+      "Attack 1": "Flip 3 coins.  For each heads, put a basic Energy card from your discard pile into your hand.  If you don't have that many basic Energy cards in your discard pile, put all of them into your hand.",
+      "code": "86/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62453,
+    "name": "Expert Belt",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85369_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85369_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85369_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "87/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Tool",
+      "HP": "0",
+      "Stage": "Tool",
+      "CardText": "Attach Expert Belt to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.  If that Pokemon is Knocked Out, discard this card.",
+      "Attack 1": "The Pokemon this card is attached to gets +20 HP and that Pokemon's attacks do 20 more damage to your opponent's Active Pokemon (before applying Weakness and Resistance).  When the Pokemon this card is attached to is Knocked Out, your opponent takes 1 more Prize card.",
+      "code": "87/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62454,
+    "name": "Froslass",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85573_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85573_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85573_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "2/99",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "Snow Gift - Once during your turn, when you play Froslass from your hand to evolve 1 of your Pokemon, you may search your deck for any 1 card and put it into your hand.  Shuffle your deck afterward.  (Poke-POWER)",
+      "Attack 1": "[1W] Ground Frost (50) If there is any Stadium card in play, this attack does nothing.",
+      "Weakness": "M+20",
+      "RetreatCost": "1",
+      "code": "2/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62455,
+    "name": "Gastly (36)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85654_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85654_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85654_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "36/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[P] Lick (10) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[2] Night Shade (10) Does 10 damage to 1 of your opponent's Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "D+10",
+      "Resistance": "C-20",
+      "RetreatCost": "1",
+      "code": "36/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62456,
+    "name": "Gastly (64)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85655_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85655_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85655_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "64/99",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Gnaw (10)",
+      "Attack 2": "[1P] Suffocating Gas (20)",
+      "Weakness": "D+10",
+      "Resistance": "C-20",
+      "RetreatCost": "1",
+      "code": "64/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62457,
+    "name": "Gengar (16)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85677_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85677_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85677_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "16/99",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "110",
+      "Stage": "Stage 2",
+      "CardText": "Curse - Once during your turn (before your attack), you may move 1 damage counter from 1 of your opponent's Pokemon to another of your opponent's Pokemon.  This power can't be used if Gengar is affected by a Special Condition..  (Poke-POWER)",
+      "Attack 1": "[1PP] Shadow Skip (60) Does 10 damage to 1 of your opponent's Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)  You may switch Gengar with 1 of your Benched Pokemon.",
+      "Weakness": "D+30",
+      "Resistance": "C-20",
+      "RetreatCost": "0",
+      "code": "16/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62458,
+    "name": "Gengar (17)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85678_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85678_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85678_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "17/99",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "Attack 1": "[1P] Sharpshooting - Choose 1 of your opponent's Pokemon.  This attack does 40 damage to that Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon..)",
+      "Attack 2": "[2P] Poison Jab (60) The Defending Pokemon is now Poisoned.",
+      "Weakness": "D+30",
+      "Resistance": "C-20",
+      "RetreatCost": "0",
+      "code": "17/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62459,
+    "name": "Gengar Lv.X",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85682_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85682_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85682_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "97/99",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Psychic",
+      "HP": "140",
+      "Stage": "Level Up",
+      "CardText": "Level-Down - Once during your turn (before your attack), you may choose 1 of your opponent's Pokemon LV.X.  Remove the Level-Up card from that Pokemon and have your opponent shuffle that card into his or her deck.  This power can't be used if Gengar is affected by a Special Condition.  (Poke-POWER)",
+      "Attack 1": "[1PP] Compound Pain - This attack does 30 damage to each of your opponent's Pokemon that already has any damage counters on it.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "Dx2",
+      "Resistance": "C-20",
+      "RetreatCost": "0",
+      "code": "97/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62460,
+    "name": "Geodude",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85693_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85693_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85693_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "65/99",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[F] Stone Barrage (10x) Flip a coin until you get tails.  This attack does 10 damage times the number of heads.",
+      "Weakness": "G+10",
+      "Resistance": "L-20",
+      "RetreatCost": "2",
+      "code": "65/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62461,
+    "name": "Glalie",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85756_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85756_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85756_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "18/99",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Wreck (20+) If there is any Stadium card in play, this attack does 20 damage plus 50 more damage.  Discard that Stadium card.",
+      "Attack 2": "[1WW] Avalanche (50) Flip a coin.  If heads, this attack does 10 damage to each of your opponent's Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "M+20",
+      "RetreatCost": "1",
+      "code": "18/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62462,
+    "name": "Golem",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85829_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85829_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85829_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "19/99",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[1F] Lunge Out (50)",
+      "Attack 2": "[2F] Tumble Down (30x) Discard as many F Energy cards as you like from your hand.  This attack does 30 damage times the number of F Energy cards you discarded.",
+      "Attack 3": "[2FF] Rock Tumble (80) This attack's damage isn't affected by Resistance.",
+      "Weakness": "G+30",
+      "Resistance": "L-20",
+      "RetreatCost": "4",
+      "code": "19/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62463,
+    "name": "Graveler",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85894_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85894_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85894_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "37/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Tackle (30)",
+      "Attack 2": "[1FF] Double-edge (70) Graveler does 10 damage to itself.",
+      "Weakness": "G+20",
+      "Resistance": "L-20",
+      "RetreatCost": "3",
+      "code": "37/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62464,
+    "name": "Grovyle (38)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85943_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85943_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85943_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "38/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Detect - Flip a coin.  If heads, prevent all effects of an attack, including damage, done to Grovyle during your opponent's next turn.",
+      "Attack 2": "[1G] Blade Arms (30)",
+      "Weakness": "R+20",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "code": "38/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62465,
+    "name": "Grovyle (39)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85944_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85944_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85944_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "39/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Quick Attack (20+) Flip a coin.  If heads, this attack does 20 damage plus 10 more damage.",
+      "Attack 2": "[2G] Cut (50)",
+      "Weakness": "R+20",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "code": "39/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62466,
+    "name": "Gulpin (40)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85978_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85978_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85978_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "40/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Endure - Flip a coin.  If heads, during your opponent's next turn, if Gulpin would be Knocked Out by damage from an attack, Gulpin is not Knocked Out and its remaining HP becomes 10 instead.",
+      "Attack 2": "[P] Pound (10)",
+      "Weakness": "P+10",
+      "RetreatCost": "2",
+      "code": "40/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62467,
+    "name": "Gulpin (66)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85979_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85979_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85979_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "66/99",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Collect - Draw a card.",
+      "Attack 2": "[1P] Drool (20)",
+      "Weakness": "P+10",
+      "RetreatCost": "1",
+      "code": "66/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62468,
+    "name": "Hariyama",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86015_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86015_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86015_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "20/99",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "Attack 1": "[2F] Push Out (50) Your opponent switches the Defending Pokemon with 1 of his or her Benched Pokemon.",
+      "Attack 2": "[2FF] Vortex Chop (60) If the Defending Pokemon has any Resistance, this attack's base damage is 120 instead of 60.",
+      "Weakness": "P+30",
+      "RetreatCost": "4",
+      "code": "20/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62469,
+    "name": "Haunter (41)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86029_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86029_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86029_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "41/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "Hidden Poison - If Haunter is your Active Pokemon and is damaged by an opponent's attack (even if Haunter is Knocked Out), the Attacking Pokemon is now Poisoned.  (Poke-BODY)",
+      "Attack 1": "[1P] Tongue Spring - Choose 1 of your opponent's Pokemon.  This attack does 20 damage to that Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "D+20",
+      "Resistance": "C-20",
+      "RetreatCost": "1",
+      "code": "41/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62470,
+    "name": "Haunter (42)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86030_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86030_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86030_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "42/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[P] Psyshot (20)",
+      "Attack 2": "[2] Shadow Bind (30) The Defending Pokemon can't retreat during your opponent's next turn.",
+      "Weakness": "D+20",
+      "Resistance": "C-20",
+      "RetreatCost": "1",
+      "code": "42/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62471,
+    "name": "Heatran",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86050_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86050_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86050_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "3/99",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[1R] Fire Fang (20) The Defending Pokemon is now Burned.",
+      "Attack 2": "[2RR] Magma Mantle (60+) Discard the top 3 cards of your deck.  This attack does 60 damage plus 20 more damage for each R or M Energy card you discarded.",
+      "Weakness": "Wx2",
+      "RetreatCost": "3",
+      "code": "3/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62472,
+    "name": "Helix Fossil",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86058_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86058_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86058_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "93/99",
+      "Rarity": "Common",
+      "Card Type": "Trainer",
+      "HP": "50",
+      "Stage": "Trainer",
+      "CardText": "Aqua Reaction - When you attach a W Energy card from your hand to Helix Fossil (excluding effects of attacks or Poke-Powers), search your deck for a card that evolves from Helix Fossil and put it onto Helix Fossil (this counts as evolving Helix Fossil).  Shuffle your deck afterward.  (Poke-BODY)",
+      "Attack 1": "Play Helix Fossil as if it were a C Basic Pokemon.  (Dome Fossil counts as a Trainer card as well, but if Dome Fossil is Knocked Out, this counts as a Knocked Out Pokemon.)  Dome Fossil can't be affected by any Special Conditions and can't retreat.  At any time during your turn before your attack, you may discard Dome Fossil from play.  (This doesn't count as a Knocked Out Pokemon.)",
+      "code": "93/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62473,
+    "name": "Kabuto",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86387_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86387_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86387_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "67/99",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Fast Evolution - Search your deck for up to 2 Evolution cards, show them to your opponent, and put them into your hand.  Shuffle your deck afterward.",
+      "Attack 2": "[1F] Speed Attack (30)",
+      "Weakness": "G+20",
+      "RetreatCost": "1",
+      "code": "67/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62474,
+    "name": "Kabutops",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86400_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86400_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86400_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "4/99",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "130",
+      "Stage": "Stage 2",
+      "Attack 1": "[F] Primal Scythe (20+) You may discard Helix Fossil, Dome Fossil, or Old Amber from your hand.  If you do, this attack does 20 damage plus 50 more damage.",
+      "Attack 2": "[2F] Rock Slide (60) Does 10 damage to 2 of your opponent's Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "G+30",
+      "RetreatCost": "2",
+      "code": "4/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62475,
+    "name": "Lopunny",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86827_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86827_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86827_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "21/99",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "Relaxing Shower - Once during your turn (before your attack), you may discard an Energy card from your hand.  If you do, remove 1 damage counter from each of your Pokemon.  This power can't be used if Lopunny is affected by a Special Condition.  (Poke-POWER)",
+      "Attack 1": "[2] Hover Heal (40) Remove all Special Conditions from Lopunny.",
+      "Weakness": "F+20",
+      "RetreatCost": "1",
+      "code": "21/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62476,
+    "name": "Lucky Egg",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86892_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86892_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86892_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "88/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer",
+      "HP": "0",
+      "Stage": "Tool",
+      "CardText": "Attach Lucky Egg to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.  If that Pokemon is Knocked Out, discard this card.",
+      "Attack 1": "When the Pokemon this card is attached to is Knocked Out by damage from an opponent's attack, draw cards until you have 7 cards in your hand.",
+      "code": "88/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62477,
+    "name": "Luxio",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86942_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86942_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86942_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "43/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Kick (20)",
+      "Attack 2": "[2L] Discharge (40x) Discard all L Energy attached to Luxio.  Flip a coin for each Energy card you discarded.  This attack does 40 damage times the number of heads.",
+      "Weakness": "F+20",
+      "Resistance": "M-20",
+      "RetreatCost": "1",
+      "code": "43/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62478,
+    "name": "Luxray",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86949_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86949_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86949_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "5/99",
+      "Rarity": "Holo Rare",
+      "Card Type": "Lightning",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "Attack 1": "[L] Flash (30) If the Defending Pokemon tries to attack during your opponent's next turn, your opponent flips a coin.  If tails, that attack does nothing.",
+      "Attack 2": "[2L] Gadget Bolt (60) If Luxray has a Pokemon Tool card attached to it, you may do 100 damage instead of 60 to the Defending Pokemon.  If you do, discard that Pokemon Tool card.",
+      "Weakness": "F+30",
+      "Resistance": "M-20",
+      "RetreatCost": "0",
+      "code": "5/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62479,
+    "name": "Makuhita",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87132_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87132_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87132_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "68/99",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Sand Attack - If the Defending Pokemon tries to attack during your opponent's next turn, your opponent flips a coin.  If tails, that attack does nothing.",
+      "Attack 2": "[1F] Magnum Punch (30)",
+      "Weakness": "P+10",
+      "RetreatCost": "2",
+      "code": "68/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62480,
+    "name": "Manectric (22)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87163_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87163_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87163_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "22/99",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1L] Second Bite (20+) Does 20 damage plus 10 more damage for each damage counter on the Defending Pokemon.",
+      "Attack 2": "[2L] Swift (50) This attack's damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies, or any other effect on the Defending Pokemon.",
+      "Weakness": "F+20",
+      "Resistance": "M-20",
+      "RetreatCost": "0",
+      "code": "22/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62481,
+    "name": "Manectric (44)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87164_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87164_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87164_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "44/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Tackle (20)",
+      "Attack 2": "[2L] Head Bolt (60)",
+      "Weakness": "F+20",
+      "Resistance": "M-20",
+      "RetreatCost": "0",
+      "code": "44/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62482,
+    "name": "Mothim",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87583_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87583_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87583_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "6/99",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[0] Cloak Party - Search your deck for up to 3 in any combination of Burmy and Wormadam, show them to your opponent, and put them into your hand.  Shuffle your deck afterward.",
+      "Attack 2": "[1] Energy Assist (30) Search your discard pile for a basic Energy card and attach it to 1 of your Benched Pokemon.",
+      "Weakness": "R+20",
+      "Resistance": "F-30",
+      "RetreatCost": "0",
+      "code": "6/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62483,
+    "name": "Nosepass",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87803_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87803_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87803_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "69/99",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Harden - During your opponent's next turn, if Nosepass would be damaged by an attack, prevent that attack's damage done to Nosepass if that damage is 30 or less.",
+      "Attack 2": "[1F] Knock Away (20+) Flip a coin.  If heads, this attack does 20 damage plus 10 more damage.",
+      "Weakness": "W+10",
+      "RetreatCost": "1",
+      "code": "69/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62484,
+    "name": "Old Amber",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87849_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87849_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87849_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "89/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer",
+      "HP": "50",
+      "Stage": "Trainer",
+      "CardText": "Hard Amber - As long as Old Amber is on your Bench, prevent all damage done to Old Amber by attacks (both yours and your opponent's).  (Poke-BODY)",
+      "Attack 1": "Play Old Amber as if it were a Colorless Basic Pokemon.  (Old Amber counts as a Trainer card as well, but if Old Amber is Knocked Out, this counts as a Knocked Out Pokemon.)  Old Amber can't be affected by any Special Conditions and can't retreat.  At any time during your turn before your attack, you may discard Old Amber from play.  (This doesn't count as a Knocked Out Pokemon.)",
+      "code": "89/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62485,
+    "name": "Omanyte",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87861_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87861_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87861_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "70/99",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[W] Collect - Draw 3 cards.",
+      "Attack 2": "[2] Tickle (20) Flip a coin.  If heads, the Defending Pokemon is Paralyzed.",
+      "Weakness": "G+20",
+      "RetreatCost": "1",
+      "code": "70/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62486,
+    "name": "Omastar",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87871_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87871_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87871_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "23/99",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "Attack 1": "[2] Time Spiral - Choose 1 of your opponent's Evolved Pokemon.  Remove the highest Stage Evolution card from that Pokemon and have your opponent shuffle that card into his or her deck.",
+      "Attack 2": "[1W] Primal Tentacles (30+) Does 30 damage plus 10 more damage for each Helix Fossil, Dome Fossil, and Old Amber in your discard piles.",
+      "Weakness": "G+30",
+      "RetreatCost": "1",
+      "code": "23/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62487,
+    "name": "Pelipper (24)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87978_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87978_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87978_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "24/99",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1W] Water Pulse (30) The Defending Pokemon is now Asleep.",
+      "Attack 2": "[2WW] Continuous Crush (70) Flip a coin until you get tails.  For each heads, discard an Energy card attached to the Defending Pokemon.",
+      "Weakness": "L+20",
+      "Resistance": "F-20",
+      "RetreatCost": "2",
+      "code": "24/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62488,
+    "name": "Pelipper (45)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87979_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87979_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87979_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "45/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Water Ball (20+) Does 20 damage plus 10 more damage for each W Energy attached to Pelipper.",
+      "Attack 2": "[2W] Wing Attack (60)",
+      "Weakness": "L+20",
+      "Resistance": "F-20",
+      "RetreatCost": "2",
+      "code": "45/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62489,
+    "name": "Pichu",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88021_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88021_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88021_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "25/99",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "CardText": "Baby Evolution - Once during your turn (before your attack), you may put Pikachu from your hand onto Pichu (this counts as evolving Pichu) and remove all damage counters from Pichu.  (Poke-POWER)",
+      "Attack 1": "[0] Baby Steps - Look at the top 5 cards of your deck, choose 1 of them, and put it into your hand.  Shuffle the other cards back into your deck.",
+      "Weakness": "F+10",
+      "Resistance": "M-20",
+      "RetreatCost": "1",
+      "code": "25/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62490,
+    "name": "Pikachu",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88094_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88094_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88094_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "71/99",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[L] Pika Ball (10)",
+      "Attack 2": "[2L] Mega Shot - Discard all L Energy attached to Pikachu and then choose 1 of your opponent's Pokemon.  This attack does 40 damage to that Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "F+10",
+      "Resistance": "M-20",
+      "RetreatCost": "1",
+      "code": "71/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62491,
+    "name": "Ponyta (46)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88289_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88289_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88289_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "46/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Ascension - Search your deck for a card that evolves from Ponyta and put it onto Ponyta.  (This counts as evolving Ponyta.)  Shuffle your deck afterward.",
+      "Attack 2": "[1R] Combustion (20)",
+      "Weakness": "W+10",
+      "RetreatCost": "1",
+      "code": "46/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62492,
+    "name": "Ponyta (72)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88290_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88290_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88290_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "72/99",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Tackle (10)",
+      "Attack 2": "[1R] Stomp (10+) Flip a coin.  If heads, this attack does 10 damage plus 20 more damage.",
+      "Weakness": "W+10",
+      "RetreatCost": "1",
+      "code": "72/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62493,
+    "name": "Ponyta (Shiny)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88291_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88291_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88291_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "SH11",
+      "Rarity": "Shiny Holo Rare",
+      "Card Type": "Fire",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<strong>Poke-BODY — Star Barrier</strong>\r\n<br>As long as Ponyta has any Energy attached to it, Ponyta has no Weakness.",
+      "Attack 1": "[RR] Blue Fire (50) \r\n<br>Discard all R Energy attached to Ponyta.",
+      "Weakness": "W+10",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "SH11"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62494,
+    "name": "Porygon-Z G",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88320_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88320_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88320_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "26/99",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Basic",
+      "CardText": "Dowsing Code - Once during your turn, when you put Porygon-Z G from your hand onto your Bench, you may search your discard pile for up to 2 Pokemon Tool cards, show them to your opponent, and shuffle them into your deck.  (Poke-POWER)",
+      "Attack 1": "[3] Ambush (20+) Flip a coin.  If heads, this attack does 20 damage plus 40 more damage.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "26/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62495,
+    "name": "Probopass",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88378_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88378_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88378_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "7/99",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "CardText": "Competitiveness - If you don't have a Supporter card in play, each of Probopass's attacks does 30 more damage to the Active Pokemon (before applying Weakness and Resistance).  (Poke-BODY)",
+      "Attack 1": "[1M] Top Chop (30) Draw a card.",
+      "Attack 2": "[2M] Tumbling Attack (50+) Flip a coin.  If heads, this attack does 50 damage plus 30 more damage.",
+      "Weakness": "R+20",
+      "Resistance": "P-20",
+      "RetreatCost": "3",
+      "code": "7/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62496,
+    "name": "Professor Oak's Visit",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88406_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88406_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88406_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "90/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "HP": "0",
+      "Stage": "Supporter",
+      "CardText": "You can play only one Supporter each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.",
+      "Attack 1": "Draw 3 cards.  Then choose a card from your hand and put it on the bottom of your deck.",
+      "code": "90/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62497,
+    "name": "Raichu",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88516_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88516_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88516_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "27/99",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[L] Boosted Voltage (20) If Raichu has a Pokemon Tool attached to it, this attack does 20 damage to each of your opponent's Benched Pokemon that isn't an Evolved Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Attack 2": "[2L] Thunder Blast (70) Discard a L Energy card attached to Raichu.",
+      "Weakness": "F+20",
+      "Resistance": "M-20",
+      "RetreatCost": "1",
+      "code": "27/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62498,
+    "name": "Rapidash (28)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88585_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88585_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88585_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "28/99",
+      "Rarity": "Rare",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "Wild Guard - Prevent all effects of attacks, including damage, done to Rapidash by you opponent's Pokemon SP.  (Poke-BODY)",
+      "Attack 1": "[R] Fire Mane (20)",
+      "Attack 2": "[2R] Rising Lunge (50+) Flip a coin.  If heads, this attack does 50 damage plus 20 more damage.",
+      "Weakness": "W+20",
+      "RetreatCost": "0",
+      "code": "28/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62499,
+    "name": "Rapidash (47)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88586_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88586_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88586_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "47/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[R] Searing Flame (10) The Defending Pokemon is now Burned.",
+      "Attack 2": "[1R] Flare (40)",
+      "Weakness": "W+20",
+      "RetreatCost": "0",
+      "code": "47/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62500,
+    "name": "Raticate",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88605_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88605_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88605_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "29/99",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Recruit - Look at your opponent's hand, choose a Supporter card you find there, and discard it.  Then, use the effect of that card as the effect of this attack.",
+      "Attack 2": "[1] Extend Fang (20+) If Raticate has a Pokemon Tool attached to it, this attack does 20 damage plus 40 more damage.",
+      "Weakness": "F+20",
+      "RetreatCost": "0",
+      "code": "29/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62501,
+    "name": "Rattata",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88619_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88619_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88619_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "73/99",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "30",
+      "Stage": "Basic",
+      "Attack 1": "[1] Lunge (30) Flip a coin.  If tails, this attack does nothing.",
+      "Weakness": "F+10",
+      "RetreatCost": "0",
+      "code": "73/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62502,
+    "name": "Salamence",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88899_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88899_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88899_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "8/99",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "Top Accelerator - Once during your turn (before your attack), you may reveal the top card of your deck.  If that card is a basic Energy card, attach it to 1 of your Pokemon.  If that card isn't a basic Energy card, discard it.  This power can't be used if Salamence is affected by a Special Condition.  (Poke-POWER)",
+      "Attack 1": "[1RW] Shoot Through (50) Does 20 damage to 1 of your opponent's Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Attack 2": "[4] Dragon Claw (70)",
+      "Weakness": "C+30",
+      "Resistance": "F-20",
+      "RetreatCost": "2",
+      "code": "8/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62503,
+    "name": "Salamence Lv.X",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88906_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88906_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88906_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "98/99",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Colorless",
+      "HP": "160",
+      "Stage": "Level Up",
+      "CardText": "Double Fall - Once during your turn (before your attack), when you put Salamence LV.X from your hand onto your Active Salamence, you may use this power.  For each of your opponent's Pokemon that is Knocked Out by damage from Salamence's attacks this turn, take 1 more Prize card.  (Poke-POWER)",
+      "Attack 1": "[2RW] Steam Blast (100) Discard an Energy card attached to Salamence.",
+      "Weakness": "Cx2",
+      "Resistance": "F-20",
+      "RetreatCost": "2",
+      "code": "98/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62504,
+    "name": "Sceptile (30)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88951_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88951_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88951_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "30/99",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "CardText": "Green Breath - When you attach a G Energy card from your hand to Sceptile, remove 2 damage counters from Sceptile.  (Poke-BODY)",
+      "Attack 1": "[G] Leaf Blast (20x) Does 20 damage times the amount of G Energy attached to Sceptile.",
+      "Attack 2": "[3G] Poison Claws (60) The Defending Pokemon is now Poisoned.",
+      "Weakness": "R+30",
+      "Resistance": "W-20",
+      "RetreatCost": "2",
+      "code": "30/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62505,
+    "name": "Sceptile (31)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88952_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88952_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88952_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "31/99",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "130",
+      "Stage": "Stage 2",
+      "Attack 1": "[G] Leaf Supply (30) You may attach a basic Energy card from your hand to 1 of your Pokemon.",
+      "Attack 2": "[2G] Dual Cut (70x) Flip 2 coins.  This attack does 70 damage times the number of heads.",
+      "Weakness": "R+30",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "code": "31/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62506,
+    "name": "Shelgon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89129_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89129_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89129_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "48/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Scrunch - Flip a coin.  If heads, prevent all damage done to Shelgon during your opponent's next turn.",
+      "Attack 2": "[3] Dragon Bump (40+) If Shelgon has any basic R Energy and any basic W Energy attached to it, this attack does 40 damage plus 20 more damage.",
+      "Weakness": "C+20",
+      "RetreatCost": "1",
+      "code": "48/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62507,
+    "name": "Shinx",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89177_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89177_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89177_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "74/99",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Gnaw (10)",
+      "Attack 2": "[2] Swagger (20) Flip a coin.  If heads, discard an Energy card attached to the Defending Pokemon.",
+      "Weakness": "F+10",
+      "Resistance": "M-20",
+      "RetreatCost": "1",
+      "code": "74/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62508,
+    "name": "Shinx (Shiny)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89178_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89178_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89178_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "SH12",
+      "Rarity": "Shiny Holo Rare",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "CardText": "<strong>Poke-BODY — Star Barrier</strong>\r\n<br>As long as Shinx has any Energy attached to it, Shinx has no Weakness.",
+      "Attack 1": "[L] Payback (10+) \r\n<br>If your opponent has only 1 Prize card left, this attack does 10 damage plus 30 more damage.",
+      "Weakness": "F+10",
+      "Resistance": "M-20",
+      "RetreatCost": "1",
+      "code": "SH12"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62509,
+    "name": "Snorunt",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89403_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89403_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89403_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "75/99",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Ice Breath - Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[1W] Double Headbutt (20x) Flip 2 coins.  This attack does 20 damage times the number of heads.",
+      "Weakness": "M+10",
+      "RetreatCost": "1",
+      "code": "75/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62510,
+    "name": "Spiritomb",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89466_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89466_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89466_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "32/99",
+      "Rarity": "Rare",
+      "Card Type": "Darkness",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "Keystone Seal - As long as Spiritomb is your Active Pokemon, each player can't play any Trainer cards from his or her hand.  (Poke-BODY)",
+      "Attack 1": "[0] Darkness Grace - Search your deck for a card that evolves from 1 of your Pokemon and put it onto that Pokemon.  (This counts as evolving that Pokemon.)  If you do, put 1 damage counter on Spiritomb.  Shuffle your deck afterward.",
+      "Attack 2": "[D] Will-o'-the-wisp (10)",
+      "Resistance": "C-20",
+      "RetreatCost": "1",
+      "code": "32/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62511,
+    "name": "Swalot",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89674_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89674_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89674_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "9/99",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[P] Damage Roller - Put damage counters on the Defending Pokemon until the Defending Pokemon has the same remaining HP as Swalot.  (If the Defending Pokemon has the same or less remaining HP as Swalot, this attack does nothing.)",
+      "Attack 2": "[1PP] Entangle Tackle (50+) You may do 50 damage plus 30 more damage.  If you do, this attack does 30 damage to 1 of your Pokemon, and don't apply Weakness and Resistance to this damage.",
+      "Weakness": "P+20",
+      "RetreatCost": "3",
+      "code": "9/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62512,
+    "name": "Tangela (76)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89746_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89746_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89746_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "76/99",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Absorb (10) Remove 1 damage counter from Tangela.",
+      "Attack 2": "[1G] Sleep Powder (20) The Defending Pokemon is now Asleep.",
+      "Weakness": "R+10",
+      "Resistance": "W-20",
+      "RetreatCost": "2",
+      "code": "76/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62513,
+    "name": "Tangela (77)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89747_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89747_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89747_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "77/99",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Collect - Draw a card.",
+      "Attack 2": "[2G] Stun Spore (30) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "R+10",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "code": "77/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62514,
+    "name": "Tangrowth",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89753_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89753_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89753_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "10/99",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "Attack 1": "[1G] Leaf Guard (30) During your opponent's next turn, any damage done to Tangrowth by attacks is reduced by 20 (after applying Weakness and Resistance).",
+      "Attack 2": "[2GG] Swallow Up (50) Before doing damage, count the number of remaining HP of the Defending Pokemon and Tangrowth.  If the Defending Pokemon has fewer remaining HP than Tangrowth's, this attack does 120 damage instead.",
+      "Weakness": "R+30",
+      "Resistance": "W-20",
+      "RetreatCost": "3",
+      "code": "10/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62515,
+    "name": "Tangrowth Lv.X",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89757_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89757_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89757_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "99/99",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Grass",
+      "HP": "130",
+      "Stage": "Level Up",
+      "CardText": "Healing Growth - Once during your turn (before your attack), you may flip a coin.  If heads, remove 4 damage counters from 1 of your Pokemon.  This power can't be used if Tangrowth is affected by a Special Condition.  (Poke-POWER)",
+      "Attack 1": "[G] Big Growth - Search your discard pile for as many G Energy cards as you like and attach them to your Pokemon in any way you like.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "3",
+      "code": "99/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62516,
+    "name": "Toxicroak",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90009_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90009_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90009_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "11/99",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[F] Corner (20) The Defending Pokemon can't retreat during your opponent's next turn.",
+      "Attack 2": "[2] Convert Blow (30+) If Toxicroak has any P Energy attached to it, the Defending Pokemon is now Poisoned.  If Toxicroak has any F Energy attached to it, this attack does 30 damage plus 30 more damage.",
+      "Weakness": "P+20",
+      "RetreatCost": "1",
+      "code": "11/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62517,
+    "name": "Treecko (78)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90041_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90041_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90041_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "78/99",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[2] Tail Crush (20+) Flip a coin.  If heads, this attack does 20 damage plus 10 more damage.",
+      "Weakness": "R+10",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "code": "78/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62518,
+    "name": "Treecko (79)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90042_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90042_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90042_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "79/99",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Pound (10)",
+      "Attack 2": "[1G] Slash (20)",
+      "Weakness": "R+10",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "code": "79/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62519,
+    "name": "Ultimate Zone",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90133_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90133_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90133_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "91/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "HP": "0",
+      "Stage": "Stadium",
+      "CardText": "This card stays in play when you play it.  Discard this card if another Stadium card comes into play.  If another card with the same name is in play, you can't play this card.",
+      "Attack 1": "During each player's turn, the player may move an Energy card attached to 1 of his or her Benched Pokemon to his or her Active Arceus as often as he or she likes.",
+      "code": "91/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62520,
+    "name": "Wingull (80)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90610_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90610_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90610_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "80/99",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Glide (10)",
+      "Attack 2": "[1W] Slashing Strike (30) During your next turn, Wingull can't use Slashing Strike.",
+      "Weakness": "L+10",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "code": "80/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62521,
+    "name": "Wingull (81)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90611_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90611_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90611_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "81/99",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[W] Rain Splash (20)",
+      "Weakness": "L+10",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "code": "81/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62522,
+    "name": "Wormadam Plant Cloak",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90641_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90641_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90641_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "49/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[G] Magical Needle (20) Remove 2 damage counters from 1 of your Benched Pokemon.",
+      "Attack 2": "[2G] Cloak Scale (50) If you have Wormadam Sandy Cloak in play, the Defending Pokemon is now Burned, Confused, and Poisoned.",
+      "Weakness": "R+20",
+      "RetreatCost": "1",
+      "code": "49/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62523,
+    "name": "Wormadam Sandy Cloak",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90644_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90644_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90644_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "50/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[F] Hang Down (30)",
+      "Attack 2": "[2F] Cloak Headbutt (60+) If you have Wormadam Trash Cloak in play, this attack does 60 damage plus 30 more damage.",
+      "Weakness": "R+20",
+      "Resistance": "L-20",
+      "RetreatCost": "1",
+      "code": "50/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62524,
+    "name": "Wormadam Trash Cloak",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90646_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90646_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90646_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "51/99",
+      "Rarity": "Uncommon",
+      "Card Type": "Metal",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[M] Choose 1 of your opponent's Pokemon.  This attack does 10 damage to that Pokemon.  If you have Wormadam Plant Cloak in play, this attack does 40 damage to that Pokemon instead.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Attack 2": "[2] Serve Trash (30) You may search your opponent's discard pile for any 1 card, show it to your opponent, and put it on top of his or her deck.",
+      "Weakness": "R+20",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "code": "51/99"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-arceus",
+    "id": 62525,
+    "name": "Zapdos G",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90726_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90726_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90726_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "12/99",
+      "Rarity": "Holo Rare",
+      "Card Type": "Lightning",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[1] Charge Beam (10) Flip a coin.  If heads, search your discard pile for an Energy card and attach it to Zapdos G.",
+      "Attack 2": "[1LL] Lightning Strike (40) You may discard all L Energy attached to Zapdos G.  If you do, this attack's base damage is 80 instead of 40.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "2",
+      "code": "12/99"
+    }
+  }
+]

@@ -1,0 +1,587 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-burger-king-promos",
+    "id": 62814,
+    "name": "Chimchar - 56/100 [Platinum]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/155603_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/155603_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/155603_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "056/100",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[R] Flare (20)",
+      "Attack 2": "[2] Lunge (40)\r\n<br>Flip a coin. If tails, this attack does nothing.",
+      "Weakness": "W+10",
+      "RetreatCost": "1",
+      "Artist": "Daisuke Ito",
+      "code": "056/100"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-burger-king-promos",
+    "id": 62813,
+    "name": "Chimchar - 76/130 [Diamond & Pearl]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/155602_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/155602_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/155602_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "076/130",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[0] Scratch (10)",
+      "Attack 2": "[1R] Ember (30)\r\n<br>Flip a coin. If tails, discard a Fire Energy attached to Chimchar.",
+      "Weakness": "W+10",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "076/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-burger-king-promos",
+    "id": 62815,
+    "name": "Dialga - 16/106 [Platinum]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/155604_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/155604_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/155604_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "016/106",
+      "Rarity": "Promo",
+      "Card Type": "Metal",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[M] Time Bellow (10)\r\n<br>Draw a card.",
+      "Attack 2": "[1MM] Flash Cannon (40)\r\n<br>You may return all Energy cards attached to Dialga to your hand. If you do, remove the highest Stage Evolution card from the Defending Pokémon and shuffle that card into your opponent's deck.",
+      "Weakness": "R+20",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "Artist": "Daisuke Ito",
+      "code": "016/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-burger-king-promos",
+    "id": 62816,
+    "name": "Eevee - 62/100 [Platinum]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/155605_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/155605_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/155605_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "062/100",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Call for Family\r\n<br>Search your deck for as many Eevee as you like and put them onto your Bench. Shuffle your deck afterward.",
+      "Attack 2": "[1] Lunge (20)\r\n<br>Flip a coin. If tails, this attack does nothing.",
+      "Weakness": "F+10",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "062/100"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-burger-king-promos",
+    "id": 62817,
+    "name": "Giratina - 4/146 [Platinum]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/155606_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/155606_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/155606_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "004/146",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[1P] Shadow Force\r\n<br>Choose 1 of your opponent's Benched Pokémon. This attack does 20 damage to that Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em> Flip a coin. If heads, prevent all effects of an attack, including damage, done to Giratina during your opponent's next turn.",
+      "Attack 2": "[2PP] Brutal Edge (50+)\r\n<br>Does 50 damage plus 10 more damage for each damage counter on the Defending Pokémon.",
+      "Weakness": "Dx2",
+      "Resistance": "C-20",
+      "RetreatCost": "3",
+      "Artist": "Kazuki Aihara",
+      "code": "004/146"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-burger-king-promos",
+    "id": 62818,
+    "name": "Glaceon - 20/100 [Platinum]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/155607_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/155607_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/155607_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "020/100",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1W] Ice Shot (30)\r\n<br>Does 10 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Attack 2": "[2W] Icy Wind (60)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+      "Weakness": "M+20",
+      "RetreatCost": "1",
+      "Artist": "Masakazu Fukuda",
+      "code": "020/100"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-burger-king-promos",
+    "id": 62819,
+    "name": "Grotle - 49/130 [Diamond & Pearl]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/155608_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/155608_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/155608_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "049/130",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[G] Synthesis\r\n<br>Search your deck for a Grass Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward.",
+      "Attack 2": "[2G] Cut (50)",
+      "Weakness": "R+20",
+      "Resistance": "W-20",
+      "RetreatCost": "3",
+      "Artist": "Ken Sugimori",
+      "code": "049/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-burger-king-promos",
+    "id": 62820,
+    "name": "Happiny - 52/123 [Diamond & Pearl]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/155609_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/155609_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/155609_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "052/123",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<strong>Poké-POWER — Baby Evolution</strong>\r\n<br>Once during your turn <em>(before your attack)</em>, you may put Chansey from your hand onto Happiny (this counts as evolving Happiny) and remove all damage counters from Happiny.",
+      "Attack 1": "[0] Lively\r\n<br>Remove 2 damage counters from 1 of your Pokémon.",
+      "Weakness": "F+20",
+      "RetreatCost": "1",
+      "Artist": "Yuka Morii",
+      "code": "052/123"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-burger-king-promos",
+    "id": 62821,
+    "name": "Leafeon - 24/100 [Platinum]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/155610_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/155610_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/155610_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "024/100",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1G] Spiral Drain (40)\r\n<br>Remove 1 damage counter from Leafeon.",
+      "Attack 2": "[2G] Leaf Blade (50+)\r\n<br>Flip a coin. If heads, this attack does 50 damage plus 20 more damage.",
+      "Weakness": "R+20",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "Artist": "Masakazu Fukuda",
+      "code": "024/100"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-burger-king-promos",
+    "id": 62822,
+    "name": "Lucario - 6/130 [Diamond & Pearl]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/155611_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/155611_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/155611_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "006/130",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Feint (30)\r\n<br>This attack's damage isn't affected by Resistance.",
+      "Attack 2": "[FF] Aura Sphere (40)\r\n<br>Does 20 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Weakness": "P+20",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "006/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-burger-king-promos",
+    "id": 62829,
+    "name": "Manaphy - 9/130 [Diamond & Pearl]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/215634_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/215634_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/215634_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "009/130",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Call for Family\r\n<br>Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward.",
+      "Attack 2": "[WW] Aqua Ring (30)\r\n<br>Switch Manaphy with 1 of your Benched Pokémon.",
+      "Weakness": "L+20",
+      "RetreatCost": "1",
+      "Artist": "Nakaoka",
+      "code": "009/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-burger-king-promos",
+    "id": 62827,
+    "name": "Meowth - 106/146 [Platinum]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/191913_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/191913_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/191913_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "106/146",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Pay Day (10) \r\n<br>Flip a coin. If heads, draw a card.",
+      "Attack 2": "[2] Fury Swipes (10x) \r\n<br>Flip 3 coins. This attack does 10 damage times the number of heads.",
+      "Weakness": "F+10",
+      "RetreatCost": "1",
+      "Artist": "Atsuko Nishida",
+      "code": "106/146"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-burger-king-promos",
+    "id": 62824,
+    "name": "Monferno - 56/130 [Diamond & Pearl]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/174129_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/174129_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/174129_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "056/130",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[R] Flame Dance (30) \r\n<br>Search your discard pile for a Fire Energy card and attach it to Monferno.",
+      "Attack 2": "[2] Fury Swipes (20x) \r\n<br>Flip 3 coins. This attack does 20 damage times the number of heads.",
+      "Weakness": "W+20",
+      "Artist": "Ken Sugimori",
+      "code": "056/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-burger-king-promos",
+    "id": 62832,
+    "name": "Pachirisu - 35/130 [Diamond & Pearl]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/220666_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/220666_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/220666_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "035/130",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Minor Errand-Running\r\n<br>\r\nSearch your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
+      "Attack 2": "[L] Thunder Jolt (20) \r\n<br>\r\nFlip a coin. If tails, Pachirisu does 10 damage to itself.",
+      "Weakness": "F+20",
+      "Resistance": "M-20",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "035/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-burger-king-promos",
+    "id": 62830,
+    "name": "Palkia - 26/106 [Platinum]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/216822_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/216822_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/216822_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "026/106",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[W] Spacial Rend (10)\r\n<br>Search your deck for a Stadium card, show it to your opponent, and put it into your hand. Shuffle your deck afterward. If there is any Stadium card in play, discard it.",
+      "Attack 2": "[1WW] Transback (40)\r\n<br>You may flip a coin. If heads, discard all energy attached to Palkia and put the Defending Pokémon and all cards attached to it on top of your opponent’s deck. Your opponent shuffles his or her deck afterward.",
+      "Weakness": "L+20",
+      "RetreatCost": "2",
+      "Artist": "Daisuke Ito",
+      "code": "026/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-burger-king-promos",
+    "id": 62825,
+    "name": "Pichu - 45/106 [Platinum]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/188126_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/188126_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/188126_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "045/100",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "CardText": "<strong>Poké-POWER — Baby Evolution</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may put Pikachu from your hand onto Pichu (this counts as evolving Pichu) and remove all damage counters from Pichu.",
+      "Attack 1": "[0] Electric Circuit\r\n<br>\r\nSearch your discard pile for up to 4 Lightning Energy cards, show them to your opponent, and put them into your hand.",
+      "Weakness": "F+10",
+      "Resistance": "M-20",
+      "RetreatCost": "1",
+      "Artist": "Atsuko Nishida",
+      "code": "045/100"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-burger-king-promos",
+    "id": 62833,
+    "name": "Pikachu - 70/100 [Platinum]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/224679_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/224679_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/224679_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "070/100",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Quick Attack (10+)\r\n<br>Flip a coin. If heads, this attack does 10 damage plus 10 more damage.",
+      "Attack 2": "[2L] Volt Tackle (50)\r\n<br>Pikachu does 10 damage to itself.",
+      "Weakness": "F+10",
+      "Resistance": "M-20",
+      "RetreatCost": "1",
+      "Artist": "Daisuke Ito",
+      "code": "070/100"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-burger-king-promos",
+    "id": 62823,
+    "name": "Pikachu - 94/123 (Diamond & Pearl)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/174062_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/174062_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/174062_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "094/123",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<strong>Poké-POWER — Electro Recycle</strong>\r\n<br>Once during your turn <em>(before your attack)</em>, if Pichu is anywhere under Pikachu, you may search your discard pile for a Lightning Energy card, show it to your opponent, and put it into your hand. This power can't be used if Pikachu is affected by a Special Condition.",
+      "Attack 1": "[1L] BikaBika (20+)\r\n<br>Flip a coin. If heads, this attack does 20 damage plus 10 more damage.",
+      "Weakness": "F+10",
+      "Resistance": "M-20",
+      "RetreatCost": "1",
+      "Artist": "Sumiyoshi Kizuki",
+      "code": "094/123"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-burger-king-promos",
+    "id": 62826,
+    "name": "Piplup - 71/100 [Platinum]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/188132_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/188132_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/188132_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "071/100",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[W] Water Splash (10+)\r\n<br>\r\nFlip a coin. If heads, this attack does 10 damage plus 10 more damage.",
+      "Attack 2": "[2] Headbutt (20)",
+      "Weakness": "L+10",
+      "RetreatCost": "1",
+      "Artist": "Kent Kanetsuna",
+      "code": "071/100"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-burger-king-promos",
+    "id": 62836,
+    "name": "Piplup - 93/130 [Diamond and Pearl]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/235080_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/235080_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/235080_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "093/100",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[0] Peck (10)",
+      "Attack 2": "[1W] Water Splash (20+) \r\n<br>Flip a coin. If heads, this attack does 20 damage plus 10 more damage.",
+      "Weakness": "L+10",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "093/100"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-burger-king-promos",
+    "id": 62828,
+    "name": "Prinplup - 58/130 [Diamond & Pearl]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/213008_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/213008_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/213008_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "058/130",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "1",
+      "Attack 1": "[W] Aqua Shower\r\n<br>Does 10 damage to each of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon)</em>.",
+      "Attack 2": "[WW] Brine\r\n<br>Choose 1 of your opponent's Pokémon that has any damage counters on it. This attack does 40 damage to that Pokémon.<em>(Don't apply Weakness and Resistance for Benched Pokémon)</em>.",
+      "Weakness": "L +20",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "058/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-burger-king-promos",
+    "id": 62831,
+    "name": "Shinx - 98/130 [Diamond & Pearl]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/220665_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/220665_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/220665_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "098/130",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[L] Spark (10) \r\n<br>\r\nDoes 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+      "Weakness": "F+10",
+      "Resistance": "M-20",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "098/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-burger-king-promos",
+    "id": 62834,
+    "name": "Turtwig - 103/130 [Diamond & Pearl]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/231449_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/231449_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/231449_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "103/130",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[0] Tackle (10)",
+      "Attack 2": "[G] Razor Leaf (20)",
+      "Weakness": "R+10",
+      "Resistance": "W-20",
+      "RetreatCost": "2",
+      "Artist": "Ken Sugimori",
+      "code": "103/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-burger-king-promos",
+    "id": 62835,
+    "name": "Turtwig - 77/100 [Platinum]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/231450_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/231450_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/231450_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "077/100",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Rollout (10)",
+      "Attack 2": "[1G] Razor Leaf (30)",
+      "Weakness": "R+10",
+      "Resistance": "W-20",
+      "RetreatCost": "2",
+      "Artist": "Daisuke Ito",
+      "code": "077/100"
+    }
+  }
+]

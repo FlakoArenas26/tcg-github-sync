@@ -1,0 +1,2435 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64752,
+    "name": "Altaria ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83524_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83524_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83524_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "90/106",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Colorless",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Mist \r<br>\n<br>Any damage done to Altaria ex by attacks from Stage 2 Evolved Pokemon <em>(both yours and your opponent's)</em> is reduced by 30 <em>(after applying Weakness and Resistance).J<  (Poke-BODY)",
+      "Attack 1": "[1] Dive (20)",
+      "Attack 2": "[1LW] Dragon Mist (70) \r\n<br>This attack's damage isn't affected by Resistance, Poke-Powers, Poke-Bodies, or any other effects on the Defending Pokemon.",
+      "Weakness": "None",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "90/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64753,
+    "name": "Baltoy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83713_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83713_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83713_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "43/106",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Slap (10)",
+      "Attack 2": "[3] Pierce (30)",
+      "Weakness": "G",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "43/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64754,
+    "name": "Battle Frontier",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83740_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83740_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83740_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "75/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "CardText": "Each player's Colorless Evolved Pokemon, Darkness Evolved Pokemon, and Metal Evolved Pokemon can't use any Poke-Powers or Poke-Bodies.",
+      "code": "75/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64755,
+    "name": "Blaziken",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83906_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83906_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83906_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "1/106",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "110",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-BODY</b> Blaze \r\n<br>\r\n<br>As long as Blaziken's remaining HP is 40 or less, Blaziken does 40 more damage to the Defending Pokemon <em>(before applying Weakness and Resistance). </em>",
+      "Attack 1": "[1] Searing Flame (10) \r\n<br>The Defending Pokemon is now Burned.",
+      "Attack 2": "[1RR] Damage Burn (50+) \r\n<br>If the Defending Pokemon already has any damage counters on it, this attack does 50 damage plus 20 more damage.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "1/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64756,
+    "name": "Breloom",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83956_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83956_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83956_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "22/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Power Blow (10+) \r\n<br>Does 10 damage plus 10 more damage for each Energy attached to Breloom.",
+      "Attack 2": "[1GG] Body Slam (40) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "22/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64757,
+    "name": "Cacnea",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84071_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84071_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84071_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "44/106",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Spike Cannon (10x) \r\n<br>Flip 3 coins.  This attack does 10 damage times the number of heads.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "44/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64758,
+    "name": "Cacturne ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84084_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84084_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84084_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "91/106",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Grass",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Cursed Glare \r<br>\n<br>As long as Cacturne ex is your Active Pokemon, your opponent can't attach any Special Energy cards (except for Darkness and Metal Energy cards) from his or her hand to his or her Active Pokemon.",
+      "Attack 1": "[G] Psybeam (20) \r\n<br>The Defending Pokemon is now Confused.",
+      "Attack 2": "[2G] Spike Rend (50+) \r\n<br>If the Defending Pokemon already has any damage counters on it, this attack does 50 damage plus 20 more damage.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "91/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64759,
+    "name": "Camerupt",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84090_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84090_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84090_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "23/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Extra Flame (20+) \r\n<br>If the Defending Pokemon is Pokemon-ex, this attack does 20 damage plus 30 more damage.",
+      "Attack 2": "[2R] Super Singe (40) \r\n<br>The Defending Pokemon is now Burned.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "23/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64760,
+    "name": "Camerupt ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84096_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84096_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84096_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "92/106",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fire",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Magma Armor \r<br>\n<br>Camerupt ex can't be Asleep or Paralyzed.",
+      "Attack 1": "[2] Searing Flame (30) \r\n<br>The Defending Pokemon is now Burned.",
+      "Attack 2": "[1RR] Eruption (60+) \r\n<br>Each player discard the top card of his or her deck.  This attack does 60 damage plus 20 more damage for each Energy card discarded in this way.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "92/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64761,
+    "name": "Chimecho",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84294_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84294_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84294_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "12/106",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Collect  \r\n<br>Draw a card.",
+      "Attack 2": "[1P] Warp Sounds (20) \r\n<br>If the Defending Pokemon is an Evolved Pokemon, the Defending Pokemon is now Confused.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "12/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64762,
+    "name": "Claydol",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84335_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84335_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84335_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "24/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Levitate \r<br>\n<br>As long as Claydol has any Energy attached to it, the Retreat Cost for Claydol is 0.",
+      "Attack 1": "[1F] Rock Smash (30+) \r\n<br>Flip a coin.  If heads, this attack does 30 damage plus 10 more damage.",
+      "Weakness": "G",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "24/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64763,
+    "name": "Combusken",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84404_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84404_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84404_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "25/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1R] Lava Burn (20) \r\n<br>Does 10 damage to 1 of your opponent's Benched Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Attack 2": "[2R] Sharp Claws (40+) \r\n<br>Flip a coin.  If heads, this attack does 40 damage plus 10 more damage.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "25/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64764,
+    "name": "Darkness Energy (Special)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84684_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84684_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84684_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "86/106",
+      "Rarity": "Rare",
+      "Card Type": "Special Energy",
+      "CardText": "If the Pokemon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokemon <em>(before applying Weakness and Resistance).</em>  Ignore this effect unless the Attacking Pokemon is Darkness or has Dark in its name.  Darkness Energy provides Darkness energy.  <em>(Doesn't count as a basic Energy card.)</em>",
+      "code": "86/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64765,
+    "name": "Deoxys (Speed Forme)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84766_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84766_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84766_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "2/106",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b>Form Change  \r<br>\n<br>Once during your turn <em>(before your attack)</em>, you may search your deck for another Deoxys and switch it with Deoxys.  <em>(Any cards attached to Deoxys, damage counters, Special Conditions, and effects on it are now on the new Pokemon.)</em> If you do, put Deoxys on top of your deck.  Shuffle your deck afterward.  You can't use more than 1 Form Change Poke-Power each turn.",
+      "Attack 1": "[2] Swift (30) \r\n<br>This attack's damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies, or any other effects on the Defending Pokemon.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "2/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64766,
+    "name": "Deoxys ex (Speed Forme)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84773_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84773_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84773_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "93/106",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Psychic",
+      "HP": "110",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Form Change  \r<br>\n<br>Once during your turn <em>(before your attack)</em>, you may search your deck for another Deoxys ex and switch it with Deoxys ex.  <em>(Any cards attached to Deoxys ex, damage counters, Special Conditions, and effects on it are now on the new Pokemon.)</em> If you do, put Deoxys ex on top of your deck.  Shuffle your deck afterward.  You can't use more than 1 Form Change Poke-Power each turn.",
+      "Attack 1": "[3] Fastwave (50) \r\n<br>This attack's damage isn't affected by Resistance, Poke-Powers, Poke-Bodies, or any other effects on the Defending Pokemon.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "93/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64767,
+    "name": "Dodrio",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84851_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84851_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84851_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "26/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Smash Kick (30)",
+      "Attack 2": "[3] Smash Turn (40) \r\n<br>After your attack, you may switch Dodrio with 1 of your Benched Pokemon.",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "26/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64768,
+    "name": "Doduo",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84862_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84862_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84862_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "45/106",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Paralyzing Gaze \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "45/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64769,
+    "name": "Double Full Heal",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84888_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84888_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84888_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "76/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Remove all Special Conditions from each of your Active Pokemon.",
+      "code": "76/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64770,
+    "name": "Double Rainbow Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84892_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84892_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84892_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "87/106",
+      "Rarity": "Rare",
+      "Card Type": "Special Energy",
+      "CardText": "Double Rainbow Energy can be attached only to an Evolved Pokemon <em>(excluding Pokemon-ex).</em>\r\n<br>\r\n<br>While in play, Double Rainbow Energy provides every type of Energy but provides 2 Energy at a time.  <em>(Has no effect other than providing Energy.)</em>  Damage done to your opponent's Pokemon by the Pokemon Double Rainbow Energy is attached to is reduced by 10 <em>(before applying Weakness and Resistance). </em> When the Pokemon Double Rainbow Energy is attached to is no longer an Evolved Pokemon, discard Double Rainbow Energy.",
+      "code": "87/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64771,
+    "name": "Dusclops ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85032_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85032_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85032_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "94/106",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Psychic",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Dark Hole \r<br>\n<br>As long as Dusclops ex is on your Bench, don't apply Darkness Weakness for all of your Pokemon in play.",
+      "Attack 1": "[P] Shadow Beam\r\n<br>Put 2 damage counters on the Defending Pokemon for each Energy attached to Dusclops ex.",
+      "Weakness": "D",
+      "Resistance": "FC",
+      "RetreatCost": "2",
+      "code": "94/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64772,
+    "name": "Duskull",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85047_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85047_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85047_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "46/106",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Pound (10)",
+      "Weakness": "D",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "46/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64773,
+    "name": "Electrike - 047/106",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85134_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85134_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85134_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "47/106",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Double Kick (10x)",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "1",
+      "code": "47/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64774,
+    "name": "Electrike - 048/106",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85135_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85135_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85135_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "48/106",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Rear Kick (10)",
+      "Attack 2": "[1L] Skull Bash (30)",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "1",
+      "code": "48/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64775,
+    "name": "Electrode",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85154_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85154_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85154_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "27/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[L] Thundershock (20) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[3] Speed Ball (50)",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "27/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64776,
+    "name": "Exploud",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85371_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85371_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85371_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "3/106",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "Attack 1": "[1] Collect \r\n<br>Draw 3 cards.",
+      "Attack 2": "[2] Body Slam (30) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 3": "[3] Hyper Voice (50)",
+      "Attack 4": "[5] Mega Throw (60+) \r\n<br>If the Defending Pokemon is Pokemon-ex, this attack does 60 damage plus 40 more damage.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "3/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64777,
+    "name": "Farfetch'd (Secret Rare)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85385_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85385_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85385_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "107/106",
+      "Rarity": "Secret Rare",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Spearhead \r\n<br>Draw a card.",
+      "Attack 2": "[2] Nosedive(30) \r\n<br>Farfetch'd does 10 damage to itself.",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "107/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64778,
+    "name": "Feebas - 049/106",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85402_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85402_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85402_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "49/106",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "30",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Submerge \r<br>\n<br>As long as Feebas is on your Bench, prevent all damage done to Feebas by attacks <em>(both yours and your opponent's). </em>",
+      "Attack 1": "[1W] Lunge (20) \r\n<br>Flip a coin.  If tails, this attack does nothing.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "49/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64779,
+    "name": "Feebas - 050/106",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85403_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85403_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85403_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "50/106",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "30",
+      "Stage": "Basic",
+      "Attack 1": "[W] Water Arrow \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 10 damage to that Pokemon. <i> (Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "50/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64780,
+    "name": "Fighting Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85439_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85439_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85439_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "106/106",
+      "Rarity": "Holo Rare",
+      "Card Type": "Energy",
+      "code": "106/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64781,
+    "name": "Fire Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85459_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85459_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85459_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "102/106",
+      "Rarity": "Holo Rare",
+      "Card Type": "Energy",
+      "code": "102/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64782,
+    "name": "Gardevoir",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85633_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85633_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85633_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "4/106",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-POWER</b> Heal Dance \r<br>\n<br>Once during your turn <em>(before you attack)</em>, you may remove 2 damage counters from 1 of your Pokemon.  You can't use more than 1 Heal Dance Poke-Power each turn.  This power can't be used if Gardevoir is affected by a Special Condition.",
+      "Attack 1": "[1P] Psypunch (30)",
+      "Attack 2": "[3P] Mind Shock (60) \r\n<br>This attack's damage isn't affected by Weakness or Resistance.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "4/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64783,
+    "name": "Glalie",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85753_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85753_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85753_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "13/106",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Hailstone \r\n<br>Does 10 damage to each of your opponent's Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Attack 2": "[2W] Super Slash (40+) \r\n<br>If the Defending Pokemon is an Evolved Pokemon, this attack does 40 damage plus 20 more damage.",
+      "Weakness": "M",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "13/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64784,
+    "name": "Grass Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85875_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85875_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85875_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "101/106",
+      "Rarity": "Holo Rare",
+      "Card Type": "Energy",
+      "code": "101/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64785,
+    "name": "Groudon - 005/106",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85922_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85922_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85922_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "5/106",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[F] Slash (10)",
+      "Attack 2": "[2F] Rock Tumble (40) \r\n<br>This attack's damage isn't affected by Resistance.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "5/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64786,
+    "name": "Groudon - 014/106",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85923_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85923_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85923_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "14/106",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[1F] Slash (20)",
+      "Attack 2": "[3F] Eruption (40+) \r\n<br>Each player discards the top card of his or her deck.  This attack does 40 damage plus 10 more damage for each Energy card discarded in this way.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "14/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64787,
+    "name": "Grovyle",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85938_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85938_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85938_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "28/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[G] Tail Shake (10) \r\n<br>The Defending Pokemon is now Asleep.",
+      "Attack 2": "[3] Razor Leaf (40)",
+      "Weakness": "R",
+      "Resistance": "W",
+      "RetreatCost": "1",
+      "code": "28/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64788,
+    "name": "Grumpig - 029/106",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85966_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85966_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85966_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "29/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[P] Psyshock (20) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[3] Teleport Blast (40) \r\n<br>After your attack, you may switch Grumpig with 1 of your Benched Pokemon.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "29/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64789,
+    "name": "Grumpig - 030/106",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85967_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85967_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85967_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "30/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Snap Tail \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 10 damage to that Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Attack 2": "[1P] Psypunch (40)",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "30/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64790,
+    "name": "Gulpin",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85975_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85975_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85975_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "51/106",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Headbutt (10)",
+      "Attack 2": "[2] Drool (20)",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "51/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64791,
+    "name": "Hariyama",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86012_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86012_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86012_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "31/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1F] Cross-Cut (20+) \r\n<br>If the Defending Pokemon is an Evolved Pokemon, this attack does 20 damage plus 20 more damage.",
+      "Attack 2": "[2F] Shove (40) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "31/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64792,
+    "name": "Illumise",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86265_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86265_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86265_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "32/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Collect \r\n<br>Draw a card.",
+      "Attack 2": "[2] Tackle (20)",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "32/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64793,
+    "name": "Kirlia",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86462_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86462_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86462_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "33/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1P] Psypunch (30)",
+      "Attack 2": "[3] Mind Shock (40) \r\n<br>This attack's damage isn't affected by Weakness or Resistance.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "33/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64794,
+    "name": "Kyogre - 006/106",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86547_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86547_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86547_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "6/106",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[1] Ram (10)",
+      "Attack 2": "[2W] Aqua Sonic (40) \r\n<br>This attack's damage isn't affected by Resistance.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "6/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64795,
+    "name": "Kyogre - 015/106",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86548_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86548_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86548_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "15/106",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[1] Scary Face \r\n<br>Flip a coin.  If heads, the Defending Pokemon can't attack or retreat during your opponent's next turn.",
+      "Attack 2": "[1WW] Hydro Pump (40+) \r\n<br>Does 40 damage plus 10 more damage for each Water Energy attached to Kyogre but not used to pay for this attack's Energy cost.  You can't add more than 20 damage in this way.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "15/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64796,
+    "name": "Lanette's Net Search",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86598_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86598_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86598_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "77/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "Search your deck for up to 3 different types of Basic Pokemon cards <em>(excluding Baby Pokemon)</em>, show them to your opponent and put them into your hand.  Shuffle your deck afterward.",
+      "code": "77/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64797,
+    "name": "Larvitar",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86639_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86639_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86639_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "52/106",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1F] Dig Under  \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 20 damage to that Pokemon.  This attack's damage isn't affected by Weakness or Resistance.",
+      "Weakness": "G",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "52/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64798,
+    "name": "Lightning Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86762_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86762_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86762_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "104/106",
+      "Rarity": "Holo Rare",
+      "Card Type": "Energy",
+      "code": "104/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64799,
+    "name": "Linoone",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86806_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86806_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86806_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "34/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Body Slam (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[2] Claw Swipe (30)",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "0",
+      "code": "34/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64800,
+    "name": "Loudred",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86841_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86841_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86841_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "35/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Body Slam (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[3] Double-edge (50) \r\n<br>Loudred does 10 damage to itself.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "35/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64801,
+    "name": "Lum Berry",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86920_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86920_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86920_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "78/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Tool",
+      "CardText": "Attach Lum Berry to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.  If that Pokemon is Knocked Out, discard this card.\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>At any time between turns, if the Pokemon this card is attached to is affected by any Special Conditions, remove all of them.  Then discard Lum Berry.",
+      "code": "78/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64802,
+    "name": "Luvdisc",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86933_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86933_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86933_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "53/106",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Call for Friend \r\n<br>Search your deck for a Basic Pokemon and put it onto your Bench.  Shuffle your deck afterward.",
+      "Attack 2": "[1W] Strange Scale (20) \r\n<br>If the Defending Pokemon is an Evolved Pokemon, the Defending Pokemon is now Confused.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "53/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64803,
+    "name": "Makuhita",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87129_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87129_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87129_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "54/106",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[F] Cross Chop (10+) \r\n<br>Flip a coin.  If heads, this attack does 10 damage plus 10 more damage.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "54/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64804,
+    "name": "Manectric - 007/106",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87156_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87156_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87156_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "7/106",
+      "Rarity": "Holo Rare",
+      "Card Type": "Lightning",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1L] Swift (20) \r\n<br>This attack's damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies, or any other effects on the Defending Pokemon.",
+      "Attack 2": "[2L] Tail Shock (40) \r\n<br>Does 10 damage to each of your opponent's Benched Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "1",
+      "code": "7/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64805,
+    "name": "Manectric - 016/106",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87157_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87157_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87157_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "16/106",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Dazzle Blast (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Confused.",
+      "Attack 2": "[1L] Zap Kick (40)",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "1",
+      "code": "16/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64806,
+    "name": "Marshtomp",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87235_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87235_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87235_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "36/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Super Hypno Wave (10) \r\n<br>The Defending Pokemon is now Asleep.",
+      "Attack 2": "[1WW] Surf (50)",
+      "Weakness": "G",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "36/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64807,
+    "name": "Medicham ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87277_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87277_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87277_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "95/106",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fighting",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Wise Aura  \r<br>\n<br>As long as Medicham ex is your Active Pokemon, each Pokemon <em>(excluding Pokemon-ex) (both yours and your opponent's)</em> can't use any Poke-Powers.",
+      "Attack 1": "[2] Pure Power  \r\n<br>Put 3 damage counters on your opponent's Pokemon in any way you like.",
+      "Attack 2": "[2F] Sky Kick (60+) \r\n<br>If the Defending Pokemon has F Resistance, this attack does 60 damage plus 40 more damage.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "95/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64808,
+    "name": "Meditite",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87281_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87281_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87281_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "55/106",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] High Jump Kick (10)",
+      "Attack 2": "[1F] Fake Out (20) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "55/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64809,
+    "name": "Metal Energy (Special)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87357_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87357_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87357_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "88/106",
+      "Rarity": "Rare",
+      "Card Type": "Energy",
+      "CardText": "Damage done by attacks to the Pokemon that Metal Energy is attached to is reduced by 10 <em>(after applying Weakness and Resistance.)</em>\r\n<br>\r\n<br> Ignore this effect if the Pokemon that Metal Energy is attached to isn't Metal.  Metal Energy provides Metal Energy.  <em>(Doesn't count as a basic Energy card.)</em>",
+      "code": "88/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64810,
+    "name": "Milotic",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87453_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87453_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87453_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "8/106",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Surf (20)",
+      "Attack 2": "[2W] Super Hypno Wave (50) \r\n<br>The Defending Pokemon is now Asleep.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "8/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64811,
+    "name": "Milotic ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87460_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87460_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87460_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "96/106",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Water",
+      "HP": "130",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Mystery Scale  \r<br>\n<br>As long as Milotic ex is in play, each player can't play Technical Machine cards.  Discard any Technical Machine cards attached to all Pokemon in play.",
+      "Attack 1": "[W] Mega Bite (30) \r\n<br>The Defending Pokemon can't retreat until the end of your opponent's turn.",
+      "Attack 2": "[2W] Energy Reflect (70) \r\n<br>Move 1 basic Energy card attached to Milotic ex to 1 of your Benched Pokemon.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "96/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64812,
+    "name": "Minun",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87485_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87485_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87485_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "37/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Electro-guard \r<br>\n<br>As long as Minun has any L Energy attached to it, Minun has no Weakness.",
+      "Attack 1": "[2] Quick Attack (20+) \r\n<br>Flip a coin.  If heads, this attack does 20 damage plus 20 more damage.",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "1",
+      "code": "37/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64813,
+    "name": "Mr. Stone's Project",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87600_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87600_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87600_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "79/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "Search your deck for up to 2 basic Energy cards, show them to your opponent, and put them into your hand.  Shuffle your deck afterward.  Or, search your discard pile for up to 2 basic Energy cards, show them to your opponent, and put them into your hand.",
+      "code": "79/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64814,
+    "name": "Mudkip",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87610_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87610_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87610_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "56/106",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[W] Tail Strike (10+) \r\n<br>Flip a coin.  If heads, this attack does 10 damage plus 10 more damage.",
+      "Weakness": "G",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "56/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64815,
+    "name": "Multi Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87631_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87631_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87631_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "89/106",
+      "Rarity": "Rare",
+      "Card Type": "Special Energy",
+      "CardText": "Attach Multi Energy to 1 of your Pokemon.  While in play, Multi Energy provides every type of Energy but provides only 1 energy at a time. <em> (Has no effect other than providing Energy.)</em>  Multi Energy provides Colorless Energy when attached to a Pokemon that already has Special Energy cards attached to it.",
+      "code": "89/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64816,
+    "name": "Ninetales",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87770_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87770_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87770_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "38/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[R] Confuse Ray (10) \r\n<br>The Defending Pokemon is now Confused.",
+      "Attack 2": "[2R] Searing Flame (40) \r\n<br>The Defending Pokemon is now Burned.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "38/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64817,
+    "name": "Nosepass",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87799_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87799_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87799_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "17/106",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Collect \r\n<br>Draw a card.",
+      "Attack 2": "[2] Wide Laser \r\n<br>Does 10 damage to each of your opponent's Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "17/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64818,
+    "name": "Numel - 057/106",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87810_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87810_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87810_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "57/106",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Collect \r\n<br>Draw a card.",
+      "Attack 2": "[R] Lunge (20) \r\n<br>Flip a coin.  If tails, this attack does nothing.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "57/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64819,
+    "name": "Numel - 058/106",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87811_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87811_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87811_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "58/106",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Stampede (10)",
+      "Attack 2": "[1R] Steady Firebreathing (20)",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "58/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64820,
+    "name": "Oran Berry",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87889_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87889_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87889_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "80/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Tool",
+      "CardText": "Attach Oran Berry to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.  If that Pokemon is Knocked Out, discard this card.\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>At any time between turns, if the Pokemon this card is attached to has at least 2 damage counters on it, remove 2 damage counters from it.  The discard Oran Berry.",
+      "code": "80/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64821,
+    "name": "Pichu",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88016_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88016_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88016_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "59/106",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "40",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Baby Evolution \r<br>\n<br>Once during your turn <em>(before your attack)</em>, you may put Pikachu from your hand onto Pichu <em>(this counts as evolving Pichu)</em> and remove all damage counters from Pichu.",
+      "Attack 1": "[1] Collect \r\n<br>Draw a card.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "59/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64822,
+    "name": "Pikachu",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88080_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88080_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88080_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "60/106",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[L] Pika Ball (10)",
+      "Attack 2": "[2] Thundershock (20) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "60/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64823,
+    "name": "Plusle",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88165_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88165_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88165_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "39/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Collect \r\n<br>Draw a card.",
+      "Attack 2": "[1L] Thundershock (20) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "1",
+      "code": "39/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64824,
+    "name": "Pokenav",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88244_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88244_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88244_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "81/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Look at the top 3 cards of your deck, and choose a Basic Pokemon, Evolution, or Energy Card.  Show it to your opponent and put it into your hand.  Put the 2 other cards back on top of your deck in any order.",
+      "code": "81/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64825,
+    "name": "Professor Birch",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88382_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88382_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88382_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "82/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "Draw cards from your deck until you have 6 cards in your hand.",
+      "code": "82/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64826,
+    "name": "Psychic Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88419_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88419_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88419_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "105/106",
+      "Rarity": "Holo Rare",
+      "Card Type": "Energy",
+      "code": "105/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64827,
+    "name": "Raichu ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88526_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88526_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88526_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "97/106",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Lightning",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Rai-shield  \r<br>\n<br>Damage done to any of your Raichu ex in play by attacks from your opponent's Pokemon-ex is reduced by 30 <em>(after applying Weakness and Resistance).</em>  You can't use more than 1 Rai-shield Poke-Body each turn.",
+      "Attack 1": "[1L] Power Short \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 30 damage to that Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>  If that Pokemon has Poke-Powers, this attack does 30 damage plus 20 more damage.",
+      "Attack 2": "[3L] Pika Bolt (70)",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "0",
+      "code": "97/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64828,
+    "name": "Ralts",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88557_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88557_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88557_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "61/106",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[P] Hypnotic Ray (10) \r\n<br>The Defending Pokemon is now Asleep.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "61/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64829,
+    "name": "Rare Candy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88590_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88590_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88590_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "83/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Choose 1 of your Basic Pokemon in play.  If you have a Stage 1 or Stage 2 card that evolves from that Pokemon in your hand, put that card on the Basic Pokemon.  <em>(This counts as evolving that Pokemon.)</em>",
+      "code": "83/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64830,
+    "name": "Rayquaza",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88626_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88626_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88626_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "9/106",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[2] Dragon Dance \r\n<br>During your next turn, if any of your current Active Pokemon does damage to any Defending Pokemon, the attack does 30 more damage <i>(before applying Weakness and Resistance).</i>",
+      "Attack 2": "[1LR] Dragon Claw (40)",
+      "Weakness": "C",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "9/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64831,
+    "name": "Regice ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88660_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88660_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88660_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "98/106",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Water",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[W] Ice Beam (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[1WW] Iceberg Crush (40) \r\n<br>If Regirock ex is in play, flip a coin.  If heads, discard 1 Energy card attached to the Defending Pokemon.",
+      "Weakness": "M",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "98/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64832,
+    "name": "Regirock ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88675_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88675_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88675_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "99/106",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fighting",
+      "HP": "110",
+      "Stage": "Basic",
+      "Attack 1": "[1] Mend \r\n<br>Search your discard pile for a F Energy card and attach it to Regirock ex.  If you do, remove 1 damage counter from Regirock ex.",
+      "Attack 2": "[1FF] Metal Crush (40+) \r\n<br>If Registeel ex is in play, this attack does 40 damage plus 20 more damage.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "99/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64833,
+    "name": "Registeel ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88680_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88680_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88680_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "100/106",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Metal",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[1] Block Signal (10) \r\n<br>If Regice ex is in play, flip a coin.  If heads, the Defending Pokemon is now Confused.",
+      "Attack 2": "[1MM] Wide Laser  \r\n<br>Does 20 damage to each of your opponent's Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "100/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64834,
+    "name": "Relicanth",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88685_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88685_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88685_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "18/106",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Sharp Fin (10)",
+      "Attack 2": "[1W] Hypno Splash (20) \r\n<br>The Defending Pokemon is now Asleep.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "18/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64835,
+    "name": "Rhydon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88733_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88733_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88733_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "19/106",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1F] Horn Attack (30)",
+      "Attack 2": "[4] Rock Tumble (60) \r\n<br>This attack's damage isn't affected by Resistance.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "19/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64836,
+    "name": "Rhyhorn",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88741_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88741_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88741_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "62/106",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Horn Attack (10)",
+      "Attack 2": "[1F] Horn Drill (20)",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "62/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64857,
+    "name": "Sceptile",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97730_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97730_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97730_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "10/106",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-BODY</b> Green Essence \r<br>\n<br>As long as Sceptile is in play, each of your Active Pokemon that has G Energy attached to it can't be affected by any Special Conditions.",
+      "Attack 1": "[G] Razor Leaf (30)",
+      "Attack 2": "[3G] Swift (60) \r\n<br>This attack's damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies, or any other effects on the Defending Pokemon.",
+      "Weakness": "R",
+      "Resistance": "W",
+      "RetreatCost": "2",
+      "code": "10/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64837,
+    "name": "Scott",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88975_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88975_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88975_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "84/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "You can play only one Supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>Search your deck for up to 3 cards in any combination of Supporter cards and Stadium cards, show them to your opponent, and put them into your hand.  Shuffle your deck afterward.",
+      "code": "84/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64838,
+    "name": "Seviper",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89083_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89083_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89083_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "20/106",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[1] Pierce (10)",
+      "Attack 2": "[2G] Bite Off (30+)\r\n<br>If the Defending Pokemon is Pokemon-ex, this attack does 30 damage plus 30 more damage.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "20/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64839,
+    "name": "Shroomish",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89184_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89184_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89184_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "63/106",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Ram (10)",
+      "Attack 2": "[2] Headbutt (20)",
+      "Weakness": "R",
+      "Resistance": "W",
+      "RetreatCost": "1",
+      "code": "63/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64840,
+    "name": "Snorunt",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89400_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89400_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89400_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "64/106",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Beat (10)",
+      "Weakness": "M",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "64/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64841,
+    "name": "Spoink - 065/106",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89473_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89473_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89473_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "65/106",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[P] Knock Away (10+) \r\n<br>Flip a coin.  If heads, this attack does 10 damage plus 10 more damage.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "65/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64842,
+    "name": "Spoink - 066/106",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89474_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89474_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89474_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "66/106",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Lunge (20) \r\n<br>Flip a coin.  If tails, this attack does nothing.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "66/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64843,
+    "name": "Swablu",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89655_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89655_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89655_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "67/106",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "40",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Feathery \r<br>\n<br>As long as Swablu is on your Bench, prevent all damage done to Swablu by opponent's attacks.",
+      "Attack 1": "[1] Razor Wind (20) \r\n<br>Flip a coin.  If tails, this attack does nothing.",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "67/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64844,
+    "name": "Swalot",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89671_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89671_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89671_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "40/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Blot (20) \r\n<br>Remove 1 damage counter from Swalot.",
+      "Attack 2": "[2G] Poison Breath (40) \r\n<br>The Defending Pokemon is now Poisoned.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "40/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64858,
+    "name": "Swampert",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97731_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97731_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97731_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "11/106",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "110",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-POWER</b> Water Cyclone\r\n<br>\r\n<br>As often as you like during your turn <em>(before your attack)</em>, you may move a Water Energy attached to 1 of your Active Pokemon to 1 of your Benched Pokemon.  This power can't be used if Swampert is affected by a Special Condition.",
+      "Attack 1": "[1] Spinning Tail \r\n<br>Does 10 damage to each of your opponent's Pokemon. <i> (Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Attack 2": "[1WW] Aqua Sonic (60) \r\n<br>This attack's damage isn't affected by Resistance.",
+      "Weakness": "G",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "11/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64845,
+    "name": "Swellow",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89692_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89692_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89692_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "41/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Peck (20)",
+      "Attack 2": "[3] Skill Dive \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 40 damage to that Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "0",
+      "code": "41/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64846,
+    "name": "Taillow",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89733_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89733_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89733_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "68/106",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Razor Wind (10)\r\n<br>Flip a coin.  If tails, this attack does nothing.",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "68/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64847,
+    "name": "Torchic",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89955_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89955_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89955_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "69/106",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[R] Hypnotic Gaze \r\n<br>The Defending Pokemon is now Asleep.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "69/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64848,
+    "name": "Treecko",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90037_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90037_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90037_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "70/106",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[G] Tail Smash (10) \r\n<br>Flip a coin.  If tails, this attack does nothing.",
+      "Weakness": "R",
+      "Resistance": "W",
+      "RetreatCost": "1",
+      "code": "70/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64849,
+    "name": "Volbeat",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90397_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90397_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90397_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "42/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Confuse Ray \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Confused.",
+      "Attack 2": "[1G] Double-edge (30) \r\n<br>Volbeat does 10 damage to itself.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "42/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64850,
+    "name": "Voltorb",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90416_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90416_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90416_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "71/106",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Ram (10)",
+      "Attack 2": "[3] Speed Ball (30)",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "71/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64851,
+    "name": "Vulpix",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90438_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90438_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90438_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "72/106",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Bite (10)",
+      "Attack 2": "[1R] Firebreathing (20+) \r\n<br>Flip a coin.  If heads, this attack does 20 damage plus 10 more damage.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "72/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64852,
+    "name": "Wally's Training",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90465_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90465_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90465_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "85/106",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "You can play only one Supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>Search your deck for a card that evolves from your Active Pokemon <em>(choose 1 if there are 2)</em> and put it on your Active Pokemon.  <em>(This counts as evolving that Pokemon.)</em> Shuffle your deck afterward.",
+      "code": "85/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64853,
+    "name": "Water Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90507_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90507_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90507_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "103/106",
+      "Rarity": "Holo Rare",
+      "Card Type": "Energy",
+      "code": "103/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64854,
+    "name": "Whismur",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90581_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90581_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90581_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "73/106",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Tackle (10)",
+      "Attack 2": "[2] Rollout (20)",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "73/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64855,
+    "name": "Zangoose",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90703_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90703_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90703_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "21/106",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Extra Claws (10+) \r\n<br>If the Defending Pokemon is Pokemon-ex, this attack does 10 damage plus 20 more damage.",
+      "Attack 2": "[2] Quick Attack (20+) \r\n<br>Flip a coin.  If heads, this attack does 20 damage plus 10 more damage.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "21/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-emerald",
+    "id": 64856,
+    "name": "Zigzagoon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90747_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90747_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90747_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "74/106",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Gnaw (10)",
+      "Attack 2": "[2] Body Slam (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "74/106"
+    }
+  }
+]

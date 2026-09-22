@@ -1,0 +1,2968 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67275,
+    "name": "Abra",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42484_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42484_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42484_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "065/130",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "30",
+      "Stage": "Basic",
+      "Attack 1": "[P] Psyshock (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Weakness": "P",
+      "Artist": "Mitsuhiro Arita",
+      "code": "065/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67235,
+    "name": "Alakazam",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42444_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42444_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42444_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "001/130",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Pokémon Power: Damage Swap</strong> As often as you like during your turn <em>(before your attack)</em>, you may move 1 damage counter from 1 of your Pokémon to another as long as you don't Knock Out that Pokémon. This power can't be used if Alakazam is Asleep, Confused, or Paralyzed.",
+      "Attack 1": "[PPP] Confuse Ray (30)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Confused.",
+      "Weakness": "P",
+      "RetreatCost": "3",
+      "Artist": "Ken Sugimori",
+      "code": "001/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67263,
+    "name": "Arcanine",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42472_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42472_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42472_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "033/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[1RR] Flamethrower (50)\r\n<br>Discard 1 Fire Energy card attached to Arcanine in order to use this attack.",
+      "Attack 2": "[2RR] Take Down (80)\r\n<br>Arcanine does 30 damage to itself.",
+      "Weakness": "W",
+      "RetreatCost": "3",
+      "Artist": "Ken Sugimori",
+      "code": "033/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67257,
+    "name": "Beedrill",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42466_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42466_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42466_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "021/130",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Stage 2",
+      "Attack 1": "[3] Twineedle (30x)\r\n<br>Flip 2 coins. this attack does 30 damage times the number of heads.",
+      "Attack 2": "[GGG] Poison Sting (40)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+      "Weakness": "R",
+      "Resistance": "F-30",
+      "RetreatCost": "0",
+      "Artist": "Ken Sugimori",
+      "code": "021/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67276,
+    "name": "Bellsprout",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42485_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42485_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42485_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "066/130",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[G] Vine Whip (10)",
+      "Attack 2": "[G] Call for Family\r\n<br>Search your deck for a Basic Pokémon named Bellsprout and put it onto your Bench. Shuffle your deck afterward. <em>(You can't use this attack if your Bench is full.)</em>",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "Artist": "Kagemaru Himeno",
+      "code": "066/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67242,
+    "name": "Bill",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42451_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42451_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42451_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "118/130",
+      "Rarity": "Common",
+      "Card Type": "Trainer",
+      "CardText": "Draw 2 cards.",
+      "Artist": "Ken Sugimori",
+      "code": "118/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67255,
+    "name": "Blastoise",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42464_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42464_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42464_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "002/130",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Pokémon Power: Rain Dance</strong> As often as you like during your turn <em>(before your attack)</em>, you may attach 1 Water Energy card to 1 of your Water Pokémon. <em>(This doesn't use up your 1 Energy card attachment for the turn.)</em> This power can't be used if Blastoise is Asleep, Confused, or Paralyzed.",
+      "Attack 1": "[WWW] Hydro Pump (40+)\r\n<br>Does 40 damage plus 10 more damage for each Water Energy attached to Blastoise but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+      "Weakness": "L",
+      "RetreatCost": "3",
+      "Artist": "Ken Sugimori",
+      "code": "002/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67277,
+    "name": "Bulbasaur",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42486_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42486_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42486_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "067/130",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[GG] Leech Seed (20)\r\n<br>Unless all damage from this attack is prevented, you may remove 1 damage counter from Bulbasaur.",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "067/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67264,
+    "name": "Butterfree",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42473_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42473_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42473_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "034/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 2",
+      "Attack 1": "[2] Whirlwind (20)\r\n<br>If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. <em>(Do the damage before switching the Pokémon.)</em>",
+      "Attack 2": "[GGGG] Mega Drain (40)\r\n<br>\r\nRemove a number of damage counters from Butterfree equal to half the damage done to the Defending Pokémon <em>(after applying Weakness and Resistance)</em> (rounded up to the nearest 10). If Butterfree has fewer damage counters than that, remove all of them.",
+      "Weakness": "R",
+      "Resistance": "F-30",
+      "Artist": "Kagemaru Himeno",
+      "code": "034/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67278,
+    "name": "Caterpie",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42487_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42487_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42487_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "068/130",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[G] String Shot (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "068/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67262,
+    "name": "Chansey",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42471_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42471_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42471_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "003/130",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "120",
+      "Stage": "Basic",
+      "Attack 1": "[2] Scrunch\r\n<br>Flip a coin. If heads, prevent all damage done to Chansey during your opponent's next turn. <em>(Any other effects of attacks still happen.)</em>",
+      "Attack 2": "[4] Double-edge (80)\r\n<br>Chansey does 80 damage to itself.",
+      "Weakness": "F",
+      "Resistance": "P-30",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "003/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67270,
+    "name": "Charizard",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42479_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42479_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42479_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "004/130",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Pokémon Power: Energy Burn</strong> As often as you like during your turn <em>(before your attack)</em>, you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed.",
+      "Attack 1": "[RRRR] Fire Spin (100)\r\n<br>Discard 2 Energy cards attached to Charizard in order to use this attack.",
+      "Weakness": "W",
+      "Resistance": "F-30",
+      "RetreatCost": "3",
+      "Artist": "Mitsuhiro Arita",
+      "code": "004/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67279,
+    "name": "Charmander",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42488_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42488_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42488_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "069/130",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Scratch (10)",
+      "Attack 2": "[1R] Ember (30)\r\n<br>Discard 1 Fire Energy card attached to Charmander in order to use this attack.",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "069/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67265,
+    "name": "Charmeleon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42474_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42474_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42474_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "035/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[3] Slash (30)",
+      "Attack 2": "[1RR] Flamethrower (50)\r\n<br>Discard 1 Fire Energy card attached to Charmeleon in order to use this attack.",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "035/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67273,
+    "name": "Clefable",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42482_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42482_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42482_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "005/130",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Metronome\r\n<br>\r\nChoose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required in order to use that attack, such as discarding Energy cards. <em>(No matter what type the Defending Pokémon is, Clefable's type is still Colorless.)</em>",
+      "Attack 2": "[2] Minimize\r\n<br>All damage done by attacks to Clefable during your opponent's next turn is reduced by 20 <em>(after applying Weakness and Resistance)</em>.",
+      "Weakness": "F",
+      "Resistance": "P-30",
+      "RetreatCost": "2",
+      "Artist": "Mitsuhiro Arita",
+      "code": "005/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67274,
+    "name": "Clefairy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42483_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42483_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42483_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "006/130",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Sing\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+      "Attack 2": "[3] Metronome\r\n<br>Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required to use that attack, such as discarding Energy cards. <em>(No matter what type the Defending Pokémon is, Clefairy's type is still Colorless.)</em>",
+      "Weakness": "F",
+      "Resistance": "P-30",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "006/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67237,
+    "name": "Computer Search",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42446_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42446_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42446_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "101/130",
+      "Rarity": "Rare",
+      "Card Type": "Trainer",
+      "CardText": "Discard 2 of the other cards from your hand in order to search your deck for any card and put it into your hand. Shuffle your deck afterward.",
+      "Artist": "Keiji Kinebuchi",
+      "code": "101/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67281,
+    "name": "Cubone",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42490_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42490_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42490_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "070/130",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Snivel\r\n<br>\r\nIf the Defending Pokémon attacks Cubone during your opponent's next turn, any damage done by the attack is reduced by 20 <em>(after applying Weakness and Resistance)</em>. <em>(Benching either Pokémon ends this effect.)</em>",
+      "Attack 2": "[FF] Rage (10+)\r\n<br>Does 10 damage plus 10 more damage for each damage counter on Cubone.",
+      "Weakness": "G",
+      "Resistance": "L-30",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "070/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67238,
+    "name": "Defender",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42447_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42447_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42447_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "109/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer",
+      "CardText": "Attach Defender to 1 of your Pokémon. At the end of your opponent's next turn, discard Defender. Damage done to that Pokémon by attacks is reduced by 20 <em>(after applying Weakness and Resistance)</em>.",
+      "Artist": "Keiji Kinebuchi",
+      "code": "109/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67266,
+    "name": "Dewgong",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42475_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42475_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42475_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "036/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1WW] Aurora Beam (50)",
+      "Attack 2": "[2WW] Ice Beam (30)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Weakness": "L",
+      "RetreatCost": "3",
+      "Artist": "Mitsuhiro Arita",
+      "code": "036/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67282,
+    "name": "Diglett",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42491_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42491_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42491_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "071/130",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "30",
+      "Stage": "Basic",
+      "Attack 1": "[F] Dig (10)",
+      "Attack 2": "[FF] Mud Slap (30)",
+      "Weakness": "G",
+      "Resistance": "L-30",
+      "Artist": "Keiji Kinebuchi",
+      "code": "071/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67267,
+    "name": "Dodrio",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42476_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42476_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42476_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "037/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Pokémon Power: Retreat Aid</strong> As long as Dodrio is Benched, pay 1 Colorless less to retreat your Active Pokémon.",
+      "Attack 1": "[3] Rage (10+)\r\n<br>Does 10 damage plus 10 more damage for each damage counter on Dodrio.",
+      "Weakness": "L",
+      "Resistance": "F-30",
+      "Artist": "Mitsuhiro Arita",
+      "code": "037/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67283,
+    "name": "Doduo",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42492_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42492_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42492_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "072/130",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Fury Attack (10x)\r\n<br>Flip 2 coins. This attack does 10 damage times the number of heads.",
+      "Weakness": "L",
+      "Resistance": "F-30",
+      "Artist": "Mitsuhiro Arita",
+      "code": "072/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67245,
+    "name": "Double Colorless Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42454_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42454_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42454_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "124/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Special Energy",
+      "CardText": "Provides 2 Colorless Energy.\r\n<br>Doesn't count as a basic Energy card.",
+      "Artist": "Keiji Kinebuchi",
+      "code": "124/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67258,
+    "name": "Dragonair",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42467_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42467_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42467_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "022/130",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[3] Slam (30x)\r\n<br>Flip 2 coins. This attack does 30 damage times the number of heads.",
+      "Attack 2": "[4] Hyper Beam (20)\r\n<br>If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it.",
+      "Resistance": "P-30",
+      "RetreatCost": "2",
+      "Artist": "Mitsuhiro Arita",
+      "code": "022/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67268,
+    "name": "Dratini",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42477_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42477_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42477_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "038/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Pound (10)",
+      "Resistance": "P-30",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "038/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67284,
+    "name": "Drowzee",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42493_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42493_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42493_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "073/130",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Pound (10)",
+      "Attack 2": "[PP] Confuse Ray (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Confused.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "073/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67259,
+    "name": "Dugtrio",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42468_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42468_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42468_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "023/130",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1FF] Slash (40)",
+      "Attack 2": "[FFFF] Earthquake (70)\r\n<br>Does 10 damage to each of your own Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Weakness": "G",
+      "Resistance": "L-30",
+      "RetreatCost": "2",
+      "Artist": "Keiji Kinebuchi",
+      "code": "023/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67260,
+    "name": "Electabuzz",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42469_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42469_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42469_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "024/130",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[L] Thundershock (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Attack 2": "[1L] Thunderpunch (30+)\r\n<br>Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage and Electabuzz does 10 damage to itself.",
+      "Weakness": "F",
+      "RetreatCost": "2",
+      "Artist": "Ken Sugimori",
+      "code": "024/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67261,
+    "name": "Electrode",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42470_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42470_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42470_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "025/130",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Pokémon Power: Buzzap</strong> At any time during your turn <em>(before your attack)</em>, you may Knock Out Electrode and attach it to 1 of your other Pokémon. If you do, choose a type of Energy. Electrode is now an Energy card of that type (instead of a Pokémon) that provides 2 Energy. This power can't be used if Electrode is Asleep, Confused, or Paralyzed.",
+      "Attack 1": "[LLL] Electric Shock (50)\r\n<br>Flip a coin. If tails, Electrode does 10 damage to itself.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "Artist": "Keiji Kinebuchi",
+      "code": "025/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67243,
+    "name": "Energy Removal",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42452_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42452_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42452_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "119/130",
+      "Rarity": "Common",
+      "Card Type": "Trainer",
+      "CardText": "Choose 1 Energy card attached to 1 of your opponent's Pokémon and discard it.",
+      "Artist": "Keiji Kinebuchi",
+      "code": "119/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67240,
+    "name": "Energy Retrieval",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42449_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42449_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42449_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "110/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer",
+      "CardText": "Trade 1 of the other cards in your hand for up to 2 basic Energy cards from your discard pile.",
+      "Artist": "Keiji Kinebuchi",
+      "code": "110/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67285,
+    "name": "Exeggcute",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42494_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42494_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42494_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "074/130",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[P] Hypnosis\r\n<br>The Defending Pokémon is now Asleep.",
+      "Attack 2": "[GG] Leech Seed (20)\r\n<br>Unless all damage from this attack is prevented, you may remove 1 damage counter from Exeggcute.",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "074/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67269,
+    "name": "Exeggutor",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42478_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42478_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42478_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "039/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[P] Teleport\r\n<br>Switch Exeggutor with 1 of your Benched Pokémon.",
+      "Attack 2": "[1] Big Eggsplosion (20x)\r\n<br>Flip a number of coins equal to the number of Energy attached to Exeggutor. This attack does 20 damage times the number of heads.",
+      "Weakness": "R",
+      "RetreatCost": "3",
+      "Artist": "Kagemaru Himeno",
+      "code": "039/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67271,
+    "name": "Farfetch'd",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42480_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42480_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42480_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "040/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Leek Slap (30)\r\n<br>Flip a coin. If tails, this attack does nothing. Either way, you can't use this attack again as long as Farfetch'd stays in play (even putting Farfetch'd on the Bench won't let you use it again).",
+      "Attack 2": "[3] Pot Smash (30)",
+      "Weakness": "L",
+      "Resistance": "F-30",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "040/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67272,
+    "name": "Fearow",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42481_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42481_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42481_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "041/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[3] Agility (20)\r\n<br>Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Fearow.",
+      "Attack 2": "[4] Drill Peck (40)",
+      "Weakness": "L",
+      "Resistance": "F-30",
+      "Artist": "Mitsuhiro Arita",
+      "code": "041/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67246,
+    "name": "Fighting Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42455_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42455_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42455_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "125/130",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "Artist": "Keiji Kinebuchi",
+      "code": "125/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67247,
+    "name": "Fire Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42456_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42456_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42456_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "126/130",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "Artist": "Keiji Kinebuchi",
+      "code": "126/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67241,
+    "name": "Full Heal",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42450_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42450_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42450_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "111/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer",
+      "CardText": "Your Active Pokémon is no longer Asleep, Confused, Paralyzed, or Poisoned.",
+      "Artist": "Keiji Kinebuchi",
+      "code": "111/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67286,
+    "name": "Gastly",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42495_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42495_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42495_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "075/130",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "30",
+      "Stage": "Basic",
+      "Attack 1": "[P] Sleeping Gas\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+      "Attack 2": "[1P] Destiny Bond\r\n<br>Discard 1 Psychic Energy card attached to Gastly in order to use this attack. If a Pokémon Knocks Out Gastly during your opponent's next turn, Knock Out that Pokémon.",
+      "Resistance": "F-30",
+      "Artist": "Keiji Kinebuchi",
+      "code": "075/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67319,
+    "name": "Goldeen",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42528_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42528_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42528_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "076/130",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[W] Horn Attack (10)",
+      "Weakness": "L",
+      "Artist": "Kagemaru Himeno",
+      "code": "076/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67356,
+    "name": "Grass Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42565_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42565_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42565_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "127/130",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "Artist": "Keiji Kinebuchi",
+      "code": "127/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67296,
+    "name": "Growlithe",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42505_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42505_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42505_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "042/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1R] Flare (20)",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "042/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67353,
+    "name": "Gust of Wind",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42562_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42562_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42562_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "120/130",
+      "Rarity": "Common",
+      "Card Type": "Trainer",
+      "CardText": "Choose 1 of your opponent's Benched Pokémon and switch it with his or her Active Pokémon.",
+      "Artist": "Keiji Kinebuchi",
+      "code": "120/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67280,
+    "name": "Gyarados",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42489_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42489_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42489_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "007/130",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[WWW] Dragon Rage (50)",
+      "Attack 2": "[WWWW] Bubblebeam (40)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Weakness": "G",
+      "Resistance": "F-30",
+      "RetreatCost": "3",
+      "Artist": "Mitsuhiro Arita",
+      "code": "007/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67297,
+    "name": "Haunter",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42506_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42506_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42506_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "043/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Stage 1",
+      "Attack 1": "[P] Hypnosis\r\n<br>The Defending Pokémon is now Asleep.",
+      "Attack 2": "[PP] Dream Eater (50)\r\n<br>You can't use this attack unless the Defending Pokémon is Asleep.",
+      "Resistance": "F-30",
+      "RetreatCost": "1",
+      "Artist": "Keiji Kinebuchi",
+      "code": "043/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67287,
+    "name": "Hitmonchan",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42496_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42496_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42496_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "008/130",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[F] Jab (20)",
+      "Attack 2": "[1FF] Special Punch (40)",
+      "Weakness": "P",
+      "RetreatCost": "2",
+      "Artist": "Ken Sugimori",
+      "code": "008/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67343,
+    "name": "Imposter Professor Oak",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42552_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42552_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42552_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "102/130",
+      "Rarity": "Rare",
+      "Card Type": "Trainer",
+      "CardText": "Your opponent shuffles his or her hand into his or her deck, then draws 7 cards.",
+      "Artist": "Ken Sugimori",
+      "code": "102/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67344,
+    "name": "Item Finder",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42553_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42553_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42553_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "103/130",
+      "Rarity": "Rare",
+      "Card Type": "Trainer",
+      "CardText": "Discard 2 of the other cards from your hand in order to put a Trainer card from your discard pile into your hand.",
+      "Artist": "Keiji Kinebuchi",
+      "code": "103/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67298,
+    "name": "Ivysaur",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42507_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42507_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42507_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "044/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Stage 1",
+      "Attack 1": "[2G] Vine Whip (30)",
+      "Attack 2": "[GGG] Poisonpowder (20)\r\n<br>The Defending Pokémon is now Poisoned.",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "044/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67320,
+    "name": "Jigglypuff",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42529_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42529_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42529_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "077/130",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Lullaby\r\n<br>The Defending Pokémon is now Asleep.",
+      "Attack 2": "[2] Pound (20)",
+      "Weakness": "F",
+      "Resistance": "P-30",
+      "RetreatCost": "1",
+      "Artist": "Kagemaru Himeno",
+      "code": "077/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67299,
+    "name": "Jynx",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42508_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42508_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42508_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "045/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[P] Doubleslap (10x)\r\n<br>Flip 2 coins. This attack does 10 damage times the number of heads.",
+      "Attack 2": "[1PP] Meditate (20+)\r\n<br>Does 20 damage plus 10 more damage for each damage counter on the Defending Pokémon.",
+      "Weakness": "P",
+      "RetreatCost": "2",
+      "Artist": "Ken Sugimori",
+      "code": "045/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67300,
+    "name": "Kadabra",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42509_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42509_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42509_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "046/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Stage 1",
+      "Attack 1": "[PP] Recover\r\n<br>Discard 1 Psychic Energy card attached to Kadabra in order to use this attack. Remove all damage counters from Kadabra.",
+      "Attack 2": "[1PP] Super Psy (50)",
+      "Weakness": "P",
+      "RetreatCost": "3",
+      "Artist": "Ken Sugimori",
+      "code": "046/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67301,
+    "name": "Kakuna",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42510_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42510_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42510_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "047/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Stiffen\r\n<br>Flip a coin. If heads, prevent all damage done to Kakuna during your opponent's next turn. <em>(Any other effects of attacks still happen.)</em>",
+      "Attack 2": "[GG] Poisonpowder (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+      "Weakness": "R",
+      "RetreatCost": "2",
+      "Artist": "Keiji Kinebuchi",
+      "code": "047/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67289,
+    "name": "Kangaskhan",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42498_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42498_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42498_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "026/130",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[1] Fetch\r\n<br>Draw a card.",
+      "Attack 2": "[4] Comet Punch (20x)\r\n<br>Flip 4 coins. This attack does 20 damage times the number of heads.",
+      "Weakness": "F",
+      "Resistance": "P-30",
+      "RetreatCost": "3",
+      "Artist": "Mitsuhiro Arita",
+      "code": "026/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67345,
+    "name": "Lass",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42554_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42554_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42554_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "104/130",
+      "Rarity": "Rare",
+      "Card Type": "Trainer",
+      "CardText": "You and your opponent show each other your hands, then shuffle all Trainer cards from your hands into your decks.",
+      "Artist": "Ken Sugimori",
+      "code": "104/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67302,
+    "name": "Lickitung",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42511_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42511_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42511_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "048/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[1] Tongue Wrap (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Attack 2": "[2] Supersonic\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Confused.",
+      "Weakness": "F",
+      "Resistance": "P-30",
+      "RetreatCost": "3",
+      "Artist": "Mitsuhiro Arita",
+      "code": "048/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67357,
+    "name": "Lightning Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42566_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42566_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42566_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "128/130",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "Artist": "Keiji Kinebuchi",
+      "code": "128/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67303,
+    "name": "Machoke",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42512_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42512_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42512_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "049/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1FF] Karate Chop (50-)\r\n<br>Does 50 damage minus 10 damage for each damage counter on Machoke.",
+      "Attack 2": "[2FF] Submission (60)\r\n<br>Machoke deals 20 damage to itself.",
+      "Weakness": "P",
+      "RetreatCost": "3",
+      "Artist": "Ken Sugimori",
+      "code": "049/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67321,
+    "name": "Machop",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42530_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42530_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42530_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "078/130",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[F] Low Kick (20)",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "078/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67304,
+    "name": "Magikarp",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42513_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42513_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42513_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "050/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "30",
+      "Stage": "Basic",
+      "Attack 1": "[1] Tackle (10)",
+      "Attack 2": "[W] Flail (10x)\r\n<br>Does 10 damage times the number of damage counters on Magikarp.",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "050/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67305,
+    "name": "Magmar",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42514_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42514_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42514_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "051/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[RR] Fire Punch (30)",
+      "Attack 2": "[1RR] Flamethrower (50)\r\n<br>Discard 1 Fire Energy card attached to Magmar in order to use this attack.",
+      "Weakness": "W",
+      "RetreatCost": "2",
+      "Artist": "Ken Sugimori",
+      "code": "051/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67322,
+    "name": "Magnemite",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42531_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42531_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42531_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "079/130",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[L] Thunder Wave (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Attack 2": "[1L] Selfdestruct (40)\r\n<br>Does 10 damage to each Pokémon on each player's Bench. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em> Magnemite does 40 damage to itself.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "Artist": "Keiji Kinebuchi",
+      "code": "079/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67288,
+    "name": "Magneton",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42497_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42497_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42497_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "009/130",
+      "Rarity": "Holo Rare",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Stage 1",
+      "Attack 1": "[1LL] Thunder Wave (30)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Attack 2": "[2LL] Selfdestruct (80)\r\n<br>Does 20 damage to each Pokémon on each player's Bench. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em> Magneton does 80 damage to itself.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "Artist": "Keiji Kinebuchi",
+      "code": "009/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67349,
+    "name": "Maintenance",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42558_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42558_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42558_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "112/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer",
+      "CardText": "Shuffle 2 of the other cards from your hand into your deck in order to draw a card.",
+      "Artist": "Keiji Kinebuchi",
+      "code": "112/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67306,
+    "name": "Marowak",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42515_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42515_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42515_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "052/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Stage 1",
+      "Attack 1": "[FF] Bonemerang (30x)\r\n<br>Flip 2 coins. This attack does 30 damage times the number of heads.",
+      "Attack 2": "[1FF] Call for Friend\r\n<br>Search your deck for a Fighting Basic Pokémon card and put it onto your Bench. Shuffle your deck afterward. <em>(You can't use this attack if your Bench is full.)</em>",
+      "Weakness": "G",
+      "Resistance": "L-30",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "052/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67323,
+    "name": "Meowth",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42532_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42532_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42532_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "080/130",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[2] Pay Day (10)\r\n<br>Flip a coin. If heads, draw a card.",
+      "Weakness": "F",
+      "Resistance": "P-30",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "080/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67324,
+    "name": "Metapod",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42533_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42533_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42533_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "081/130",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Stiffen\r\n<br>Flip a coin. If heads, prevent all damage done to Metapod during your opponent's next turn. <em>(Any other effects of attacks still happen.)</em>",
+      "Attack 2": "[GG] Stun Spore (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Weakness": "R",
+      "RetreatCost": "2",
+      "Artist": "Ken Sugimori",
+      "code": "081/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67236,
+    "name": "Mewtwo",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42445_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42445_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42445_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "010/130",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1P] Psychic (10+)\r\n<br>Does 10 damage plus 10 more damage for each Energy card attached to the Defending Pokémon.",
+      "Attack 2": "[PP] Barrier\r\n<br>Discard 1 Psychic Energy card attached to Mewtwo in order to use this attack. During your opponent's next turn, prevent all effects of attacks, including damage, done to Mewtwo.",
+      "Weakness": "P",
+      "RetreatCost": "3",
+      "Artist": "Ken Sugimori",
+      "code": "010/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67290,
+    "name": "Mr. Mime",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42499_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42499_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42499_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "027/130",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "40",
+      "Stage": "Basic",
+      "CardText": "<strong>Pokémon Power: Invisible Wall</strong> Whenever an attack <em>(including your own)</em> does 30 or more damage to Mr. Mime <em>(after applying Weakness and Resistance)</em>, prevent that damage. <em>(Any other effects of attacks still happen.)</em> This power stops working while Mr. Mime is Asleep, Confused, or Paralyzed.",
+      "Attack 1": "[1P] Meditate (10+)\r\n<br>Does 10 damage plus 10 more damage for each damage counter on the Defending Pokémon.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "027/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67239,
+    "name": "Nidoking",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42448_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42448_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42448_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "011/130",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "90",
+      "Stage": "Stage 2",
+      "Attack 1": "[2G] Thrash (30+)\r\n<br>Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage and Nidoking does 10 damage to itself.",
+      "Attack 2": "[GGG] Toxic (20)\r\n<br>The Defending Pokémon is now Poisoned. It now takes 20 Poison damage instead of 10 after each player's turn <em>(even if it was already Poisoned)</em>.",
+      "Weakness": "P",
+      "RetreatCost": "3",
+      "Artist": "Ken Sugimori",
+      "code": "011/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67244,
+    "name": "Nidoqueen",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42453_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42453_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42453_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "012/130",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "90",
+      "Stage": "Stage 2",
+      "Attack 1": "[1G] Boyfriends (20+)\r\n<br>Does 20 damage plus 20 more damage for each Nidoking you have in play.",
+      "Attack 2": "[2GG] Mega Punch (50)",
+      "Weakness": "P",
+      "RetreatCost": "3",
+      "Artist": "Ken Sugimori",
+      "code": "012/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67360,
+    "name": "Nidoran F",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/106357_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/106357_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/106357_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "082/130",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[G] Fury Swipes (10x)\r\n<br>Flip 3 coins. This attack does 10 damage times the number of heads.",
+      "Attack 2": "[GG] Call for Family\r\n<br>\r\nSearch your deck for a Basic Pokémon named Nidoran F or Nidoran M and put it onto your Bench. Shuffle your deck afterward. <em>(You can't use this attack if your Bench is full.)</em>",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "082/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67325,
+    "name": "Nidoran M",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42534_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42534_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42534_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "083/130",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[G] Horn Hazard (30)\r\n<br>Flip a coin. If tails, this attack does nothing.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "083/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67307,
+    "name": "Nidorina",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42516_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42516_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42516_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "053/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[G] Supersonic\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Confused.",
+      "Attack 2": "[2G] Double Kick (30x)\r\n<br>Flip 2 coins. This attack does 30 damage times the number of heads.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "053/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67308,
+    "name": "Nidorino",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42517_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42517_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42517_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "054/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Stage 1",
+      "Attack 1": "[2G] Double Kick (30x)\r\n<br>Flip 2 coins. This attack does 30 damage times the number of heads.",
+      "Attack 2": "[2GG] Horn Drill (50)",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "054/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67248,
+    "name": "Ninetales",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42457_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42457_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42457_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "013/130",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Lure\r\n<br>If your opponent has any Benched Pokémon, choose 1 of them and switch it with the Defending Pokémon.",
+      "Attack 2": "[RRRR] Fire Blast (80)\r\n<br>Discard 1 Fire Energy card attached to Ninetales in order to use this attack.",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "013/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67326,
+    "name": "Onix",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42535_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42535_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42535_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "084/130",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[F] Rock Throw (10)",
+      "Attack 2": "[FF] Harden\r\n<br>\r\nDuring your opponent's next turn, whenever 30 or less damage is done to Onix <em>(after applying Weakness and Resistance)</em>, prevent that damage. <em>(Any other effects of attacks still happen.)</em>",
+      "Weakness": "G",
+      "RetreatCost": "3",
+      "Artist": "Ken Sugimori",
+      "code": "084/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67327,
+    "name": "Paras",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42536_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42536_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42536_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "085/130",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[2] Scratch (20)",
+      "Attack 2": "[GG] Spore\r\n<br>The Defending Pokémon is now Asleep.",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "085/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67309,
+    "name": "Parasect",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42518_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42518_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42518_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "055/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Stage 1",
+      "Attack 1": "[GG] Spore\r\n<br>The Defending Pokémon is now Asleep.",
+      "Attack 2": "[3] Slash (30)",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "055/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67310,
+    "name": "Persian",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42519_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42519_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42519_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "056/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Scratch (20)",
+      "Attack 2": "[3] Pounce\r\n<br>\r\nIf the Defending Pokémon attacks Persian during your opponent's next turn, any damage done by the attack is reduced by 10 <em>(after applying Weakness and Resistance)</em>. <em>(Benching either Pokémon ends this effect.)</em>",
+      "Weakness": "F",
+      "Resistance": "P-30",
+      "Artist": "Kagemaru Himeno",
+      "code": "056/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67249,
+    "name": "Pidgeot",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42458_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42458_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42458_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "014/130",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 2",
+      "Attack 1": "[2] Wing Attack (20)",
+      "Attack 2": "[3] Hurricane (30)\r\n<br>Unless this attack Knocks Out the Defending Pokémon, return the Defending Pokémon and all cards attached to it to your opponent's hand.",
+      "Weakness": "L",
+      "Resistance": "F-30",
+      "Artist": "Kagemaru Himeno",
+      "code": "014/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67291,
+    "name": "Pidgeotto",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42500_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42500_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42500_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "028/130",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Whirlwind (20)\r\n<br>If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. <em>(Do the damage before switching the Pokémon.)</em>",
+      "Attack 2": "[3] Mirror Move\r\n<br>If Pidgeotto was attacked last turn, do the final result of that attack on Pidgeotto to the Defending Pokémon.",
+      "Weakness": "L",
+      "Resistance": "F-30",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "028/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67328,
+    "name": "Pidgey",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42537_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42537_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42537_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "086/130",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[2] Whirlwind (10)\r\n<br>If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. <em>(Do the damage before switching the Pokémon.)</em>",
+      "Weakness": "L",
+      "Resistance": "F-30",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "086/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67329,
+    "name": "Pikachu",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42538_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42538_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42538_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "087/130",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Gnaw (10)",
+      "Attack 2": "[1L] Thunder Jolt (30)\r\n<br>Flip a coin. If tails, Pikachu does 10 damage to itself.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "087/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67292,
+    "name": "Pinsir",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42501_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42501_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42501_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "029/130",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[GG] Irongrip (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Attack 2": "[2GG] Guillotine (50)",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "Artist": "Kagemaru Himeno",
+      "code": "029/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67350,
+    "name": "PlusPower",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42559_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42559_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42559_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "113/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer",
+      "CardText": "Attach PlusPower to your Active Pokémon. At the end of your turn, discard PlusPower. If this Pokémon's attack does damage to the Defending Pokémon <em>(after applying Weakness and Resistance)</em>, the attack does 10 more damage to the Defending Pokémon.",
+      "Artist": "Keiji Kinebuchi",
+      "code": "113/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67364,
+    "name": "Poke Ball",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/106361_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/106361_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/106361_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "121/130",
+      "Rarity": "Common",
+      "Card Type": "Trainer",
+      "CardText": "Flip a coin. If heads, you may search your deck for any Basic Pokémon or Evolution card. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward.",
+      "Artist": "Keiji Kinebuchi",
+      "code": "121/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67363,
+    "name": "Pokedex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/106360_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/106360_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/106360_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "115/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer",
+      "CardText": "Look at up to 5 cards from the top of your deck and rearrange them as you like.",
+      "Artist": "Keiji Kinebuchi",
+      "code": "115/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67346,
+    "name": "Pokemon Breeder",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42555_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42555_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42555_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "105/130",
+      "Rarity": "Rare",
+      "Card Type": "Trainer",
+      "CardText": "Put a Stage 2 Evolution card from your hand on the matching Basic Pokémon. You can only play this card when you would be allowed to evolve that Pokémon anyway.",
+      "Artist": "Ken Sugimori",
+      "code": "105/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67362,
+    "name": "Pokemon Center",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/106359_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/106359_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/106359_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "114/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer",
+      "CardText": "Remove all damage counters from all of your own Pokémon with damage counters on them, then discard all Energy cards attached to those Pokémon.",
+      "Artist": "Keiji Kinebuchi",
+      "code": "114/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67361,
+    "name": "Pokemon Trader",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/106358_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/106358_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/106358_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "106/130",
+      "Rarity": "Rare",
+      "Card Type": "Trainer",
+      "CardText": "Trade 1 of the Basic Pokémon or Evolution cards in your hand for 1 of the Basic Pokémon or Evolution cards from your deck. Show both cards to your opponent. Shuffle your deck afterward.",
+      "Artist": "Ken Sugimori",
+      "code": "106/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67330,
+    "name": "Poliwag",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42539_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42539_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42539_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "088/130",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[W] Water Gun (10+)\r\n<br>Does 10 damage plus 10 more damage for each Water Energy attached to Poliwag but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+      "Weakness": "G",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "088/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67311,
+    "name": "Poliwhirl",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42520_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42520_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42520_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "057/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Stage 1",
+      "Attack 1": "[WW] Amnesia\r\n<br>Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn.",
+      "Attack 2": "[1WW] Doubleslap (30x)\r\n<br>Flip 2 coins. This attack does 30 damage times the number of heads.",
+      "Weakness": "G",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "057/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67250,
+    "name": "Poliwrath",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42459_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42459_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42459_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "015/130",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "90",
+      "Stage": "Stage 2",
+      "Attack 1": "[1WW] Water Gun (30+)\r\n<br>Does 30 damage plus 10 more damage for each Water Energy attached to Poliwrath but not used to pay for this attack's Energy cost. You can't add more than 20 damage this way.",
+      "Attack 2": "[2WW] Whirlpool (40)\r\n<br>If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it.",
+      "Weakness": "G",
+      "RetreatCost": "3",
+      "Artist": "Ken Sugimori",
+      "code": "015/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67354,
+    "name": "Potion",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42563_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42563_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42563_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "122/130",
+      "Rarity": "Common",
+      "Card Type": "Trainer",
+      "CardText": "Remove up to 2 damage counters from 1 of your Pokémon.",
+      "Artist": "Keiji Kinebuchi",
+      "code": "122/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67351,
+    "name": "Professor Oak",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42560_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42560_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42560_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "116/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer",
+      "CardText": "Discard your hand, then draw 7 cards.",
+      "Artist": "Ken Sugimori",
+      "code": "116/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67358,
+    "name": "Psychic Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42567_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42567_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42567_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "129/130",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "Artist": "Keiji Kinebuchi",
+      "code": "129/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67251,
+    "name": "Raichu",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42460_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42460_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42460_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "016/130",
+      "Rarity": "Holo Rare",
+      "Card Type": "Lightning",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[2L] Agility (20)\r\n<br>Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Raichu.",
+      "Attack 2": "[1LLL] Thunder (60)\r\n<br>Flip a coin. If tails, Raichu does 30 damage to itself.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "016/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67312,
+    "name": "Raticate",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42521_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42521_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42521_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "058/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Bite (20)",
+      "Attack 2": "[3] Super Fang (?)\r\n<br>Does damage to the Defending Pokémon equal to half the Defending Pokémon's remaining HP (rounded up to the nearest 10).",
+      "Weakness": "F",
+      "Resistance": "P-30",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "058/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67331,
+    "name": "Rattata",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42540_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42540_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42540_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "089/130",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "30",
+      "Stage": "Basic",
+      "Attack 1": "[1] Bite (20)",
+      "Weakness": "F",
+      "Resistance": "P-30",
+      "Artist": "Mitsuhiro Arita",
+      "code": "089/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67313,
+    "name": "Rhydon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42522_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42522_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42522_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "059/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[2F] Horn Attack (30)",
+      "Attack 2": "[FFFF] Ram (50)\r\n<br>Rhydon does 20 damage to itself. If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. <em>(Do the damage before switching the Pokémon. Switch the Pokémon even if Rhydon is knocked out.)</em>",
+      "Weakness": "G",
+      "Resistance": "L-30",
+      "RetreatCost": "3",
+      "Artist": "Kagemaru Himeno",
+      "code": "059/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67332,
+    "name": "Rhyhorn",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42541_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42541_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42541_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "090/130",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Leer\r\n<br>Flip a coin. If heads, the Defending Pokémon can't attack Rhyhorn during your opponent's next turn. <em>(Benching either Pokémon ends this effect.)</em>",
+      "Attack 2": "[2F] Horn Attack (30)",
+      "Weakness": "G",
+      "Resistance": "L-30",
+      "RetreatCost": "3",
+      "Artist": "Mitsuhiro Arita",
+      "code": "090/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67333,
+    "name": "Sandshrew",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42542_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42542_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42542_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "091/130",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[F] Sand-attack (10)\r\n<br>If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+      "Weakness": "G",
+      "Resistance": "L-30",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "091/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67347,
+    "name": "Scoop Up",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42556_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42556_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42556_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "107/130",
+      "Rarity": "Rare",
+      "Card Type": "Trainer",
+      "CardText": "Choose 1 of your Pokémon in play and return its Basic Pokémon card to your hand. <em>(Discard all cards attached to that card.)</em>",
+      "Artist": "Keiji Kinebuchi",
+      "code": "107/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67252,
+    "name": "Scyther",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42461_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42461_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42461_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "017/130",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[G] Swords Dance\r\n<br>During your next turn, Scyther's Slash attack's base damage is 60 instead of 30.",
+      "Attack 2": "[3] Slash (30)",
+      "Weakness": "R",
+      "Resistance": "F-30",
+      "Artist": "Ken Sugimori",
+      "code": "017/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67314,
+    "name": "Seaking",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42523_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42523_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42523_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "060/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[W] Horn Attack (10)",
+      "Attack 2": "[1W] Waterfall (30)",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "Artist": "Kagemaru Himeno",
+      "code": "060/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67315,
+    "name": "Seel",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42524_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42524_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42524_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "061/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[W] Headbutt (10)",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "061/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67293,
+    "name": "Snorlax",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42502_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42502_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42502_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "030/130",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "90",
+      "Stage": "Basic",
+      "CardText": "<strong>Pokémon Power: Thick Skinned</strong>\r\n<br>\r\nSnorlax can't become Asleep, Confused, Paralyzed, or Poisoned. This power stops working while Snorlax is already Asleep, Confused, or Paralyzed.",
+      "Attack 1": "[4] Body Slam (30)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Weakness": "F",
+      "Resistance": "P-30",
+      "RetreatCost": "4",
+      "Artist": "Ken Sugimori",
+      "code": "030/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67334,
+    "name": "Spearow",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42543_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42543_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42543_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "092/130",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Peck (10)",
+      "Attack 2": "[3] Mirror Move\r\n<br>If Spearow was attacked last turn, do the final result of that attack on Spearow to the Defending Pokémon.",
+      "Weakness": "L",
+      "Resistance": "F-30",
+      "Artist": "Mitsuhiro Arita",
+      "code": "092/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67335,
+    "name": "Squirtle",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42544_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42544_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42544_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "093/130",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[W] Bubble (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Attack 2": "[1W] Withdraw\r\n<br>Flip a coin. If heads, prevent all damage done to Squirtle during your opponent's next turn. <em>(Any other effects of attacks still happen.)</em>",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "093/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67336,
+    "name": "Starmie",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42545_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42545_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42545_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "094/130",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Stage 1",
+      "Attack 1": "[WW] Recover\r\n<br>Discard 1 Water Energy card attached to Starmie in order to use this attack. Remove all damage counters from Starmie.",
+      "Attack 2": "[2W] Star Freeze (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "Artist": "Keiji Kinebuchi",
+      "code": "094/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67337,
+    "name": "Staryu",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42546_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42546_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42546_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "095/130",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[W] Slap (20)",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "Artist": "Keiji Kinebuchi",
+      "code": "095/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67348,
+    "name": "Super Energy Removal",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42557_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42557_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42557_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "108/130",
+      "Rarity": "Rare",
+      "Card Type": "Trainer",
+      "CardText": "Discard 1 Energy card attached to 1 of your own Pokémon in order to choose 1 of your opponent's Pokémon and up to 2 Energy cards attached to it. Discard those Energy cards.",
+      "Artist": "Keiji Kinebuchi",
+      "code": "108/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67352,
+    "name": "Super Potion",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42561_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42561_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42561_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "117/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer",
+      "CardText": "Discard 1 Energy card attached to 1 of your own Pokémon in order to remove up to 4 damage counters from that Pokémon.",
+      "Artist": "Keiji Kinebuchi",
+      "code": "117/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67355,
+    "name": "Switch",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42564_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42564_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42564_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "123/130",
+      "Rarity": "Common",
+      "Card Type": "Trainer",
+      "CardText": "Switch 1 of your Benched Pokémon with your Active Pokémon.",
+      "Artist": "Keiji Kinebuchi",
+      "code": "123/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67338,
+    "name": "Tangela",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42547_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42547_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42547_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "096/130",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1G] Bind (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Attack 2": "[GGG] Poisonpowder (20)\r\n<br>The Defending Pokémon is now Poisoned.",
+      "Weakness": "R",
+      "RetreatCost": "2",
+      "Artist": "Mitsuhiro Arita",
+      "code": "096/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67316,
+    "name": "Tauros",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42525_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42525_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42525_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "062/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[2] Stomp (20+)\r\n<br>Flip a coin. If heads, this attack does 20 damage plus 10 more damage; if tails, this attack does 20 damage.",
+      "Attack 2": "[3] Rampage (20+)\r\n<br>Does 20 damage plus 10 more damage for each damage counter on Tauros. Flip a coin. If tails, Tauros is now Confused <em>(after doing damage)</em>.",
+      "Weakness": "F",
+      "Resistance": "P-30",
+      "RetreatCost": "2",
+      "Artist": "Kagemaru Himeno",
+      "code": "062/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67294,
+    "name": "Venomoth",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42503_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42503_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42503_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "031/130",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Pokémon Power: Shift</strong> Once during your turn <em>(before your attack)</em>, you may change the type of Venomoth to the type of any other Pokémon in play other than Colorless. This power can't be used if Venomoth is Asleep, Confused, or Paralyzed.",
+      "Attack 1": "[GG] Venom Powder (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Confused and Poisoned.",
+      "Weakness": "R",
+      "Resistance": "F-30",
+      "Artist": "Ken Sugimori",
+      "code": "031/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67339,
+    "name": "Venonat",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42548_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42548_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42548_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "097/130",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[G] Stun Spore (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Attack 2": "[1G] Leech Life (10)\r\n<br>Remove a number of damage counters from Venonat equal to the damage done to the Defending Pokémon <em>(after applying Weakness and Resistance)</em>. If Venonat has fewer damage counters than that, remove all of them.",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "097/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67253,
+    "name": "Venusaur",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42462_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42462_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42462_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "018/130",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Pokémon Power: Energy Trans</strong> As often as you like during your turn <em>(before your attack)</em>, you may take 1 Grass Energy card attached to 1 of your Pokémon and attach it to a different one. This power can't be used if Venusaur is Asleep, Confused, or Paralyzed.",
+      "Attack 1": "[GGGG] Solarbeam (60)",
+      "Weakness": "R",
+      "RetreatCost": "2",
+      "Artist": "Mitsuhiro Arita",
+      "code": "018/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67295,
+    "name": "Victreebel",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42504_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42504_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42504_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "032/130",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Stage 2",
+      "Attack 1": "[G] Lure\r\n<br>If your opponent has any Benched Pokémon, choose 1 of them and switch it with his or her Active Pokémon.",
+      "Attack 2": "[GG] Acid (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon can't retreat during your opponent's next turn.",
+      "Weakness": "R",
+      "RetreatCost": "2",
+      "Artist": "Ken Sugimori",
+      "code": "032/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67340,
+    "name": "Voltorb",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42549_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42549_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42549_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "098/130",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Tackle (10)",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "Artist": "Keiji Kinebuchi",
+      "code": "098/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67341,
+    "name": "Vulpix",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42550_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42550_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42550_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "099/130",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[RR] Confuse Ray (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Confused.",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "099/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67317,
+    "name": "Wartortle",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42526_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42526_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42526_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "063/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1W] WIthdraw\r\n<br>Flip a coin. If heads, prevent all damage done to Wartortle during your opponent's next turn. <em>(Any other effects of attacks still happen.)</em>",
+      "Attack 2": "[2W] Bite (40)",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "063/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67359,
+    "name": "Water Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42568_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42568_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42568_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "130/130",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "Artist": "Keiji Kinebuchi",
+      "code": "130/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67342,
+    "name": "Weedle",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42551_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42551_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42551_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "100/130",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[G] Poison Sting (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "100/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67318,
+    "name": "Weepinbell",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42527_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42527_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42527_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "064/130",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[G] Poisonpowder (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+      "Attack 2": "[GG] Razor Leaf (30)",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "Artist": "Kagemaru Himeno",
+      "code": "064/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67254,
+    "name": "Wigglytuff",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42463_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42463_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42463_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "019/130",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 2",
+      "Attack 1": "[1] Lullaby\r\n<br>The Defending Pokémon is now Asleep.",
+      "Attack 2": "[3] Do the Wave (10+)\r\n<br>Does 10 damage plus 10 more damage for each of your Benched Pokémon.",
+      "Weakness": "F",
+      "Resistance": "P-30",
+      "RetreatCost": "2",
+      "Artist": "Mitsuhiro Arita",
+      "code": "019/130"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-base-set-2",
+    "id": 67256,
+    "name": "Zapdos",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/42465_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/42465_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/42465_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "020/130",
+      "Rarity": "Holo Rare",
+      "Card Type": "Lightning",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[1LLL] Thunder (60)\r\n<br>Flip a coin. If tails, Zapdos does 30 damage to itself.",
+      "Attack 2": "[LLLL] Thunderbolt (100)\r\n<br>Discard all Energy cards attached to Zapdos in order to use this attack.",
+      "Resistance": "F-30",
+      "RetreatCost": "3",
+      "Artist": "Ken Sugimori",
+      "code": "020/130"
+    }
+  }
+]

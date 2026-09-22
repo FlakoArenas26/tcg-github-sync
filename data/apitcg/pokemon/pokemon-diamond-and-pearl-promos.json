@@ -1,0 +1,1574 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63891,
+    "name": "Arceus - DP50",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83601_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83601_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83601_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP50",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "90",
+      "Stage": "Basic",
+      "CardText": "<em>You may have as many of this card in your deck as you like.</em>",
+      "Attack 1": "[4] Judgment (80) \r\n<br>Discard all Energy cards attached to Arceus and this attack does 10 damage to each of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Weakness": "Fx2",
+      "RetreatCost": "2",
+      "Artist": "Kunihiko Yuyama",
+      "code": "DP50"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63892,
+    "name": "Arceus LV.X - DP53",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83605_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83605_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83605_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP53",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "120",
+      "Stage": "Level Up",
+      "CardText": "<em>You may have as many of this card in your deck as you like.</em>\r\n<br>\r\n<strong>Poké-BODY — Multitype</strong>\r\n<br>\r\nArceus LV.X's type is the same type as its previous Level.\r\n<br>\r\n<strong>Poké-BODY — Omniscient</strong>\r\n<br>\r\nArceus can use the attacks of all Arceus you have in play as its own. (You still need the necessary Energy to use each attack.)\r\n<br><br>\r\n<em>Put this card onto your Active Arceus. Arceus LV.X can use any attack, Poké-Power, or Poké-Body from its previous Level.</em>",
+      "RetreatCost": "1",
+      "Artist": "Shizurow",
+      "code": "DP53"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63893,
+    "name": "Arceus LV.X - DP56",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83606_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83606_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83606_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP56",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "120",
+      "Stage": "Level Up",
+      "CardText": "<em>You may have as many of this card in your deck as you like.</em>\r\n<br>\r\n<strong>Poké-BODY — Multitype</strong>\r\n<br>\r\nArceus LV.X's type is the same as its previous Level.\r\n<br><br>\r\n<em>Put this card onto your Active Arceus. Arceus LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.</em>",
+      "Attack 1": "[1GR] Meteor Blast (100) \r\n<br>Flip a coin. If tails, this attack's base damage is 50 instead of 100.",
+      "RetreatCost": "1",
+      "Artist": "Ryo Ueda",
+      "code": "DP56"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63894,
+    "name": "Buizel - DP13",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84019_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84019_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84019_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP13",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[W] Splash About (10+) \r\n<br>If Buizel has less Energy attached to it than the Defending Pokémon, this attack does 10 damage plus 10 more damage.",
+      "Weakness": "L+10",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "DP13"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63895,
+    "name": "Buneary - DP06",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84041_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84041_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84041_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP06",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Splash (10)",
+      "Attack 2": "[2] Jump Kick (10) \r\n<br>Does 10 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Weakness": "F+10",
+      "RetreatCost": "1",
+      "Artist": "Kagemaru Himeno",
+      "code": "DP06"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63896,
+    "name": "Carnivine G - DP42",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84108_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84108_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84108_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP42",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[1] Power Whip \r\n<br>Choose 1 of your opponent's Pokémon.  This attack does 10 damage for each Energy attached to Carnivine G to that Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Attack 2": "[1G] Grass Knot (20+) \r\n<br>Does 20 damage plus 10 more damage for each Colorless Energy in the Defending Pokémon's Retreat Cost (after applying effects to the Retreat Cost).",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "Artist": "Makoto Imai",
+      "code": "DP42"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63897,
+    "name": "Charizard G LV.X - DP45",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84202_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84202_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84202_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP45",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "120",
+      "Stage": "Level Up",
+      "CardText": "<strong>Poké-POWER — Call for Power</strong>\r\n<br>\r\nAs often as you like during your turn <em>(before your attack)</em>, you may move an Energy attached to 1 of your Pokémon to Charizard G. This power can’t be used if Charizard G is affected by a Special Condition.\r\n<br><br>\r\n<em>Put this card onto your Active Charizard G. Charizard G LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.</em>",
+      "Attack 1": "[3RR] Malevolent Fire (150) \r\n<br>Flip a coin. If tails, discard all Energy attached to Charizard G.",
+      "Weakness": "Wx2",
+      "Resistance": "F-20",
+      "RetreatCost": "3",
+      "Artist": "Wataru Kawahara",
+      "code": "DP45"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63898,
+    "name": "Chatot - DP14",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84241_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84241_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84241_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP14",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Me First \r\n<br>Draw a card.",
+      "Attack 2": "[1] Tone-Deaf (10) \r\n<br>Flip a coin. If heads, the Defending Pokémon is now Confused.",
+      "Weakness": "L+10",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "Artist": "Masakazu Fukuda",
+      "code": "DP14"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63899,
+    "name": "Chimchar - DP02",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84286_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84286_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84286_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP02",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[0] Scratch (10)",
+      "Attack 2": "[1R] Ember (30) \r\n<br>Flip a coin. If tails, discard a Fire Energy attached to Chimchar.",
+      "Weakness": "W+10",
+      "RetreatCost": "1",
+      "Artist": "Kagemaru Himeno",
+      "code": "DP02"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63900,
+    "name": "Cranidos - DP07",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84459_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84459_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84459_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP07",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Headbutt (20)",
+      "Attack 2": "[1F] Steamroll (30) \r\n<br>Does 20 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Weakness": "G+20",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "DP07"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63901,
+    "name": "Cresselia - DP51",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84469_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84469_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84469_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP51",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "90",
+      "Stage": "Basic",
+      "CardText": "<strong>Poké-BODY — Lunar Aura</strong>\r\n<br>If you have Darkrai in play, remove 1 damage counter from Cresselia between turns.",
+      "Attack 1": "[1PP] Lunar Flight (80-) \r\n<br>Does 80 damage minus 10 damage for each damage counter on Cresselia.",
+      "Weakness": "Px2",
+      "RetreatCost": "2",
+      "Artist": "Wataru Kawahara",
+      "code": "DP51"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63902,
+    "name": "Darkrai - DP24",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84701_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84701_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84701_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP24",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "80",
+      "Stage": "Basic",
+      "CardText": "<strong>Held Item — Enigma Berry</strong> <em>If Darkrai is damaged by an attack from your opponent's Fighting Pokémon, remove 4 damage counters at the end of that turn.</em>",
+      "Attack 1": "[W] Spacial Rend (10) \r\n<br>Search your deck for a Stadium card, show it to your opponent, and put it into your hand. Shuffle your deck afterward. If there is any Stadium card in play, discard it.",
+      "Attack 2": "[MMM] Roar of Time (80) \r\n<br>Search your discard pile for 3 Pokémon, show them to your opponent, and put them on top of your deck.  Shuffle your deck afterward. <em>(If you don't have 3 Pokémon in your discard pile, this attack does nothing.)</em>",
+      "Weakness": "F+20",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "Artist": "Kouki Saitou",
+      "code": "DP24"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63903,
+    "name": "Darkrai - DP52",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84702_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84702_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84702_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP52",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "90",
+      "Stage": "Basic",
+      "CardText": "<strong>Poké-BODY — Darkness Aura</strong>\r\n<br>\r\nIf you have Cresselia in play, each of Darkrai's attacks does 20 more damage to the Defending Pokémon <em>(before applying Weakness and Resistance)</em>.",
+      "Attack 1": "[1DD] Hypnoblast (60) \r\n<br>Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "Artist": "Wataru Kawahara",
+      "code": "DP52"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63904,
+    "name": "Darkrai LV.X - DP19",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84712_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84712_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84712_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP19",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "100",
+      "Stage": "Level Up",
+      "CardText": "<strong>Poké-BODY — Dark Shadow</strong>\r\n<br>\r\nEach basic Darkness Energy card attached to your Darkness Pokémon now has the effect \"If the Pokémon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon <em>(before applying Weakness and Resistance)</em>.\" You can't use more than 1 Dark Shadow Poké-Body each turn.\r\n<br><br>\r\n<em>Put this card onto your Active Darkrai. Darkrai LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.</em>",
+      "Attack 1": "[1DD] Endless Darkness (40) \r\n<br>The Defending Pokémon is now Asleep. Flip 2 coins instead of 1 between turns. If either of them are tails, the Defending Pokémon is still Asleep. If both of them are tails, the Defending Pokémon is Knocked Out.",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "Shizurow",
+      "code": "DP19"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63905,
+    "name": "Dialga - DP26",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84801_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84801_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84801_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP26",
+      "Rarity": "Promo",
+      "Card Type": "Metal",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[M] Time Bellow (10) \r\n<br>Draw a card.",
+      "Attack 2": "[1MM] Flash Cannon (40) \r\n<br>You may return all Energy cards attached to Dialga to your hand. If you do, remove the highest Stage Evolution card from the Defending Pokémon and shuffle that card into your opponent's deck.",
+      "Weakness": "R+20",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "Artist": "Kazuyuki Kano",
+      "code": "DP26"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63906,
+    "name": "Dialga - DP49",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84805_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84805_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84805_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP49",
+      "Rarity": "Promo",
+      "Card Type": "Metal",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[M] Time Call \r\n<br>Search your deck for a card that evolves from 1 of your Pokémon and put it onto that Pokémon. (This counts as evolving that Pokemon.) Shuffle your deck afterward.",
+      "Attack 2": "[2M] Time Wager (100) \r\n<br>Flip 2 coins. If either of them is tails, this attack's base damage is 50 instead of 100.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "Artist": "Kagemaru Himeno",
+      "code": "DP49"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63907,
+    "name": "Dialga LV.X - DP17",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84813_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84813_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84813_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP17",
+      "Rarity": "Promo",
+      "Card Type": "Metal",
+      "HP": "110",
+      "Stage": "Level Up",
+      "CardText": "<strong>Poké-POWER — Time Skip</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may have your opponent flip 2 coins. If both of them are heads, your turn ends. If both of them are tails, after your opponent draws a card at the beginning of his or her next turn, his or her turn ends. This power can’t be used if Dialga is affected by a Special Condition.\r\n<br><br>\r\n<em>Put this card onto your Active Dialga. Dialga LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.</em>",
+      "Attack 1": "[2MM] Metal Flash (80) \r\n<br>During your next turn, Dialga can't use Metal Flash.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "Artist": "Ryo Ueda",
+      "code": "DP17"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63908,
+    "name": "Dialga LV.X - DP37",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84814_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84814_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84814_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP37",
+      "Rarity": "Promo",
+      "Card Type": "Metal",
+      "HP": "110",
+      "Stage": "Level Up",
+      "CardText": "<strong>Poké-POWER — Time Skip</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may have your opponent flip 2 coins. If both of them are heads, your turn ends. If both of them are tails, after your opponent draws a card at the beginning of his or her next turn, his or her turn ends. This power can’t be used if Dialga is affected by a Special Condition.\r\n<br><br>\r\n<em>Put this card onto your Active Dialga. Dialga LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.</em>",
+      "Attack 1": "[2MM] Metal Flash (80) \r\n<br>During your next turn, Dialga can't use Metal Flash.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "Artist": "Ryo Ueda",
+      "code": "DP37"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63909,
+    "name": "Drifblim - DP34",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84946_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84946_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84946_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP34",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Wind Wave \r\n<br>Search your discard pile for up to 5 in any combination of Pokémon and Supporter cards. Show them to your opponent and shuffle them into your deck.",
+      "Attack 2": "[PPP] Explosive Smoke (60) \r\n<br>Does 10 damage to each Benched Pokémon (both yours and your opponent's). <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Weakness": "D+20",
+      "Resistance": "C-20",
+      "Artist": "Mitsuhiro Arita",
+      "code": "DP34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63910,
+    "name": "Dusknoir - DP33",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85039_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85039_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85039_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP33",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "130",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Poké-POWER — Dark Hide</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may flip a coin. If heads, look at your opponent’s hand, choose a Pokémon you find there, and put it on the bottom of his or her deck. This power can’t be used if Dusknoir is affected by a Special Condition.",
+      "Attack 1": "[1PP] Reaper Pulse (70) \r\n<br>Move up to 2 damage counters from Dusknoir to 1 of your opponent's Benched Pokémon.",
+      "Weakness": "D+30",
+      "Resistance": "C-20",
+      "RetreatCost": "2",
+      "Artist": "Kent Kanetsuna",
+      "code": "DP33"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63911,
+    "name": "Empoleon LV.X - DP11",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85207_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85207_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85207_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP11",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "140",
+      "Stage": "Level Up",
+      "CardText": "<strong>Poké-POWER — Supreme Command</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may choose up to 2 cards from your opponent’s hand without looking and put them face down next to the Defending Pokémon. (These cards are not in play or in your opponent’s hand.) At the end of your opponent’s next turn, return those cards to your opponent’s hand. This power can’t be used if Empoleon is affected by a Special Condition.\r\n<br><br>\r\n<em>Put this card onto your Active Empoleon. Empoleon LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.</em>",
+      "Attack 1": "[WWW] Hydro Impact \r\n<br>Choose 1 of your opponent's Pokémon. This attack does 80 damage to that Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em> Empoleon can't attack during your next turn.",
+      "Weakness": "L+30",
+      "RetreatCost": "2",
+      "Artist": "Shizurow",
+      "code": "DP11"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63949,
+    "name": "Gabite - 48/123 (Prerelease) [Staff]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/164205_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/164205_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/164205_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "48/123",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Gather Up\r\n<br>Search your discard pile for up to 2 Energy cards, show them to your opponent, and put them into your hand.",
+      "Attack 2": "[2] Marvelous Shine\r\n<br>Flip a coin. If heads, put 4 damage counters on 1 of your opponent's Pokémon. If tails, remove 4 damage counters from 1 of your Pokémon.",
+      "Weakness": "C+20",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "48/123"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63948,
+    "name": "Gabite - 48/124 (Prerelease)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/164204_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/164204_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/164204_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "48/124",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Gather Up\r\n<br>Search your discard pile for up to 2 Energy cards, show them to your opponent, and put them into your hand.",
+      "Attack 2": "[2] Marvelous Shine\r\n<br>Flip a coin. If heads, put 4 damage counters on 1 of your opponent's Pokémon. If tails, remove 4 damage counters from 1 of your Pokémon.",
+      "Weakness": "C+20",
+      "RetreatCost": "1",
+      "Artist": "Ken Sugimori",
+      "code": "48/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63912,
+    "name": "Garchomp C LV.X - DP46",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85630_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85630_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85630_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP46",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "110",
+      "Stage": "Level Up",
+      "CardText": "<strong>Poké-POWER — Healing Breath</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, when you put Garchomp C LV.X from your hand onto your Active Garchomp C, you may remove all damage counters from each of your Pokémon SP.\r\n<br><br>\r\n<em>Put this card onto your Active Garchomp C. Garchomp C LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.</em>",
+      "Attack 1": "[3] Dragon Rush \r\n<br>Discard 2 Energy attached to Garchomp C. Choose 1 of your opponent's Pokémon. This attack does 80 damage to that Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em> Garchomp C can't use Dragon Rush during your next turn.",
+      "Weakness": "Cx2",
+      "Artist": "Shizurow",
+      "code": "DP46"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63913,
+    "name": "Giratina LV.X - DP38",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85743_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85743_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85743_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP38",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "130",
+      "Stage": "Level Up",
+      "CardText": "<strong>Poké-BODY — Invisible Tentacles</strong>\r\n<br>\r\nWhenever your opponent’s Pokémon tries to attack, your opponent discards 1 card from his or her hand. (If your opponent can’t discard 1 card, your opponent’s Pokémon can’t attack.) You can’t use more than 1 Invisible Tentacles Poké-Body each turn.\r\n<br><br>\r\n<em>Put this card onto your Active Giratina. Giratina LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.</em>",
+      "Attack 1": "[2PP] Darkness Lost \r\n<br>This attack does 30 damage to each of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em> If any of your opponent's Pokémon would be Knocked Out by damage from this attack, put that Pokémon and all cards attached to it in the Lost Zone instead of discarding it.",
+      "Weakness": "Dx2",
+      "Resistance": "C-20",
+      "RetreatCost": "3",
+      "Artist": "Shizurow",
+      "code": "DP38"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63914,
+    "name": "Glameow - DP23",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85761_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85761_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85761_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP23",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Charm \r\n<br>During your opponent's next turn, any damage done to attacks from the Defending Pokémon is reduced by 20 <em>(before applying Weakness and Resistance).</em>",
+      "Attack 2": "[2] Pose (30) \r\n<br>Flip a coin. If tails, this attack does nothing.",
+      "Weakness": "F+10",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "DP23"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63915,
+    "name": "Gliscor - DP36",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85773_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85773_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85773_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP36",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-BODY — Bind Eye</strong>\r\n<br>\r\nAs long as Gliscor is your Active Pokémon, your opponent can’t remove any Special Conditions by evolving or devolving his or her Pokémon. (This also includes putting a Pokémon Level-Up card onto that Pokémon.)",
+      "Attack 1": "[1] Cutting Turn\r\n<br>Flip a coin. If heads, put damage counters on the Defending Pokémon until it is 10HP away from being Knocked Out. If you do, shuffle Gliscor and all cards attached to it back into your deck.",
+      "Attack 2": "[F] Friction Heat (20) \r\n<br>The Defending Pokémon is now Burned.",
+      "Weakness": "W+20",
+      "Resistance": "F-20",
+      "Artist": "Kagemaru Himeno",
+      "code": "DP36"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63916,
+    "name": "Heatran LV.X - DP31",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86055_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86055_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86055_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP31",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "120",
+      "Stage": "Level Up",
+      "CardText": "<strong>Poké-BODY — Heat Metal</strong>\r\n<br>\r\nYour opponent can’t remove the Special Condition Burned by evolving or devolving his or her Burned Pokémon. (This also includes putting a Pokémon Level-Up card onto the Burned Pokémon.) Whenever your opponent flips a coin for the Special Condition Burned between turns, treat it as tails.\r\n<br>\r\n<strong>Poké-POWER — Heat Wave</strong>\r\n<br>\r\nOnce at the end of your turn, if Heatran is on your Bench, you may use this power. If you discarded basic Energy cards attached to your Fire or Metal Active Pokémon by using that Pokémon’s attack this turn, attach up to 2 of those Energy cards to that Pokémon.\r\n<br><br>\r\n<em>Put this card onto your Active Heatran. Heatran LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.</em>",
+      "Weakness": "Wx2",
+      "RetreatCost": "4",
+      "Artist": "Shizurow",
+      "code": "DP31"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63917,
+    "name": "Infernape LV.X - DP10",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86282_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86282_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86282_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP10",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "120",
+      "Stage": "Level Up",
+      "CardText": "<strong>Poké-POWER — Burning Head</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may look at the top 3 cards of your deck, choose 1 of them, and put it into your hand. Discard the other 2 cards. This power can’t be used if Infernape is affected by a Special Condition.\r\n<br><br>\r\n<em>Put this card onto your Active Infernape. Infernape LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.</em>",
+      "Attack 1": "[RR] Flare Up (150) \r\n<br>Search your discard pile for 8 Fire Energy cards, show them to your opponent, and shuffle them into your deck. (This attack does nothing if you don't have 8 Fire Energy cards in your discard pile.)",
+      "Weakness": "W+30",
+      "Artist": "Shizurow",
+      "code": "DP10"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63955,
+    "name": "Kirlia - 53/132 (Prerelease)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/233308_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/233308_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/233308_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "53/132",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[P] Psychic Research\r\n<br>Search your discard pile for a Supporter card and use the effect of that card as the effect of this attack. <em>(The Supporter card remains in your discard pile.)</em>",
+      "Attack 2": "[2P] Telekinesis\r\n<br>Choose 1 of your opponent's Pokémon. This attack does 40 damage to that Pokémon. This attack's damage isn't affected by Weakness or Resistance.",
+      "Weakness": "P+20",
+      "RetreatCost": "1",
+      "Artist": "Masakazu Fukuda",
+      "code": "53/132"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63950,
+    "name": "Lucario - 53/127 (Prerelease)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/187215_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/187215_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/187215_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "53/127",
+      "Rarity": "Promo",
+      "Card Type": "Metal",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[M] Aura Sphere (30) \r\n<br>Does 10 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Attack 2": "[1M] Do the Wave (20+)\r\n<br>Does 20 damage plus 10 more damage for each of your Benched Pokémon.",
+      "Weakness": "R+20",
+      "Artist": "Kouki Saitou",
+      "code": "53/127"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63951,
+    "name": "Lucario - 53/127 (Prerelease) [Staff]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/187216_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/187216_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/187216_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "53/127",
+      "Rarity": "Promo",
+      "Card Type": "Metal",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[M] Aura Sphere (30) \r\n<br>Does 10 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Attack 2": "[1M] Do the Wave (20+)\r\n<br>Does 20 damage plus 10 more damage for each of your Benched Pokémon.",
+      "Weakness": "R+20",
+      "Artist": "Kouki Saitou",
+      "code": "53/127"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63918,
+    "name": "Lucario LV.X - DP12",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86890_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86890_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86890_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP12",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "110",
+      "Stage": "Level Up",
+      "CardText": "<strong>Poké-POWER — Stance</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, when you put Lucario LV.X from your hand onto your Active Lucario, you may use this power. Prevent all effects of an attack, including damage, done to Lucario during your opponent’s next turn. (If Lucario is no longer your Active Pokémon, this effect ends.)\r\n<br><br>\r\n<em>Put this card onto your Active Lucario. Lucario LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.</em>",
+      "Attack 1": "[1FF] Close Combat (80) \r\n<br>During your opponent's next turn, any damage done to Lucario by attacks is increased by 30 <em>(after applying Weakness and Resistance)</em>.",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "Artist": "Ryo Ueda",
+      "code": "DP12"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63919,
+    "name": "Magmortar - DP20",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87057_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87057_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87057_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP20",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[1R] Smoke Bomb (30) \r\n<br>If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+      "Attack 2": "[1RR] Flame Drum (80) \r\n<br>If Magby isn't anywhere under Magmortar, discard 2 Energy cards from your hand. (If you can't discard 2 Energy cards from your hand, this attack does nothing.)",
+      "Weakness": "W+30",
+      "RetreatCost": "3",
+      "Artist": "Daisuke Ito",
+      "code": "DP20"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63920,
+    "name": "Magnezone - DP32",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87116_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87116_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87116_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP32",
+      "Rarity": "Promo",
+      "Card Type": "Metal",
+      "HP": "130",
+      "Stage": "Stage 2",
+      "Attack 1": "[1M] Mirror Shot (40) \r\n<br>If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+      "Attack 2": "[2LM] Magnet Slash (100)\r\n<br>\r\nDiscard all Lightning Energy attached to Magnezone.",
+      "Weakness": "R+30",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "Artist": "Kent Kanetsuna",
+      "code": "DP32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63921,
+    "name": "Magnezone - DP44",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87117_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87117_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87117_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP44",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "130",
+      "Stage": "Stage 2",
+      "Attack 1": "[L] Charge Beam (30) \r\n<br>Search your discard pile for an Energy card and attach it to Magnezone.",
+      "Attack 2": "[2LM] Metallic Bolt (60) \r\n<br>You may discard a Lightning Energy and a Metal Energy attached to Magnezone. If you do, this attack's base damage is 120 instead of 60.",
+      "Weakness": "F+30",
+      "Resistance": "M-20",
+      "RetreatCost": "2",
+      "Artist": "Kagemaru Himeno",
+      "code": "DP44"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63922,
+    "name": "Mewtwo LV.X - DP28",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87434_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87434_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87434_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP28",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "120",
+      "Stage": "Level Up",
+      "CardText": "<strong>Poké-BODY — Psybarrier</strong>\r\n<br>\r\nPrevent all effects of attacks, including damage, done to Mewtwo by your opponent’s Pokémon that isn’t an Evolved Pokémon.\r\n<br><br>\r\n<em>Put this card onto your Active Mewtwo. Mewtwo LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.</em>",
+      "Attack 1": "[1PP] Giga Burn (120) \r\n<br>Discard all Energy attached to Mewtwo.",
+      "Weakness": "Px2",
+      "RetreatCost": "2",
+      "Artist": "Shizurow",
+      "code": "DP28"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63923,
+    "name": "Mime Jr. - DP22",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87470_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87470_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87470_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP22",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "40",
+      "Stage": "Basic",
+      "CardText": "<strong>Poké-POWER — Baby Evolution</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may put Mr. Mime from your hand onto Mime Jr. (this counts as evolving Mime Jr.) and remove all damage counters from Mime Jr.",
+      "Attack 1": "[P] Mime \r\n<br>Shuffle your hand into your deck. Then, draw a number of cards equal to the number of cards in your opponent's hand.",
+      "Weakness": "P+10",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "DP22"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63954,
+    "name": "Mothim - 42/100 (Prerelease)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/232881_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/232881_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/232881_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "42/100",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-BODY — Disturbance Scales</strong>\r\n<br>\r\nAny damage done by attacks from your Pokémon to the Defending Pokémon isn't affected by Resistance.",
+      "Attack 1": "[G] Get Help (30x)\r\n<br>\r\nDoes 30 damage times the number of different types of Wormadam on your Bench.",
+      "Attack 2": "[1G] Quick Touch (40)\r\n<br>\r\nYou may switch Mothim with 1 of your Benched Pokémon. If you do, move as many Energy cards attached to Mothim as you like to the new Active Pokémon.",
+      "Weakness": "R+20",
+      "Resistance": "F-20",
+      "Artist": "Masakazu Fukuda",
+      "code": "42/100"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63956,
+    "name": "Mothim - 42/100 (Prerelease) [Staff]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/532629_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/532629_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/532629_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "42/100",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-BODY — Disturbance Scales</strong>\r\n<br>\r\nAny damage done by attacks from your Pokémon to the Defending Pokémon isn't affected by Resistance.",
+      "Attack 1": "[G] Get Help (30x)\r\n<br>\r\nDoes 30 damage times the number of different types of Wormadam on your Bench.",
+      "Attack 2": "[1G] Quick Touch (40)\r\n<br>\r\nYou may switch Mothim with 1 of your Benched Pokémon. If you do, move as many Energy cards attached to Mothim as you like to the new Active Pokémon.",
+      "Weakness": "R+20",
+      "Resistance": "F-20",
+      "Artist": "Masakazu Fukuda",
+      "code": "42/100"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63924,
+    "name": "Pachirisu - DP04",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87901_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87901_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87901_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP04",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Minor Errand-Running\r\n<br>Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
+      "Attack 2": "[L] Thunder Jolt (20) \r\n<br>Flip a coin. If tails, Pachirisu does 10 damage to itself.",
+      "Weakness": "F+20",
+      "Resistance": "M-20",
+      "RetreatCost": "1",
+      "Artist": "Atsuko Nishida",
+      "code": "DP04"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63925,
+    "name": "Palkia - DP27",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87909_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87909_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87909_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP27",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[W] Spacial Rend (10) \r\n<br>Search your deck for a Stadium card, show it to your opponent, and put it into your hand. Shuffle your deck afterward. If there is any Stadium card in play, discard it.",
+      "Attack 2": "[1WW] Transback (40) \r\n<br>You may flip a coin. If heads, discard all Energy attached to Palkia and put the Defending Pokémon and all cards attached to it on top of your opponent's deck. Your opponent shuffles his or her deck afterward.",
+      "Weakness": "L+20",
+      "RetreatCost": "2",
+      "Artist": "Daisuke Ito",
+      "code": "DP27"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63926,
+    "name": "Palkia LV.X - DP18",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87920_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87920_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87920_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP18",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "120",
+      "Stage": "Level Up",
+      "CardText": "<strong>Poké-POWER — Restructure</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may have your opponent switch 1 of your Active Pokémon with 1 of your Benched Pokémon. Then, you switch 1 of the Defending Pokémon with 1 of your opponent’s Benched Pokémon. This power can’t be used if Palkia is affected by a Special Condition.\r\n<br><br>\r\n<em>Put this card onto your Active Palkia. Palkia LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.</em>",
+      "Attack 1": "[WWW] Hydro Reflect (60) \r\n<br>You may move all Energy cards attached to Palkia to your Benched Pokémon in any way you like. <em>(Ignore this effect if you don't have any Benched Pokémon.)</em>",
+      "Weakness": "Lx2",
+      "RetreatCost": "3",
+      "Artist": "Ryo Ueda",
+      "code": "DP18"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63927,
+    "name": "Pikachu - DP16",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88089_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88089_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88089_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP16",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<strong>Poké-POWER — Electro Recycle</strong>\r\n<br>\r\nOnce during your turn (before your attack), if Pichu is anywhere under Pikachu, you may search your discard pile for a {L} Energy card, show it to your opponent, and put it into your hand. This power can’t be used if Pikachu is affected by a Special Condition.",
+      "Attack 1": "[1L] BikaBika (20+) \r\n<br>Flip a coin. If heads, this attack does 20 damage plus 10 more damage.",
+      "Weakness": "F+10",
+      "Resistance": "M-20",
+      "RetreatCost": "1",
+      "Artist": "Sumiyoshi Kizuki",
+      "code": "DP16"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63928,
+    "name": "Piplup - DP03",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88147_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88147_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88147_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP03",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[0] Peck (10)",
+      "Attack 2": "[1W] Water Splash (20+) \r\n<br>Flip a coin. If heads, this attack does 20 damage plus 10 more damage.",
+      "Weakness": "L+10",
+      "RetreatCost": "1",
+      "Artist": "Atsuko Nishida",
+      "code": "DP03"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63929,
+    "name": "Porygon-Z - DP35",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88316_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88316_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88316_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP35",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "CardText": "<Poké-POWER — Install</strong>\r\n<br>As often as you like during your turn <em>(before your attack)</em>, move a Technical Machine card attached to 1 of your Pokémon to another of your Pokémon. This power can’t be used if Porygon-Z is affected by a Special Condition.",
+      "Attack 1": "[0] Learning \r\n<br>Search your deck for a Pokémon LV.X that levels up from 1 of your Pokémon and put it onto that Pokemon. (This counts as leveling up that Pokemon.) Shuffle your deck afterward.",
+      "Attack 2": "[2] Overload (40+) \r\n<br>Does 40 damage plus 20 more damage for each Technical Machine card attached to Porygon-Z.",
+      "Weakness": "F+30",
+      "RetreatCost": "2",
+      "Artist": "Kagemaru Himeno",
+      "code": "DP35"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63952,
+    "name": "Porygon2 - 49/106 (Prerelease)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/232870_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/232870_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/232870_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "49/106",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-POWER — Dowload</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may discard a Supporter card from your hand and use the effect of that card as the effect of this power.  This power can't be used if Porygon2 is affected by a Special Condition.",
+      "Attack 1": "[2] Speed Attack (30)",
+      "Weakness": "F+20",
+      "RetreatCost": "2",
+      "Artist": "Kent Kanetsuna",
+      "code": "49/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63953,
+    "name": "Porygon2 - 49/106 (Prerelease) [Staff]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/232871_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/232871_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/232871_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "49/106",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-POWER — Dowload</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may discard a Supporter card from your hand and use the effect of that card as the effect of this power.  This power can't be used if Porygon2 is affected by a Special Condition.",
+      "Attack 1": "[2] Speed Attack (30)",
+      "Weakness": "F+20",
+      "RetreatCost": "2",
+      "Artist": "Kent Kanetsuna",
+      "code": "49/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63930,
+    "name": "Probopass G - DP43",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88380_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88380_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88380_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP43",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[1M] Nose Unit \r\n<br>This attack does 20 damage to each of your opponent's Pokémon that has any Poke-Bodies. <em>(Don't apply Weakness and Resistance for Benched Pokemon.)</em>",
+      "Attack 2": "[3M] Loud Snort (70) \r\n<br>Probopass G's Retreat Cost is 0 until the end of your next turn.",
+      "Weakness": "Wx2",
+      "RetreatCost": "3",
+      "Artist": "Ryota Saito",
+      "code": "DP43"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63931,
+    "name": "Raichu - DP21",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88512_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88512_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88512_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP21",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[0] Electromagnetic Induction \r\n<br>Search your deck for up to 2 Lightning Energy cards and attach them to 1 of your Pokémon. Shuffle your deck afterward.",
+      "Attack 2": "[1L] Explosive Thunder (30x) \r\n<br>Discard all basic Lightning Energy cards attached to Raichu. This attack does 30 damage times the number of Lightning Energy cards you discarded.",
+      "Weakness": "F+20",
+      "Resistance": "M-20",
+      "RetreatCost": "1",
+      "Artist": "Daisuke Ito",
+      "code": "DP21"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63932,
+    "name": "Rayquaza C LV.X - DP47",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88641_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88641_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88641_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP47",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "120",
+      "Stage": "Level Up",
+      "CardText": "<strong>Poké-BODY — Dragon Spirit</strong>\r\n<br>\r\nIf Rayquaza C is your Active Pokémon and is damaged but not Knocked Out by an opponent’s attack, you may search your discard pile for an Energy card and attach it to Rayquaza C.\r\n<br><br>\r\n<em>Put this card onto your Active Rayquaza C. Rayquaza C LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.\r\n</em>",
+      "Attack 1": "[1WPF] Final Blowup (200) \r\n<br>Discard all Energy attached to Rayquaza C. Ignore this effect if you have no cards in your hand.",
+      "Weakness": "Cx2",
+      "Resistance": "F-20",
+      "RetreatCost": "3",
+      "Artist": "Shizurow",
+      "code": "DP47"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63933,
+    "name": "Regigigas - DP40",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88665_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88665_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88665_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP40",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[3] Drag Off (30) \r\n<br>Before doing damage, you may choose 1 of your opponent's Benched Pokémon and switch it with the Defending Pokémon.",
+      "Attack 2": "[4] Giga Hammer (80) \r\n<br>Regigigas can't use Giga Hammer during your next turn.",
+      "Weakness": "Fx2",
+      "RetreatCost": "4",
+      "Artist": "Kagemaru Himeno",
+      "code": "DP40"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63934,
+    "name": "Regigigas LV.X - DP30",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88670_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88670_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88670_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP30",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "150",
+      "Stage": "Level Up",
+      "CardText": "<strong>Poké-POWER — Sacrifice</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may choose 1 of your Pokémon in play and that Pokémon is Knocked Out. Then, search your discard pile for up to 2 basic Energy cards, attach them to Regigigas, and remove 8 damage counters from Regigigas. This power can’t be used if Regigigas is affected by a Special Condition.\r\n<br><br>\r\n<em>Put this card onto your Active Regigigas. Regigigas LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.</em>",
+      "Attack 1": "[1FMW] Giga Blaster (100) \r\n<br>Discard the top card from your opponent's deck. Then choose 1 card from your opponent's hand without looking and discard it. Regigigas can't use Giga Blaster during your next turn.",
+      "Weakness": "Fx2",
+      "RetreatCost": "4",
+      "Artist": "Shizurow",
+      "code": "DP30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63935,
+    "name": "Rhyperior LV.X - DP29",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88750_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88750_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88750_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP29",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "170",
+      "Stage": "Level Up",
+      "CardText": "<em>Put this card onto your Active Rhyperior. Rhyperior LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.</em>",
+      "Attack 1": "[0] Hard Crush (50x) \r\n<br>Discard the top 5 cards from your deck. This attack does 50 damage for each Energy card you discarded.",
+      "Attack 2": "[1FF] Upthrow (60) \r\n<br>Search your discard pile for all Fighting Energy cards, show them to your opponent, and shuffle them into your deck.",
+      "Weakness": "Wx2",
+      "Resistance": "L-20",
+      "RetreatCost": "4",
+      "Artist": "Ryo Ueda",
+      "code": "DP29"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63936,
+    "name": "Shaymin LV.X - DP39",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89116_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89116_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89116_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP39",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "110",
+      "Stage": "Level Up",
+      "CardText": "<strong>Poké-BODY — Revenge Seed</strong>\r\n<br>\r\nIf any of your Grass Pokémon were Knocked Out by damage from an opponent’s attack during his or her last turn, each of Shaymin’s attacks does 60 more damage to the Active Pokémon <em>(before applying Weakness and Resistance)</em>.\r\n<br><br>\r\n<em>Put this card onto your Active Shaymin. Shaymin LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.</em>",
+      "Attack 1": "[1G] Energy Flare (50) \r\n<br>You may move any number of Energy cards attached to your Pokémon to your other Pokémon in any way you like.",
+      "Weakness": "Rx2",
+      "Resistance": "F-20",
+      "Artist": "Shizurow",
+      "code": "DP39"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63937,
+    "name": "Shieldon - DP08",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89150_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89150_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89150_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP08",
+      "Rarity": "Promo",
+      "Card Type": "Metal",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1M] Hard Face (20) \r\n<br>During your opponent's next turn, any damage done to Shieldon by attacks is reduced by 20 <em>(after applying Weakness and Resistance)</em>.",
+      "Attack 2": "[2M] Shield Attack (40+) \r\n<br>Flip a coin. If heads, this attack does 40 damage plus 20 more damage.",
+      "Weakness": "R+20",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "Artist": "Kouki Saitou",
+      "code": "DP08"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63938,
+    "name": "Shinx - DP15",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89175_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89175_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89175_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP15",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[L] Spark (10) \r\n<br>Does 10 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokemon.)</em>",
+      "Weakness": "F+10",
+      "Resistance": "M-20",
+      "RetreatCost": "1",
+      "Artist": "Kagemaru Himeno",
+      "code": "DP15"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63939,
+    "name": "Torterra LV.X - DP09",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89990_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89990_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89990_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP09",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "160",
+      "Stage": "Level Up",
+      "CardText": "<strong>Poké-POWER — Forest Murmurs</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if you have more Prize cards left than your opponent, you may choose 1 of your opponent’s Benched Pokémon and switch it with 1 of the Defending Pokémon. This power can’t be used if Torterra is affected by a Special Condition.\r\n<br><br>\r\n<em>Put this card onto your Active Torterra. Torterra LV.X can use any attack, Poké-Power, or Poké-Body from its previous level.</em>",
+      "Attack 1": "[1GGG] Vigorous Dash (100) \r\n<br>Does 30 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokemon.)</em> Torterra does 30 damage to itself.",
+      "Weakness": "R+30",
+      "RetreatCost": "4",
+      "Artist": "Shizurow",
+      "code": "DP09"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63940,
+    "name": "Toxicroak G - DP41",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90013_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90013_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90013_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP41",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "90",
+      "Stage": "Basic",
+      "CardText": "<strong>Poké-POWER — Leap Away</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Toxicroak G is your Active Pokémon, you may flip a coin. If heads, return Toxicroak G and all cards attached to it to your hand. This power can’t be used if Toxicroak G is affected by a Special Condition.",
+      "Attack 1": "[1P] Poison Revenge (20+) \r\n<br>If any of your Pokémon were Knocked Out by damage from an opponent's attack during his or her last turn, this attack does 20 damage plus 40 more damage and the Defending Pokémon is now Poisoned.",
+      "Weakness": "Px2",
+      "RetreatCost": "2",
+      "Artist": "Ryota Saito",
+      "code": "DP41"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63941,
+    "name": "Tropical Wind - DP05 (Worlds 07)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90054_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90054_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90054_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP05",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Flip a coin. If heads, remove 2 damage counters from each Active Pokémon (remove 1 damage counter if a Pokemon has only 1). If tails, each Active Pokémon is now Asleep.",
+      "Artist": "Sumiyoshi Kizuki",
+      "code": "DP05"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63942,
+    "name": "Tropical Wind - DP25 (Worlds 08)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90055_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90055_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90055_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP25",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Flip a coin. If heads, remove 2 damage counters from each Active Pokemon (remove 1 damage counter if a Pokemon has only 1). If tails, each Active Pokémon is now Asleep.",
+      "Artist": "Sumiyoshi Kizuki",
+      "code": "DP25"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63946,
+    "name": "Tropical Wind - DP25 (Worlds 08) [Staff]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97811_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97811_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97811_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP25",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Flip a coin. If heads, remove 2 damage counters from each Active Pokémon (remove 1 damage counter if a Pokemon has only 1). If tails, each Active Pokémon is now Asleep.",
+      "Artist": "Sumiyoshi Kizuki",
+      "code": "DP25"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63943,
+    "name": "Tropical Wind - DP48 (Worlds 09)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90056_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90056_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90056_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP48",
+      "Rarity": "Promo",
+      "Card Type": "Trainer",
+      "CardText": "Flip a coin. If heads, remove 2 damage counters from each Active Pokemon (remove 1 damage counter if a Pokemon has only 1). If tails, each Active Pokemon is now Asleep.",
+      "Artist": "Sumiyoshi Kizuki",
+      "code": "DP48"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63947,
+    "name": "Tropical Wind - DP48 (Worlds 09) [Staff]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97812_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97812_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97812_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP48",
+      "Rarity": "Promo",
+      "Card Type": "Trainer",
+      "CardText": "Flip a coin. If heads, remove 2 damage counters from each Active Pokémon (remove 1 damage counter if a Pokemon has only 1). If tails, each Active Pokémon is now Asleep.",
+      "Artist": "Sumiyoshi Kizuki",
+      "code": "DP48"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63945,
+    "name": "Tropical Winds - DP05 (Worlds 07) [Staff]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97810_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97810_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97810_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP05",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Flip a coin. If heads, remove 2 damage counters from each Active Pokémon (remove 1 damage counter if a Pokemon has only 1). If tails, each Active Pokémon is now Asleep.",
+      "Artist": "Sumiyoshi Kizuki",
+      "code": "DP05"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-diamond-and-pearl-promos",
+    "id": 63944,
+    "name": "Turtwig - DP01",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90075_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90075_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90075_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "DP01",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[0] Tackle (10)",
+      "Attack 2": "[G] Razor Leaf (20)",
+      "Weakness": "R+10",
+      "Resistance": "W-20",
+      "RetreatCost": "2",
+      "Artist": "Masakazu Fukuda",
+      "code": "DP01"
+    }
+  }
+]

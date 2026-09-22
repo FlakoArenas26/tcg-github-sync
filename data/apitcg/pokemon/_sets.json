@@ -1,0 +1,4385 @@
+[
+  {
+    "_id": "pokemon-alternate-art-promos",
+    "name": "Alternate Art Promos",
+    "tcg": "pokemon",
+    "code": "PR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1938"
+      },
+      "tcgmatch": {
+        "id": "pokemon-alternate-art-promos"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.799Z",
+    "updatedAt": "2026-09-21T04:30:43.045Z",
+    "slug": "alternate-art-promos",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2026-09-20T20:00:06.113Z"
+  },
+  {
+    "_id": "pokemon-aquapolis",
+    "name": "Aquapolis",
+    "tcg": "pokemon",
+    "code": "AQ",
+    "markets": {
+      "tcgplayer": {
+        "id": "1397"
+      },
+      "tcgmatch": {
+        "id": "pokemon-aquapolis"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.685Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "aquapolis",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2003-01-15T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-arceus",
+    "name": "Arceus",
+    "tcg": "pokemon",
+    "code": "AR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1391"
+      },
+      "tcgmatch": {
+        "id": "pokemon-arceus"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.966Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "arceus",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2009-11-04T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-ash-vs-team-rocket-deck-kit-jp-exclusive",
+    "name": "Ash vs Team Rocket Deck Kit (JP Exclusive)",
+    "tcg": "pokemon",
+    "code": "AVTR",
+    "markets": {
+      "tcgplayer": {
+        "id": "23095"
+      },
+      "tcgmatch": {
+        "id": "pokemon-ash-vs-team-rocket-deck-kit-jp-exclusive"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.840Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "ash-vs-team-rocket-deck-kit-jp-exclusive",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2017-04-21T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "name": "BW Trainer Kit: Excadrill & Zoroark",
+    "tcg": "pokemon",
+    "code": "BLW",
+    "markets": {
+      "tcgplayer": {
+        "id": "1538"
+      },
+      "tcgmatch": {
+        "id": "pokemon-bw-trainer-kit-excadrill-zoroark"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.672Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "bw-trainer-kit-excadrill-zoroark",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2011-09-05T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-base-set",
+    "name": "Base Set",
+    "tcg": "pokemon",
+    "code": "BS",
+    "markets": {
+      "tcgplayer": {
+        "id": "604"
+      },
+      "tcgmatch": {
+        "id": "pokemon-base-set"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:04.021Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "base-set",
+    "__v": 0,
+    "serie": null,
+    "release_date": "1999-01-09T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-base-set-shadowless",
+    "name": "Base Set (Shadowless)",
+    "tcg": "pokemon",
+    "code": "BSS",
+    "markets": {
+      "tcgplayer": {
+        "id": "1663"
+      },
+      "tcgmatch": {
+        "id": "pokemon-base-set-shadowless"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:04.040Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "base-set-shadowless",
+    "__v": 0,
+    "serie": null,
+    "release_date": "1999-01-09T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-base-set-2",
+    "name": "Base Set 2",
+    "tcg": "pokemon",
+    "code": "BS2",
+    "markets": {
+      "tcgplayer": {
+        "id": "605"
+      },
+      "tcgmatch": {
+        "id": "pokemon-base-set-2"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.942Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "base-set-2",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2000-02-24T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-battle-academy",
+    "name": "Battle Academy",
+    "tcg": "pokemon",
+    "code": "BTA",
+    "markets": {
+      "tcgplayer": {
+        "id": "2686"
+      },
+      "tcgmatch": {
+        "id": "pokemon-battle-academy"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.317Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "battle-academy",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2020-07-31T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-battle-academy-2022",
+    "name": "Battle Academy 2022",
+    "tcg": "pokemon",
+    "code": "BA22",
+    "markets": {
+      "tcgplayer": {
+        "id": "3051"
+      },
+      "tcgmatch": {
+        "id": "pokemon-battle-academy-2022"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.993Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "battle-academy-2022",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2022-04-01T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-battle-academy-2024",
+    "name": "Battle Academy 2024",
+    "tcg": "pokemon",
+    "code": "BA24",
+    "markets": {
+      "tcgplayer": {
+        "id": "23520"
+      },
+      "tcgmatch": {
+        "id": "pokemon-battle-academy-2024"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.467Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "battle-academy-2024",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2024-06-21T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-best-of-promos",
+    "name": "Best of Promos",
+    "tcg": "pokemon",
+    "code": "PR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1455"
+      },
+      "tcgmatch": {
+        "id": "pokemon-best-of-promos"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.704Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "best-of-promos",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2002-12-01T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-black-and-white",
+    "name": "Black and White",
+    "tcg": "pokemon",
+    "code": "BLW",
+    "markets": {
+      "tcgplayer": {
+        "id": "1400"
+      },
+      "tcgmatch": {
+        "id": "pokemon-black-and-white"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.731Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "black-and-white",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2011-04-25T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-black-and-white-promos",
+    "name": "Black and White Promos",
+    "tcg": "pokemon",
+    "code": "PR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1407"
+      },
+      "tcgmatch": {
+        "id": "pokemon-black-and-white-promos"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.750Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "black-and-white-promos",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2011-04-25T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-blister-exclusives",
+    "name": "Blister Exclusives",
+    "tcg": "pokemon",
+    "code": "BLE",
+    "markets": {
+      "tcgplayer": {
+        "id": "2289"
+      },
+      "tcgmatch": {
+        "id": "pokemon-blister-exclusives"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:04.061Z",
+    "updatedAt": "2026-09-21T04:30:43.758Z",
+    "slug": "blister-exclusives",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2026-09-20T20:00:06.113Z"
+  },
+  {
+    "_id": "pokemon-boundaries-crossed",
+    "name": "Boundaries Crossed",
+    "tcg": "pokemon",
+    "code": "BCR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1408"
+      },
+      "tcgmatch": {
+        "id": "pokemon-boundaries-crossed"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.542Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "boundaries-crossed",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2012-11-07T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-burger-king-promos",
+    "name": "Burger King Promos",
+    "tcg": "pokemon",
+    "code": "BKP",
+    "markets": {
+      "tcgplayer": {
+        "id": "2175"
+      },
+      "tcgmatch": {
+        "id": "pokemon-burger-king-promos"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.023Z",
+    "updatedAt": "2026-09-21T04:30:44.437Z",
+    "slug": "burger-king-promos",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2026-09-20T20:00:06.113Z"
+  },
+  {
+    "_id": "pokemon-call-of-legends",
+    "name": "Call of Legends",
+    "tcg": "pokemon",
+    "code": "CL",
+    "markets": {
+      "tcgplayer": {
+        "id": "1415"
+      },
+      "tcgmatch": {
+        "id": "pokemon-call-of-legends"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.768Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "call-of-legends",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2011-02-09T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-celebrations",
+    "name": "Celebrations",
+    "tcg": "pokemon",
+    "code": "CLB",
+    "markets": {
+      "tcgplayer": {
+        "id": "2867"
+      },
+      "tcgmatch": {
+        "id": "pokemon-celebrations"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.072Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "celebrations",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2021-10-08T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-celebrations-classic-collection",
+    "name": "Celebrations: Classic Collection",
+    "tcg": "pokemon",
+    "code": "CCC",
+    "markets": {
+      "tcgplayer": {
+        "id": "2931"
+      },
+      "tcgmatch": {
+        "id": "pokemon-celebrations-classic-collection"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.091Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "celebrations-classic-collection",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2021-10-08T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-champions-path",
+    "name": "Champion's Path",
+    "tcg": "pokemon",
+    "code": "CHP",
+    "markets": {
+      "tcgplayer": {
+        "id": "2685"
+      },
+      "tcgmatch": {
+        "id": "pokemon-champions-path"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.266Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "champions-path",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2020-09-25T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-countdown-calendar-promos",
+    "name": "Countdown Calendar Promos",
+    "tcg": "pokemon",
+    "code": "CCP",
+    "markets": {
+      "tcgplayer": {
+        "id": "2155"
+      },
+      "tcgmatch": {
+        "id": "pokemon-countdown-calendar-promos"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.082Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "countdown-calendar-promos",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2008-10-01T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-dp-trainer-kit-manaphy-lucario",
+    "name": "DP Trainer Kit: Manaphy & Lucario",
+    "tcg": "pokemon",
+    "code": "PR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1541"
+      },
+      "tcgmatch": {
+        "id": "pokemon-dp-trainer-kit-manaphy-lucario"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.222Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "dp-trainer-kit-manaphy-lucario",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2007-09-03T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-dp-training-kit-1-blue",
+    "name": "DP Training Kit 1 Blue",
+    "tcg": "pokemon",
+    "code": "PR",
+    "markets": {
+      "tcgplayer": {
+        "id": "609"
+      },
+      "tcgmatch": {
+        "id": "pokemon-dp-training-kit-1-blue"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.184Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "dp-training-kit-1-blue",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2007-09-24T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-dp-training-kit-1-gold",
+    "name": "DP Training Kit 1 Gold",
+    "tcg": "pokemon",
+    "code": "PR",
+    "markets": {
+      "tcgplayer": {
+        "id": "610"
+      },
+      "tcgmatch": {
+        "id": "pokemon-dp-training-kit-1-gold"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.203Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "dp-training-kit-1-gold",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2007-09-24T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-dark-explorers",
+    "name": "Dark Explorers",
+    "tcg": "pokemon",
+    "code": "DEX",
+    "markets": {
+      "tcgplayer": {
+        "id": "1386"
+      },
+      "tcgmatch": {
+        "id": "pokemon-dark-explorers"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.614Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "dark-explorers",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2012-05-09T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-deck-exclusives",
+    "name": "Deck Exclusives",
+    "tcg": "pokemon",
+    "code": "PR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1840"
+      },
+      "tcgmatch": {
+        "id": "pokemon-deck-exclusives"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.934Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "deck-exclusives",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2016-09-01T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-detective-pikachu",
+    "name": "Detective Pikachu",
+    "tcg": "pokemon",
+    "code": "DEP",
+    "markets": {
+      "tcgplayer": {
+        "id": "2409"
+      },
+      "tcgmatch": {
+        "id": "pokemon-detective-pikachu"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.511Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "detective-pikachu",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2019-04-05T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-diamond-and-pearl",
+    "name": "Diamond and Pearl",
+    "tcg": "pokemon",
+    "code": "DP",
+    "markets": {
+      "tcgplayer": {
+        "id": "1430"
+      },
+      "tcgmatch": {
+        "id": "pokemon-diamond-and-pearl"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.263Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "diamond-and-pearl",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2007-05-23T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-diamond-and-pearl-promos",
+    "name": "Diamond and Pearl Promos",
+    "tcg": "pokemon",
+    "code": "PR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1421"
+      },
+      "tcgmatch": {
+        "id": "pokemon-diamond-and-pearl-promos"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.281Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "diamond-and-pearl-promos",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2007-05-01T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-double-crisis",
+    "name": "Double Crisis",
+    "tcg": "pokemon",
+    "code": "DCR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1525"
+      },
+      "tcgmatch": {
+        "id": "pokemon-double-crisis"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.223Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "double-crisis",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2015-03-25T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-dragon-majesty",
+    "name": "Dragon Majesty",
+    "tcg": "pokemon",
+    "code": "DRM",
+    "markets": {
+      "tcgplayer": {
+        "id": "2295"
+      },
+      "tcgmatch": {
+        "id": "pokemon-dragon-majesty"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.608Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "dragon-majesty",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2018-09-07T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-dragon-vault",
+    "name": "Dragon Vault",
+    "tcg": "pokemon",
+    "code": "DRV",
+    "markets": {
+      "tcgplayer": {
+        "id": "1426"
+      },
+      "tcgmatch": {
+        "id": "pokemon-dragon-vault"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.560Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "dragon-vault",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2012-10-05T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-dragons-exalted",
+    "name": "Dragons Exalted",
+    "tcg": "pokemon",
+    "code": "DRX",
+    "markets": {
+      "tcgplayer": {
+        "id": "1394"
+      },
+      "tcgmatch": {
+        "id": "pokemon-dragons-exalted"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.578Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "dragons-exalted",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2012-08-15T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-ex-battle-stadium",
+    "name": "EX Battle Stadium",
+    "tcg": "pokemon",
+    "code": "BST",
+    "markets": {
+      "tcgplayer": {
+        "id": "1853"
+      },
+      "tcgmatch": {
+        "id": "pokemon-ex-battle-stadium"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.500Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "ex-battle-stadium",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2004-10-18T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-crystal-guardians",
+    "name": "EX Crystal Guardians",
+    "tcg": "pokemon",
+    "code": "CG",
+    "markets": {
+      "tcgplayer": {
+        "id": "1395"
+      },
+      "tcgmatch": {
+        "id": "pokemon-crystal-guardians"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.347Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "crystal-guardians",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2006-08-30T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-delta-species",
+    "name": "EX Delta Species",
+    "tcg": "pokemon",
+    "code": "DS",
+    "markets": {
+      "tcgplayer": {
+        "id": "1429"
+      },
+      "tcgmatch": {
+        "id": "pokemon-delta-species"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.404Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "delta-species",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2005-10-31T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-deoxys",
+    "name": "EX Deoxys",
+    "tcg": "pokemon",
+    "code": "DX",
+    "markets": {
+      "tcgplayer": {
+        "id": "1404"
+      },
+      "tcgmatch": {
+        "id": "pokemon-deoxys"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.462Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "deoxys",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2005-02-14T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-dragon",
+    "name": "EX Dragon",
+    "tcg": "pokemon",
+    "code": "DR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1376"
+      },
+      "tcgmatch": {
+        "id": "pokemon-dragon"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.603Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "dragon",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2003-11-24T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-dragon-frontiers",
+    "name": "EX Dragon Frontiers",
+    "tcg": "pokemon",
+    "code": "DF",
+    "markets": {
+      "tcgplayer": {
+        "id": "1411"
+      },
+      "tcgmatch": {
+        "id": "pokemon-dragon-frontiers"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.326Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "dragon-frontiers",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2006-11-08T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-emerald",
+    "name": "EX Emerald",
+    "tcg": "pokemon",
+    "code": "EM",
+    "markets": {
+      "tcgplayer": {
+        "id": "1410"
+      },
+      "tcgmatch": {
+        "id": "pokemon-emerald"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.442Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "emerald",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2005-05-09T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-firered-leafgreen",
+    "name": "EX FireRed & LeafGreen",
+    "tcg": "pokemon",
+    "code": "RG",
+    "markets": {
+      "tcgplayer": {
+        "id": "1419"
+      },
+      "tcgmatch": {
+        "id": "pokemon-firered-leafgreen"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.519Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "firered-leafgreen",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2004-08-30T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-hidden-legends",
+    "name": "EX Hidden Legends",
+    "tcg": "pokemon",
+    "code": "HL",
+    "markets": {
+      "tcgplayer": {
+        "id": "1416"
+      },
+      "tcgmatch": {
+        "id": "pokemon-hidden-legends"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.565Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "hidden-legends",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2004-06-14T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-holon-phantoms",
+    "name": "EX Holon Phantoms",
+    "tcg": "pokemon",
+    "code": "HP",
+    "markets": {
+      "tcgplayer": {
+        "id": "1379"
+      },
+      "tcgmatch": {
+        "id": "pokemon-holon-phantoms"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.366Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "holon-phantoms",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2006-05-03T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-legend-maker",
+    "name": "EX Legend Maker",
+    "tcg": "pokemon",
+    "code": "LM",
+    "markets": {
+      "tcgplayer": {
+        "id": "1378"
+      },
+      "tcgmatch": {
+        "id": "pokemon-legend-maker"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.385Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "legend-maker",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2006-02-13T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-power-keepers",
+    "name": "EX Power Keepers",
+    "tcg": "pokemon",
+    "code": "PK",
+    "markets": {
+      "tcgplayer": {
+        "id": "1383"
+      },
+      "tcgmatch": {
+        "id": "pokemon-power-keepers"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.300Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "power-keepers",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2007-02-01T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-ruby-and-sapphire",
+    "name": "EX Ruby and Sapphire",
+    "tcg": "pokemon",
+    "code": "RS",
+    "markets": {
+      "tcgplayer": {
+        "id": "1393"
+      },
+      "tcgmatch": {
+        "id": "pokemon-ruby-and-sapphire"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.647Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "ruby-and-sapphire",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2003-06-18T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sandstorm",
+    "name": "EX Sandstorm",
+    "tcg": "pokemon",
+    "code": "SS",
+    "markets": {
+      "tcgplayer": {
+        "id": "1392"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sandstorm"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.626Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sandstorm",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2003-09-18T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-team-magma-vs-team-aqua",
+    "name": "EX Team Magma vs Team Aqua",
+    "tcg": "pokemon",
+    "code": "MA",
+    "markets": {
+      "tcgplayer": {
+        "id": "1377"
+      },
+      "tcgmatch": {
+        "id": "pokemon-team-magma-vs-team-aqua"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.584Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "team-magma-vs-team-aqua",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2004-03-15T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-team-rocket-returns",
+    "name": "EX Team Rocket Returns",
+    "tcg": "pokemon",
+    "code": "RR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1428"
+      },
+      "tcgmatch": {
+        "id": "pokemon-team-rocket-returns"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.481Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "team-rocket-returns",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2004-11-01T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-ex-trainer-kit-1-latias-latios",
+    "name": "EX Trainer Kit 1: Latias & Latios",
+    "tcg": "pokemon",
+    "code": "PR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1543"
+      },
+      "tcgmatch": {
+        "id": "pokemon-ex-trainer-kit-1-latias-latios"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:04.089Z",
+    "updatedAt": "2026-09-21T04:30:45.206Z",
+    "slug": "ex-trainer-kit-1-latias-latios",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2026-09-20T20:00:06.113Z"
+  },
+  {
+    "_id": "pokemon-ex-trainer-kit-2-plusle-minun",
+    "name": "EX Trainer Kit 2: Plusle & Minun",
+    "tcg": "pokemon",
+    "code": "PR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1542"
+      },
+      "tcgmatch": {
+        "id": "pokemon-ex-trainer-kit-2-plusle-minun"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:04.110Z",
+    "updatedAt": "2026-09-21T04:30:45.467Z",
+    "slug": "ex-trainer-kit-2-plusle-minun",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2026-09-20T20:00:06.113Z"
+  },
+  {
+    "_id": "pokemon-unseen-forces",
+    "name": "EX Unseen Forces",
+    "tcg": "pokemon",
+    "code": "UF",
+    "markets": {
+      "tcgplayer": {
+        "id": "1398"
+      },
+      "tcgmatch": {
+        "id": "pokemon-unseen-forces"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.424Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "unseen-forces",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2005-08-22T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-emerging-powers",
+    "name": "Emerging Powers",
+    "tcg": "pokemon",
+    "code": "EPO",
+    "markets": {
+      "tcgplayer": {
+        "id": "1424"
+      },
+      "tcgmatch": {
+        "id": "pokemon-emerging-powers"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.692Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "emerging-powers",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2011-08-31T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-expedition",
+    "name": "Expedition",
+    "tcg": "pokemon",
+    "code": "EX",
+    "markets": {
+      "tcgplayer": {
+        "id": "1375"
+      },
+      "tcgmatch": {
+        "id": "pokemon-expedition"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.723Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "expedition",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2002-09-15T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-first-partner-collection-2026",
+    "name": "First Partner Collection 2026",
+    "tcg": "pokemon",
+    "code": "",
+    "markets": {
+      "tcgplayer": {
+        "id": "24584"
+      },
+      "tcgmatch": {
+        "id": "pokemon-first-partner-collection-2026"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.108Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "first-partner-collection-2026",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2026-03-30T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-first-partner-pack",
+    "name": "First Partner Pack",
+    "tcg": "pokemon",
+    "code": "FPP",
+    "markets": {
+      "tcgplayer": {
+        "id": "2776"
+      },
+      "tcgmatch": {
+        "id": "pokemon-first-partner-pack"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.167Z",
+    "updatedAt": "2026-09-21T04:30:46.136Z",
+    "slug": "first-partner-pack",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2026-09-20T20:00:06.113Z"
+  },
+  {
+    "_id": "pokemon-fossil",
+    "name": "Fossil",
+    "tcg": "pokemon",
+    "code": "FO",
+    "markets": {
+      "tcgplayer": {
+        "id": "630"
+      },
+      "tcgmatch": {
+        "id": "pokemon-fossil"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.963Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "fossil",
+    "__v": 0,
+    "serie": null,
+    "release_date": "1999-10-10T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-generations",
+    "name": "Generations",
+    "tcg": "pokemon",
+    "code": "GEN",
+    "markets": {
+      "tcgplayer": {
+        "id": "1728"
+      },
+      "tcgmatch": {
+        "id": "pokemon-generations"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.047Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "generations",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2016-02-22T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-generations-radiant-collection",
+    "name": "Generations: Radiant Collection",
+    "tcg": "pokemon",
+    "code": "GEN",
+    "markets": {
+      "tcgplayer": {
+        "id": "1729"
+      },
+      "tcgmatch": {
+        "id": "pokemon-generations-radiant-collection"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.066Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "generations-radiant-collection",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2016-02-22T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-great-encounters",
+    "name": "Great Encounters",
+    "tcg": "pokemon",
+    "code": "GE",
+    "markets": {
+      "tcgplayer": {
+        "id": "1405"
+      },
+      "tcgmatch": {
+        "id": "pokemon-great-encounters"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.142Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "great-encounters",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2008-02-13T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-gym-challenge",
+    "name": "Gym Challenge",
+    "tcg": "pokemon",
+    "code": "G2",
+    "markets": {
+      "tcgplayer": {
+        "id": "1440"
+      },
+      "tcgmatch": {
+        "id": "pokemon-gym-challenge"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.883Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "gym-challenge",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2000-10-16T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-gym-heroes",
+    "name": "Gym Heroes",
+    "tcg": "pokemon",
+    "code": "G1",
+    "markets": {
+      "tcgplayer": {
+        "id": "1441"
+      },
+      "tcgmatch": {
+        "id": "pokemon-gym-heroes"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.902Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "gym-heroes",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2000-10-14T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-hgss-promos",
+    "name": "HGSS Promos",
+    "tcg": "pokemon",
+    "code": "PR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1453"
+      },
+      "tcgmatch": {
+        "id": "pokemon-hgss-promos"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.926Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "hgss-promos",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2010-02-01T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-hgss-trainer-kit-gyarados-raichu",
+    "name": "HGSS Trainer Kit: Gyarados & Raichu",
+    "tcg": "pokemon",
+    "code": "PR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1540"
+      },
+      "tcgmatch": {
+        "id": "pokemon-hgss-trainer-kit-gyarados-raichu"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.866Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "hgss-trainer-kit-gyarados-raichu",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2010-05-12T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-heartgold-soulsilver",
+    "name": "HeartGold SoulSilver",
+    "tcg": "pokemon",
+    "code": "HS",
+    "markets": {
+      "tcgplayer": {
+        "id": "1402"
+      },
+      "tcgmatch": {
+        "id": "pokemon-heartgold-soulsilver"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.907Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "heartgold-soulsilver",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2010-02-10T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-hidden-fates",
+    "name": "Hidden Fates",
+    "tcg": "pokemon",
+    "code": "HIF",
+    "markets": {
+      "tcgplayer": {
+        "id": "2480"
+      },
+      "tcgmatch": {
+        "id": "pokemon-hidden-fates"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.436Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "hidden-fates",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2019-08-23T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-hidden-fates-shiny-vault",
+    "name": "Hidden Fates: Shiny Vault",
+    "tcg": "pokemon",
+    "code": "HIF:SV",
+    "markets": {
+      "tcgplayer": {
+        "id": "2594"
+      },
+      "tcgmatch": {
+        "id": "pokemon-hidden-fates-shiny-vault"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.456Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "hidden-fates-shiny-vault",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2019-08-23T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-jumbo-cards",
+    "name": "Jumbo Cards",
+    "tcg": "pokemon",
+    "code": "PR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1528"
+      },
+      "tcgmatch": {
+        "id": "pokemon-jumbo-cards"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.202Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "jumbo-cards",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2015-04-01T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-jungle",
+    "name": "Jungle",
+    "tcg": "pokemon",
+    "code": "JU",
+    "markets": {
+      "tcgplayer": {
+        "id": "635"
+      },
+      "tcgmatch": {
+        "id": "pokemon-jungle"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:04.002Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "jungle",
+    "__v": 0,
+    "serie": null,
+    "release_date": "1999-06-16T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-kalos-starter-set",
+    "name": "Kalos Starter Set",
+    "tcg": "pokemon",
+    "code": "KSS",
+    "markets": {
+      "tcgplayer": {
+        "id": "1522"
+      },
+      "tcgmatch": {
+        "id": "pokemon-kalos-starter-set"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.428Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "kalos-starter-set",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2013-11-08T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-kids-wb-promos",
+    "name": "Kids WB Promos",
+    "tcg": "pokemon",
+    "code": "KWBP",
+    "markets": {
+      "tcgplayer": {
+        "id": "2214"
+      },
+      "tcgmatch": {
+        "id": "pokemon-kids-wb-promos"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.538Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "kids-wb-promos",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2004-07-02T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-league-championship-cards",
+    "name": "League & Championship Cards",
+    "tcg": "pokemon",
+    "code": "PR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1539"
+      },
+      "tcgmatch": {
+        "id": "pokemon-league-championship-cards"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.990Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "league-championship-cards",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2016-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-legendary-collection",
+    "name": "Legendary Collection",
+    "tcg": "pokemon",
+    "code": "LC",
+    "markets": {
+      "tcgplayer": {
+        "id": "1374"
+      },
+      "tcgmatch": {
+        "id": "pokemon-legendary-collection"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.761Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "legendary-collection",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2002-05-24T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-legendary-treasures",
+    "name": "Legendary Treasures",
+    "tcg": "pokemon",
+    "code": "LTR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1409"
+      },
+      "tcgmatch": {
+        "id": "pokemon-legendary-treasures"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.447Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "legendary-treasures",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2013-11-06T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-legendary-treasures-radiant-collection",
+    "name": "Legendary Treasures: Radiant Collection",
+    "tcg": "pokemon",
+    "code": "LTR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1465"
+      },
+      "tcgmatch": {
+        "id": "pokemon-legendary-treasures-radiant-collection"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.466Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "legendary-treasures-radiant-collection",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2013-11-06T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-legends-awakened",
+    "name": "Legends Awakened",
+    "tcg": "pokemon",
+    "code": "LA",
+    "markets": {
+      "tcgplayer": {
+        "id": "1417"
+      },
+      "tcgmatch": {
+        "id": "pokemon-legends-awakened"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.101Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "legends-awakened",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2008-08-20T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-me01-mega-evolution",
+    "name": "ME01: Mega Evolution",
+    "tcg": "pokemon",
+    "code": "MEG",
+    "markets": {
+      "tcgplayer": {
+        "id": "24380"
+      },
+      "tcgmatch": {
+        "id": "pokemon-me01-mega-evolution"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.237Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "me01-mega-evolution",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2025-09-26T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-me02-phantasmal-flames",
+    "name": "ME02: Phantasmal Flames",
+    "tcg": "pokemon",
+    "code": "PFL",
+    "markets": {
+      "tcgplayer": {
+        "id": "24448"
+      },
+      "tcgmatch": {
+        "id": "pokemon-me02-phantasmal-flames"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.197Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "me02-phantasmal-flames",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2025-11-14T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-me03-perfect-order",
+    "name": "ME03: Perfect Order",
+    "tcg": "pokemon",
+    "code": "ME03",
+    "markets": {
+      "tcgplayer": {
+        "id": "24587"
+      },
+      "tcgmatch": {
+        "id": "pokemon-me03-perfect-order"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.127Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "me03-perfect-order",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2026-03-27T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-me04-chaos-rising",
+    "name": "ME04: Chaos Rising",
+    "tcg": "pokemon",
+    "code": "CRI",
+    "markets": {
+      "tcgplayer": {
+        "id": "24655"
+      },
+      "tcgmatch": {
+        "id": "pokemon-me04-chaos-rising"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.089Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "me04-chaos-rising",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2026-05-22T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-me05-pitch-black",
+    "name": "ME05: Pitch Black",
+    "tcg": "pokemon",
+    "markets": {
+      "tcgplayer": {
+        "id": "24688"
+      },
+      "tcgmatch": {
+        "id": "pokemon-me05-pitch-black"
+      }
+    },
+    "release_date": "2026-07-17T00:00:00.000Z",
+    "createdAt": "2026-04-30T21:00:03.803Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "me05-pitch-black",
+    "__v": 0,
+    "serie": null
+  },
+  {
+    "_id": "pokemon-me06-delta-reign",
+    "name": "ME06: Delta Reign",
+    "tcg": "pokemon",
+    "markets": {
+      "tcgplayer": {
+        "id": "24831"
+      }
+    },
+    "release_date": "2026-11-06T00:00:00.000Z",
+    "createdAt": "2026-08-21T04:00:10.357Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "me06-delta-reign",
+    "__v": 0
+  },
+  {
+    "_id": "pokemon-me-30th-celebration",
+    "name": "ME: 30th Celebration",
+    "tcg": "pokemon",
+    "markets": {
+      "tcgplayer": {
+        "id": "24722"
+      },
+      "tcgmatch": {
+        "id": "pokemon-me-30th-celebration"
+      }
+    },
+    "release_date": "2026-09-16T00:00:00.000Z",
+    "createdAt": "2026-06-06T00:00:05.151Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "me-30th-celebration",
+    "__v": 0,
+    "serie": null
+  },
+  {
+    "_id": "pokemon-me-30th-celebration-classic-collection",
+    "name": "ME: 30th Celebration Classic Collection",
+    "tcg": "pokemon",
+    "markets": {
+      "tcgplayer": {
+        "id": "24837"
+      }
+    },
+    "release_date": "2026-09-16T00:00:00.000Z",
+    "createdAt": "2026-08-28T04:00:07.433Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "me-30th-celebration-classic-collection",
+    "__v": 0
+  },
+  {
+    "_id": "pokemon-me-ascended-heroes",
+    "name": "ME: Ascended Heroes",
+    "tcg": "pokemon",
+    "code": "ASC",
+    "markets": {
+      "tcgplayer": {
+        "id": "24541"
+      },
+      "tcgmatch": {
+        "id": "pokemon-me-ascended-heroes"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.147Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "me-ascended-heroes",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2026-01-30T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-me-mega-evolution-promo",
+    "name": "ME: Mega Evolution Promo",
+    "tcg": "pokemon",
+    "code": "MEP",
+    "markets": {
+      "tcgplayer": {
+        "id": "24451"
+      },
+      "tcgmatch": {
+        "id": "pokemon-me-mega-evolution-promo"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.217Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "me-mega-evolution-promo",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2025-09-26T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-mee-mega-evolution-energies",
+    "name": "MEE: Mega Evolution Energies",
+    "tcg": "pokemon",
+    "code": "MEE",
+    "markets": {
+      "tcgplayer": {
+        "id": "24461"
+      },
+      "tcgmatch": {
+        "id": "pokemon-mee-mega-evolution-energies"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.256Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "mee-mega-evolution-energies",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2025-09-26T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-majestic-dawn",
+    "name": "Majestic Dawn",
+    "tcg": "pokemon",
+    "code": "MD",
+    "markets": {
+      "tcgplayer": {
+        "id": "1390"
+      },
+      "tcgmatch": {
+        "id": "pokemon-majestic-dawn"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.120Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "majestic-dawn",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2008-05-21T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-mcdonalds-25th-anniversary-promos",
+    "name": "McDonald's 25th Anniversary Promos",
+    "tcg": "pokemon",
+    "code": "M21",
+    "markets": {
+      "tcgplayer": {
+        "id": "2782"
+      },
+      "tcgmatch": {
+        "id": "pokemon-mcdonalds-25th-anniversary-promos"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.227Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "mcdonalds-25th-anniversary-promos",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2021-02-09T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-mcdonalds-promos-2011",
+    "name": "McDonald's Promos 2011",
+    "tcg": "pokemon",
+    "code": "M11",
+    "markets": {
+      "tcgplayer": {
+        "id": "1401"
+      },
+      "tcgmatch": {
+        "id": "pokemon-mcdonalds-promos-2011"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.712Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "mcdonalds-promos-2011",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2011-06-17T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-mcdonalds-promos-2012",
+    "name": "McDonald's Promos 2012",
+    "tcg": "pokemon",
+    "code": "M12",
+    "markets": {
+      "tcgplayer": {
+        "id": "1427"
+      },
+      "tcgmatch": {
+        "id": "pokemon-mcdonalds-promos-2012"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.596Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "mcdonalds-promos-2012",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2012-06-15T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-mcdonalds-promos-2014",
+    "name": "McDonald's Promos 2014",
+    "tcg": "pokemon",
+    "code": "M14",
+    "markets": {
+      "tcgplayer": {
+        "id": "1692"
+      },
+      "tcgmatch": {
+        "id": "pokemon-mcdonalds-promos-2014"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.327Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "mcdonalds-promos-2014",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2014-05-23T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-mcdonalds-promos-2015",
+    "name": "McDonald's Promos 2015",
+    "tcg": "pokemon",
+    "code": "M15",
+    "markets": {
+      "tcgplayer": {
+        "id": "1694"
+      },
+      "tcgmatch": {
+        "id": "pokemon-mcdonalds-promos-2015"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.104Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "mcdonalds-promos-2015",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2015-11-23T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-mcdonalds-promos-2016",
+    "name": "McDonald's Promos 2016",
+    "tcg": "pokemon",
+    "code": "M16",
+    "markets": {
+      "tcgplayer": {
+        "id": "3087"
+      },
+      "tcgmatch": {
+        "id": "pokemon-mcdonalds-promos-2016"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.951Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "mcdonalds-promos-2016",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2016-08-05T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-mcdonalds-promos-2017",
+    "name": "McDonald's Promos 2017",
+    "tcg": "pokemon",
+    "code": "M17",
+    "markets": {
+      "tcgplayer": {
+        "id": "2148"
+      },
+      "tcgmatch": {
+        "id": "pokemon-mcdonalds-promos-2017"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.721Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "mcdonalds-promos-2017",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2017-11-07T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-mcdonalds-promos-2018",
+    "name": "McDonald's Promos 2018",
+    "tcg": "pokemon",
+    "code": "M18",
+    "markets": {
+      "tcgplayer": {
+        "id": "2364"
+      },
+      "tcgmatch": {
+        "id": "pokemon-mcdonalds-promos-2018"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.570Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "mcdonalds-promos-2018",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2018-11-02T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-mcdonalds-promos-2019",
+    "name": "McDonald's Promos 2019",
+    "tcg": "pokemon",
+    "code": "M19",
+    "markets": {
+      "tcgplayer": {
+        "id": "2555"
+      },
+      "tcgmatch": {
+        "id": "pokemon-mcdonalds-promos-2019"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.417Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "mcdonalds-promos-2019",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2019-10-01T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-mcdonalds-promos-2022",
+    "name": "McDonald's Promos 2022",
+    "tcg": "pokemon",
+    "code": "M22",
+    "markets": {
+      "tcgplayer": {
+        "id": "3150"
+      },
+      "tcgmatch": {
+        "id": "pokemon-mcdonalds-promos-2022"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.916Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "mcdonalds-promos-2022",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2022-08-03T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-mcdonalds-promos-2023",
+    "name": "McDonald's Promos 2023",
+    "tcg": "pokemon",
+    "code": "M23",
+    "markets": {
+      "tcgplayer": {
+        "id": "23306"
+      },
+      "tcgmatch": {
+        "id": "pokemon-mcdonalds-promos-2023"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.620Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "mcdonalds-promos-2023",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2023-09-12T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-mcdonalds-promos-2024",
+    "name": "McDonald's Promos 2024",
+    "tcg": "pokemon",
+    "code": "M24",
+    "markets": {
+      "tcgplayer": {
+        "id": "24163"
+      },
+      "tcgmatch": {
+        "id": "pokemon-mcdonalds-promos-2024"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.354Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "mcdonalds-promos-2024",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2025-01-21T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-miscellaneous-cards-products",
+    "name": "Miscellaneous Cards & Products",
+    "tcg": "pokemon",
+    "code": "MCAP",
+    "markets": {
+      "tcgplayer": {
+        "id": "2374"
+      },
+      "tcgmatch": {
+        "id": "pokemon-miscellaneous-cards-products"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.589Z",
+    "updatedAt": "2026-09-21T04:30:46.916Z",
+    "slug": "miscellaneous-cards-products",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2026-09-20T20:00:06.113Z"
+  },
+  {
+    "_id": "pokemon-my-first-battle",
+    "name": "My First Battle",
+    "tcg": "pokemon",
+    "code": "",
+    "markets": {
+      "tcgplayer": {
+        "id": "23330"
+      },
+      "tcgmatch": {
+        "id": "pokemon-my-first-battle"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.581Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "my-first-battle",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2023-09-29T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-mysterious-treasures",
+    "name": "Mysterious Treasures",
+    "tcg": "pokemon",
+    "code": "MT",
+    "markets": {
+      "tcgplayer": {
+        "id": "1368"
+      },
+      "tcgmatch": {
+        "id": "pokemon-mysterious-treasures"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.242Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "mysterious-treasures",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2007-08-22T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-neo-destiny",
+    "name": "Neo Destiny",
+    "tcg": "pokemon",
+    "code": "N4",
+    "markets": {
+      "tcgplayer": {
+        "id": "1444"
+      },
+      "tcgmatch": {
+        "id": "pokemon-neo-destiny"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.781Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "neo-destiny",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2002-02-28T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-neo-discovery",
+    "name": "Neo Discovery",
+    "tcg": "pokemon",
+    "code": "N2",
+    "markets": {
+      "tcgplayer": {
+        "id": "1434"
+      },
+      "tcgmatch": {
+        "id": "pokemon-neo-discovery"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.845Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "neo-discovery",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2001-06-01T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-neo-genesis",
+    "name": "Neo Genesis",
+    "tcg": "pokemon",
+    "code": "N1",
+    "markets": {
+      "tcgplayer": {
+        "id": "1396"
+      },
+      "tcgmatch": {
+        "id": "pokemon-neo-genesis"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.864Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "neo-genesis",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2000-12-16T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-neo-revelation",
+    "name": "Neo Revelation",
+    "tcg": "pokemon",
+    "code": "N3",
+    "markets": {
+      "tcgplayer": {
+        "id": "1389"
+      },
+      "tcgmatch": {
+        "id": "pokemon-neo-revelation"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.801Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "neo-revelation",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2001-09-21T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-next-destinies",
+    "name": "Next Destinies",
+    "tcg": "pokemon",
+    "code": "NXD",
+    "markets": {
+      "tcgplayer": {
+        "id": "1412"
+      },
+      "tcgmatch": {
+        "id": "pokemon-next-destinies"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.633Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "next-destinies",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2012-02-08T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-nintendo-promos",
+    "name": "Nintendo Promos",
+    "tcg": "pokemon",
+    "code": "PR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1423"
+      },
+      "tcgmatch": {
+        "id": "pokemon-nintendo-promos"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:04.129Z",
+    "updatedAt": "2026-09-21T04:30:47.591Z",
+    "slug": "nintendo-promos",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2026-09-20T20:00:06.113Z"
+  },
+  {
+    "_id": "pokemon-noble-victories",
+    "name": "Noble Victories",
+    "tcg": "pokemon",
+    "code": "NVI",
+    "markets": {
+      "tcgplayer": {
+        "id": "1385"
+      },
+      "tcgmatch": {
+        "id": "pokemon-noble-victories"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.652Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "noble-victories",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2011-11-16T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-pop-series-1",
+    "name": "POP Series 1",
+    "tcg": "pokemon",
+    "code": "POP",
+    "markets": {
+      "tcgplayer": {
+        "id": "1422"
+      },
+      "tcgmatch": {
+        "id": "pokemon-pop-series-1"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:04.148Z",
+    "updatedAt": "2026-09-21T04:30:48.264Z",
+    "slug": "pop-series-1",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2026-09-20T20:00:06.113Z"
+  },
+  {
+    "_id": "pokemon-pop-series-2",
+    "name": "POP Series 2",
+    "tcg": "pokemon",
+    "code": "POP",
+    "markets": {
+      "tcgplayer": {
+        "id": "1447"
+      },
+      "tcgmatch": {
+        "id": "pokemon-pop-series-2"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:04.169Z",
+    "updatedAt": "2026-09-21T04:30:48.521Z",
+    "slug": "pop-series-2",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2026-09-20T20:00:06.113Z"
+  },
+  {
+    "_id": "pokemon-pop-series-3",
+    "name": "POP Series 3",
+    "tcg": "pokemon",
+    "code": "POP",
+    "markets": {
+      "tcgplayer": {
+        "id": "1442"
+      },
+      "tcgmatch": {
+        "id": "pokemon-pop-series-3"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:04.188Z",
+    "updatedAt": "2026-09-21T04:30:48.522Z",
+    "slug": "pop-series-3",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2026-09-20T20:00:06.113Z"
+  },
+  {
+    "_id": "pokemon-pop-series-4",
+    "name": "POP Series 4",
+    "tcg": "pokemon",
+    "code": "POP",
+    "markets": {
+      "tcgplayer": {
+        "id": "1452"
+      },
+      "tcgmatch": {
+        "id": "pokemon-pop-series-4"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:04.216Z",
+    "updatedAt": "2026-09-21T04:30:48.269Z",
+    "slug": "pop-series-4",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2026-09-20T20:00:06.113Z"
+  },
+  {
+    "_id": "pokemon-pop-series-5",
+    "name": "POP Series 5",
+    "tcg": "pokemon",
+    "code": "POP",
+    "markets": {
+      "tcgplayer": {
+        "id": "1439"
+      },
+      "tcgmatch": {
+        "id": "pokemon-pop-series-5"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:04.236Z",
+    "updatedAt": "2026-09-21T04:30:49.200Z",
+    "slug": "pop-series-5",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2026-09-20T20:00:06.113Z"
+  },
+  {
+    "_id": "pokemon-pop-series-6",
+    "name": "POP Series 6",
+    "tcg": "pokemon",
+    "code": "POP",
+    "markets": {
+      "tcgplayer": {
+        "id": "1432"
+      },
+      "tcgmatch": {
+        "id": "pokemon-pop-series-6"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:04.256Z",
+    "updatedAt": "2026-09-21T04:30:49.460Z",
+    "slug": "pop-series-6",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2026-09-20T20:00:06.113Z"
+  },
+  {
+    "_id": "pokemon-pop-series-7",
+    "name": "POP Series 7",
+    "tcg": "pokemon",
+    "code": "POP",
+    "markets": {
+      "tcgplayer": {
+        "id": "1414"
+      },
+      "tcgmatch": {
+        "id": "pokemon-pop-series-7"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:04.276Z",
+    "updatedAt": "2026-09-21T04:30:49.205Z",
+    "slug": "pop-series-7",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2026-09-20T20:00:06.113Z"
+  },
+  {
+    "_id": "pokemon-pop-series-8",
+    "name": "POP Series 8",
+    "tcg": "pokemon",
+    "code": "POP",
+    "markets": {
+      "tcgplayer": {
+        "id": "1450"
+      },
+      "tcgmatch": {
+        "id": "pokemon-pop-series-8"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:04.295Z",
+    "updatedAt": "2026-09-21T04:30:49.206Z",
+    "slug": "pop-series-8",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2026-09-20T20:00:06.113Z"
+  },
+  {
+    "_id": "pokemon-pop-series-9",
+    "name": "POP Series 9",
+    "tcg": "pokemon",
+    "code": "POP",
+    "markets": {
+      "tcgplayer": {
+        "id": "1446"
+      },
+      "tcgmatch": {
+        "id": "pokemon-pop-series-9"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:04.314Z",
+    "updatedAt": "2026-09-21T04:30:49.206Z",
+    "slug": "pop-series-9",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2026-09-20T20:00:06.113Z"
+  },
+  {
+    "_id": "pokemon-pikachu-world-collection-promos",
+    "name": "Pikachu World Collection Promos",
+    "tcg": "pokemon",
+    "code": "PWCP",
+    "markets": {
+      "tcgplayer": {
+        "id": "2205"
+      },
+      "tcgmatch": {
+        "id": "pokemon-pikachu-world-collection-promos"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.847Z",
+    "updatedAt": "2026-09-21T04:30:50.126Z",
+    "slug": "pikachu-world-collection-promos",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2026-09-20T20:00:06.113Z"
+  },
+  {
+    "_id": "pokemon-plasma-blast",
+    "name": "Plasma Blast",
+    "tcg": "pokemon",
+    "code": "PLB",
+    "markets": {
+      "tcgplayer": {
+        "id": "1370"
+      },
+      "tcgmatch": {
+        "id": "pokemon-plasma-blast"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.485Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "plasma-blast",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2013-08-14T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-plasma-freeze",
+    "name": "Plasma Freeze",
+    "tcg": "pokemon",
+    "code": "PLF",
+    "markets": {
+      "tcgplayer": {
+        "id": "1382"
+      },
+      "tcgmatch": {
+        "id": "pokemon-plasma-freeze"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.505Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "plasma-freeze",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2013-05-08T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-plasma-storm",
+    "name": "Plasma Storm",
+    "tcg": "pokemon",
+    "code": "PLS",
+    "markets": {
+      "tcgplayer": {
+        "id": "1413"
+      },
+      "tcgmatch": {
+        "id": "pokemon-plasma-storm"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.523Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "plasma-storm",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2013-02-06T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-platinum",
+    "name": "Platinum",
+    "tcg": "pokemon",
+    "code": "PL",
+    "markets": {
+      "tcgplayer": {
+        "id": "1406"
+      },
+      "tcgmatch": {
+        "id": "pokemon-platinum"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.043Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "platinum",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2009-02-11T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-player-placement-trainer-promos",
+    "name": "Player Placement Trainer Promos",
+    "tcg": "pokemon",
+    "code": "",
+    "markets": {
+      "tcgplayer": {
+        "id": "24529"
+      },
+      "tcgmatch": {
+        "id": "pokemon-player-placement-trainer-promos"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.167Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "player-placement-trainer-promos",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2026-01-02T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-pokemon-go",
+    "name": "Pokemon GO",
+    "tcg": "pokemon",
+    "code": "PGO",
+    "markets": {
+      "tcgplayer": {
+        "id": "3064"
+      },
+      "tcgmatch": {
+        "id": "pokemon-pokemon-go"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.936Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "pokemon-go",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2022-07-01T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-prize-pack-series-cards",
+    "name": "Prize Pack Series Cards",
+    "tcg": "pokemon",
+    "code": "",
+    "markets": {
+      "tcgplayer": {
+        "id": "22880"
+      },
+      "tcgmatch": {
+        "id": "pokemon-prize-pack-series-cards"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.800Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "prize-pack-series-cards",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2022-11-30T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-professor-program-promos",
+    "name": "Professor Program Promos",
+    "tcg": "pokemon",
+    "code": "PPP",
+    "markets": {
+      "tcgplayer": {
+        "id": "2332"
+      },
+      "tcgmatch": {
+        "id": "pokemon-professor-program-promos"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.787Z",
+    "updatedAt": "2026-09-21T04:30:50.812Z",
+    "slug": "professor-program-promos",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2026-09-20T20:00:06.113Z"
+  },
+  {
+    "_id": "pokemon-rising-rivals",
+    "name": "Rising Rivals",
+    "tcg": "pokemon",
+    "code": "RR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1367"
+      },
+      "tcgmatch": {
+        "id": "pokemon-rising-rivals"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.003Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "rising-rivals",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2009-05-16T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-rumble",
+    "name": "Rumble",
+    "tcg": "pokemon",
+    "code": "RUM",
+    "markets": {
+      "tcgplayer": {
+        "id": "1433"
+      },
+      "tcgmatch": {
+        "id": "pokemon-rumble"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.947Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "rumble",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2009-11-16T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sm-burning-shadows",
+    "name": "SM - Burning Shadows",
+    "tcg": "pokemon",
+    "code": "SM03",
+    "markets": {
+      "tcgplayer": {
+        "id": "1957"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sm-burning-shadows"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.779Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sm-burning-shadows",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2017-08-04T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sm-celestial-storm",
+    "name": "SM - Celestial Storm",
+    "tcg": "pokemon",
+    "code": "CES",
+    "markets": {
+      "tcgplayer": {
+        "id": "2278"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sm-celestial-storm"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.627Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sm-celestial-storm",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2018-08-03T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sm-cosmic-eclipse",
+    "name": "SM - Cosmic Eclipse",
+    "tcg": "pokemon",
+    "code": "SM12",
+    "markets": {
+      "tcgplayer": {
+        "id": "2534"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sm-cosmic-eclipse"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.395Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sm-cosmic-eclipse",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2019-11-01T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sm-crimson-invasion",
+    "name": "SM - Crimson Invasion",
+    "tcg": "pokemon",
+    "code": "SM04",
+    "markets": {
+      "tcgplayer": {
+        "id": "2071"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sm-crimson-invasion"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.740Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sm-crimson-invasion",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2017-11-03T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sm-forbidden-light",
+    "name": "SM - Forbidden Light",
+    "tcg": "pokemon",
+    "code": "SM06",
+    "markets": {
+      "tcgplayer": {
+        "id": "2209"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sm-forbidden-light"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.664Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sm-forbidden-light",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2018-05-04T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sm-guardians-rising",
+    "name": "SM - Guardians Rising",
+    "tcg": "pokemon",
+    "code": "SM02",
+    "markets": {
+      "tcgplayer": {
+        "id": "1919"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sm-guardians-rising"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.821Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sm-guardians-rising",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2017-05-05T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sm-lost-thunder",
+    "name": "SM - Lost Thunder",
+    "tcg": "pokemon",
+    "code": "SM8",
+    "markets": {
+      "tcgplayer": {
+        "id": "2328"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sm-lost-thunder"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.551Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sm-lost-thunder",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2018-11-02T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sm-team-up",
+    "name": "SM - Team Up",
+    "tcg": "pokemon",
+    "code": "SM9",
+    "markets": {
+      "tcgplayer": {
+        "id": "2377"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sm-team-up"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.531Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sm-team-up",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2019-02-01T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sm-ultra-prism",
+    "name": "SM - Ultra Prism",
+    "tcg": "pokemon",
+    "code": "SM05",
+    "markets": {
+      "tcgplayer": {
+        "id": "2178"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sm-ultra-prism"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.702Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sm-ultra-prism",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2018-02-02T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sm-unbroken-bonds",
+    "name": "SM - Unbroken Bonds",
+    "tcg": "pokemon",
+    "code": "SM10",
+    "markets": {
+      "tcgplayer": {
+        "id": "2420"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sm-unbroken-bonds"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.493Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sm-unbroken-bonds",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2019-05-03T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sm-unified-minds",
+    "name": "SM - Unified Minds",
+    "tcg": "pokemon",
+    "code": "SM11",
+    "markets": {
+      "tcgplayer": {
+        "id": "2464"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sm-unified-minds"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.475Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sm-unified-minds",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2019-08-02T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sm-base-set",
+    "name": "SM Base Set",
+    "tcg": "pokemon",
+    "code": "SM01",
+    "markets": {
+      "tcgplayer": {
+        "id": "1863"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sm-base-set"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.878Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sm-base-set",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2017-02-03T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sm-promos",
+    "name": "SM Promos",
+    "tcg": "pokemon",
+    "code": "SMP",
+    "markets": {
+      "tcgplayer": {
+        "id": "1861"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sm-promos"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.897Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sm-promos",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2016-12-14T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sm-trainer-kit-alolan-sandslash-alolan-ninetales",
+    "name": "SM Trainer Kit: Alolan Sandslash & Alolan Ninetales",
+    "tcg": "pokemon",
+    "code": "SMK2",
+    "markets": {
+      "tcgplayer": {
+        "id": "2208"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sm-trainer-kit-alolan-sandslash-alolan-ninetales"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.683Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sm-trainer-kit-alolan-sandslash-alolan-ninetales",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2018-04-06T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sm-trainer-kit-lycanroc-alolan-raichu",
+    "name": "SM Trainer Kit: Lycanroc & Alolan Raichu",
+    "tcg": "pokemon",
+    "code": "SMK1",
+    "markets": {
+      "tcgplayer": {
+        "id": "2069"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sm-trainer-kit-lycanroc-alolan-raichu"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.860Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sm-trainer-kit-lycanroc-alolan-raichu",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2017-04-21T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sv01-scarlet-violet-base-set",
+    "name": "SV01: Scarlet & Violet Base Set",
+    "tcg": "pokemon",
+    "code": "SVI",
+    "markets": {
+      "tcgplayer": {
+        "id": "22873"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sv01-scarlet-violet-base-set"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.724Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sv01-scarlet-violet-base-set",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2023-03-31T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sv02-paldea-evolved",
+    "name": "SV02: Paldea Evolved",
+    "tcg": "pokemon",
+    "code": "PAL",
+    "markets": {
+      "tcgplayer": {
+        "id": "23120"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sv02-paldea-evolved"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.682Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sv02-paldea-evolved",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2023-06-09T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sv03-obsidian-flames",
+    "name": "SV03: Obsidian Flames",
+    "tcg": "pokemon",
+    "code": "OBF",
+    "markets": {
+      "tcgplayer": {
+        "id": "23228"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sv03-obsidian-flames"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.660Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sv03-obsidian-flames",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2023-08-11T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sv04-paradox-rift",
+    "name": "SV04: Paradox Rift",
+    "tcg": "pokemon",
+    "code": "PAR",
+    "markets": {
+      "tcgplayer": {
+        "id": "23286"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sv04-paradox-rift"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.561Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sv04-paradox-rift",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2023-11-03T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sv05-temporal-forces",
+    "name": "SV05: Temporal Forces",
+    "tcg": "pokemon",
+    "code": "TEF",
+    "markets": {
+      "tcgplayer": {
+        "id": "23381"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sv05-temporal-forces"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.504Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sv05-temporal-forces",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2024-03-22T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sv06-twilight-masquerade",
+    "name": "SV06: Twilight Masquerade",
+    "tcg": "pokemon",
+    "code": "TWM",
+    "markets": {
+      "tcgplayer": {
+        "id": "23473"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sv06-twilight-masquerade"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.486Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sv06-twilight-masquerade",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2024-05-24T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sv07-stellar-crown",
+    "name": "SV07: Stellar Crown",
+    "tcg": "pokemon",
+    "code": "SCR",
+    "markets": {
+      "tcgplayer": {
+        "id": "23537"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sv07-stellar-crown"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.411Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sv07-stellar-crown",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2024-09-13T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sv08-surging-sparks",
+    "name": "SV08: Surging Sparks",
+    "tcg": "pokemon",
+    "code": "SSP",
+    "markets": {
+      "tcgplayer": {
+        "id": "23651"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sv08-surging-sparks"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.393Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sv08-surging-sparks",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2024-11-08T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sv09-journey-together",
+    "name": "SV09: Journey Together",
+    "tcg": "pokemon",
+    "code": "JTG",
+    "markets": {
+      "tcgplayer": {
+        "id": "24073"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sv09-journey-together"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.334Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sv09-journey-together",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2025-03-28T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sv10-destined-rivals",
+    "name": "SV10: Destined Rivals",
+    "tcg": "pokemon",
+    "code": "DRI",
+    "markets": {
+      "tcgplayer": {
+        "id": "24269"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sv10-destined-rivals"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.315Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sv10-destined-rivals",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2025-05-30T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sv-black-bolt",
+    "name": "SV: Black Bolt",
+    "tcg": "pokemon",
+    "code": "BLK",
+    "markets": {
+      "tcgplayer": {
+        "id": "24325"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sv-black-bolt"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.276Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sv-black-bolt",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2025-07-18T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sv-paldean-fates",
+    "name": "SV: Paldean Fates",
+    "tcg": "pokemon",
+    "code": "PAF",
+    "markets": {
+      "tcgplayer": {
+        "id": "23353"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sv-paldean-fates"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.523Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sv-paldean-fates",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2024-01-26T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sv-prismatic-evolutions",
+    "name": "SV: Prismatic Evolutions",
+    "tcg": "pokemon",
+    "code": "PRE",
+    "markets": {
+      "tcgplayer": {
+        "id": "23821"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sv-prismatic-evolutions"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.374Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sv-prismatic-evolutions",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2025-01-17T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sv-scarlet-violet-151",
+    "name": "SV: Scarlet & Violet 151",
+    "tcg": "pokemon",
+    "code": "MEW",
+    "markets": {
+      "tcgplayer": {
+        "id": "23237"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sv-scarlet-violet-151"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.601Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sv-scarlet-violet-151",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2023-09-22T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sv-scarlet-violet-promo-cards",
+    "name": "SV: Scarlet & Violet Promo Cards",
+    "tcg": "pokemon",
+    "code": "SVP",
+    "markets": {
+      "tcgplayer": {
+        "id": "22872"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sv-scarlet-violet-promo-cards"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.702Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sv-scarlet-violet-promo-cards",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2023-03-31T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sv-shrouded-fable",
+    "name": "SV: Shrouded Fable",
+    "tcg": "pokemon",
+    "code": "SFA",
+    "markets": {
+      "tcgplayer": {
+        "id": "23529"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sv-shrouded-fable"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.448Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sv-shrouded-fable",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2024-08-02T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sv-white-flare",
+    "name": "SV: White Flare",
+    "tcg": "pokemon",
+    "code": "WHT",
+    "markets": {
+      "tcgplayer": {
+        "id": "24326"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sv-white-flare"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.296Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sv-white-flare",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2025-07-18T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-sve-scarlet-violet-energies",
+    "name": "SVE: Scarlet & Violet Energies",
+    "tcg": "pokemon",
+    "code": "SVE",
+    "markets": {
+      "tcgplayer": {
+        "id": "24382"
+      },
+      "tcgmatch": {
+        "id": "pokemon-sve-scarlet-violet-energies"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.745Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "sve-scarlet-violet-energies",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2023-03-31T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-swsh01-sword-shield-base-set",
+    "name": "SWSH01: Sword & Shield Base Set",
+    "tcg": "pokemon",
+    "code": "SWSH01",
+    "markets": {
+      "tcgplayer": {
+        "id": "2585"
+      },
+      "tcgmatch": {
+        "id": "pokemon-swsh01-sword-shield-base-set"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.356Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "swsh01-sword-shield-base-set",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2020-02-07T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-swsh02-rebel-clash",
+    "name": "SWSH02: Rebel Clash",
+    "tcg": "pokemon",
+    "code": "SWSH02",
+    "markets": {
+      "tcgplayer": {
+        "id": "2626"
+      },
+      "tcgmatch": {
+        "id": "pokemon-swsh02-rebel-clash"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.337Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "swsh02-rebel-clash",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2020-05-01T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-swsh03-darkness-ablaze",
+    "name": "SWSH03: Darkness Ablaze",
+    "tcg": "pokemon",
+    "code": "SWSH03",
+    "markets": {
+      "tcgplayer": {
+        "id": "2675"
+      },
+      "tcgmatch": {
+        "id": "pokemon-swsh03-darkness-ablaze"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.285Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "swsh03-darkness-ablaze",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2020-08-14T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-swsh04-vivid-voltage",
+    "name": "SWSH04: Vivid Voltage",
+    "tcg": "pokemon",
+    "code": "SWSH04",
+    "markets": {
+      "tcgplayer": {
+        "id": "2701"
+      },
+      "tcgmatch": {
+        "id": "pokemon-swsh04-vivid-voltage"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.247Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "swsh04-vivid-voltage",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2020-11-13T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-swsh05-battle-styles",
+    "name": "SWSH05: Battle Styles",
+    "tcg": "pokemon",
+    "code": "SWSH05",
+    "markets": {
+      "tcgplayer": {
+        "id": "2765"
+      },
+      "tcgmatch": {
+        "id": "pokemon-swsh05-battle-styles"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.147Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "swsh05-battle-styles",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2021-03-19T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-swsh06-chilling-reign",
+    "name": "SWSH06: Chilling Reign",
+    "tcg": "pokemon",
+    "code": "SWSH06",
+    "markets": {
+      "tcgplayer": {
+        "id": "2807"
+      },
+      "tcgmatch": {
+        "id": "pokemon-swsh06-chilling-reign"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.129Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "swsh06-chilling-reign",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2021-06-18T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-swsh07-evolving-skies",
+    "name": "SWSH07: Evolving Skies",
+    "tcg": "pokemon",
+    "code": "SWSH07",
+    "markets": {
+      "tcgplayer": {
+        "id": "2848"
+      },
+      "tcgmatch": {
+        "id": "pokemon-swsh07-evolving-skies"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.111Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "swsh07-evolving-skies",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2021-08-27T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-swsh08-fusion-strike",
+    "name": "SWSH08: Fusion Strike",
+    "tcg": "pokemon",
+    "code": "SWSH08",
+    "markets": {
+      "tcgplayer": {
+        "id": "2906"
+      },
+      "tcgmatch": {
+        "id": "pokemon-swsh08-fusion-strike"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.054Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "swsh08-fusion-strike",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2021-11-12T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-swsh09-brilliant-stars",
+    "name": "SWSH09: Brilliant Stars",
+    "tcg": "pokemon",
+    "code": "SWSH09",
+    "markets": {
+      "tcgplayer": {
+        "id": "2948"
+      },
+      "tcgmatch": {
+        "id": "pokemon-swsh09-brilliant-stars"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.014Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "swsh09-brilliant-stars",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2022-02-25T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-swsh09-brilliant-stars-trainer-gallery",
+    "name": "SWSH09: Brilliant Stars Trainer Gallery",
+    "tcg": "pokemon",
+    "code": "SWSH09:TG",
+    "markets": {
+      "tcgplayer": {
+        "id": "3020"
+      },
+      "tcgmatch": {
+        "id": "pokemon-swsh09-brilliant-stars-trainer-gallery"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.034Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "swsh09-brilliant-stars-trainer-gallery",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2022-02-25T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-swsh10-astral-radiance",
+    "name": "SWSH10: Astral Radiance",
+    "tcg": "pokemon",
+    "code": "SWSH10",
+    "markets": {
+      "tcgplayer": {
+        "id": "3040"
+      },
+      "tcgmatch": {
+        "id": "pokemon-swsh10-astral-radiance"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.955Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "swsh10-astral-radiance",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2022-05-27T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-swsh10-astral-radiance-trainer-gallery",
+    "name": "SWSH10: Astral Radiance Trainer Gallery",
+    "tcg": "pokemon",
+    "code": "SWSH10:TG",
+    "markets": {
+      "tcgplayer": {
+        "id": "3068"
+      },
+      "tcgmatch": {
+        "id": "pokemon-swsh10-astral-radiance-trainer-gallery"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.974Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "swsh10-astral-radiance-trainer-gallery",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2022-05-27T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-swsh11-lost-origin",
+    "name": "SWSH11: Lost Origin",
+    "tcg": "pokemon",
+    "code": "SWSH11",
+    "markets": {
+      "tcgplayer": {
+        "id": "3118"
+      },
+      "tcgmatch": {
+        "id": "pokemon-swsh11-lost-origin"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.859Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "swsh11-lost-origin",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2022-09-09T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-swsh11-lost-origin-trainer-gallery",
+    "name": "SWSH11: Lost Origin Trainer Gallery",
+    "tcg": "pokemon",
+    "code": "SWSH11: TG",
+    "markets": {
+      "tcgplayer": {
+        "id": "3172"
+      },
+      "tcgmatch": {
+        "id": "pokemon-swsh11-lost-origin-trainer-gallery"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.878Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "swsh11-lost-origin-trainer-gallery",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2022-09-09T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-swsh12-silver-tempest",
+    "name": "SWSH12: Silver Tempest",
+    "tcg": "pokemon",
+    "code": "SWSH12",
+    "markets": {
+      "tcgplayer": {
+        "id": "3170"
+      },
+      "tcgmatch": {
+        "id": "pokemon-swsh12-silver-tempest"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.820Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "swsh12-silver-tempest",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2022-11-11T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-swsh12-silver-tempest-trainer-gallery",
+    "name": "SWSH12: Silver Tempest Trainer Gallery",
+    "tcg": "pokemon",
+    "code": "SWSH12: TG",
+    "markets": {
+      "tcgplayer": {
+        "id": "17674"
+      },
+      "tcgmatch": {
+        "id": "pokemon-swsh12-silver-tempest-trainer-gallery"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.839Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "swsh12-silver-tempest-trainer-gallery",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2022-11-11T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-crown-zenith",
+    "name": "SWSH: Crown Zenith",
+    "tcg": "pokemon",
+    "code": "CRZ",
+    "markets": {
+      "tcgplayer": {
+        "id": "17688"
+      },
+      "tcgmatch": {
+        "id": "pokemon-crown-zenith"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.763Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "crown-zenith",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2023-01-20T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-crown-zenith-galarian-gallery",
+    "name": "SWSH: Crown Zenith: Galarian Gallery",
+    "tcg": "pokemon",
+    "code": "CRZ:GG",
+    "markets": {
+      "tcgplayer": {
+        "id": "17689"
+      },
+      "tcgmatch": {
+        "id": "pokemon-crown-zenith-galarian-gallery"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.782Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "crown-zenith-galarian-gallery",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2023-01-20T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-swsh-sword-shield-promo-cards",
+    "name": "SWSH: Sword & Shield Promo Cards",
+    "tcg": "pokemon",
+    "code": "SWSD",
+    "markets": {
+      "tcgplayer": {
+        "id": "2545"
+      },
+      "tcgmatch": {
+        "id": "pokemon-swsh-sword-shield-promo-cards"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.376Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "swsh-sword-shield-promo-cards",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2019-11-15T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-secret-wonders",
+    "name": "Secret Wonders",
+    "tcg": "pokemon",
+    "code": "SW",
+    "markets": {
+      "tcgplayer": {
+        "id": "1380"
+      },
+      "tcgmatch": {
+        "id": "pokemon-secret-wonders"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.163Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "secret-wonders",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2007-11-07T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-shining-fates",
+    "name": "Shining Fates",
+    "tcg": "pokemon",
+    "code": "SHF",
+    "markets": {
+      "tcgplayer": {
+        "id": "2754"
+      },
+      "tcgmatch": {
+        "id": "pokemon-shining-fates"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.186Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "shining-fates",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2021-02-19T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-shining-fates-shiny-vault",
+    "name": "Shining Fates: Shiny Vault",
+    "tcg": "pokemon",
+    "code": "SHFSV",
+    "markets": {
+      "tcgplayer": {
+        "id": "2781"
+      },
+      "tcgmatch": {
+        "id": "pokemon-shining-fates-shiny-vault"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.206Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "shining-fates-shiny-vault",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2021-02-19T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-shining-legends",
+    "name": "Shining Legends",
+    "tcg": "pokemon",
+    "code": "SHL",
+    "markets": {
+      "tcgplayer": {
+        "id": "2054"
+      },
+      "tcgmatch": {
+        "id": "pokemon-shining-legends"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.759Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "shining-legends",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2017-10-06T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-skyridge",
+    "name": "Skyridge",
+    "tcg": "pokemon",
+    "code": "SK",
+    "markets": {
+      "tcgplayer": {
+        "id": "1372"
+      },
+      "tcgmatch": {
+        "id": "pokemon-skyridge"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.665Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "skyridge",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2003-05-12T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-southeast-asia-exclusives",
+    "name": "Southeast Asia Exclusives",
+    "tcg": "pokemon",
+    "markets": {
+      "tcgplayer": {
+        "id": "24864"
+      }
+    },
+    "release_date": "2023-08-05T00:00:00.000Z",
+    "createdAt": "2026-09-02T04:00:07.301Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "southeast-asia-exclusives",
+    "__v": 0
+  },
+  {
+    "_id": "pokemon-southern-islands",
+    "name": "Southern Islands",
+    "tcg": "pokemon",
+    "code": "SI",
+    "markets": {
+      "tcgplayer": {
+        "id": "648"
+      },
+      "tcgmatch": {
+        "id": "pokemon-southern-islands"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.824Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "southern-islands",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2001-07-31T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-stormfront",
+    "name": "Stormfront",
+    "tcg": "pokemon",
+    "code": "SF",
+    "markets": {
+      "tcgplayer": {
+        "id": "1369"
+      },
+      "tcgmatch": {
+        "id": "pokemon-stormfront"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.062Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "stormfront",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2008-11-05T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-supreme-victors",
+    "name": "Supreme Victors",
+    "tcg": "pokemon",
+    "code": "SV",
+    "markets": {
+      "tcgplayer": {
+        "id": "1384"
+      },
+      "tcgmatch": {
+        "id": "pokemon-supreme-victors"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.984Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "supreme-victors",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2009-08-19T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-team-rocket",
+    "name": "Team Rocket",
+    "tcg": "pokemon",
+    "code": "TR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1373"
+      },
+      "tcgmatch": {
+        "id": "pokemon-team-rocket"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.921Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "team-rocket",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2000-04-24T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-trading-card-game-classic",
+    "name": "Trading Card Game Classic",
+    "tcg": "pokemon",
+    "code": "CL",
+    "markets": {
+      "tcgplayer": {
+        "id": "23323"
+      },
+      "tcgmatch": {
+        "id": "pokemon-trading-card-game-classic"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.542Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "trading-card-game-classic",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2023-11-17T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-trick-or-trade-booster-bundle",
+    "name": "Trick or Trade BOOster Bundle",
+    "tcg": "pokemon",
+    "code": "TTBB",
+    "markets": {
+      "tcgplayer": {
+        "id": "3179"
+      },
+      "tcgmatch": {
+        "id": "pokemon-trick-or-trade-booster-bundle"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.897Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "trick-or-trade-booster-bundle",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2022-09-01T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-trick-or-trade-booster-bundle-2023",
+    "name": "Trick or Trade BOOster Bundle 2023",
+    "tcg": "pokemon",
+    "code": "TTBB23",
+    "markets": {
+      "tcgplayer": {
+        "id": "23266"
+      },
+      "tcgmatch": {
+        "id": "pokemon-trick-or-trade-booster-bundle-2023"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.641Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "trick-or-trade-booster-bundle-2023",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2023-09-01T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-trick-or-trade-booster-bundle-2024",
+    "name": "Trick or Trade BOOster Bundle 2024",
+    "tcg": "pokemon",
+    "code": "TTBB24",
+    "markets": {
+      "tcgplayer": {
+        "id": "23561"
+      },
+      "tcgmatch": {
+        "id": "pokemon-trick-or-trade-booster-bundle-2024"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:00.429Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "trick-or-trade-booster-bundle-2024",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2024-08-30T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-triumphant",
+    "name": "Triumphant",
+    "tcg": "pokemon",
+    "code": "TM",
+    "markets": {
+      "tcgplayer": {
+        "id": "1381"
+      },
+      "tcgmatch": {
+        "id": "pokemon-triumphant"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.807Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "triumphant",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2010-11-03T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-undaunted",
+    "name": "Undaunted",
+    "tcg": "pokemon",
+    "code": "UD",
+    "markets": {
+      "tcgplayer": {
+        "id": "1403"
+      },
+      "tcgmatch": {
+        "id": "pokemon-undaunted"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.827Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "undaunted",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2010-08-18T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-unleashed",
+    "name": "Unleashed",
+    "tcg": "pokemon",
+    "code": "UL",
+    "markets": {
+      "tcgplayer": {
+        "id": "1399"
+      },
+      "tcgmatch": {
+        "id": "pokemon-unleashed"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.887Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "unleashed",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2010-05-12T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-wotc-promo",
+    "name": "WoTC Promo",
+    "tcg": "pokemon",
+    "code": "PR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1418"
+      },
+      "tcgmatch": {
+        "id": "pokemon-wotc-promo"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.982Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "wotc-promo",
+    "__v": 0,
+    "serie": null,
+    "release_date": "1999-07-01T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-world-championship-decks",
+    "name": "World Championship Decks",
+    "tcg": "pokemon",
+    "code": "WCD",
+    "markets": {
+      "tcgplayer": {
+        "id": "2282"
+      },
+      "tcgmatch": {
+        "id": "pokemon-world-championship-decks"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.645Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "world-championship-decks",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2018-07-01T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-xy-ancient-origins",
+    "name": "XY - Ancient Origins",
+    "tcg": "pokemon",
+    "code": "AOR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1576"
+      },
+      "tcgmatch": {
+        "id": "pokemon-xy-ancient-origins"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.142Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "xy-ancient-origins",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2015-08-12T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-xy-breakpoint",
+    "name": "XY - BREAKpoint",
+    "tcg": "pokemon",
+    "code": "BKP",
+    "markets": {
+      "tcgplayer": {
+        "id": "1701"
+      },
+      "tcgmatch": {
+        "id": "pokemon-xy-breakpoint"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.085Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "xy-breakpoint",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2016-02-03T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-xy-breakthrough",
+    "name": "XY - BREAKthrough",
+    "tcg": "pokemon",
+    "code": "BKT",
+    "markets": {
+      "tcgplayer": {
+        "id": "1661"
+      },
+      "tcgmatch": {
+        "id": "pokemon-xy-breakthrough"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.122Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "xy-breakthrough",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2015-11-04T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-xy-evolutions",
+    "name": "XY - Evolutions",
+    "tcg": "pokemon",
+    "code": "EVO",
+    "markets": {
+      "tcgplayer": {
+        "id": "1842"
+      },
+      "tcgmatch": {
+        "id": "pokemon-xy-evolutions"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.915Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "xy-evolutions",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2016-11-02T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-xy-fates-collide",
+    "name": "XY - Fates Collide",
+    "tcg": "pokemon",
+    "code": "FCO",
+    "markets": {
+      "tcgplayer": {
+        "id": "1780"
+      },
+      "tcgmatch": {
+        "id": "pokemon-xy-fates-collide"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.008Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "xy-fates-collide",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2016-05-02T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-xy-flashfire",
+    "name": "XY - Flashfire",
+    "tcg": "pokemon",
+    "code": "FLF",
+    "markets": {
+      "tcgplayer": {
+        "id": "1464"
+      },
+      "tcgmatch": {
+        "id": "pokemon-xy-flashfire"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.351Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "xy-flashfire",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2014-05-07T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-xy-furious-fists",
+    "name": "XY - Furious Fists",
+    "tcg": "pokemon",
+    "code": "FFI",
+    "markets": {
+      "tcgplayer": {
+        "id": "1481"
+      },
+      "tcgmatch": {
+        "id": "pokemon-xy-furious-fists"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.298Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "xy-furious-fists",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2014-08-13T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-xy-phantom-forces",
+    "name": "XY - Phantom Forces",
+    "tcg": "pokemon",
+    "code": "PHF",
+    "markets": {
+      "tcgplayer": {
+        "id": "1494"
+      },
+      "tcgmatch": {
+        "id": "pokemon-xy-phantom-forces"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.280Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "xy-phantom-forces",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2014-11-05T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-xy-primal-clash",
+    "name": "XY - Primal Clash",
+    "tcg": "pokemon",
+    "code": "PRC",
+    "markets": {
+      "tcgplayer": {
+        "id": "1509"
+      },
+      "tcgmatch": {
+        "id": "pokemon-xy-primal-clash"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.242Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "xy-primal-clash",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2015-02-04T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-xy-roaring-skies",
+    "name": "XY - Roaring Skies",
+    "tcg": "pokemon",
+    "code": "ROS",
+    "markets": {
+      "tcgplayer": {
+        "id": "1534"
+      },
+      "tcgmatch": {
+        "id": "pokemon-xy-roaring-skies"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.164Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "xy-roaring-skies",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2015-05-06T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-xy-steam-siege",
+    "name": "XY - Steam Siege",
+    "tcg": "pokemon",
+    "code": "STS",
+    "markets": {
+      "tcgplayer": {
+        "id": "1815"
+      },
+      "tcgmatch": {
+        "id": "pokemon-xy-steam-siege"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:01.970Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "xy-steam-siege",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2016-08-03T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-xy-base-set",
+    "name": "XY Base Set",
+    "tcg": "pokemon",
+    "code": "XY",
+    "markets": {
+      "tcgplayer": {
+        "id": "1387"
+      },
+      "tcgmatch": {
+        "id": "pokemon-xy-base-set"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.390Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "xy-base-set",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2014-02-05T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-xy-promos",
+    "name": "XY Promos",
+    "tcg": "pokemon",
+    "code": "PR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1451"
+      },
+      "tcgmatch": {
+        "id": "pokemon-xy-promos"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.410Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "xy-promos",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2013-12-16T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-xy-trainer-kit-bisharp-wigglytuff",
+    "name": "XY Trainer Kit: Bisharp & Wigglytuff",
+    "tcg": "pokemon",
+    "code": "PR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1533"
+      },
+      "tcgmatch": {
+        "id": "pokemon-xy-trainer-kit-bisharp-wigglytuff"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.261Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "xy-trainer-kit-bisharp-wigglytuff",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2014-11-14T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-xy-trainer-kit-latias-latios",
+    "name": "XY Trainer Kit: Latias & Latios",
+    "tcg": "pokemon",
+    "code": "PR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1536"
+      },
+      "tcgmatch": {
+        "id": "pokemon-xy-trainer-kit-latias-latios"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.183Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "xy-trainer-kit-latias-latios",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2015-04-29T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-xy-trainer-kit-pikachu-libre-suicune",
+    "name": "XY Trainer Kit: Pikachu Libre & Suicune",
+    "tcg": "pokemon",
+    "code": "PR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1796"
+      },
+      "tcgmatch": {
+        "id": "pokemon-xy-trainer-kit-pikachu-libre-suicune"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.028Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "xy-trainer-kit-pikachu-libre-suicune",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2016-04-27T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-xy-trainer-kit-sylveon-noivern",
+    "name": "XY Trainer Kit: Sylveon & Noivern",
+    "tcg": "pokemon",
+    "code": "PR",
+    "markets": {
+      "tcgplayer": {
+        "id": "1532"
+      },
+      "tcgmatch": {
+        "id": "pokemon-xy-trainer-kit-sylveon-noivern"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:02.371Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "xy-trainer-kit-sylveon-noivern",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2014-03-12T00:00:00.000Z"
+  },
+  {
+    "_id": "pokemon-e-reader-sample-cards",
+    "name": "e-Reader Sample Cards",
+    "tcg": "pokemon",
+    "code": "SAMPLE",
+    "markets": {
+      "tcgplayer": {
+        "id": "24493"
+      },
+      "tcgmatch": {
+        "id": "pokemon-e-reader-sample-cards"
+      }
+    },
+    "createdAt": "2026-03-25T21:09:03.742Z",
+    "updatedAt": "2026-09-21T03:00:06.493Z",
+    "slug": "e-reader-sample-cards",
+    "__v": 0,
+    "serie": null,
+    "release_date": "2002-08-02T00:00:00.000Z"
+  }
+]

@@ -1,0 +1,1071 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65137,
+    "name": "Ancient Tomb",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125158_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125158_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125158_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "87",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "CardText": "<em>This card stays in play when you play it. Discard this card if another Stadium card comes into play.</em>\r\n<br>\r\n<br>Don't apply Weakness for all Pokemon in play <em>(excluding Pokemon ex and Pokemon that has an owner in its name)</em>.",
+      "code": "87"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65092,
+    "name": "Blaziken",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125112_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125112_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125112_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "3",
+      "Rarity": "Rare",
+      "Card Type": "Fire",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-POWER — Firestarter</b>\r\n<br>Once during your turn <em>(before your attack)</em>, you may attach a Fire Energy card from your discard pile to 1 of your Benched Pokemon. This power can't be used if Blaziken is affected by a Special Condition.",
+      "Attack 1": "[2R] Fire Stream (50)\r\n<br>Discard a Fire Energy attached to Blaziken. If you do, this attack does 10 damage to each of your opponent's Benched Pokemon. <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "3"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65093,
+    "name": "Blaziken (Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125113_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125113_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125113_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "3",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-POWER — Firestarter</b>\r\n<br>Once during your turn <em>(before your attack)</em>, you may attach a Fire Energy card from your discard pile to 1 of your Benched Pokemon. This power can't be used if Blaziken is affected by a Special Condition.",
+      "Attack 1": "[2R] Fire Stream (50)\r\n<br>Discard a Fire Energy attached to Blaziken. If you do, this attack does 10 damage to each of your opponent's Benched Pokemon. <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "3"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65095,
+    "name": "Camerupt",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125115_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125115_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125115_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "24",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1R] Super Singe (20)\r\n<br>Flip a coin. If heads, the Defending Pokemon is now Burned.",
+      "Attack 2": "[2R] Ram (50)",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "24"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65100,
+    "name": "Celio's Network",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125120_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125120_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125120_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "88",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "<em>You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokemon. When your turn ends, discard this card.</em>\r\n<br>\r\n<br>Search your deck for a Basic Pokemon or Evolution card <em>(excluding Pokemon ex)</em>, show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
+      "code": "88"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65091,
+    "name": "Combusken",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125111_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125111_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125111_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "25",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Quick Attack (10+)\r\n<br>Flip a coin. If heads, this attack does 10 damage plus 20 more damage.",
+      "Attack 2": "[2R] Combustion (40)",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "25"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65110,
+    "name": "Cyndaquil",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125130_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125130_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125130_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "59",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Swift (10)\r\n<br>This attack's damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies, or any other effects on the Defending Pokemon.",
+      "Attack 2": "[2] Rage (10+)\r\n<br>Does 10 damage plus 10 more damage for each damage counter on Cyndaquil.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "59"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65113,
+    "name": "Delcatty",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125133_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125133_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125133_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "29",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[1] Energy Call\r\n<br>Attach 1 Energy from your discard pile to your Active Pokemon.",
+      "Attack 2": "[2] Cannonball (30+)\r\n<br>Does 30 damage plus 10 more damage for each Energy attached to Delcatty but not used to pay for this attack's Energy cost.",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "29"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65108,
+    "name": "Double Full Heal",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125128_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125128_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125128_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "86",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Remove all Special Conditions from each of your Active Pokemon.",
+      "code": "86"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65133,
+    "name": "Dunsparce",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125154_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125154_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125154_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "60",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Strike and Run\r\n<br>Search your deck for up to 3 Basic Pokemon and put them onto your Bench. Shuffle your deck afterward. You may switch Dunsparce with 1 of your Benched Pokemon.",
+      "Attack 2": "[1] Sudden Flash (10)\r\n<br>Flip a coin. If heads, each Defending Pokemon is now Paralyzed.",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "60"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65124,
+    "name": "Eevee",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125144_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125144_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125144_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "63",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Signs of Evolution\r\n<br>Search your deck for up to 3 cards that evolve from Eevee, show them to your opponent and put them into your hand. Shuffle your deck afterward.",
+      "Attack 2": "[1] Quick Attack (10+)\r\n<br>Flip a coin. If heads, this attack does 10 damage plus 10 more damage.",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "63"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65126,
+    "name": "Energy Removal 2",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125146_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125146_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125146_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "89",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Flip a coin. If heads, choose 1 Energy card attached to 1 of your opponent's Pokemon and discard it.",
+      "code": "89"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65103,
+    "name": "Energy Search",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125123_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125123_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125123_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "90",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
+      "code": "90"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65125,
+    "name": "Espeon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125145_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125145_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125145_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "16",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[P] Confuse Ray (20)\r\n<br>Flip a coin. If heads, the Defending Pokemon is now Confused.",
+      "Attack 2": "[3] Does 20 damage plus 10 more damage for each Energy attached to all of your opponent's Pokemon.",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "16"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65130,
+    "name": "Fighting Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125151_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125151_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125151_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "105",
+      "Rarity": "Common",
+      "Card Type": "Basic Fighting Energy",
+      "code": "105"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65104,
+    "name": "Fire Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125124_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125124_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125124_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "108",
+      "Rarity": "Common",
+      "Card Type": "Basic Fire Energy",
+      "code": "108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65118,
+    "name": "Gardevoir",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125138_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125138_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125138_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "7",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-POWER — Psy Shadow</b>\r\n<br>Once during your turn <em>(before your attack)</em>, you may search your deck for a Psychic Energy card and attach it to 1 of your Pokemon. Put 2 damage counters on that Pokemon. Shuffle your deck afterward. This power can't be used if Gardevoir is affected by a Special Condition.",
+      "Attack 1": "[P] Energy Burst (10x)\r\n<br>Does 10 damage times the total amount of Energy attached to Gardevoir and the Defending Pokemon.",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "7"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65119,
+    "name": "Gardevoir (Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125139_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125139_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125139_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "7",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-POWER — Psy Shadow</b>\r\n<br>Once during your turn <em>(before your attack)</em>, you may search your deck for a Psychic Energy card and attach it to 1 of your Pokemon. Put 2 damage counters on that Pokemon. Shuffle your deck afterward. This power can't be used if Gardevoir is affected by a Special Condition.",
+      "Attack 1": "[P] Energy Burst (10x)\r\n<br>Does 10 damage times the total amount of Energy attached to Gardevoir and the Defending Pokemon.",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "7"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65096,
+    "name": "Goldeen",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125116_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125116_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125116_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "55",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Flail (10x)\r\n<br>Does 10 damage for each damage counter on Goldeen.",
+      "Weakness": "Lx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "55"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65123,
+    "name": "Hariyama",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125143_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125143_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125143_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "33",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1F] Shove (20)\r\n<br>Flip a coin. If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[2F] Slap Down (40+)\r\n<br>Flip 2 coins. This attack does 40 damage plus 10 more damage for each heads.",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "33"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65114,
+    "name": "High Pressure System",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125134_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125134_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125134_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "85",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "CardText": "<em>This card stays in play when you play it. Discard this card if another Stadium card comes into play.</em>\r\n<br>Each player pays Colorless less to retreat his or her Fire or Water Pokemon.",
+      "code": "85"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65098,
+    "name": "Horsea",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125118_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125118_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125118_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "58",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Paralyzing Gaze\r\n<br>Flip a coin. If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[2] Wave Splash (20)",
+      "Weakness": "Lx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "58"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65107,
+    "name": "Jigglypuff",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125127_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125127_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125127_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "63",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Rollout (10)",
+      "Attack 2": "[2] Sleepy Song\r\n<br>Each Defending Pokemon is now Asleep.",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "63"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65117,
+    "name": "Kirlia",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125137_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125137_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125137_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "34",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[P] Removal Beam (10)\r\n<br>Flip a coin. If heads, discard 1 Energy card attached to the Defending Pokemon.",
+      "Attack 2": "[2P] Super Psy (50)",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65101,
+    "name": "Life Herb",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125121_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125121_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125121_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "93",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Flip a coin. If heads, choose 1 of your Pokemon (excluding Pokemon ex), and remove all Special Conditions and 6 damage counters from that Pokémon <em>(all if there are less than 6).</em>",
+      "code": "93"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65122,
+    "name": "Makuhita",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125142_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125142_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125142_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "57",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Fling \r\n<br>Your opponent switches the Defending Pokemon with 1 of his or her Benched Pokemon.",
+      "Attack 2": "[1F] Low Kick (30)",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "57"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65121,
+    "name": "Medicham",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125141_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125141_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125141_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "42",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Steady Punch (20+)\r\n<br>Flip a coin. If heads, this attack does 20 damage plus 10 more.",
+      "Attack 2": "[1F] Power Heal (10+)\r\n<br>Does 10 damage plus 10 more damage for each damage counter on Medicham. After doing damage, remove 1 damage counter from Medicham.",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "42"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65120,
+    "name": "Meditite",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125140_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125140_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125140_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "65",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Double Chop (10x)\r\n<br>Flip 2 coins. This attack does 10 damage times the number of heads.",
+      "Attack 2": "[P] Calm Mind \r\n<br> Remove 2 damage counters from Meditite <i>(remove 1 if there is only 1)</i>.",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "65"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65139,
+    "name": "Metal Energy (Special) - 94/109",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/214286_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/214286_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/214286_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "94/109",
+      "Rarity": "Rare",
+      "Card Type": "Special Metal Energy",
+      "CardText": "Damage done by attacks to the Pokemon that Metal Energy is attached to is reduced by 10 <em>(after applying Weakness and Resistance.)</em> Ignore this effect if the Pokemon that Metal Energy is attached to isn't Metal.  Metal Energy provides Metal Energy.  <em>(Doesn't count as a basic Energy card.)</em>\r\n\r\n<br><br><em>This card was reprinted without the e-card reader borders and symbol.</em>",
+      "code": "94/109"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65131,
+    "name": "Natu",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125152_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125152_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125152_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "69",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Peck (10)",
+      "Attack 2": "[P] Soothing Wave\r\n<br>Each Defending Pokemon is now Asleep.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "69"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65106,
+    "name": "Numel (61)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125126_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125126_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125126_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "61",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Headbutt (10)",
+      "Attack 2": "[1R] Burn Off\r\n<br>Flip a coin. If heads, each Defending Pokemon is now Burned.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "61"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65094,
+    "name": "Numel (69)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125114_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125114_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125114_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "69",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[R] Firebreathing (10+)\r\n<br>Flip a coin. If heads, this attack does 10 damage plus 10 more damage.",
+      "Attack 2": "[2] Tackle (20)",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "69"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65136,
+    "name": "Onix",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125157_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125157_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125157_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "71",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[2] Bind (10)\r\n<br>Flip a coin. If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[2F] Rage (10+)\r\n<br>Does 10 damage plus 10 more damage for each damage counter on Onix.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "71"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65115,
+    "name": "Potion",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125135_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125135_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125135_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "91",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "<b>Heal 30 damage from 1 of your Pokémon.</b>\r\n<br>\r\n<br><em>Old card text: Remove 2 damage counters from 1 of your Pokémon (remove 1 damage counter if that Pokémon has only 1).</em>",
+      "code": "91"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65102,
+    "name": "Professor Birch",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125122_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125122_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125122_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "89",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "<em>You can only play one Supporter each turn. When you play this card, put it next to your Active Pokemon. When your turn ends, discard this card.</em>\r\n<br>Draw cards from your deck until you have 6 cards in your hand.",
+      "code": "89"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65129,
+    "name": "Psychic Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125150_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125150_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125150_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "107",
+      "Rarity": "Common",
+      "Card Type": "Basic Psychic Energy",
+      "code": "107"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65111,
+    "name": "Quilava",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125131_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125131_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125131_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "51",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Slash (20)",
+      "Attack 2": "[2R] Burning Claw (40)\r\n<br>You may discard a Fire Energy card attached to Quilava. If you do, the Defending Pokemon is now Burned.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "51"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65116,
+    "name": "Ralts",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125136_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125136_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125136_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "74",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Hypnosis\r\n<br>The Defending Pokemon is now Asleep.",
+      "Attack 2": "[P] Psychic Boom (10x)\r\n<br>Does 10 damage times the amount of Energy attached to the Defending Pokemon.",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "74"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65099,
+    "name": "Seadra",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125119_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125119_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125119_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "39",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[W] Energy Cannon (20+)\r\n<br>Does 20 damage plus 10 more damage for each Energy attached to Seadra but not used to pay for this attack's Energy cost. You can't add more than 20 damage this way.",
+      "Attack 2": "[2W] Water Arrow \r\n<br>Choose 1 of your opponent's Pokemon. This attack does 30 damage to that Pokemon. <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "Lx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "39"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65097,
+    "name": "Seaking",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125117_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125117_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125117_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "21",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[W] Water Arrow\r\n<br>Choose 1 of your opponent's Pokemon. This attack does 20 damage to that Pokemon. <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Attack 2": "[2] Fast Stream (30)\r\n<br>Move 1 Energy attached to the Defending Pokemon to the other Defending Pokemon. <i>(Ignore this effect if your opponent has only 1 Defending Pokemon.)</i>",
+      "Weakness": "Lx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "21"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65112,
+    "name": "Skitty",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125132_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125132_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125132_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "79",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Energy Catch\r\n<br>Search your discard pile for a basic Energy card, show it to your opponent, and put it into your hand.",
+      "Attack 2": "[2] Double-edge (30)\r\n<br>Skitty does 10 damage to itself.",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "79"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65135,
+    "name": "Swellow",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125156_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125156_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125156_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "46",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-POWER — Drive Off</b>\r\n<br>Once during yoru turn <em>(before your attack)</em>, if Swellow is your Active Pokemon, you may switch 1 of the Defending Pokemon with 1 of your opponent's Benched Pokemon. Your opponent picks the Benched Pokemon to switch. This power can't be used if Swellow is affected by a Special Condition.",
+      "Attack 1": "[2] Wing Attack (30)",
+      "Weakness": "Lx2",
+      "Resistance": "F-30",
+      "RetreatCost": "0",
+      "code": "46"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65127,
+    "name": "TV Reporter",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125147_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125147_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125147_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "88",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "<em>You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokemon. When your turn ends, discard this card.</em>\r\n<br>Draw 3 cards. Then discard any 1 card from your hand.",
+      "code": "88"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65134,
+    "name": "Taillow",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125155_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125155_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125155_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "72",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Peck (10)",
+      "Attack 2": "[2] Wing Attack (20)",
+      "Weakness": "Lx2",
+      "Resistance": "F-30",
+      "RetreatCost": "1",
+      "code": "72"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65090,
+    "name": "Torchic",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125110_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125110_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125110_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "73",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Peck (10)",
+      "Attack 2": "[1R] Fireworks (30)\r\n<br>Flip a coin. If tails, discard a Fire Energy card attached to Torchic.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65128,
+    "name": "Wally's Training",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125148_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125148_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125148_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "89",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "<em>You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokemon. When your turn ends, discard this card.</em>\r\n<br>Search your deck for a card that evolves from your Active Pokemon (choose 1 if there are 2) and put it on your Active Pokemon. <em>(This counts as evolving that Pokémon.)</em> Shuffle your deck afterward.",
+      "code": "89"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65109,
+    "name": "Warp Point",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125129_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125129_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125129_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "88",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Your opponent switches 1 of his or her Defending Pokémon with 1 of his or her Benched Pokémon, if any. You switch 1 of your Active Pokémon with 1 of your Benched Pokémon, if any.",
+      "code": "88"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65105,
+    "name": "Water Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125125_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125125_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125125_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "106",
+      "Rarity": "Common",
+      "Card Type": "Basic Water Energy",
+      "code": "106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-ex-battle-stadium",
+    "id": 65132,
+    "name": "Xatu",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/125153_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/125153_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/125153_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "55",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-POWER — Healing Wind</b>\r\n<br>Once during your turn <em>(before your attack)</em>, you may remove 1 damage counter from each of your Active Pokemon. This power can't be used if Xatu is affected by a Special Condition.",
+      "Attack 1": "[1P] Psyimpact\r\n<br>Put 1 damage counter on each of your opponent's Pokemon.",
+      "Weakness": "Px2",
+      "Resistance": "F-30",
+      "RetreatCost": "0",
+      "code": "55"
+    }
+  }
+]

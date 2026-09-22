@@ -1,0 +1,2541 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60869,
+    "name": "Accelgor",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83460_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83460_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83460_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "11/108",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[G] Hammer In (20)",
+      "Attack 2": "[2] Deck and Cover (50) The Defending Pokemon is now Paralyzed and Poisoned.  Shuffle this Pokemon and all cards attached to it into your deck.",
+      "Weakness": "Rx2",
+      "RetreatCost": "0",
+      "code": "11/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60870,
+    "name": "Aerodactyl",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83471_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83471_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83471_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "53/108",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "90",
+      "Stage": "Restored",
+      "CardText": "Ancient Scream - Your Pokemon's attacks do 10 more damage to the Active Pokemon (before applying Weakness and Resistance).  (Ability)",
+      "Attack 1": "[3] Wing Attack (40)",
+      "Weakness": "Gx2",
+      "RetreatCost": "1",
+      "code": "53/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60871,
+    "name": "Archeops",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83610_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83610_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83610_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "110/108",
+      "Rarity": "Secret Rare",
+      "Card Type": "Fighting",
+      "HP": "130",
+      "Stage": "Stage 1",
+      "CardText": "Ancient Power - Each player can't play any Pokemon from his or her hand to evolve his or her Pokemon.  (Ability)",
+      "Attack 1": "[1FF] Rock Slide (60) Does 10 damage to 2 of your opponent's Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "Gx2",
+      "RetreatCost": "2",
+      "code": "110/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60872,
+    "name": "Bisharp (72)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83844_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83844_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83844_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "72/108",
+      "Rarity": "Rare",
+      "Card Type": "Darkness",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1D] Slash (30)",
+      "Attack 2": "[2D] Fury Cutter (30+) Flip 3 coins.  If 1 of them is heads, this attack does 10 more damage.  If 2 of them are heads, this attack does 30 more damage.  If all of them are heads, this attack does 60 more damage.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "code": "72/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60873,
+    "name": "Bisharp (79)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83845_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83845_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83845_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "79/108",
+      "Rarity": "Rare",
+      "Card Type": "Metal",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Aerial Ace (20+) Flip a coin.  If heads, this attack does 20 more damage.",
+      "Attack 2": "[1MM] Metal Claw (80)",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "code": "79/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60874,
+    "name": "Blaziken",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83911_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83911_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83911_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "17/108",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[1R] Blaze Kick (40+) Flip a coin.  If heads, this attack does 30 more damage.  If tails, the Defending Pokemon is now Burned.",
+      "Attack 2": "[1RR] Flamethrower (130) Discard an Energy attached to this Pokemon.",
+      "Weakness": "Wx2",
+      "RetreatCost": "2",
+      "code": "17/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60875,
+    "name": "Blissey",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83925_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83925_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83925_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "82/108",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "130",
+      "Stage": "Stage 1",
+      "CardText": "Softboiled - Once during your turn (before your attack), you may flip a coin.  If heads, heal 30 damage from your active Pokemon.  (Ability)",
+      "Attack 1": "[3] Double-Edge (90) This Pokemon does 60 damage to itself.",
+      "Weakness": "Fx2",
+      "RetreatCost": "3",
+      "code": "82/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60876,
+    "name": "Bulbasaur",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84036_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84036_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84036_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "1/108",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[G] Tackle (10)",
+      "Attack 2": "[2G] Razor Leaf (30)",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "2",
+      "code": "1/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60877,
+    "name": "Carnivine",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84106_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84106_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84106_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "5/108",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[G] Lure Poison - Switch the Defending Pokemon with 1 of your opponent's Benched Pokemon.  The new Defending Pokemon is now Poisoned.",
+      "Attack 2": "[1GG] Spit Squall - Your opponent puts the Defending Pokemon and all cards attached to it into his or her hand.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "2",
+      "code": "5/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60878,
+    "name": "Chansey (80)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84178_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84178_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84178_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "80/108",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[1] Sing - The Defending Pokemon is now Asleep.",
+      "Attack 2": "[3] Double-Edge (60) This Pokemon does 30 damage to itself.",
+      "Weakness": "Fx2",
+      "RetreatCost": "3",
+      "code": "80/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60879,
+    "name": "Chansey (81)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84179_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84179_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84179_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "81/108",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[2] Continuous Tumble (30x) Flip a coin until you get tail.  This attack does 30 damage times the number of heads.",
+      "Weakness": "Fx2",
+      "RetreatCost": "2",
+      "code": "81/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60880,
+    "name": "Chatot",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84243_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84243_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84243_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "85/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Tone-Deaf (10) Flip a coin.  If heads, the Defending Pokemon is now Confused.",
+      "Attack 2": "[2] Peck (30)",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "code": "85/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60881,
+    "name": "Cheren",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84249_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84249_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84249_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "91/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "HP": "0",
+      "Stage": "Supporter",
+      "CardText": "You may play only 1 Supporter card per turn (before your attack).",
+      "Attack 1": "Draw 3 cards.",
+      "code": "91/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60882,
+    "name": "Cofagrigus",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84386_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84386_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84386_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "52/108",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Chuck (40x) Discard as many Pokemon Tool cards as you like from your hand.  This attack does 40 damage times the number of cards you discarded.",
+      "Attack 2": "[PP] Lock Up (40) The Defending Pokemon can't retreat during your opponent's next turn.",
+      "Weakness": "Dx2",
+      "RetreatCost": "2",
+      "code": "52/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60883,
+    "name": "Combusken",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84413_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84413_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84413_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "16/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Double Kick (20x) Flip 2 coins.  This attack does 20 damage times the number of heads.",
+      "Attack 2": "[1RR] Flamethrower (70) Discard an Energy attached to this Pokemon.",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "code": "16/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60884,
+    "name": "Crustle",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84509_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84509_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84509_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "8/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "Attack 1": "[1G] Cut (30)",
+      "Attack 2": "[2G] Heavy Bullet (70) Flip a coin.  If heads, this attack does 20 damage to 1 of your opponent's Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "Rx2",
+      "RetreatCost": "3",
+      "code": "8/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60885,
+    "name": "Dark Claw",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84575_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84575_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84575_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "92/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "HP": "0",
+      "Stage": "Tool",
+      "CardText": "Attach a Pokemon Tool to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.",
+      "Attack 1": "If this card is attached to a D Pokemon, each of the attacks of that Pokemon does 20 more damage to the Active Pokemon (before applying Weakness and Resistance).",
+      "code": "92/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60886,
+    "name": "Dark Patch",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84636_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84636_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84636_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "93/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "HP": "0",
+      "Stage": "Item",
+      "CardText": "You may play as many Item cards as you like during your turn (before your attack).",
+      "Attack 1": "Attach a basic D Energy card from your discard pile to 1 of your Benched D Pokemon.",
+      "code": "93/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60887,
+    "name": "Darkrai EX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84706_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84706_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84706_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "63/108",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Darkness",
+      "HP": "180",
+      "Stage": "Basic",
+      "CardText": "Dark Cloak - Each of your Pokemon that has any D Energy attached to it has no Retreat Cost.  (Ability)",
+      "Attack 1": "[1DD] Night Spear (90) Does 30 damage to 1 of your opponent's Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "code": "63/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60888,
+    "name": "Darkrai EX (107 Full Art)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84709_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84709_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84709_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "107/108",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Darkness",
+      "HP": "180",
+      "Stage": "Basic",
+      "CardText": "Dark Cloak - Each of your Pokemon that has any D Energy attached to it has no Retreat Cost.  (Ability)",
+      "Attack 1": "[1DD] Night Spear (90) Does 30 damage to 1 of your opponent's Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "code": "107/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60889,
+    "name": "Drilbur",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84966_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84966_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84966_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "55/108",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[FF] Scratch (30)",
+      "Weakness": "Wx2",
+      "Resistance": "L-20",
+      "RetreatCost": "2",
+      "code": "55/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60890,
+    "name": "Ducklett",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84993_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84993_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84993_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "35/108",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1W] Water Pulse (20) The Defending Pokemon is now Asleep.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "code": "35/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60891,
+    "name": "Dwebble",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85062_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85062_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85062_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "7/108",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[G] Beat (10)",
+      "Attack 2": "[2G] Cut (30)",
+      "Weakness": "Rx2",
+      "RetreatCost": "2",
+      "code": "7/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60892,
+    "name": "Eelektrik",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85068_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85068_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85068_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "46/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Headbutt (20)",
+      "Attack 2": "[1LL] Shock Bolt (80) Discard all L Energy attached to this Pokemon.",
+      "Weakness": "Fx2",
+      "RetreatCost": "2",
+      "code": "46/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60893,
+    "name": "Eelektross",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85071_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85071_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85071_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "47/108",
+      "Rarity": "Holo Rare",
+      "Card Type": "Lightning",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[2L] Suction Heal (40) Heal from this Pokemon the same amount of damage you did to the Defending Pokemon.",
+      "Attack 2": "[2LL] Slurp Shakedown - Switch the Defending Pokemon with 1 of your opponent's Benched Pokemon.  This attack does 60 damage to the new Defending Pokemon.",
+      "Weakness": "Fx2",
+      "RetreatCost": "3",
+      "code": "47/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60894,
+    "name": "Eevee (83)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85090_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85090_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85090_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "83/108",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Surprise Attack (20) Flip a coin.  If tails, this attack does nothing.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "83/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60895,
+    "name": "Eevee (84)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85091_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85091_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85091_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "84/108",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Smash Kick (10)",
+      "Attack 2": "[2] Tail Whap (20)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "84/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60896,
+    "name": "Empoleon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85201_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85201_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85201_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "29/108",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "Diving Draw - Once during your turn (before your attack), you may discard a card from your hand.  If you do, draw 2 cards.  (Ability)",
+      "Attack 1": "[W] Attack Command (10x) Does 10 damage times the number of Pokemon in play (both yours and your opponent's).",
+      "Weakness": "Lx2",
+      "RetreatCost": "2",
+      "code": "29/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60897,
+    "name": "Enhanced Hammer",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85265_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85265_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85265_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "94/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "HP": "0",
+      "Stage": "Item",
+      "CardText": "You may play as many Item cards as you like during your turn (before your attack).",
+      "Attack 1": "Discard a Special Energy attached to 1 of your opponent's Pokemon.",
+      "code": "94/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60898,
+    "name": "Entei EX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85279_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85279_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85279_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "13/108",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fire",
+      "HP": "180",
+      "Stage": "Basic",
+      "Attack 1": "[1R] Fire Fang (30) The Defending Pokemon is now Burned.",
+      "Attack 2": "[1RR] Grand Flame (90) Attach a R Energy card from your discard pile to 1 of your Benched Pokemon.",
+      "Weakness": "Wx2",
+      "RetreatCost": "3",
+      "code": "13/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60899,
+    "name": "Entei EX (103 Full Art)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85280_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85280_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85280_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "103/108",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fire",
+      "HP": "180",
+      "Stage": "Basic",
+      "Attack 1": "[1R] Fire Fang (30) The Defending Pokemon is now Burned.",
+      "Attack 2": "[1RR] Grand Flame (90) Attach a R Energy card from your discard pile to 1 of your Benched Pokemon.",
+      "Weakness": "Wx2",
+      "RetreatCost": "3",
+      "code": "103/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60900,
+    "name": "Escavalier",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85314_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85314_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85314_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "74/108",
+      "Rarity": "Rare",
+      "Card Type": "Metal",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[M] Joust (30) Before doing damage, discard a Pokemon Tool card attached to the Defending Pokemon.",
+      "Attack 2": "[1MM] Cavalry Lance (70) During your opponent's next turn, this Pokemon has no Weakness.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "3",
+      "code": "74/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60901,
+    "name": "Espeon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85325_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85325_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85325_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "48/108",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "CardText": "Solar Revelation - Prevent all effects of your opponent's attacks, except damage, done to each of your Pokemon that has any Energy attached to it.  (Ability)",
+      "Attack 1": "[2P] Psy Report (60) Your opponent reveals his or her hand.",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "code": "48/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60902,
+    "name": "Excadrill (56)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85338_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85338_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85338_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "56/108",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "Attack 1": "[F] Tunnel Strike - This attack does 30 damage to 1 of your opponent's Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Attack 2": "[FF] Dig Uppercut (50) Put a card from your discard pile into your hand.",
+      "Weakness": "Wx2",
+      "Resistance": "L-20",
+      "RetreatCost": "3",
+      "code": "56/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60903,
+    "name": "Excadrill (57)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85339_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85339_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85339_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "57/108",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "Attack 1": "[2F] Reinforced Drill (50+) If this Pokemon has a Pokemon Tool card attached to it, this attack does 30 more damage.",
+      "Attack 2": "[3F] Mach Claw (70) This attack's damage isn't affected by Resistance.",
+      "Weakness": "Wx2",
+      "Resistance": "L-20",
+      "RetreatCost": "4",
+      "code": "57/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60904,
+    "name": "Flareon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85500_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85500_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85500_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "12/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Sand-Attack (20) If the Defending Pokemon tries to attack during your opponent's next turn, your opponent flips a coin.  If tails, that attack does nothing.",
+      "Attack 2": "[2R] Fire Slash (60+) You may discard a R Energy attached to this Pokemon.  If you do, this attack does 30 more damage.",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "code": "12/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60905,
+    "name": "Galvantula",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85612_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85612_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85612_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "43/108",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[L] Quick Turn (20x) Flip 2 coins.  This attack does 20 damage times the number of heads.",
+      "Attack 2": "[1L] Electrisilk (30+) If the Defending Pokemon has no Retreat Cost, this attack does 40 more damage.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "43/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60906,
+    "name": "Gardevoir",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85638_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85638_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85638_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "109/108",
+      "Rarity": "Secret Rare",
+      "Card Type": "Psychic",
+      "HP": "110",
+      "Stage": "Stage 2",
+      "CardText": "<b>Ability </b>- Psychic Mirage \r\n<br>Each basic Psychic Energy attached to your Psychic Pokemon provides 2 Energy.  You can't apply more than 1 Psychic Mirage Ability at a time.",
+      "Attack 1": "[2PP] Mind Shock (60) \r\n<br>This attack's damage isn't affected by Weakness or Resistance.",
+      "Weakness": "Px2",
+      "RetreatCost": "2",
+      "code": "109/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60907,
+    "name": "Glaceon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85747_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85747_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85747_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "30/108",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Quick Attack (10+) Flip a coin.  If heads, this attack does 30 more damage.",
+      "Attack 2": "[1W] Reflect Energy (40) Move an Energy from this Pokemon to 1 of your Benched Pokemon.",
+      "Weakness": "Mx2",
+      "RetreatCost": "1",
+      "code": "30/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60908,
+    "name": "Groudon EX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85932_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85932_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85932_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "54/108",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fighting",
+      "HP": "180",
+      "Stage": "Basic",
+      "Attack 1": "[1F] Tromp (20) Does 10 damage to each of your opponent's Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Attack 2": "[1FF] Giant Claw (80+) If the Defending Pokemon already has 2 or more damage counters on it, this attack does 40 more damage.",
+      "Weakness": "Wx2",
+      "Resistance": "L-20",
+      "RetreatCost": "4",
+      "code": "54/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60909,
+    "name": "Groudon EX (106 Full Art)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85933_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85933_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85933_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "106/108",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fighting",
+      "HP": "180",
+      "Stage": "Basic",
+      "Attack 1": "[1F] Tromp (20) Does 10 damage to each of your opponent's Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Attack 2": "[1FF] Giant Claw (80+) If the Defending Pokemon already has 2 or more damage counters on it, this attack does 40 more damage.",
+      "Weakness": "Wx2",
+      "Resistance": "L-20",
+      "RetreatCost": "4",
+      "code": "106/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60910,
+    "name": "Gurdurr",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85982_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85982_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85982_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "59/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Low Kick (20)",
+      "Attack 2": "[2F] Steel Swing (60x) Flip 2 coins.  This attack does 60 damage times the number of heads.",
+      "Weakness": "Px2",
+      "RetreatCost": "2",
+      "code": "59/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60911,
+    "name": "Haxorus",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86033_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86033_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86033_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "89/108",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[3] Guillotine (60)",
+      "Attack 2": "[4] Stunning Uppercut (80) Flip 2 coins.  If both of them are heads, the Defending Pokemon is now Paralyzed.  If both of them are tails, this attack does nothing.",
+      "RetreatCost": "3",
+      "code": "89/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60912,
+    "name": "Heatmor",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86045_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86045_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86045_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "19/108",
+      "Rarity": "Rare",
+      "Card Type": "Fire",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[1] Hot Lick (10+) If the Defending Pokemon is Durant, this attack does 50 more damage.",
+      "Attack 2": "[2R] Firebreathing (50+) Flip a coin.  If heads, this attack does 20 more damage.",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "code": "19/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60913,
+    "name": "Herdier",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86070_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86070_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86070_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "87/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Roar - Your opponent switches the Defending Pokemon with 1 of his or her Benched Pokemon.",
+      "Attack 2": "[2] Tackle (30)",
+      "Weakness": "Fx2",
+      "RetreatCost": "2",
+      "code": "87/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60914,
+    "name": "Hooligans Jim & Cas",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86168_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86168_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86168_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "95/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "HP": "0",
+      "Stage": "Supporter",
+      "CardText": "You may play only 1 Supporter card per turn (before your attack).",
+      "Attack 1": "Flip a coin.  If heads, choose 3 random cards from your opponent's hand.  Your opponent reveals those cards and shuffles them into his or her deck.",
+      "code": "95/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60915,
+    "name": "Ivysaur",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86304_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86304_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86304_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "2/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1G] Sleep Powder (20) The Defending Pokemon is now Asleep.",
+      "Attack 2": "[1GG] Poison Powder (50) The Defending Pokemon is now Poisoned.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "3",
+      "code": "2/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60916,
+    "name": "Jolteon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86347_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86347_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86347_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "37/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Electrigun (20+) You may discard a L Energy attached to this Pokemon.  If you do, this attack does 40 more damage.",
+      "Attack 2": "[2L] Pin Missile (40x) Flip 4 coins.  This attack does 40 damage times the number of heads.",
+      "Weakness": "Fx2",
+      "RetreatCost": "0",
+      "code": "37/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60917,
+    "name": "Joltik (41)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86356_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86356_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86356_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "41/108",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "30",
+      "Stage": "Basic",
+      "Attack 1": "[1] Ram (10)",
+      "Attack 2": "[2] Bug Bite (20)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "41/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60918,
+    "name": "Joltik (42)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86357_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86357_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86357_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "42/108",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "30",
+      "Stage": "Basic",
+      "Attack 1": "[L] Static Shock (20)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "42/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60919,
+    "name": "Karrablast",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86426_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86426_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86426_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "9/108",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Beat (10)",
+      "Attack 2": "[3] Reckless Charge (40) This Pokemon does 10 damage to itself.",
+      "Weakness": "Rx2",
+      "RetreatCost": "1",
+      "code": "9/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60920,
+    "name": "Klang",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86476_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86476_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86476_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "76/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Metal",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Charge Beam (20) Flip a coin.  If heads, attach an Energy card from your discard pile to this Pokemon.",
+      "Attack 2": "[2M] Vice Grip (50)",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "3",
+      "code": "76/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60921,
+    "name": "Klink",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86482_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86482_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86482_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "75/108",
+      "Rarity": "Common",
+      "Card Type": "Metal",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[2] Smash Turn (20) Switch this Pokemon with 1 of your Benched Pokemon.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "3",
+      "code": "75/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60922,
+    "name": "Klinklang",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86487_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86487_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86487_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "77/108",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[1] Metal Blast (20+) Does 20 more damage for each M Energy attached to this Pokemon.",
+      "Attack 2": "[2MM] Lock Gear (60) Draw cards until you have 6 cards in your hand.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "4",
+      "code": "77/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60923,
+    "name": "Krokorok",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86538_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86538_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86538_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "65/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Darkness",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Mud-Slap (30)",
+      "Attack 2": "[2DD] Corkscrew Punch (70)",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "3",
+      "code": "65/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60924,
+    "name": "Krookodile",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86543_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86543_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86543_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "66/108",
+      "Rarity": "Holo Rare",
+      "Card Type": "Darkness",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "Attack 1": "[2D] Dark Clamp (60) The Defending Pokemon can't retreat during your opponent's next turn.",
+      "Attack 2": "[2DD] Bombast (40x) Does 40 damage times the number of Prize cards you have taken.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "3",
+      "code": "66/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60925,
+    "name": "Kyogre EX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86559_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86559_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86559_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "26/108",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Water",
+      "HP": "170",
+      "Stage": "Basic",
+      "Attack 1": "[1W] Smash Turn (30) You may switch this Pokemon with 1 of your Benched Pokemon.",
+      "Attack 2": "[1WW] Dual Splash - This attack does 50 damage to 2 of your opponent's Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "Lx2",
+      "RetreatCost": "4",
+      "code": "26/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60926,
+    "name": "Kyogre EX (104 Full Art)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86560_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86560_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86560_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "104/108",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Water",
+      "HP": "170",
+      "Stage": "Basic",
+      "Attack 1": "[1W] Smash Turn (30) You may switch this Pokemon with 1 of your Benched Pokemon.",
+      "Attack 2": "[1WW] Dual Splash - This attack does 50 damage to 2 of your opponent's Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "Lx2",
+      "RetreatCost": "4",
+      "code": "104/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60927,
+    "name": "Larvesta (20)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86629_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86629_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86629_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "20/108",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[2] Ram (20)",
+      "Attack 2": "[1RR] Flare (40)",
+      "Weakness": "Wx2",
+      "RetreatCost": "3",
+      "code": "20/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60928,
+    "name": "Larvesta (21)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86630_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86630_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86630_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "21/108",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1R] Super Singe (10) The Defending Pokemon is now Burned.",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "code": "21/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60929,
+    "name": "Leafeon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86682_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86682_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86682_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "6/108",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Quick Attack (10+) Flip a coin.  If heads, this attack does 30 more damage.",
+      "Attack 2": "[1G] Energy Assist (40) Attach a basic Energy card from your discard pile to 1 of your Benched Pokemon.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "code": "6/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60930,
+    "name": "Lillipup",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86799_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86799_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86799_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "86/108",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Tackle (10)",
+      "Attack 2": "[2] Take Down (30) This Pokemon does 10 damage to itself.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "86/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60931,
+    "name": "Minun",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87493_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87493_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87493_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "40/108",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Negative Ion - During your opponent's next turn, any damage done by attacks from the Defending Pokemon is reduced by 30 (before applying Weakness and Resistance).",
+      "Attack 2": "[L] Electrishower - This attack does 10 damage to each of your opponent's Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "40/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60932,
+    "name": "N (Supporter)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87676_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87676_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87676_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "96/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "You may play only 1 Supporter card per turn (before your attack).\r\n<br>\r\n<br>Each player shuffles his or her hand into his or her deck.  Then, each player draws a card for each of his or her remaining Prize cards.",
+      "code": "96/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60933,
+    "name": "Old Amber Aerodactyl",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87850_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87850_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87850_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "97/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "HP": "0",
+      "Stage": "Item",
+      "CardText": "You may play as many Item cards as you like during your turn (before your attack).",
+      "Attack 1": "Look at the bottom 7 cards of your deck.  You may reveal an Aerodactyl you find there and put it onto your Bench.  Shuffle the other cards back into your deck.",
+      "code": "97/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60934,
+    "name": "Palpitoad",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87923_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87923_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87923_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "32/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1W] Bubble Beam (30) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "Gx2",
+      "RetreatCost": "2",
+      "code": "32/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60935,
+    "name": "Pawniard",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87969_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87969_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87969_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "78/108",
+      "Rarity": "Common",
+      "Card Type": "Metal",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[2] Scratch (20)",
+      "Attack 2": "[1MM] Metal Claw (40)",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "code": "78/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60936,
+    "name": "Piplup",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88152_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88152_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88152_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "27/108",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[W] Fury Attack (10x) Flip 3 coins.  This attack does 10 damage times the number of heads.",
+      "Weakness": "Lx2",
+      "RetreatCost": "1",
+      "code": "27/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60937,
+    "name": "Plusle",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88173_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88173_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88173_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "39/108",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Tag Draw - Shuffle your hand into your deck.  Then, draw 4 cards.  If Minun is on your Bench, draw 4 more cards.",
+      "Attack 2": "[L] Positive Ion (20+) Flip a coin.  If heads, this attack does 10 more damage.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "39/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60938,
+    "name": "Pokemon Catcher (Gold)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88212_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88212_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88212_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "111/108",
+      "Rarity": "Secret Rare",
+      "Card Type": "Item",
+      "HP": "0",
+      "Stage": "Item",
+      "CardText": "You may play as many Item cards as you like during your turn (before your attack).",
+      "Attack 1": "Switch your opponent's Active Pokemon with 1 of his or her Benched Pokemon.",
+      "code": "111/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60939,
+    "name": "Prinplup",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88372_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88372_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88372_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "28/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Razor Wing (20)",
+      "Attack 2": "[2W] Fury Attack (30x) Flip 3 coins.  This attack does 30 damage times the number of heads.",
+      "Weakness": "Lx2",
+      "RetreatCost": "2",
+      "code": "28/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60940,
+    "name": "Professor Juniper",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88396_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88396_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88396_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "98/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "HP": "0",
+      "Stage": "Supporter",
+      "CardText": "You may play only 1 Supporter card per turn (before your attack).",
+      "Attack 1": "Discard your hand and draw 7 cards.",
+      "code": "98/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60941,
+    "name": "Raikou EX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88541_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88541_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88541_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "38/108",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Lightning",
+      "HP": "170",
+      "Stage": "Basic",
+      "Attack 1": "[1L] Thunder Fang (30) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[1LL] Volt Bolt - Discard all L Energy attached to this Pokemon.  This attack does 100 damage to 1 of your opponent's Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "38/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60942,
+    "name": "Raikou EX (105 Full Art)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88542_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88542_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88542_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "105/108",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Lightning",
+      "HP": "170",
+      "Stage": "Basic",
+      "Attack 1": "[1L] Thunder Fang (30) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[1LL] Volt Bolt - Discard all L Energy attached to this Pokemon.  This attack does 100 damage to 1 of your opponent's Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "105/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60943,
+    "name": "Random Receiver",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88573_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88573_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88573_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "99/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "HP": "0",
+      "Stage": "Item",
+      "CardText": "You may play as many Item cards as you like during your turn (before your attack).",
+      "Attack 1": "Reveal cards from the top of your deck until you reveal a Supporter card.  Put it into your hand.  Shuffle the other cards back into your deck.",
+      "code": "99/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60944,
+    "name": "Rare Candy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88596_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88596_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88596_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "100/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "HP": "0",
+      "Stage": "Item",
+      "CardText": "You may play as many Item cards as you like during your turn (before your attack).",
+      "Attack 1": "Choose 1 of your Basic Pokemon in play.  If you have a Stage 2 card that evolves from that Pokemon in your hand, put that card on the Basic Pokemon.  (This counts as evolving that Pokemon.) You can't use this card during your first turn or on a Basic Pokemon that was put into play this turn.",
+      "code": "100/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60945,
+    "name": "Sableye",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88855_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88855_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88855_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "62/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Darkness",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Confuse Ray (10) Flip a coin.  If heads, the Defending Pokemon is now Confused.",
+      "Attack 2": "[D] Junk Hunt - Put 2 Item cards from your discard pile into your hand.",
+      "RetreatCost": "1",
+      "code": "62/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60946,
+    "name": "Sandile",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88915_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88915_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88915_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "64/108",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Sand Dive - Flip a coin.  If heads, prevent all damage done to this Pokemon by attacks during your opponent's next turn.",
+      "Attack 2": "[2D] Corkscrew Punch (40)",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "code": "64/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60947,
+    "name": "Scrafty",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88979_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88979_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88979_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "68/108",
+      "Rarity": "Rare",
+      "Card Type": "Darkness",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Headbutt (30)",
+      "Attack 2": "[1DD] Crushing Blow (70) Flip a coin.  If heads, discard an Energy attached to the Defending Pokemon.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "code": "68/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60948,
+    "name": "Scraggy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88984_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88984_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88984_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "67/108",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1D] Rising Lunge (10+) Flip a coin.  If heads, this attack does 20 more damage.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "code": "67/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60949,
+    "name": "Scyther",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89005_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89005_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89005_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "4/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[3] Air Slash (60) Discard an Energy attached to this Pokemon.",
+      "Weakness": "Rx2",
+      "RetreatCost": "1",
+      "code": "4/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60950,
+    "name": "Shelmet",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89147_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89147_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89147_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "10/108",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[GG] Body Slam (20) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "Rx2",
+      "RetreatCost": "3",
+      "code": "10/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60951,
+    "name": "Slowbro",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89309_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89309_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89309_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "24/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "CardText": "Airhead - If you have 2, 4, or 6 Prize cards left, this Pokemon can't attack.  (Ability)",
+      "Attack 1": "[1W] Lazy Headbutt (80) This Pokemon is now Asleep.",
+      "Weakness": "Lx2",
+      "RetreatCost": "3",
+      "code": "24/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60952,
+    "name": "Slowking",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89320_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89320_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89320_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "49/108",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[P] Psy Bolt (20) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[2P] Hand Press (50+) If you have more cards in your hand than your opponent, this attack does 30 more damage.",
+      "Weakness": "Px2",
+      "RetreatCost": "2",
+      "code": "49/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60953,
+    "name": "Slowpoke",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89335_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89335_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89335_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "23/108",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Big Yawn - Both the Pokemon and the Defending Pokemon are now Asleep.",
+      "Attack 2": "[1W] Shot in the Dark (20) Flip 2 coins.  If either of them is tails, this attack does nothing.",
+      "Weakness": "Lx2",
+      "RetreatCost": "3",
+      "code": "23/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60954,
+    "name": "Stoutland",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89571_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89571_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89571_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "88/108",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "130",
+      "Stage": "Stage 2",
+      "Attack 1": "[3] Special Fang (40+) If this Pokemon has any Special Energy attached to it, this attack does 40 more damage.",
+      "Attack 2": "[4] Ferocious Bellow (60) During your opponent's next turn, any damage done by attacks from the Defending Pokemon is reduced by 30 (before applying Weakness and Resistance).",
+      "Weakness": "Fx2",
+      "RetreatCost": "3",
+      "code": "88/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60955,
+    "name": "Swanna",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89686_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89686_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89686_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "36/108",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[W] Healing Pirouette - Heal 30 damage from each of your Pokemon.",
+      "Attack 2": "[1WW] Incessant Peck (60+) Flip a coin until you get tails.  This attack does 20 more damage for each tails.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "code": "36/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60956,
+    "name": "Timburr",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89915_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89915_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89915_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "58/108",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Low Kick (10)",
+      "Attack 2": "[2F] Hammer In (30)",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "code": "58/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60957,
+    "name": "Torchic (14)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89962_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89962_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89962_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "14/108",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1R] Reckless Charge (30)",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "code": "14/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60958,
+    "name": "Torchic (15)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89963_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89963_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89963_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "15/108",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[R] Peck (10)",
+      "Attack 2": "[1R] Live Coal (20)",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "code": "15/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60959,
+    "name": "Torkoal",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89973_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89973_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89973_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "18/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[1] Flame Cloak (10) Flip a coin.  If heads, attach a R Energy card from your discard pile to this Pokemon.",
+      "Attack 2": "[2R] Heat Blast (60)",
+      "Weakness": "Wx2",
+      "RetreatCost": "2",
+      "code": "18/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60960,
+    "name": "Tornadus EX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89978_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89978_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89978_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "90/108",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Colorless",
+      "HP": "170",
+      "Stage": "Basic",
+      "Attack 1": "[2] Blow Through (30+) If there is any Stadium card in play, this attack does 30 more damage.",
+      "Attack 2": "[3] Power Blast (100) Flip a coin.  If tails, discard an Energy attached to this Pokemon.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "code": "90/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60961,
+    "name": "Tornadus EX (108 Full Art)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89980_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89980_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89980_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "108/108",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Colorless",
+      "HP": "170",
+      "Stage": "Basic",
+      "Attack 1": "[2] Blow Through (30+) If there is any Stadium card in play, this attack does 30 more damage.",
+      "Attack 2": "[3] Power Blast (100) Flip a coin.  If tails, discard an Energy attached to this Pokemon.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "code": "108/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60962,
+    "name": "Twist Mountain",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90087_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90087_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90087_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "101/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "HP": "0",
+      "Stage": "Stadium",
+      "CardText": "This card stays in play when you play it.  Discard this card if another Stadium card comes into play.  If another card with the same name is in play, you can't play this card.",
+      "Attack 1": "Once during each player's turn, that player may flip a coin.  If heads, the player puts a Restored Pokemon from his or her hand onto his or her Bench.",
+      "code": "101/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60963,
+    "name": "Tympole",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90089_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90089_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90089_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "31/108",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1G] Spiral Drain (20) Heal 20 damage from this Pokemon.",
+      "Weakness": "Gx2",
+      "RetreatCost": "1",
+      "code": "31/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60964,
+    "name": "Tynamo (44)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90095_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90095_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90095_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "44/108",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Charge Beam (10) Flip a coin.  If heads, attach an Energy card from your discard pile to this Pokemon.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "44/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60965,
+    "name": "Tynamo (45)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90096_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90096_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90096_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "45/108",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[L] Spark (10) Does 10 damage to 1 of your opponent's Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "45/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60966,
+    "name": "Ultra Ball",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90134_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90134_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90134_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "102/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "HP": "0",
+      "Stage": "Item",
+      "CardText": "You may play as many Item cards as you like during your turn (before your attack).",
+      "Attack 1": "Discard 2 cards from your hand.  (If you can't discard 2 cards, you can't play this card.)  Search your deck for a Pokemon, reveal it, and put it into your hand.  Shuffle your deck afterward.",
+      "code": "102/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60967,
+    "name": "Umbreon (60)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90148_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90148_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90148_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "60/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Darkness",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Shadow Drain (30) Heal from this Pokemon the same amount of damage you did to the Defending Pokemon.",
+      "Attack 2": "[2D] Slashing Strike (80)",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "code": "60/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60968,
+    "name": "Umbreon (61)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90149_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90149_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90149_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "61/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Darkness",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Confuse Ray (20) The Defending Pokemon is now Confused.",
+      "Attack 2": "[2D] Shadow Shutdown (60) Flip 2 coins.  If both of them are heads, discard all Energy attached to the Defending Pokemon.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "code": "61/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60969,
+    "name": "Vanillish",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90265_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90265_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90265_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "34/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[W] Triple Spin (20x) Flip 3 coins.  This attack does 20 damage times the number of heads.",
+      "Attack 2": "[2W] Frost Breath (50)",
+      "Weakness": "Mx2",
+      "RetreatCost": "1",
+      "code": "34/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60970,
+    "name": "Vanillite",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90270_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90270_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90270_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "33/108",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Double Spin (10x) Flip 2 coins.  This attack does 10 damage times the number of heads.",
+      "Weakness": "Mx2",
+      "RetreatCost": "1",
+      "code": "33/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60971,
+    "name": "Vaporeon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90288_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90288_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90288_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "25/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Muddy Water (20) Does 20 damage to 1 of your opponent's Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Attack 2": "[2W] Spiral Drain (60 Heal 20 damage from this Pokemon.",
+      "Weakness": "Lx2",
+      "RetreatCost": "2",
+      "code": "25/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60972,
+    "name": "Venusaur",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90322_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90322_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90322_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "3/108",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "Floral Scent - Once during your turn (before your attack), you may search your deck for a Pokemon, reveal it, and put it into your hand.  Shuffle your deck afterward.  (Ability)",
+      "Attack 1": "[2GG] Poison Powder (70) The Defending Pokemon is now Poisoned.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "4",
+      "code": "3/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60973,
+    "name": "Volcarona",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90404_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90404_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90404_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "22/108",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "CardText": "Scorching Scales - Put 4 damage counters instead of 2 on your opponent's Burned Pokemon between turns.  (Ability)",
+      "Attack 1": "[2R] Burning Wind (70) You may discard an Energy attached to this Pokemon.  If you do, the Defending Pokemon is now Burned.",
+      "Weakness": "Wx2",
+      "RetreatCost": "3",
+      "code": "22/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60974,
+    "name": "Vullaby",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90430_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90430_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90430_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "73/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Darkness",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[D] Whirlwind (10) Your opponent switches the Defending Pokemon with 1 of his or her Benched Pokemon.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "code": "73/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60975,
+    "name": "Woobat",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90626_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90626_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90626_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "50/108",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[P] Supersonic - Flip a coin.  If heads, the Defending Pokemon is now Confused.",
+      "Attack 2": "[1P] Heart Stamp (20)",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "code": "50/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60976,
+    "name": "Yamask",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90677_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90677_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90677_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "51/108",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Astonish (10) Flip a coin.  If heads, choose a card at random from your opponent's hand.  Your opponent reveals that card and shuffles it into his or her deck.",
+      "Weakness": "Dx2",
+      "RetreatCost": "1",
+      "code": "51/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60977,
+    "name": "Zoroark",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90754_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90754_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90754_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "71/108",
+      "Rarity": "Rare",
+      "Card Type": "Darkness",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Brutal Bash (20x) Does 20 damage times the number of D Pokemon you have in play.",
+      "Attack 2": "[DD] Dark Rush (20x) Does 20 damage times the number of damage counters on this Pokemon.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "code": "71/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60978,
+    "name": "Zorua (69)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90761_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90761_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90761_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "69/108",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[D] Ascension - Search your deck for a card that evolves from this Pokemon and put it onto this Pokemon.  (This counts as evolving this Pokemon.)  Shuffle your deck afterward.",
+      "Attack 2": "[2] Scratch (20)",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "code": "69/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dark-explorers",
+    "id": 60979,
+    "name": "Zorua (70)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90762_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90762_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90762_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "70/108",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Paralyzing Gaze - Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[1D] Shadow Bind (20) The Defending Pokemon can't retreat during your opponent's next turn.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "code": "70/108"
+    }
+  }
+]

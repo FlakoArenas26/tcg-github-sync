@@ -1,0 +1,1845 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47313,
+    "name": "Absol",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223038_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223038_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223038_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "38/73",
+      "Rarity": "Uncommon",
+      "Card Type": "Darkness",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[DD] Dark Cutter (70)",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "kodama",
+      "code": "38/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47298,
+    "name": "Alcremie V",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223015_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223015_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223015_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "22/73",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Psychic",
+      "HP": "170",
+      "Stage": "Basic",
+      "Attack 1": "[P] Sugary Sprinkles\r\n<br>Heal 30 damage from each of your Benched Pokemon.",
+      "Attack 2": "[1PP] Sweet Splash (100)\r\n<br>If the Defending Pokemon is a Basic Pokemon, it can't attack during your opponent's next turn.",
+      "Weakness": "Mx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "Ayaka Yoshida",
+      "code": "22/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47299,
+    "name": "Alcremie VMAX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223016_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223016_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223016_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "23/73",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Psychic",
+      "HP": "310",
+      "Stage": "VMAX",
+      "Attack 1": "[1] Adornment\r\n<br>For each of your Benched Pokemon, search your deck for a Psychic Energy card and attach it to that Pokemon. Then, shuffle your deck.",
+      "Attack 2": "[PP] G-Max Whisk (60x)\r\n<br>Discard any amount of Energy from your Pokemon. This attack does 60 damage for each card you discarded in this way.",
+      "Weakness": "Mx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "Artist": "5ban Graphics",
+      "code": "23/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47324,
+    "name": "Altaria",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223049_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223049_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223049_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "49/73",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Ability — Miraculous Charm</strong>\r\n<br>Prevent all damage done to this Pokemon by attacks from your opponent's Pokemon V and Pokemon-GX.",
+      "Attack 1": "[2] Speed Dive (60)",
+      "Weakness": "Lx2",
+      "Resistance": "F-30",
+      "RetreatCost": "1",
+      "Artist": "Taira Akitsu",
+      "code": "49/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47309,
+    "name": "Arbok",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223026_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223026_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223026_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "34/73",
+      "Rarity": "Uncommon",
+      "Card Type": "Darkness",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Sharp Fang (30)",
+      "Attack 2": "[1D] Tail Snap (70)",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "nagimiso",
+      "code": "34/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47325,
+    "name": "Bede",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223050_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223050_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223050_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "50/73",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "Attach a basic Energy card from your hand to 1 of your Benched Pokemon.",
+      "Artist": "Naoki Saito",
+      "code": "50/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47283,
+    "name": "Beedrill",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/222998_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/222998_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/222998_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "04/73",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[G] Poison Jab (80)\r\n<br>Your opponent's Active Pokemon is now Poisoned.",
+      "Weakness": "Rx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "Hideki Ishikawa",
+      "code": "04/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47289,
+    "name": "Carvanha",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223006_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223006_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223006_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "11/73",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[W] Bite (10)",
+      "Weakness": "Lx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "Shigenori Negishi",
+      "code": "11/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47288,
+    "name": "Centiskorch",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223005_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223005_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223005_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "10/73",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "130",
+      "Stage": "Stage 1",
+      "Attack 1": "[2R] Searing Flame (50)\r\n<br>Your opponent's Active Pokemon is now Burned.",
+      "Attack 2": "[2RR] Heat Crawler (140)",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "Artist": "Shin Nagasawa",
+      "code": "10/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47353,
+    "name": "Charizard V (Secret)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223078_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223078_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223078_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "79/73",
+      "Rarity": "Secret Rare",
+      "Card Type": "Fire",
+      "HP": "220",
+      "Stage": "Basic",
+      "Attack 1": "[3] Claw Slash (80)",
+      "Attack 2": "[2RR] Fire Spin (220)\r\n<br>Discard 2 Energy from this Pokemon.",
+      "Weakness": "Wx2",
+      "RetreatCost": "3",
+      "Artist": "5ban Graphics",
+      "code": "79/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47348,
+    "name": "Charizard VMAX (Secret)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223073_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223073_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223073_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "74/73",
+      "Rarity": "Secret Rare",
+      "Card Type": "Fire",
+      "HP": "330",
+      "Stage": "VMAX",
+      "Attack 1": "[3] Claw Slash (100)",
+      "Attack 2": "[2RRR] G-Max Wildfire (300)\r\n<br>Discard 2 Energy from this Pokémon.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "74/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47292,
+    "name": "Drednaw V",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223009_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223009_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223009_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "14/73",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Water",
+      "HP": "210",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Solid Shell</strong>\r\n<br>This Pokemon takes 30 less damage from attacks <em>(after applying Weakness and Resistance)</em>.",
+      "Attack 1": "[1WW] Powerful Bite (130)\r\n<br>During your opponent's next turn, the Defending Pokemon can't retreat.",
+      "Weakness": "Lx2",
+      "Resistance": "None",
+      "RetreatCost": "4",
+      "Artist": "aky CG Works",
+      "code": "14/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47343,
+    "name": "Drednaw V (Full Art)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223068_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223068_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223068_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "69/73",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Water",
+      "HP": "210",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Solid Shell</strong>\r\n<br>This Pokemon takes 30 less damage from attacks <em>(after applying Weakness and Resistance)</em>.",
+      "Attack 1": "[1WW] Powerful Bite (130)\r\n<br>During your opponent's next turn, the Defending Pokemon can't retreat.",
+      "Weakness": "Lx2",
+      "Resistance": "None",
+      "RetreatCost": "4",
+      "Artist": "aky CG Works",
+      "code": "69/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47293,
+    "name": "Drednaw VMAX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223010_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223010_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223010_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "15/73",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Water",
+      "HP": "320",
+      "Stage": "VMAX",
+      "CardText": "<strong>Ability — Solid Shell</strong>\r\n<br>This Pokemon takes 30 less damage from attacks <em>(after applying Weakness and Resistance)</em>.",
+      "Attack 1": "[1WW] G-Max Headbutt (160+)\r\n<br>Flip a coin. If heads, this attack does 80 more damage.",
+      "Weakness": "Lx2",
+      "Resistance": "None",
+      "RetreatCost": "4",
+      "Artist": "aky CG Works",
+      "code": "15/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47349,
+    "name": "Drednaw VMAX (Secret)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223074_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223074_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223074_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "75/73",
+      "Rarity": "Secret Rare",
+      "Card Type": "Water",
+      "HP": "320",
+      "Stage": "VMAX",
+      "CardText": "<strong>Ability — Solid Shell</strong>                                          \r\n<br>This Pokemon takes 30 less damage from attacks <em>(after applying Weakness and Resistance).</em>",
+      "Attack 1": "[WW1] G-Max Headbutt (160+)\r\n<br>Flip a coin. If heads, this attack does 80 more damage.",
+      "Weakness": "Lx2",
+      "RetreatCost": "4",
+      "Artist": "aky CG Works",
+      "code": "75/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47322,
+    "name": "Duraludon V",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223047_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223047_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223047_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "47/73",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Metal",
+      "HP": "220",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Hard Coat</strong>\r\n<br>This Pokemon takes 30 less damage from attacks <em>(after applying Weakness and Resistance)</em>.",
+      "Attack 1": "[3] Gatling Slug (10+)\r\n<br>This attack does 40 more damage for each Metal Energy attached to this Pokemon.",
+      "Weakness": "Rx2",
+      "Resistance": "G-30",
+      "RetreatCost": "3",
+      "Artist": "aky CG Works",
+      "code": "47/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47308,
+    "name": "Ekans",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223025_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223025_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223025_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "33/73",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Ram (10)",
+      "Attack 2": "[1D] Tail Snap (30)",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "Uta",
+      "code": "33/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47284,
+    "name": "Eldegoss V",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223001_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223001_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223001_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "05/73",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Grass",
+      "HP": "180",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Happy Match</strong>\r\n<br>When you play this Pokemon from your hand onto your Bench during your turn, you may put a Supporter card from your discard pile into your hand.",
+      "Attack 1": "[2] Float Up (50)\r\n<br>You may shuffle this Pokemon and all attached cards into your deck.",
+      "Weakness": "Rx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "5ban Graphics",
+      "code": "05/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47326,
+    "name": "Full Heal",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223051_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223051_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223051_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "51/73",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Your Active Pokemon recovers from all Special Conditions.",
+      "Artist": "Yoshinobu Saito",
+      "code": "51/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47297,
+    "name": "Galarian Cursola V",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223014_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223014_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223014_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "21/73",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Psychic",
+      "HP": "190",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Gnawing Aura</strong>\r\n<br>As long as this Pokemon is in the Active Spot, whenever your opponent attaches an Energy card from their hand to 1 of their Pokemon, put 3 damage counters on that Pokemon.",
+      "Attack 1": "[1P] Hollow Missile (60)\r\n<br>Put 3 damage counters on your opponent's Benched Pokemon in any way you like.",
+      "Weakness": "Dx2",
+      "Resistance": "F-30",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "21/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47345,
+    "name": "Galarian Cursola V (Full Art)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223070_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223070_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223070_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "71/73",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Psychic",
+      "HP": "190",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Gnawing Aura</strong>\r\n<br>As long as this Pokemon is in the Active Spot, whenever your opponent attaches an Energy card from their hand to 1 of their Pokemon, put 3 damage counters on that Pokemon.",
+      "Attack 1": "[1P] Hollow Missile (60)\r\n<br>Put 3 damage counters on your opponent's Benched Pokemon in any way you like.",
+      "Weakness": "Dx2",
+      "Resistance": "F-30",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "71/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47311,
+    "name": "Galarian Linoone",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223036_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223036_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223036_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "36/73",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Double-Edge (60)\r\n<br>This Pokemon also does 20 damage to itself.",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "Akira Komayama",
+      "code": "36/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47312,
+    "name": "Galarian Obstagoon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223037_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223037_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223037_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "37/73",
+      "Rarity": "Holo Rare",
+      "Card Type": "Darkness",
+      "HP": "170",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Wicked Ruler</strong>\r\n<br>Once during your turn, you may have your opponent discard cards from their hand until they have 4 cards in their hand.",
+      "Attack 1": "[3] Knuckle Impact (180)\r\n<br>During your next turn, this Pokemon can't attack.",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "Shin Nagasawa",
+      "code": "37/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47310,
+    "name": "Galarian Zigzagoon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223027_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223027_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223027_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "35/73",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Pin Missile (10x)\r\n<br>Flip 4 coins. This attack does 10 damage for each heasd.",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "Kouki Saitou",
+      "code": "35/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47276,
+    "name": "Gardevoir V",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/222327_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/222327_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/222327_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "16/73",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Psychic",
+      "HP": "210",
+      "Stage": "Basic",
+      "Attack 1": "[P] Magical Shot",
+      "Attack 2": "[1PP] Swelling Pulse (120+)\r\n<br>If this Pokemon was healed during this turn, this attack does 80 more damage.",
+      "Weakness": "Mx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "Kagemaru Himeno",
+      "code": "16/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47344,
+    "name": "Gardevoir V (Full Art)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223069_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223069_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223069_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "70/73",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Psychic",
+      "HP": "210",
+      "Stage": "Basic",
+      "Attack 1": "[P] Magical Shot",
+      "Attack 2": "[1PP] Swelling Pulse (120+)\r\n<br>If this Pokemon was healed during this turn, this attack does 80 more damage.",
+      "Weakness": "Mx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "Kagemaru Himeno",
+      "code": "70/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47277,
+    "name": "Gardevoir VMAX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/222328_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/222328_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/222328_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "17/73",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Psychic",
+      "HP": "320",
+      "Stage": "VMAX",
+      "Attack 1": "[1PP] Max Cure (180)\r\n<br>Heal 50 damage from this Pokemon.",
+      "Weakness": "Mx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "17/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47350,
+    "name": "Gardevoir VMAX (Secret)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223075_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223075_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223075_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "76/73",
+      "Rarity": "Secret Rare",
+      "Card Type": "Psychic",
+      "HP": "320",
+      "Stage": "VMAX",
+      "Attack 1": "[PP1] Max Cure (180)\r\n<br>Heal 50 damage from this Pokemon.",
+      "Weakness": "Mx2",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "76/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47307,
+    "name": "Grapploct V",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223024_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223024_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223024_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "32/73",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fighting",
+      "HP": "210",
+      "Stage": "Basic",
+      "Attack 1": "[F] Tie Up (20)\r\n<br>If the Defending Pokemon is a Basic Pokemon, it can't attack during your opponent's next turn.",
+      "Attack 2": "[1FF] Moonsault Press (120+)\r\n<br>Flip a coin. If heads, this attack does 100 more damage.",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "PLANETA Igarashi",
+      "code": "32/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47346,
+    "name": "Grapploct V (Full Art)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223071_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223071_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223071_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "72/73",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fighting",
+      "HP": "210",
+      "Stage": "Basic",
+      "Attack 1": "[F] Tie Up (20)\r\n<br>If the Defending Pokemon is a Basic Pokemon, it can't attack during your opponent's next turn.",
+      "Attack 2": "[1FF] Moonsault Press (120+)\r\n<br>Flip a coin. If heads, this attack does 100 more damage.",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "PLANETA Igarashi",
+      "code": "72/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47327,
+    "name": "Great Ball",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223052_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223052_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223052_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "52/73",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Look at the top 7 cards of your deck. You may reveal a Pokemon you find there and put it into your hand. Shuffle the other cards back into your deck.",
+      "Artist": "Toyste Beach",
+      "code": "52/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47294,
+    "name": "Hatenna",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223011_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223011_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223011_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "18/73",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[P] Stampede (10)",
+      "Attack 2": "[1P] Magical Shot (30)",
+      "Weakness": "Dx2",
+      "Resistance": "F-30",
+      "RetreatCost": "1",
+      "Artist": "Akira Komayama",
+      "code": "18/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47296,
+    "name": "Hatterene",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223013_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223013_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223013_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "20/73",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Hazard Sensor</strong>\r\n<br>If this Pokemon is in the Active Spot and is damaged by an attack from your opponent's Pokemon <em>(even if this Pokemon is Knocked Out)</em>, the Attacking Pokemon is now Confused.",
+      "Attack 1": "[1P] Life Sucker (100)\r\n<br>Heal 30 damage from this Pokemon.",
+      "Weakness": "Dx2",
+      "Resistance": "F-30",
+      "RetreatCost": "2",
+      "Artist": "Naoki Saito",
+      "code": "20/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47295,
+    "name": "Hattrem",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223012_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223012_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223012_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "19/73",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[P] Beat (20)",
+      "Attack 2": "[1P] Super Psy Bolt (40)",
+      "Weakness": "Dx2",
+      "Resistance": "F-30",
+      "RetreatCost": "2",
+      "Artist": "Hitoshi Ariga",
+      "code": "19/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47328,
+    "name": "Hop",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223053_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223053_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223053_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "53/73",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "Draw 3 cards.",
+      "Artist": "Sanosuke Sakuma",
+      "code": "53/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47347,
+    "name": "Hop (Full Art)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223072_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223072_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223072_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "73/73",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Supporter",
+      "CardText": "Draw 3 cards.",
+      "Artist": "Sanosuke Sakuma",
+      "code": "73/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47329,
+    "name": "Hyper Potion",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223054_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223054_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223054_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "54/73",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Heal 120 damage from 1 of your Pokemon that has at least 2 Energy attached. If you healed any damage in this way, discard 2 Energy from it.",
+      "Artist": "Ryo Ueda",
+      "code": "54/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47278,
+    "name": "Incineroar V",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/222329_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/222329_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/222329_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "08/73",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fire",
+      "HP": "220",
+      "Stage": "Basic",
+      "Attack 1": "[1RR] Grand Flame (90)\r\n<br>Attach up to 2 Fire Energy cards from your discard pile to 1 of your Benched Pokemon.",
+      "Attack 2": "[1RRR] Flare Blitzer (220)\r\n<br>This Pokemon also does 30 damage to itself.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "Artist": "Kouki Saitou",
+      "code": "08/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47319,
+    "name": "Inkay",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223044_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223044_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223044_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "44/73",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[D] Tackle (10)",
+      "Attack 2": "[2] Attack from Behind (20+)\r\n<br>If your opponent's Active Pokemon is Confused, this attack does 50 more damage.",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "sui",
+      "code": "44/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47330,
+    "name": "Kabu",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223055_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223055_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223055_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "55/73",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "Shuffle your hand into your deck. Then, draw 4 cards. If your Active Pokemon is your only Pokemon in play, draw 8 cards instead.",
+      "Artist": "take",
+      "code": "55/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47351,
+    "name": "Kabu (Secret)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223076_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223076_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223076_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "77/73",
+      "Rarity": "Secret Rare",
+      "Card Type": "Supporter",
+      "CardText": "Shuffle your hand into your deck. Then, draw 4 cards. If your Active Pokemon is your only Pokemon in play, draw 8 cards instead.",
+      "Artist": "Hitoshi Ariga",
+      "code": "77/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47282,
+    "name": "Kakuna",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/222997_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/222997_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/222997_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "03/73",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[G] Bug Bite (30)",
+      "Weakness": "Rx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "Artist": "Miki Tanaka",
+      "code": "03/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47315,
+    "name": "Liepard",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223040_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223040_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223040_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "40/73",
+      "Rarity": "Uncommon",
+      "Card Type": "Darkness",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Ability — Limber</strong>\r\n<br>This Pokemon can't be Paralyzed.",
+      "Attack 1": "[2D] Slashing Claw (90)",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "Hasuno",
+      "code": "40/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47279,
+    "name": "Lucario V",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/222330_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/222330_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/222330_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "27/73",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fighting",
+      "HP": "210",
+      "Stage": "Basic",
+      "Attack 1": "[F] Aura Sphere (40)\r\n<br>This attack also does 20 damage to 1 of your opponent's Benched Pokemon. <em>(Don't apply Weakness and Resistance for Benched Pokemon.)</em>",
+      "Attack 2": "[1FF] Beatdown Smash (180)\r\n<br>During your next turn, this Pokemon can't use Beatdown Smash.",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "27/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47305,
+    "name": "Lycanroc",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223022_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223022_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223022_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "30/73",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Rock Throw (30)",
+      "Attack 2": "[1FF] Slashing Strike (150)\r\n<br>During your next turn, this Pokemon can't use Slashing Strike.",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "Ryuta Fuse",
+      "code": "30/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47302,
+    "name": "Machamp",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223019_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223019_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223019_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "26/73",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "170",
+      "Stage": "Stage 2",
+      "Attack 1": "[1F] Macho Revenge (20x)\r\n<br>This attack does 20 damage for each Fighting Pokemon in your discard pile.",
+      "Attack 2": "[1FF] Dynamite Punch (200)\r\n<br>This Pokemon also does 50 damage to itself.",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "Artist": "Anesaki Dynamic",
+      "code": "26/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47301,
+    "name": "Machoke",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223018_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223018_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223018_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "25/73",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "Attack 1": "[F] Low Kick (30)",
+      "Attack 2": "[1FF] Pummel (50+)\r\n<br>Flip a coin. If heads, this attack does 70 more damage.",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "Artist": "AKIRA EGAWA",
+      "code": "25/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47300,
+    "name": "Machop",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223017_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223017_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223017_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "24/73",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[F] Low Kick (10)",
+      "Attack 2": "[1F] Steady Punch (20+)\r\n<br>Flip a coin. If heads, this attack does 40 more damage.",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "Shibuzoh.",
+      "code": "24/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47320,
+    "name": "Malamar",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223045_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223045_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223045_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "45/73",
+      "Rarity": "Uncommon",
+      "Card Type": "Darkness",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "Attack 1": "[1D] Eerie Wave (50)\r\n<br>Your opponent's Active Pokemon is now Confused.",
+      "Attack 2": "[1DD] Random Peck (80+)\r\n<br>Flip 2 coins. This attack does 40 more damage for each heads.",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "Artist": "kowayoo",
+      "code": "45/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47331,
+    "name": "Marnie",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223056_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223056_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223056_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "56/73",
+      "Rarity": "Holo Rare",
+      "Card Type": "Supporter",
+      "CardText": "Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, you draw 5 cards, and your opponent draws 4 cards.",
+      "Artist": "kirisAki",
+      "code": "56/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47332,
+    "name": "Milo",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223057_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223057_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223057_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "57/73",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "Discard up to 2 cards from your hand, and draw 2 cards for each card you discarded in this way.",
+      "Artist": "take",
+      "code": "57/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47321,
+    "name": "Nickit",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223046_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223046_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223046_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "46/73",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Filch\r\n<br>Draw a card.",
+      "Attack 2": "[1D] Tail Smack (30)",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "Naoki Saito",
+      "code": "46/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47333,
+    "name": "Piers",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223058_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223058_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223058_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "58/73",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "Search your deck for an Energy card and a Darkness Pokemon, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "Artist": "take",
+      "code": "58/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47352,
+    "name": "Piers (Secret)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223077_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223077_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223077_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "78/73",
+      "Rarity": "Secret Rare",
+      "Card Type": "Supporter",
+      "CardText": "Search your deck for an Energy card and a [D] Pokemon, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "Artist": "kirisAki",
+      "code": "78/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47334,
+    "name": "Poke Ball",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223059_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223059_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223059_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "59/73",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Flip a coin. If heads, search your deck for a Pokemon, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "Artist": "Studio Bora Inc.",
+      "code": "59/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47335,
+    "name": "Pokemon Center Lady",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223060_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223060_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223060_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "60/73",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "Heal 60 damage from 1 of your Pokemon, and it recovers from all Special Conditions.",
+      "Artist": "kirisAki",
+      "code": "60/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47336,
+    "name": "Potion",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223061_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223061_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223061_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "61/73",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Heal 30 damage from 1 of your Pokemon.",
+      "Artist": "Ryo Ueda",
+      "code": "61/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47337,
+    "name": "Professor's Research [Professor Magnolia]",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223062_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223062_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223062_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "62/73",
+      "Rarity": "Holo Rare",
+      "Card Type": "Supporter",
+      "CardText": "Discard your hand and draw 7 cards.",
+      "Artist": "Yusuke Ohmura",
+      "code": "62/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47314,
+    "name": "Purrloin",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223039_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223039_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223039_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "39/73",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[D] Dig Claws (10)",
+      "Attack 2": "[2] Fake Out (20)\r\n<br>Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed.",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "sowsow",
+      "code": "39/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47304,
+    "name": "Rockruff",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223021_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223021_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223021_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "29/73",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Collect\r\n<br>Draw a card.",
+      "Attack 2": "[1F] Bite (20)",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "Naoyo Kimura",
+      "code": "29/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47306,
+    "name": "Rolycoly",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223023_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223023_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223023_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "31/73",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Ram (10)",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "Masakozu Fukuda",
+      "code": "31/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47338,
+    "name": "Rotom Bike",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223063_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223063_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223063_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "63/73",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Draw cards until you have 6 cards in your hand. Your turn ends.",
+      "Artist": "5ban Graphics",
+      "code": "63/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47339,
+    "name": "Rotom Phone",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223064_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223064_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223064_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "64/73",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Look at the top 5 cards of your deck, choose 1 of them, and shuffle the other cards back into your deck. Then, put the card you chose on top of your deck.",
+      "Artist": "Ryo Ueda",
+      "code": "64/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47317,
+    "name": "Scrafty",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223042_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223042_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223042_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "42/73",
+      "Rarity": "Holo Rare",
+      "Card Type": "Darkness",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "Attack 1": "[D] Corner (30)\r\n<br>During your opponent's next turn, the Defending Pokemon can't retreat.",
+      "Attack 2": "[2D] Bad Brawl (90+)\r\n<br>If you played Piers from your hand during this turn, this attack does 90 more damage.",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "tetsuya koizumi",
+      "code": "42/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47316,
+    "name": "Scraggy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223041_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223041_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223041_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "41/73",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Stampede (10)",
+      "Attack 2": "[1D] Ram (20)",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "miki kudo",
+      "code": "41/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47290,
+    "name": "Sharpedo",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223007_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223007_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223007_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "12/73",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "Attack 1": "[W] Aqua Jet (50)\r\n<br>This attack also does 20 damage to 1 of your opponent's Benched Pokemon. <em>(Don't apply Weakness and Resistance for Benched Pokemon.)</em>",
+      "Weakness": "Lx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "Ryuta Fuse",
+      "code": "12/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47287,
+    "name": "Sizzlipede",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223004_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223004_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223004_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "09/73",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Bite (10)",
+      "Attack 2": "[2R] Combustion (50)",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "Akira Komayama",
+      "code": "09/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47340,
+    "name": "Sonia",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223065_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223065_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223065_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "65/73",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "Search your deck for up to 2 Basic Pokemon or up to 2 basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "Artist": "Yusuke Ohmura",
+      "code": "65/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47341,
+    "name": "Suspicious Food Tin",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223066_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223066_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223066_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "66/73",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Heal 80 damage from 1 of your Pokemon that has at least 1 Psychic Energy attached. If you healed any damage in this way, discard a Psychic Energy from it.",
+      "Artist": "Ryo Ueda",
+      "code": "66/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47354,
+    "name": "Suspicious Food Tin (Secret)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223079_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223079_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223079_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "80/73",
+      "Rarity": "Secret Rare",
+      "Card Type": "Item",
+      "CardText": "Heal 80 damage from 1 of your Pokemon that has at least 1 [P] Energy attached. If you healed any damage in this way, discard a [P] Energy from it.",
+      "Artist": "Ryo Ueda",
+      "code": "80/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47323,
+    "name": "Swablu",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223048_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223048_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223048_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "48/73",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Peck (20)",
+      "Weakness": "Lx2",
+      "Resistance": "F-30",
+      "RetreatCost": "1",
+      "Artist": "0313",
+      "code": "48/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47342,
+    "name": "Team Yell Grunt",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223067_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223067_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223067_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "67/73",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "Put an Energy attached to 1 of your opponent's Pokemon into their hand.",
+      "Artist": "nagimiso",
+      "code": "67/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47318,
+    "name": "Trubbish",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223043_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223043_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223043_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "43/73",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[2] Venoshock (20+)\r\n<br>If your opponent's Active Pokemon is Poisoned, this attack does 50 more damage.",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "nagimiso",
+      "code": "43/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47355,
+    "name": "Turffield Stadium",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223939_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223939_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223939_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "68/73",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "CardText": "Once during each player's turn, that player may search their deck for an Evolution Grass Pokemon, reveal it, and put it into their hand. Then, that player shuffles their deck.",
+      "code": "68/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47280,
+    "name": "Venusaur V",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/222990_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/222990_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/222990_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "01/73",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Grass",
+      "HP": "220",
+      "Stage": "Basic",
+      "Attack 1": "[1GG] Pollen Bomb (80)\r\n<br>Your opponent's Active Pokemon is now Asleep and Poisoned.",
+      "Attack 2": "[1GGG] Solar Typhoon (220)\r\n<br>During your next turn, this Pokemon can't use Solar Typhoon.",
+      "Weakness": "Rx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "Artist": "PLANETA Mochizuki",
+      "code": "01/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47286,
+    "name": "Victini",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223003_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223003_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223003_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "07/73",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Quick Draw\r\n<br>Draw a card.",
+      "Attack 2": "[1R] Combustion (30)",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "Taira Akitsu",
+      "code": "07/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47285,
+    "name": "Vulpix",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223002_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223002_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223002_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "06/73",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Gnaw (10)",
+      "Attack 2": "[1R] Singe \r\n<br>Your opponent's Active Pokemon is now Burned.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "Shibuzoh.",
+      "code": "06/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47291,
+    "name": "Wailord V",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223008_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223008_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223008_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "013/073",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Water",
+      "HP": "280",
+      "Stage": "Basic",
+      "Attack 1": "[W] Draw Up\r\n<br>Attach up to 3 Energy cards from your discard pile to this Pokemon.",
+      "Attack 2": "[WWWW] Ocean Waves (120x)\r\n<br>Flip 3 coins. This attack does 120 damage for each heads.",
+      "Weakness": "Lx2",
+      "Resistance": "None",
+      "RetreatCost": "4",
+      "Artist": "PLANETA Mochizuki",
+      "code": "013/073"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47281,
+    "name": "Weedle",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/222995_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/222995_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/222995_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "02/73",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Call for Family\r\n<br>Search your deck for a Basic Pokemon and put it onto your Bench. Then, shuffle your deck.",
+      "Weakness": "Rx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "Yuka Morii",
+      "code": "02/73"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-champions-path",
+    "id": 47303,
+    "name": "Zygarde",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/223020_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/223020_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/223020_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "28/73",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "140",
+      "Stage": "Basic",
+      "Attack 1": "[1] Bite (30)",
+      "Attack 2": "[2FF] Power Blast (130)\r\n<br>Discard a Fighting Energy from this Pokemon.",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "Artist": "Shin Nagasawa",
+      "code": "28/73"
+    }
+  }
+]

@@ -1,0 +1,743 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58685,
+    "name": "Aqua Diffuser",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97069_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97069_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97069_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "23/34",
+      "Rarity": "Uncommon",
+      "Card Type": "Tool",
+      "CardText": "Attach a Pokemon Tool to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.\r\n\r\n<br>The Team Aqua Pokemon this card is attached to can also use the attack on this card. <em>(You still need the necessary Energy to use this attack.)",
+      "Attack 1": "[W] Aqua Diffuser\r\n<br>Your opponent's Active Pokemon is now Poisoned and Confused.",
+      "code": "23/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58695,
+    "name": "Double Aqua Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97079_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97079_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97079_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "33/34",
+      "Rarity": "Uncommon",
+      "Card Type": "Special Energy",
+      "CardText": "This card can only be attached to Pokemon with Team Aqua in their names. At the end of your turn, discard this card.\r\n<br>While in play, this card provides WW Energy\r\n<br><em>(If this card is attached to anything other than a Team Aqua Pokemon, discard this card.)</em>",
+      "code": "33/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58696,
+    "name": "Double Magma Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97080_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97080_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97080_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "34/34",
+      "Rarity": "Uncommon",
+      "Card Type": "Special Energy",
+      "CardText": "This card can only be attached to Pokemon with Team Magma in their names. At the end of your turn, discard this card.\r\n<br>While in play, this card provides FF Energy\r\n<br><em>(If this card is attached to anything other than a Team Magma Pokemon, discard this card.)</em>",
+      "code": "34/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58686,
+    "name": "Magma Pointer",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97070_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97070_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97070_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "24/34",
+      "Rarity": "Uncommon",
+      "Card Type": "Tool",
+      "CardText": "Attach a Pokemon Tool to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.\r\n\r\n<br>The Team Magma Pokemon this card is attached to can also use the attack on this card. <em>(You still need the necessary Energy to use this attack.)",
+      "Attack 1": "[F] Magma Pointer\r\n<br>This attack does 20 damage to 1 of your opponent's Pokemon <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "code": "24/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58687,
+    "name": "Team Aqua Admin",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97071_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97071_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97071_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "25/34",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "Attach a basic Energy card from your discard pile to 1 of your Pokemon with Team Aqua in its name.",
+      "code": "25/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58688,
+    "name": "Team Aqua Grunt",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97072_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97072_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97072_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "26/34",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "Discard a card from your hand. Then, draw 3 cards. If you discarded a card with Team Aqua in its name, draw 4 cards instead.",
+      "code": "26/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58682,
+    "name": "Team Aqua's Carvanha",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97066_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97066_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97066_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "20/34",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[D] Fin Smack (10x)\r\n<br>Flip 2 coins. This attack does 10 damage times the number of heads.",
+      "Weakness": "Lx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "20/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58689,
+    "name": "Team Aqua's Great Ball",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97073_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97073_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97073_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "27/34",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Search your deck for a Basic Pokemon that has Team Aqua in its name and a basic Water Energy, reveal them, and put them into your hand. Shuffle your deck afterward.",
+      "code": "27/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58669,
+    "name": "Team Aqua's Grimer",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97053_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97053_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97053_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "7/34",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[P] Pound (10)",
+      "Attack 2": "[2P] Mud-Slap (30)",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "7/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58668,
+    "name": "Team Aqua's Kyogre EX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97052_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97052_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97052_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "6/34",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Water",
+      "HP": "190",
+      "Stage": "Basic",
+      "CardText": "<b>Ability</b> Power Saver\r\n<br>As long as the number of Pokemon in play <em>(both yours and your opponent's)</em> that has Team Aqua in its name is less than 4, this Pokemon can't attack.",
+      "Attack 1": "[1WWW] Aqua Impact (80+)\r\n<br>This attack does 20 more damage for each Colorless in your opponent's Active Pokemon Retreat Cost.",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "4",
+      "code": "6/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58680,
+    "name": "Team Aqua's Mightyena",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97064_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97064_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97064_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "18/34",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[1W] Teampact (30x)\r\n<br>Flip a coin for each Pokemon you have in play that has Team Aqua in its name. This attack does 30 damage times the number of heads.",
+      "Attack 2": "[1WW] Crunch (80)\r\n<br>Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokemon.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "code": "18/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58670,
+    "name": "Team Aqua's Muk",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97054_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97054_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97054_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "8/34",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "CardText": "<b>Ability</b> Sludge Festival\r\n<br>The Retreat Cost of each Pokemon in play without Team Aqua in their name is Colorless more.",
+      "Attack 1": "[2P] Pester (60+)\r\n<br>If your opponent's Active Pokemon is affected by a Special Condition, this attack does 60 more  damage.",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "8/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58679,
+    "name": "Team Aqua's Poochyena",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97063_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97063_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97063_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "16/34",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Roar\r\n<br> Your opponent switches his or her Active Pokemon with 1 of his or her Benched Pokemon.",
+      "Attack 2": "[1W] Bite (20)",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "code": "16/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58666,
+    "name": "Team Aqua's Sealeo",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97050_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97050_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97050_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "4/34",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1W] Splatter\r\n<br>This attack does 20 damage to 1 of your opponent's Pokemon. <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Attack 2": "[2W] Hail Wind (60+)\r\n<br>If your opponent's Active Pokemon has Team Magma in its name, this attack does 60 more damage.",
+      "Weakness": "Mx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "4/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58690,
+    "name": "Team Aqua's Secret Base",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97074_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97074_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97074_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "28/34",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "CardText": "Each player's Pokemon that does not have Team Aqua in its name pays Colorless more to Retreat.",
+      "code": "28/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58671,
+    "name": "Team Aqua's Seviper",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97055_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97055_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97055_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "9/34",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[P] Venomous Fang (10)\r\n<br>Flip a coin. If heads, your opponent's Active Pokemon is now Poisoned.",
+      "Attack 2": "[2] Venom Tail (30)\r\n<br>If your opponent's Active Pokemon is affected by a Special Condition, discard an Energy attached to it.",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "9/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58683,
+    "name": "Team Aqua's Sharpedo",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97067_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97067_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97067_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "21/34",
+      "Rarity": "Holo Rare",
+      "Card Type": "Darkness",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "CardText": "<b>Ability</b> Aqua Search\r\n<br>Once during your turn <em>(before your attack)</em>, you may search your deck for a Pokemon with Team Aqua in its name, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "Attack 1": "[2D] Sharp Fang (70)",
+      "Weakness": "Lx2",
+      "Resistance": "None",
+      "RetreatCost": "0",
+      "code": "21/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58665,
+    "name": "Team Aqua's Spheal",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97049_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97049_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97049_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "3/34",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[W] Water Gun (10)",
+      "Weakness": "Mx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "3/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58667,
+    "name": "Team Aqua's Walrein",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97051_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97051_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97051_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "5/34",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[1] Power Blow (30x)\r\n<br>This attack does 30 damage times the amount of Energy attached to this Pokemon.",
+      "Attack 2": "[1WWW] Dual Blizzard\r\n<br>Discard 2 Water energy attached to this Pokemon. This attack does 80 damage to 2 of your opponent's Pokemon. <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "Mx2",
+      "Resistance": "None",
+      "RetreatCost": "4",
+      "code": "5/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58691,
+    "name": "Team Magma Admin",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97075_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97075_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97075_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "29/34",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "Put 3 Pokemon with Team Magma in their names from your discard pile into your hand.",
+      "code": "29/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58692,
+    "name": "Team Magma Grunt",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97076_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97076_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97076_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "30/34",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "Discard a card from your hand. Then, draw 3 cards. If you discarded a card with Team Magma in its name, draw 4 cards instead.",
+      "code": "30/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58676,
+    "name": "Team Magma's Aggron",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97060_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97060_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97060_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "14/34",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[1F] Rock Stamp (40x)\r\n<br>Discard as many Fighting Energy attached to your Pokemon as you like. This attack does 40 times the number of Energy you discarded.",
+      "Attack 2": "[1FFF] Rock Tempest (120)\r\n<br>This attack does 20 damage to each of your opponent's Benched Pokemon that has any damage counters on it. <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "4",
+      "code": "14/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58674,
+    "name": "Team Magma's Aron",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97058_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97058_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97058_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "12/34",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[F] Gnaw (10)",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "12/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58672,
+    "name": "Team Magma's Baltoy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97056_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97056_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97056_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "10/34",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1P] Telekinesis\r\n<br>This attack does 20 damage to 1 of your opponent's Pokemon. This attack's damage isn't affected by Weakness or Resistance.",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "10/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58664,
+    "name": "Team Magma's Camerupt",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97048_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97048_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97048_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "2/34",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "110",
+      "Stage": "Basic",
+      "CardText": "<b>Ability</b> Burn Draft\r\n<br>Once during your turn <em>(before you attack)</em>, you may attach either a Fire or Fighting Energy from your discard pile to this Pokemon.",
+      "Attack 1": "[2R] Flame Ball (60)\r\n<br>Move a basic Energy from this Pokemon to 1 of your Benched Pokemon.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "2/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58673,
+    "name": "Team Magma's Claydol",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97057_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97057_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97057_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "11/34",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "CardText": "<b>Ability</b> Magma Switch\r\n<br>Once during your turn <em>(before your attack)</em>, you may move 1 Energy attached to 1 of your Pokemon to 1 of your Pokemon with Team Magma in its name.",
+      "Attack 1": "[2P] Power Beam (70)",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "11/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58693,
+    "name": "Team Magma's Great Ball",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97077_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97077_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97077_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "31/34",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Search your deck for a Basic Pokemon that has Team Magma in its name and a basic Fighting Energy, reveal them, and put them into your hand. Shuffle your deck afterward.",
+      "code": "31/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58677,
+    "name": "Team Magma's Groudon EX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97061_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97061_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97061_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "15/34",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fighting",
+      "HP": "190",
+      "Stage": "Basic",
+      "CardText": "<b>Ability</b> Power Saver\r\n<br>As long as the number of Pokemon in play <em>(both yours and your opponent's)</em> that has Team Magma in its name is less than 4, this Pokemon can't attack.",
+      "Attack 1": "[1FFF] Magma Quake (80+)\r\n<br>If your opponent's Active Pokemon already has damage counters on it, this attack does 80 more damage.",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "4",
+      "code": "15/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58675,
+    "name": "Team Magma's Lairon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97059_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97059_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97059_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "13/34",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1F] Gnaw (30)",
+      "Attack 2": "[2F] Take Down (60)\r\n<br>This Pokemon does 10 damage to itself.",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "13/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58681,
+    "name": "Team Magma's Mightyena",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97065_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97065_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97065_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "19/34",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[1F] Bite (30)",
+      "Attack 2": "[1FF] Hostile Fang (80)\r\n<br>If your opponent's Active Pokemon has Team Aqua in its name, this attack does 40 more damage.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "code": "19/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58663,
+    "name": "Team Magma's Numel",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97047_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97047_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97047_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "1/34",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1R] Ember (30)\r\n<br>Discard an Energy attached to this Pokemon.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "1/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58678,
+    "name": "Team Magma's Poochyena",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97062_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97062_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97062_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "17/34",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Infiltration\r\n<br>Your opponent reveals his or her hand.",
+      "Attack 2": "[1F] Bite (20)",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "code": "17/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58694,
+    "name": "Team Magma's Secret Base",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97078_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97078_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97078_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "32/34",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "CardText": "Whenever any player plays a Basic Pokemon from his or her hand to his or her Bench <em>(excluding Pokemon with Team Magma in their names)</em>, put 2 damage counters on that Pokemon.",
+      "code": "32/34"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-double-crisis",
+    "id": 58684,
+    "name": "Team Magma's Zangoose",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/97068_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/97068_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/97068_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "22/34",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[1] Call for Family\r\n<br>Search your deck for 2 Basic Pokemon that have Team Magma in their names and put them onto your Bench. Shuffle your deck afterward.",
+      "Attack 2": "[3] Team Play (20x)\r\n<br>This attack does 20 damage times the number of Pokemon in play with Team Magma in its name.",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "22/34"
+    }
+  }
+]

@@ -1,0 +1,2349 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65475,
+    "name": "Absol",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83449_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83449_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83449_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "1/97",
+      "Rarity": "Holo Rare",
+      "Card Type": "Darkness",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[D] Bad News  \r\n<br>If the number of cards in your opponent's hand is at least 6, choose a number of cards there, without looking, until your opponent has 5 cards left.  Have your opponent discard the cards you chose.",
+      "Attack 2": "[1D] Prize Count (20+) \r\n<br>If you have more Prize cards left than your opponent, this attack does 20 damage plus 20 more damage.",
+      "Weakness": "F",
+      "Resistance": "P",
+      "RetreatCost": "1",
+      "code": "1/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65476,
+    "name": "Altaria",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83513_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83513_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83513_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "2/97",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Dragon Dance  \r\n<br>During your next turn, if any of your current Active Pokemon does damage to any Defending Pokemon, the attack does 40 more damage <i>(before applying Weakness and Resistance).</i>",
+      "Attack 2": "[LW] Dragon Song (30) \r\n<br>Each Defending Pokemon is now Asleep.",
+      "Weakness": "C",
+      "Resistance": "FG",
+      "RetreatCost": "1",
+      "code": "2/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65477,
+    "name": "Ampharos ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83550_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83550_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83550_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "89/97",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Lightning",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-BODY</b> Conductivity \r\n<br>As long as Ampharos ex is in play, whenever your opponent attaches an Energy card to his or her Pokemon from his or her hand, put 1 damage counter on that Pokemon.  You can't place more than 1 damage counter even if there is more than 1 Ampharos ex in play.",
+      "Attack 1": "[2L] Gigavolt (40+)\r\n<br>Flip a coin.  If heads, this attack does 40 damage plus 30 more damage.  If tails, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "3",
+      "code": "89/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65478,
+    "name": "Bagon - 23/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83691_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83691_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83691_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "23/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[W] Paralyzing Gaze\r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[1R] Combustion (20)",
+      "Weakness": "C",
+      "Resistance": "FR",
+      "RetreatCost": "1",
+      "code": "23/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65479,
+    "name": "Bagon - 49/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83692_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83692_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83692_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "49/97",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Headbutt (10)",
+      "Attack 2": "[1R] Flare (20)",
+      "Weakness": "None",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "49/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65480,
+    "name": "Bagon - 50/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83693_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83693_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83693_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "50/97",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Risky Kick (10) \r\n<br>Flip a coin.  If tails, this attack does nothing.",
+      "Attack 2": "[RW] Dragon Eye (20) \r\n<br>The Defending Pokemon is now Asleep.",
+      "Weakness": "None",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "50/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65481,
+    "name": "Balloon Berry",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83708_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83708_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83708_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "82/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Tool",
+      "CardText": "Attach Balloon Berry to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.  If that Pokemon is Knocked Out, discard this card.\r\n<br>\r\n<br>Attach Balloon Berry to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.  If that Pokemon is Knocked Out, discard this card.  When the Pokemon Balloon Berry is attached to retreats, discard Balloon Berry instead of discarding Energy cards.\r\n\r\n<br>\r\n<br><b><em>(Out-dated Card Text, refer to newest printing)</b></em>",
+      "code": "82/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65482,
+    "name": "Barboach",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83726_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83726_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83726_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "51/97",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Splash (10)",
+      "Attack 2": "[1F] Mud Slap (20)",
+      "Weakness": "G",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "51/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65483,
+    "name": "Buffer Piece",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84012_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84012_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84012_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "83/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Attach Buffer Piece to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.  If that Pokemon is Knocked Out, discard this card.\r\n<br>\r\n<br>Attach Buffer Piece to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.  If that Pokemon is Knocked Out, discard this card.  Damage done to the Pokemon Buffer Piece is attached to by an opponent's attack is reduced by 20 <em>(after applying Weakness and Resistance)</em>.  At the end of your opponent's turn after you played Buffer Piece, discard Buffer Piece.",
+      "code": "83/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65484,
+    "name": "Camerupt",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84088_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84088_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84088_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "24/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1R] Super Singe (20) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Burned.",
+      "Attack 2": "[2R] Ram (50)",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "24/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65485,
+    "name": "Charizard",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84187_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84187_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84187_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "100/97",
+      "Rarity": "Secret Rare",
+      "Card Type": "Fire",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "Attack 1": "[1R] Collect Fire (30) \r\n<br>Flip a coin.  If heads, search your discard pile for 2 Fire Energy cards and attach them to Charizard (1 if there is only 1).",
+      "Attack 2": "[3R] Flame Pillar (60) \r\n<br>You may discard a Fire Energy card attached to Charizard.  If you do, choose 1 of your opponent's Benched Pokemon and do 30 damage to that Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "100/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65486,
+    "name": "Charmander",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84208_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84208_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84208_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "98/97",
+      "Rarity": "Secret Rare",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[R] Flare (10)",
+      "Attack 2": "[2] Rage (10+) \r\n<br>Does 10 damage plus 10 more damage for each damage counter on Charmander.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "98/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65487,
+    "name": "Charmeleon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84225_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84225_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84225_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "99/97",
+      "Rarity": "Secret Rare",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[R] Smokescreen (10) \r\n<br>If the Defending Pokemon tries to attack during your opponent's next turn, your opponent flips a coin.  If tails, that attack does nothing.",
+      "Attack 2": "[1R] Fireworks (40)\r\n<br> Flip a coin.  If tails, discard a Fire Energy card attached to Charmeleon.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "99/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65488,
+    "name": "Combusken",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84402_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84402_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84402_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "25/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Quick Attack (10+) \r\n<br>Flip a coin.  If heads, this attack does 10 damage plus 20 more damage.",
+      "Attack 2": "[2R] Combustion (40)",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "25/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65489,
+    "name": "Corphish - 52/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84429_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84429_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84429_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "52/97",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Poison Claws \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Poisoned.",
+      "Attack 2": "[W] Bubble (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "52/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65490,
+    "name": "Corphish - 53/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84430_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84430_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84430_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "53/97",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Irongrip (10)",
+      "Attack 2": "[1W] Slash (20)",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "53/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65491,
+    "name": "Corphish - 54/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84431_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84431_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84431_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "54/97",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[W] Beat (10)",
+      "Attack 2": "[2] Toxic Grip (10) \r\n<br>The Defending Pokemon is now Poisoned.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "54/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65493,
+    "name": "Crawdaunt - 13/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84462_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84462_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84462_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "13/97",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[W] Poison Claws (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Poisoned.",
+      "Attack 2": "[3] Rend (30+) \r\n<br>If the Defending Pokemon has any damage counters on it, this attack does 30 damage plus 30 more damage.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "13/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65492,
+    "name": "Crawdaunt - 3/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84461_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84461_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84461_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "3/97",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Power Pinchers\r\n<br>As long as Crawdaunt is your Active Pokemon, when any of your Active Pokemon does damage to the Defending Pokemon, the attack does 10 more damage <em>(before applying Weakness and Resistance).  </em>",
+      "Attack 1": "[2W] Guillotine (50)",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "3/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65494,
+    "name": "Dragonair - 14/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84899_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84899_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84899_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "14/97",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1L] Dazzle Blast (20) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Confused.",
+      "Attack 2": "[2W] Healing Wave (30) \r\n<br>Remove 1 damage counter from each of your Active Pokemon.",
+      "Weakness": "C",
+      "Resistance": "FG",
+      "RetreatCost": "2",
+      "code": "14/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65495,
+    "name": "Dragonite ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84918_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84918_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84918_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "90/97",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Colorless",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "Attack 1": "[LW] Dragon Wave (70) \r\n<br>Discard a Water Energy card and a Lightning Energy card attached to Dragonite ex.",
+      "Attack 2": "[4] Giant Tail (120) \r\n<br>Flip a coin.  If tails, this attack does nothing.",
+      "Weakness": "C",
+      "Resistance": "FG",
+      "RetreatCost": "2",
+      "code": "90/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65496,
+    "name": "Dratini",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84932_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84932_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84932_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "26/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[W] Dragon Dew\r\n<br>Remove 2 damage counters from 1 of your Pokemon (remove 1 if there is only 1).",
+      "Attack 2": "[L] Tail Slap (10)",
+      "Weakness": "C",
+      "Resistance": "FG",
+      "RetreatCost": "1",
+      "code": "26/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65497,
+    "name": "Energy Recycle System",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85216_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85216_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85216_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "84/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Search your discard pile for basic Energy cards.  You may either show 1 basic Energy card to your opponent and put it into your hand, or show 3 basic Energy cards to your opponent and shuffle them into your deck.",
+      "code": "84/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65498,
+    "name": "Flaaffy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85476_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85476_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85476_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "27/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[L] Energy Recall \r\n<br>Attach up to 2 basic Energy cards from your discard pile to Flaaffy.",
+      "Attack 2": "[1L] Lightning Ball (30)",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "1",
+      "code": "27/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65500,
+    "name": "Flygon - 15/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85522_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85522_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85522_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "15/97",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-BODY</b> Sand Guard \r\n<br>Whenever Flygon would be damaged by your opponent's attack <em>(after applying Weakness and Resistance)</em>, flip a coin.  If heads, reduce that damage by 20.",
+      "Attack 1": "[1GL] Air Slash (60)\r\n<br>Flip a coin.  If tails, discard an Energy card attached to Flygon.",
+      "Weakness": "None",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "15/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65499,
+    "name": "Flygon - 4/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85521_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85521_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85521_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "4/97",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "Attack 1": "[GL] Energy Shower \r\n<br>Attach any number of basic Energy cards from your hand to your Pokemon in any way you'd like.",
+      "Attack 2": "[3] Rainbow Burn (30+) \r\n<br>Does 30 damage plus 10 more damage for each type of Basic Energy card attached to Flygon.",
+      "Weakness": "C",
+      "Resistance": "FL",
+      "RetreatCost": "2",
+      "code": "4/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65501,
+    "name": "Forretress",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85547_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85547_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85547_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "28/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Metal",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1M] Double Metal Ball \r\n<br>Put 2 damage counters on each Defending Pokemon.",
+      "Attack 2": "[3] Backspin (40) \r\n<br>After your attack, you may discard 1 Energy card attached to Forretress.  If you do, switch Forretress with 1 of your Benched Pokemon.",
+      "Weakness": "R",
+      "Resistance": "G",
+      "RetreatCost": "2",
+      "code": "28/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65502,
+    "name": "Geodude - 55/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85687_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85687_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85687_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "55/97",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Light Punch (10)",
+      "Attack 2": "[F] Pebble Throw \r\n<br>Choose 1 of your opponent's Benched Pokemon.  This attack does 10 damage to that Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "code": "55/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65503,
+    "name": "Geodude - 56/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85688_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85688_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85688_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "56/97",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[F] Steady Punch (10+) \r\n<br>Flip a coin.  If heads, this attack does 10 damage plus 10 more damage.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "56/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65504,
+    "name": "Girafarig",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85729_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85729_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85729_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "16/97",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Synchronized Search \r\n<br>If Girafarig and the Defending Pokemon have the same amount of Energy attached to them, pick any 1 card from your deck and put it into your hand.  Shuffle your deck afterward.",
+      "Attack 2": "[1P] Breaking Impact \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 10 damage for each 1 Energy in that Pokemon's Retreat Cost to that Pokemon <i>(after applying effects to the Retreat Cost).  (Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "16/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65505,
+    "name": "Golem",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85826_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85826_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85826_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "5/97",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "Attack 1": "[2F] Rock Vengeance (20+) \r\n<br>Does 20 damage plus 10 more damage for each damage counter on all of your Active Pokemon.",
+      "Attack 2": "[3FF] Rock Slide (60) \r\n<br>Does 20 damage to 2 of your opponent's Benched Pokemon (1 if there is only 1).  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "4",
+      "code": "5/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65506,
+    "name": "Golem ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85831_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85831_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85831_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "91/97",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fighting",
+      "HP": "160",
+      "Stage": "Stage 2",
+      "Attack 1": "[2F] Magnitude (60) \r\n<br>Does 10 damage to each Benched Pokemon (both yours and your opponent's).  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Attack 2": "[3FF] Double-edge (120) \r\n<br>Golem ex does 50 damage to itself.",
+      "Weakness": "GW",
+      "Resistance": "None",
+      "RetreatCost": "5",
+      "code": "91/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65507,
+    "name": "Graveler - 29/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85889_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85889_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85889_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "29/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Grind (10x) \r\n<br>Does 10 damage times the amount of Energy attached to Graveler.",
+      "Attack 2": "[2FF] Big Explosion \r\n<br>Does 80 damage to each Active Pokemon (both yours and your opponent's).",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "29/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65508,
+    "name": "Graveler - 30/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85890_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85890_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85890_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "30/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1F] Magnitude (20) \r\n<br>Does 10 damage to each Benched Pokemon (both yours and your opponent's).<i>  (Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Attack 2": "[2F] Rollout (40)",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "30/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65509,
+    "name": "Grimer",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85908_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85908_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85908_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "57/97",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Pound (10)",
+      "Attack 2": "[G] Poison Spurt \r\n<br>Discard a Grass Energy card attached to Grimer.  The Defending Pokemon is now Poisoned.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "57/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65510,
+    "name": "Grovyle",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85937_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85937_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85937_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "31/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1G] Fury Cutter (10+) \r\n<br>Flip 4 coins.  If all of them are heads, this attack does 10 damage plus 60 more damage.  If not, this attack does 10 damage plus 10 more damage for each heads.",
+      "Weakness": "R",
+      "Resistance": "W",
+      "RetreatCost": "1",
+      "code": "31/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65511,
+    "name": "Grumpig",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85964_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85964_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85964_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "6/97",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1P] Psychic Boom (20+) \r\n<br>Does 20 damage plus 10 more damage for each Energy attached to the Defending Pokemon.",
+      "Attack 2": "[2P] Mind Trip (50) \r\n<br>If Grumpig and the Defending Pokemon have the same amount of Energy attached to them, the Defending Pokemon is now Confused.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "6/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65512,
+    "name": "Gyarados",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85990_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85990_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85990_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "32/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[W] Dragon Crush\r\n<br>Flip a coin.  If heads, this attack does 10 damage to each Defending Pokemon.  Discard an Energy card from each Defending Pokemon.",
+      "Attack 2": "[4W] Aqua Sonic (80) \r\n<br>This attack's damage is not affected by Resistance.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "32/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65513,
+    "name": "High Pressure System",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86076_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86076_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86076_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "85/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "CardText": "This card stays in play when you play it.  Discard this card if another Stadium card comes into play.\r\n<br>\r\n<br>Each player pays 1 less to retreat his of her Fire and Water Pokemon.",
+      "code": "85/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65514,
+    "name": "Horsea - 33/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86188_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86188_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86188_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "33/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Retaliate (10x) \r\n<br>Flip a coin.  If heads, this attack does 10 damage times the number of damage counters on Horsea.",
+      "Attack 2": "[W] Smokescreen (10) \r\n<br>If the Defending Pokemon tries to attack during your opponent's next turn, your opponent flips a coin.  If tails, that attack does nothing.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "33/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65515,
+    "name": "Horsea - 58/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86189_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86189_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86189_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "58/97",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Paralyzing Gaze\r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[2] Wave Splash (20)",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "58/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65516,
+    "name": "Houndoom",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86205_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86205_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86205_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "34/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Darkness",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1D] Feint Attack \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 20 damage to that Pokemon.  This attack's damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies, or any other effects on that Pokemon.",
+      "Attack 2": "[2R] Flamethrower (50) \r\n<br>Discard a Fire Energy card attached to Houndoom.",
+      "Weakness": "F",
+      "Resistance": "P",
+      "RetreatCost": "1",
+      "code": "34/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65517,
+    "name": "Houndour",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86224_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86224_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86224_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "59/97",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Roar \r\n<br>Your opponent switches the Defending Pokemon with 1 of his or her Benched Pokemon.",
+      "Attack 2": "[2] Bite (20)",
+      "Weakness": "F",
+      "Resistance": "P",
+      "RetreatCost": "1",
+      "code": "59/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65518,
+    "name": "Kingdra ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86451_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86451_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86451_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "92/97",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Water",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "Attack 1": "[W] Genetic Memory\r\n<br>Use any attack from Kingdra ex's Basic Pokemon card or Stage 1 Evolution card.  <i>(Kingdra ex doesn't have to pay for that attack's Energy cost.)</i>",
+      "Attack 2": "[3] Hydrocannon (50+) \r\n<br>Does 50 damage plus 20 more damage for each WaterEnergy attached to Kingdra ex but not used to pay for this attack's Energy cost.  You can't add more than 40 damage in this way.",
+      "Weakness": "GL",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "92/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65519,
+    "name": "Latias ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86659_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86659_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86659_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "93/97",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Colorless",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[1] Hypnosis (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Asleep.",
+      "Attack 2": "[1RW] Mist Ball (100)\r\n<br>Discard a FIre Energy and a Water Energy attached to Latias ex.",
+      "Weakness": "C",
+      "Resistance": "FP",
+      "RetreatCost": "2",
+      "code": "93/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65520,
+    "name": "Latios ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86673_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86673_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86673_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "94/97",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Colorless",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[1] Energy Stream (10) \r\n<br>Flip a coin.  If heads, search your discard pile for a basic Energy card and attach it to Latios ex.",
+      "Attack 2": "[1GL] Luster Purge (100) \r\n<br>Discard 3 Energy attached to Latios ex.",
+      "Weakness": "C",
+      "Resistance": "FG",
+      "RetreatCost": "2",
+      "code": "94/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65521,
+    "name": "Low Pressure System",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86846_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86846_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86846_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "86/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "CardText": "This card stays in play when you play it.  Discard this card if another Stadium card comes into play.\r\n<br>\r\n<br>Each Grass and Lightning Pokemon in play (both yours and your opponent's) gets +10 HP.",
+      "code": "86/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65522,
+    "name": "Magcargo ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87019_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87019_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87019_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "95/97",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fire",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[R] Melting Mountain (20) \r\n<br>Discard the top card from your deck.  If that card is a basic Energy card, attach it to Magcargo ex.",
+      "Attack 2": "[1RR] Lava Flow (40+) \r\n<br>You may discard any number of basic Energy cards attached to Magcargo ex when you use this attack.  If you do, this attack does 40 damage plus 20 damage for each basic Energy card you discarded.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "95/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65523,
+    "name": "Magikarp",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87025_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87025_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87025_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "60/97",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "30",
+      "Stage": "Basic",
+      "Attack 1": "[1] Call for Family\r\n<br>Search your deck for Magikarp and put as many as you like onto your Bench.  Shuffle your deck afterward.",
+      "Attack 2": "[1W] Tackle (20)",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "60/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65524,
+    "name": "Magnemite - 61/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87072_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87072_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87072_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "61/97",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Rollout (10)",
+      "Attack 2": "[2] Hook (20)",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "1",
+      "code": "61/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65525,
+    "name": "Magnemite - 62/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87073_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87073_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87073_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "62/97",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[L] Random Spark \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 10 damage to that Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "1",
+      "code": "62/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65526,
+    "name": "Magnemite - 63/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87074_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87074_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87074_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "63/97",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[L] Thundershock (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "63/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65527,
+    "name": "Magneton - 17/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87100_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87100_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87100_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "17/97",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-POWER</b> Magnetic Field\r\n<br>Once during your turn <em>(before your attack)</em>, if you have basic Energy cards in your discard pile, you may discard any 1 card from your hand.  Then search for up to 2 basic Energy cards from your discard pile, show them to your opponent, and put them into your hand.  You can't return the card you first discarded to your hand in this way.  This power can't be used if Magneton is affected by a Special Condition.",
+      "Attack 1": "[1L] Magnetic Force (10x) \r\n<br>Does 10 damage times the amount of Energy attached to all of your Pokemon <i>(including Magneton).</i>",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "1",
+      "code": "17/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65528,
+    "name": "Magneton - 35/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87101_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87101_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87101_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "35/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Ram (20)",
+      "Attack 2": "[2L] Triple Smash (20+) \r\n<br>Flip 3 coins.  This attack does 20 damage plus 20 more damage for each heads.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "35/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65529,
+    "name": "Mareep",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87197_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87197_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87197_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "64/97",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Jolt \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "1",
+      "code": "64/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65530,
+    "name": "Marshtomp",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87234_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87234_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87234_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "36/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1W] Mud Splash (20) \r\n<br>Does 10 damage to 1 of your opponent's Benched Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "36/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65531,
+    "name": "Meditite",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87278_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87278_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87278_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "37/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Punch (10)",
+      "Attack 2": "[1F] Meditate (10+) \r\n<br>Does 10 damage plus 10 more damage for each damage counter on the Defending Pokemon.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "37/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65532,
+    "name": "Minun",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87481_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87481_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87481_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "7/97",
+      "Rarity": "Holo Rare",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Chain of Events \r\n<br>As long as Minun is your Active Pokemon, whenever your other Active Pokemon, if any, attacks, you may use Cheer On after the first attack <em>(you still need the necessary Energy to use Cheer On)</em>.  You can't use Cheer On more than once in this way even if your other Active Pokemon has the Chain of Events Poke-Body.",
+      "Attack 1": "[1] Cheer On\r\n<br>Remove 1 damage counter from each of your Pokemon (including Minun).",
+      "Attack 2": "[1L] Special Circuit \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 20 damage to that Pokemon.  If you choose Pokemon that has a Poke-Power or Poke-Body, this attack does 40 damage instead.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "1",
+      "code": "7/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65533,
+    "name": "Mr. Briney's Compassion",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87585_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87585_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87585_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "87/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "You can play only one Supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.\r\n<br>\r\n<br>Choose 1 of your Pokemon in play (excluding Pokemon-ex).  Return that Pokemon and all cards attached to it to your hand.",
+      "code": "87/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65534,
+    "name": "Mudkip",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87607_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87607_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87607_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "65/97",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Water Gun (10+) \r\n<br>Does 10 damage for each Water Energy attached to Mudkip but not used to pay for this attack's Energy cost.  You can't add more than 20 damage in this way.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "65/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65535,
+    "name": "Muk ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87628_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87628_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87628_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "96/97",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Grass",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Toxic Gas \r\n<br>As long as Muk ex is your Active Pokemon, ignore all Poke-Powers and Poke-Bodies other than Toxic Gas.",
+      "Attack 1": "[G] Poison Breath (10) \r\n<br>The Defending Pokemon is now Poisoned.",
+      "Attack 2": "[1GG] Slimy Water (40+) \r\n<br>Does 40 damage plus 10 more damage for each 1 Energy in the Defending Pokemon's Retreat Cost <i>(after applying effects to the Retreat Cost).</i>",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "96/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65536,
+    "name": "Nincada - 66/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87756_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87756_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87756_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "66/97",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[G] Poison Breath (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Poisoned.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "66/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65537,
+    "name": "Nincada - 67/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87757_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87757_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87757_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "67/97",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Bite (10)",
+      "Attack 2": "[1G] Double Scratch (20x) \r\n<br>Flip 2 coins.  This attack does 20 damage times the number of heads.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "67/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65538,
+    "name": "Nincada - 68/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87758_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87758_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87758_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "68/97",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[G] Leech Life (10) \r\n<br>After your attack, remove from Nincada the number of damage counters equal to the damage you did to the Defending Pokemon.  If Nincada has fewer damage counters than that, remove all of them.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "68/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65539,
+    "name": "Ninjask - 18/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87783_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87783_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87783_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "18/97",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-POWER</b> Loose Shell \r\n<br>Once during your turn, when you play Ninjask from your hand to evolve 1 of your Pokemon, you may search your deck for Shedinja and put it onto your Bench.  Treat the new Benched Pokemon as a Basic Pokemon.  Shuffle your deck afterward.",
+      "Attack 1": "[2] Quick Touch (30) \r\n<br>You may switch Ninjask with 1 of your Benched Pokemon.  If you do, you may move any number of Grass Energy cards attached to Ninjask to the new Active Pokemon.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "0",
+      "code": "18/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65540,
+    "name": "Ninjask - 38/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87784_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87784_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87784_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "38/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Supersonic (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Confused.",
+      "Attack 2": "[1G] Sonic Wing (30) \r\n<br>This attack's damage is not affected by Resistance.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "0",
+      "code": "38/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65542,
+    "name": "Numel",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87807_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87807_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87807_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "70/97",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Rollout (10)",
+      "Attack 2": "[R] Kindle (10) \r\n<br>Discard a Fire Energy card attached to Numel and then discard an Energy card attached to the Defending Pokemon.",
+      "Weakness": "W",
+      "RetreatCost": "2",
+      "code": "70/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65541,
+    "name": "Numel - 69/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87806_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87806_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87806_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "69/97",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[R] Firebreathing (10+) \r\n<br>Flip a coin.  If heads, this attack does 10 damage plus 10 more damage.",
+      "Attack 2": "[2] Tackle (20)",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "69/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65543,
+    "name": "Pineco",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88126_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88126_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88126_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "71/97",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Exoskeleton\r\n<br>Any damage done to Pineco by attacks is reduced by 10 <em>(after applying Weakness and Resistance). </em>",
+      "Attack 1": "[1G] Tackle (20)",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "71/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65544,
+    "name": "Plusle",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88161_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88161_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88161_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "8/97",
+      "Rarity": "Holo Rare",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Chain of Events \r\n<br>As long as Plusle is your Active Pokemon, whenever your other Active Pokemon, if any, attacks, you may use Cheer On after the first attack <em>(you still need the necessary Energy to use Cheer On).</em>  You can't use Cheer On more than once in this way even if your other Active Pokemon has the Chain of Events Poke-Body.",
+      "Attack 1": "[1] Cheer On \r\n<br>Remove 1 damage counter from each of your Pokemon (including Plusle).",
+      "Attack 2": "[1L] Extra Circuit \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 20 damage to that Pokemon.  If you choose Pokemon-ex, this attack does 40 damage instead.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "1",
+      "code": "8/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65545,
+    "name": "Rayquaza ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88642_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88642_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88642_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "97/97",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Colorless",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[1] Spiral Growth \r\n<br>Flip a coin until you get tails.  For each heads, search your discard pile for a basic Energy card and attach it to Rayquaza ex.",
+      "Attack 2": "[LR] Dragon Burst (40x)\r\n<br>Discard either all Fire Energy or all Lightning Energy attached to Rayquaza ex.  This attack does 40 damage times the amount of Fire or Lightning Energy discarded.",
+      "Weakness": "C",
+      "Resistance": "FW",
+      "RetreatCost": "2",
+      "code": "97/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65546,
+    "name": "Roselia",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88817_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88817_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88817_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "9/97",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Thick Skin \r\n<br>Roselia can't be affected by any Special Conditions.",
+      "Attack 1": "[1] Speed Growth \r\n<br>Attach up to 2 Grass Energy cards from your hand to your Pokemon in any way you like.",
+      "Attack 2": "[G] Sleep Powder (10) \r\n<br>The Defending Pokemon is now Asleep.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "9/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65547,
+    "name": "Salamence - 10/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88895_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88895_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88895_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "10/97",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-POWER</b> Dragon Wind \r\n<br>Once during your turn <em>(before your attack)</em>, if Salamence is your Active Pokemon, you may switch 1 of your opponent's Benched Pokemon with 1 of the Defending Pokemon.  Your opponent chooses the Defending Pokemon to switch.  This power can't be used if Salamence is affected by a Special Condition.",
+      "Attack 1": "[2] Agility (20) \r\n<br>Flip a coin.  If heads, prevent all effects of an attack, including damage, done to Salamence during your opponent's next turn.",
+      "Attack 2": "[2RW] Dragon Claw (60)",
+      "Weakness": "C",
+      "Resistance": "FR",
+      "RetreatCost": "2",
+      "code": "10/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65548,
+    "name": "Salamence - 19/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88896_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88896_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88896_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "19/97",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-BODY</b> Intimidating Fang  \r\n<br>As long as Salamence is your Active Pokemon, any damage done to your Pokemon by an opponent's attack is reduced by 10 <em>(before applying Weakness and Resistance). </em>",
+      "Attack 1": "[1RW] Dragon Flame (40+) \r\n<br>You may discard an Energy card attached to Salamence.  If you do, this attack does 40 damage plus 20 more damage.",
+      "Weakness": "None",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "19/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65549,
+    "name": "Seadra - 39/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89012_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89012_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89012_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "39/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[W] Energy Cannon (20+) \r\n<br>Does 20 damage plus 10 more damage for each Energy attached to Seadra but not used to pay for this attack's Energy cost.  You can't add more than 20 damage in this way.",
+      "Attack 2": "[2W] Water Arrow \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 30 damage to that Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "39/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65550,
+    "name": "Seadra - 40/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89013_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89013_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89013_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "40/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Agility (20) \r\n<br>Flip a coin.  If heads, prevent all effects of an attack, including damage, done to Seadra during your opponent's next turn.",
+      "Attack 2": "[2W] Waterfall (40)",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "40/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65551,
+    "name": "Shedinja",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89117_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89117_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89117_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "11/97",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "30",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Wonder Guard \r\n<br>Prevent all effects of attacks, including damage, done to Shedinja by your opponent's Evolved Pokemon and Pokemon-ex.",
+      "Attack 1": "[1] Damage Curse \r\n<br>Put 1 damage counter, plus 1 more damage counter for each damage counter on Shedinja, on the Defending Pokemon.",
+      "Weakness": "None",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "11/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65552,
+    "name": "Shelgon - 20/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89122_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89122_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89122_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "20/97",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Scrunch \r\n<br>Flip a coin.  If heads, prevent all damage done to Shelgon during your opponent's next turn.  <i>(Any other effects of attacks still happen.)</i>",
+      "Attack 2": "[1RW] Rolling Attack (50)",
+      "Weakness": "C",
+      "Resistance": "FR",
+      "RetreatCost": "2",
+      "code": "20/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65553,
+    "name": "Shelgon - 41/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89123_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89123_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89123_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "41/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Energy Guard\r\n<br>As long as Shelgon has any basic Energy cards attached to it, damage done to Shelgon by an opponent's attack is reduced by 10 <em>(after applying Weakness and Resistance).</em>",
+      "Attack 1": "[2] Rollout (20)",
+      "Weakness": "None",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "41/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65554,
+    "name": "Shelgon - 42/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89124_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89124_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89124_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "42/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1W] Granite Head (20) \r\n<br>Damage done to Shelgon by an opponent's attack is reduced by 10 <i>(after applying Weakness and Resistance) </i>during your opponent's next turn.",
+      "Attack 2": "[2R] Flare (40)",
+      "Weakness": "None",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "42/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65555,
+    "name": "Shuppet",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89195_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89195_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89195_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "43/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Hypnosis \r\n<br>The Defending Pokemon is now Asleep.",
+      "Attack 2": "[P] Night Attack \r\n<br>Put 1 damage counter on 1 of your opponent's Pokemon.",
+      "Weakness": "D",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "43/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65556,
+    "name": "Skarmory",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89237_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89237_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89237_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "21/97",
+      "Rarity": "Rare",
+      "Card Type": "Metal",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[M] Pick On  \r\n<br>If the number of cards in your opponent's hand is at least 6, look at his or her hand.  Choose a number of cards there until your opponent has 5 cards left in his or her hand and have your opponent shuffle the cards you chose into his or her deck.",
+      "Attack 2": "[1M] Power Count (20+) \r\n<br>Count the amount of Energy attached to all of your Pokemon and all of your opponent's Pokemon.  If your Pokemon have less Energy than your opponent's, this attack does 20 damage plus 30 more damage.",
+      "Weakness": "R",
+      "Resistance": "G",
+      "RetreatCost": "1",
+      "code": "21/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65557,
+    "name": "Slugma",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89340_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89340_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89340_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "72/97",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Ram (10)",
+      "Attack 2": "[1R] Luring Flame \r\n<br>Switch 1 of your opponent's Benched Pokemon with 1 of the Defending Pokemon.  Your opponent chooses the Defending Pokemon to switch.  The new Defending Pokemon is now Burned.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "72/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65558,
+    "name": "Snorunt",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89398_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89398_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89398_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "44/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[W] Powder Snow (10) \r\n<br>The Defending Pokemon is now Asleep.",
+      "Weakness": "M",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "44/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65559,
+    "name": "Spoink - 73/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89470_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89470_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89470_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "73/97",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Bounce (10) \r\n<br>After your attack, you may switch Spoink with 1 of your Benched Pokemon.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "73/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65560,
+    "name": "Spoink - 74/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89471_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89471_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89471_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "74/97",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Hop (10)",
+      "Attack 2": "[1P] Psybeam (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Confused.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "74/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65561,
+    "name": "Swablu",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89653_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89653_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89653_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "75/97",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[W] Lullaby (10) \r\n<br>The Defending Pokemon is now Asleep.",
+      "Attack 2": "[L] Stifling Fluff (10)\r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "75/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65562,
+    "name": "Swellow",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89689_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89689_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89689_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "45/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Clutch (10) \r\n<br>The Defending Pokemon can't retreat until the end of your opponent's next turn.",
+      "Attack 2": "[2] Quick Dive\r\n<br>Flip a coin.  If heads, choose 1 of your opponent's Pokemon.  This attack does 50 damage to that Pokemon.  This attack's damage isn't affected by Weakness or Resistance.",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "0",
+      "code": "45/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65569,
+    "name": "TV Reporter",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90083_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90083_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90083_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "88/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "You can play only one Supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.\r\n<br>\r\n<br>Draw 3 cards.  Then discard any 1 card from your hand.",
+      "code": "88/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65563,
+    "name": "Taillow",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89731_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89731_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89731_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "76/97",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Whirlwind\r\n<br>Your opponent switches the Defending Pokemon with 1 of his or her Benched Pokemon.",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "76/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65564,
+    "name": "Torchic",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89951_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89951_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89951_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "77/97",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1R] Firebreathing (20+) \r\n<br>Flip a coin.  If heads, this attack does 20 damage plus 20 more damage.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "77/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65565,
+    "name": "Torkoal",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89966_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89966_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89966_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "12/97",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[1] Power Generation\r\n<br>Search your discard pile for up to 2 basic Energy cards, show them to your opponent, and put them into your hand.",
+      "Attack 2": "[R] Scorching Smoke \r\n<br>The Defending Pokemon is now Burned.  Flip a coin.  If tails, discard a Fire Energy card attached to Torkoal.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "12/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65566,
+    "name": "Trapinch - 78/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90019_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90019_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90019_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "78/97",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Dig (10)",
+      "Weakness": "G",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "78/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65567,
+    "name": "Trapinch - 79/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90020_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90020_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90020_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "79/97",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Bind\r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[2] Rock Smash (10+) \r\n<br>Flip a coin.  If heads, this attack does 10 damage plus 20 more damage.",
+      "Weakness": "G",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "79/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65568,
+    "name": "Treecko",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90034_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90034_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90034_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "80/97",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[2] Quick Attack (10+) \r\n<br>Flip a coin.  If heads, this attack does 10 damage plus 20 more damage.",
+      "Weakness": "R",
+      "Resistance": "W",
+      "RetreatCost": "1",
+      "code": "80/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65570,
+    "name": "Vibrava - 22/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90332_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90332_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90332_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "22/97",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Quick Charge\r\n<br>Search your deck for up to 3 different types of basic Energy cards, show them to your opponent, and put them into your hand.  Shuffle your deck afterward.",
+      "Attack 2": "[GL] Dragon Spark \r\n<br>Flip a coin.  If heads, this attack does 20 damage to each of your opponent's Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "C",
+      "Resistance": "FL",
+      "RetreatCost": "1",
+      "code": "22/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65571,
+    "name": "Vibrava - 46/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90333_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90333_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90333_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "46/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Levitate \r\n<br>If Vibrava has any basic Energy cards attached to it, Vibrava's Retreat Cost is 0.",
+      "Attack 1": "[2] Razor Wing (20)",
+      "Weakness": "None",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "46/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65572,
+    "name": "Vibrava - 47/97",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90334_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90334_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90334_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "47/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1G] Dive (20)",
+      "Attack 2": "[2L] Quick Turn (40x) \r\n<br>Flip 2 coins.  This attack does 40 damage times the number of heads.",
+      "Weakness": "None",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "47/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65573,
+    "name": "Whiscash",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90574_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90574_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90574_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "48/97",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Submerge \r\n<br>As long as Whiscash is on your Bench, prevent all damage done to Whiscash by opponent's attacks.",
+      "Attack 1": "[1W] Surf (30)",
+      "Attack 2": "[3F] Magnitude (60) \r\n<br>Does 10 damage to each Benched Pokemon (both yours and your opponent's).  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "G",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "48/97"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon",
+    "id": 65574,
+    "name": "Wurmple",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90648_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90648_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90648_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "81/97",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Call for Friends \r\n<br>Search your deck for Grass Basic Pokemon and put as many of them as you like onto your Bench.  Shuffle your deck afterward.",
+      "Attack 2": "[1] String Shot (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "81/97"
+    }
+  }
+]

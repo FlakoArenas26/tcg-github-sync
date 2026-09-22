@@ -1,0 +1,1204 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61242,
+    "name": "Audino (#12)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98687_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98687_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98687_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "12/30",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[2] Doubleslap (20x)\r\n<br>Flip 2 coins. This attack does 30 damage times the number of heads.",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "12/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61243,
+    "name": "Audino (#18)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98688_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98688_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98688_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "18/30",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[2] Doubleslap (20x)\r\n<br>Flip 2 coins. This attack does 30 damage times the number of heads.",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "18/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61279,
+    "name": "Darkness Energy (#10)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98724_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98724_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98724_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "10/30",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "10/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61280,
+    "name": "Darkness Energy (#20)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98725_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98725_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98725_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "20/30",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "20/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61281,
+    "name": "Darkness Energy (#22)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98726_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98726_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98726_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "22/30",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "22/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61282,
+    "name": "Darkness Energy (#24)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98727_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98727_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98727_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "24/30",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "24/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61283,
+    "name": "Darkness Energy (#26)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98728_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98728_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98728_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "26/30",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "26/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61284,
+    "name": "Darkness Energy (#28)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98729_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98729_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98729_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "28/30",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "28/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61273,
+    "name": "Darkness Energy (#3)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98718_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98718_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98718_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "3/30",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "3/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61274,
+    "name": "Darkness Energy (#5)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98719_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98719_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98719_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "5/30",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "5/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61275,
+    "name": "Darkness Energy (#6)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98720_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98720_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98720_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "6/30",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "6/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61276,
+    "name": "Darkness Energy (#7)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98721_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98721_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98721_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "7/30",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "7/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61277,
+    "name": "Darkness Energy (#8)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98722_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98722_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98722_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "8/30",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "8/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61278,
+    "name": "Darkness Energy (#9)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98723_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98723_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98723_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "9/30",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "9/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61244,
+    "name": "Drilbur (#13)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98689_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98689_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98689_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "13/30",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Hone Claws \r\n<br>During your next turn, each of this Pokemon's attacks do 30 more damage <i>(before applying Weakness and Resistance).</i>",
+      "Attack 2": "[F] Scratch (10)",
+      "Weakness": "Wx2",
+      "Resistance": "L-20",
+      "RetreatCost": "2",
+      "code": "13/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61245,
+    "name": "Drilbur (#25)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98690_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98690_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98690_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "25/30",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Hone Claws \r\n<br>During your next turn, each of this Pokemon's attacks do 30 more damage <i>(before applying Weakness and Resistance).</i>",
+      "Attack 2": "[F] Scratch (10)",
+      "Weakness": "Wx2",
+      "Resistance": "L-20",
+      "RetreatCost": "2",
+      "code": "25/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61272,
+    "name": "Energy Retrieval",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98717_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98717_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98717_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "16/30",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Put 2 basic Energy cards from your discard pile into your hand.",
+      "code": "16/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61252,
+    "name": "Energy Search (Excadrill)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98697_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98697_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98697_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "21/30",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Search your deck for a basic Energy card, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "code": "21/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61253,
+    "name": "Energy Search (Zoroark)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98698_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98698_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98698_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "27/30",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Search your deck for a basic Energy card, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "code": "27/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61239,
+    "name": "Energy Switch (Excadrill)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98684_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98684_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98684_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "4/30",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Move a basic Energy from 1 of your Pokémon to another of your Pokémon.",
+      "code": "4/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61250,
+    "name": "Excadrill (#17 Non-Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98695_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98695_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98695_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "17/30",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Metal Claw (30)",
+      "Attack 2": "[FFF] Drill Run (80)\r\n<br>Discard an Energy attached to the Defending Pokemon.",
+      "Weakness": "Wx2",
+      "Resistance": "L-20",
+      "RetreatCost": "2",
+      "code": "17/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61251,
+    "name": "Excadrill (#30 Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98696_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98696_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98696_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "30/30",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Metal Claw (30)",
+      "Attack 2": "[FFF] Drill Run (80)\r\n<br>Discard an Energy attached to the Defending Pokemon.",
+      "Weakness": "Wx2",
+      "Resistance": "L-20",
+      "RetreatCost": "2",
+      "code": "30/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61234,
+    "name": "Fighting Energy (#10)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98679_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98679_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98679_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "10/30",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "10/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61227,
+    "name": "Fighting Energy (#2)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98672_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98672_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98672_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "2/30",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "2/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61235,
+    "name": "Fighting Energy (#20)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98680_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98680_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98680_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "20/30",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "20/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61236,
+    "name": "Fighting Energy (#22)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98681_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98681_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98681_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "22/30",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "22/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61237,
+    "name": "Fighting Energy (#26)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98682_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98682_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98682_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "26/30",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "26/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61238,
+    "name": "Fighting Energy (#28)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98683_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98683_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98683_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "28/30",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "28/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61228,
+    "name": "Fighting Energy (#3)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98673_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98673_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98673_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "3/30",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "3/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61229,
+    "name": "Fighting Energy (#5)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98674_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98674_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98674_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "5/30",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "5/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61230,
+    "name": "Fighting Energy (#6)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98675_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98675_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98675_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "6/30",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "6/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61231,
+    "name": "Fighting Energy (#7)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98676_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98676_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98676_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "7/30",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "7/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61232,
+    "name": "Fighting Energy (#8)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98677_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98677_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98677_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "8/30",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "8/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61233,
+    "name": "Fighting Energy (#9)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98678_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98678_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98678_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "9/30",
+      "Rarity": "Common",
+      "Card Type": "Basic Energy",
+      "code": "9/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61246,
+    "name": "Gurdurr",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98691_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98691_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98691_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "14/30",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Bulk Up (20)\r\n<br>During your next turn, each of this Pokemon's attacks does 20 more damage <i>(before applying Weakness and Resistance)</i>.",
+      "Attack 2": "[1FF] Pound (60)",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "14/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61256,
+    "name": "Herdier",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98701_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98701_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98701_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "19/30",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Collect\r\n<br>Draw 3 cards.",
+      "Attack 2": "[3] Bite (50)",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "19/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61226,
+    "name": "Lillipup (#1)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98671_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98671_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98671_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "1/30",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Pick Up\r\n<br>Put an item card from your discard pile into your hand.",
+      "Attack 2": "[1] Bite",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "1/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61257,
+    "name": "Lillipup (#27)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98702_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98702_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98702_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "27/30",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Pick Up\r\n<br>Put an item card from your discard pile into your hand.",
+      "Attack 2": "[1] Bite",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "27/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61262,
+    "name": "Minccino (#19)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98707_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98707_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98707_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "19/30",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Tail Slap (10x)\r\n<br>Flip 2 coins. This attack does 10 damage times the number of heads.",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "19/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61261,
+    "name": "Minccino (#4)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98706_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98706_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98706_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "4/30",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Tail Slap (10x)\r\n<br>Flip 2 coins. This attack does 10 damage times the number of heads.",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "4/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61263,
+    "name": "Patrat (#12)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98708_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98708_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98708_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "12/30",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Tackle (10)",
+      "Attack 2": "[2] Bite (20)",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "12/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61264,
+    "name": "Patrat (#29)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98709_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98709_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98709_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "29/30",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Tackle (10)",
+      "Attack 2": "[2] Bite (20)",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "29/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61267,
+    "name": "Pidove (#14)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98712_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98712_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98712_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "14/30",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Quick Attack (10+)\r\n<br>Flip a coin. If heads, this attack does 10 more damage.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "code": "14/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61268,
+    "name": "Pidove (#21)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98713_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98713_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98713_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "21/30",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Quick Attack (10+)\r\n<br>Flip a coin. If heads, this attack does 10 more damage.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "code": "21/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61248,
+    "name": "PlusPower (Excadrill)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98693_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98693_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98693_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "16/30",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "During this turn, your Pokémon's attacks do 10 more damage to the Active Pokémon <em>(before applying Weakness and Resistance).</em>",
+      "code": "16/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61249,
+    "name": "PlusPower (Zoroark)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98694_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98694_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98694_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "11/30",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "During this turn, your Pokémon's attacks do 10 more damage to the Active Pokémon <em>(before applying Weakness and Resistance).</em>",
+      "code": "11/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61254,
+    "name": "Pokemon Communication (Excadrill)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98699_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98699_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98699_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "24/30",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Reveal a Pokémon in your hand and put it on top of your deck. If you do, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "code": "24/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61255,
+    "name": "Pokemon Communication (Zoroark)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98700_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98700_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98700_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "18/30",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Reveal a Pokémon in your hand and put it on top of your deck. If you do, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "code": "18/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61247,
+    "name": "Potion (#15)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98692_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98692_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98692_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "15/30",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Heal 30 damage from 1 of your Pokémon.",
+      "code": "15/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61285,
+    "name": "Potion (#23)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98730_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98730_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98730_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "23/30",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Heal 30 damage from 1 of your Pokémon.",
+      "code": "23/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61258,
+    "name": "Purrloin (#1)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98703_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98703_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98703_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "1/30",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Scratch (10)",
+      "Attack 2": "[2] Slash (20)",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "code": "1/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61259,
+    "name": "Purrloin (#25)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98704_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98704_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98704_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "25/30",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Scratch (10)",
+      "Attack 2": "[2] Slash (20)",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "code": "25/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61240,
+    "name": "Timburr (#11)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98685_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98685_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98685_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "11/30",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[FF] Pound (30)",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "11/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61241,
+    "name": "Timburr (#29)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98686_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98686_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98686_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "29/30",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[FF] Pound (30)",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "29/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61269,
+    "name": "Tranquill",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98714_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98714_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98714_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "15/30",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Gust (20)",
+      "Attack 2": "[2] Quick Attack (20+)\r\n<br>Flip a coin. If heads, this attack does 30 more damage.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "code": "15/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61260,
+    "name": "Watchog",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98705_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98705_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98705_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "2/30",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Confuse Ray\r\n<br>The Defending Pokemon is now Confused.",
+      "Attack 2": "[2] Hyper Fang (60)\r\n<br>Flip a coin. If tails, this attack does nothing.",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "2/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61270,
+    "name": "Zoroark (#17 Non-Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98715_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98715_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98715_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "17/30",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[D] Fury Swipes (20x)\r\n<br>Flip 3 coins. This attack does 20 damage times the number of heads.",
+      "Attack 2": "[2D] Night Daze (80)",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "code": "17/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61271,
+    "name": "Zoroark (#30 Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98716_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98716_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98716_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "30/30",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[D] Fury Swipes (20x)\r\n<br>Flip 3 coins. This attack does 20 damage times the number of heads.",
+      "Attack 2": "[2D] Night Daze (80)",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "code": "30/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61265,
+    "name": "Zorua (#13)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98710_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98710_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98710_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "13/30",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[2] Lunge (30)\r\n<br>Flip a coin. If tails, this attack does nothing.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "code": "13/30"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-bw-trainer-kit-excadrill-zoroark",
+    "id": 61266,
+    "name": "Zorua (#23)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/98711_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/98711_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/98711_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "23/30",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[2] Lunge (30)\r\n<br>Flip a coin. If tails, this attack does nothing.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "code": "23/30"
+    }
+  }
+]

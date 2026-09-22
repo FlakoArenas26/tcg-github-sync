@@ -1,0 +1,2689 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65140,
+    "name": "Arcanine",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83582_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83582_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83582_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "18/112",
+      "Rarity": "Rare",
+      "Card Type": "Fire",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[R] Flare (20)",
+      "Attack 2": "[3R] Heat Tackle (70)\r\n<br>Arcanine does 10 damage to itself.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "18/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65141,
+    "name": "Articuno ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83654_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83654_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83654_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "114/112",
+      "Rarity": "Secret Rare",
+      "Card Type": "Water",
+      "HP": "110",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Legendary Ascent \r<br>\n<br>Once during your turn, when you put Articuno ex from your hand onto your Bench, you may switch 1 of your Active Pokemon with Articuno ex.  If you do, you may also move any number of basic Water Energy cards attached to your Pokemon to Articuno ex.",
+      "Attack 1": "[1WW] Cold Crush (50) \r\n<br>You may discard an Energy card attached to Articuno ex.  If you do, your opponent discards an Energy card attached to the Defending Pokemon.",
+      "Weakness": "M",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "114/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65142,
+    "name": "Beedrill",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83769_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83769_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83769_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "1/112",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "90",
+      "Stage": "Stage 2",
+      "Attack 1": "[G] Poison Sting (20) \r\n<br>The Defending Pokemon is now Poisoned.",
+      "Attack 2": "[2G] Link Needle (50+) \r\n<br>This attack does 50 damage plus 30 more damage for each Beedrill (excluding this one) you have in play.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "0",
+      "code": "1/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65143,
+    "name": "Bellsprout",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83807_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83807_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83807_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "53/112",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[G] Vine Whip (10)",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "53/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65144,
+    "name": "Bill's Maintenance",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83838_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83838_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83838_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "87/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "You can play only one Supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.\r\n<br>\r\n<br>\r\n<br>\r\n<br>If you have any cards in your hand, shuffle 1 of them into your deck, then draw 3 cards.",
+      "code": "87/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65145,
+    "name": "Blastoise ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83900_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83900_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83900_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "104/112",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Water",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-POWER</b> Energy Rain \r<br>\n<br>As often as you like during your turn <em>(before your attack)</em>, you may attach a Water Energy card from your hand to 1 of your Pokemon.  Put 1 damage counter on that Pokemon.  This power can't be used if Blastoise ex is affected by a Special Condition.",
+      "Attack 1": "[1WWW] Hyper Whirlpool (80) \r\n<br>Flip a coin until you get tails.  For each heads, your opponent discards an Energy card attached to the Defending Pokemon.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "104/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65146,
+    "name": "Bulbasaur - 054/112",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84029_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84029_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84029_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "54/112",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Sleep Poison \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Asleep and Poisoned.",
+      "Attack 2": "[2] Razor Leaf (20)",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "54/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65147,
+    "name": "Bulbasaur - 055/112",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84030_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84030_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84030_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "55/112",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Ram (10)",
+      "Attack 2": "[1G] Gouge (20+) \r\n<br>Flip a coin.  If heads, this attack does 20 damage plus 10 more damage.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "55/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65148,
+    "name": "Butterfree",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84065_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84065_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84065_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "2/112",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-BODY</b> Sooth Dust \r<br>\n<br>As long as Butterfree is your Active Pokemon, remove 1 damage counter from each of your Pokemon between turns.",
+      "Attack 1": "[2] Whirlwind (30) \r\n<br>Your opponent switches the Defending Pokemon with 1 of his or her Benched Pokemon.",
+      "Attack 2": "[2G] Gust (50)",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "0",
+      "code": "2/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65149,
+    "name": "Caterpie",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84136_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84136_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84136_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "56/112",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Signs of Evolution\r\n<br>Search your deck for a Metapod and a Butterfree card, show them to your opponent, and put them into your hand.  Shuffle your deck afterward.",
+      "Attack 2": "[G] String Shot (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "56/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65150,
+    "name": "Celio's Network",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84154_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84154_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84154_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "88/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "<em>You can play only one Supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.</em>\r<br>\n<br>\r<br>\n<br>Search your deck for a Basic Pokemon or Evolution card (excluding Pokemon-ex), show it to your opponent, and put it into your hand.  Shuffle your deck afterward.",
+      "code": "88/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65151,
+    "name": "Chansey",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84173_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84173_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84173_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "19/112",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[1] Sing\r\n<br>The Defending Pokemon is now Asleep.",
+      "Attack 2": "[3] Egg Surprise \r\n<br>Flip a coin.  If heads, Chansey does 50 damage to the Defending Pokemon.  If tails, remove 5 damage counters from Chansey.  (All if there are less than 5.)",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "19/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65152,
+    "name": "Charizard ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84199_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84199_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84199_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "105/112",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fire",
+      "HP": "160",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Poke-BODY</strong> Energy Flame \r\n<br>\r\n<br>All Energy attached to Charizard ex are Fire Energy instead of its usual type.",
+      "Attack 1": "[3] Slash (50)",
+      "Attack 2": "[RRRRR] Burn Down (200) \r\n<br>Discard 5 Fire Energy attached to Charizard ex.  This attack's damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies, and any other effects on the Defending Pokemon.",
+      "Weakness": "LW",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "105/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65153,
+    "name": "Charmander - 057/112",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84209_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84209_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84209_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "57/112",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[R] Singe \r\n<br>The Defending Pokemon is now Burned.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "57/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65154,
+    "name": "Charmander - 058/112",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84210_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84210_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84210_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "58/112",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Headbutt (10)",
+      "Attack 2": "[2] Slash (20)",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "58/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65155,
+    "name": "Charmander - 113/112",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84211_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84211_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84211_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "113/112",
+      "Rarity": "Secret Rare",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[R] Flare (10)",
+      "Attack 2": "[2] Rage (10+) \r\n<br>Does 10 damage plus 10 more damage for each damage counter on Charmander.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "113/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65156,
+    "name": "Charmeleon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84226_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84226_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84226_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "31/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1R] Flare (30)",
+      "Attack 2": "[2R] Damage Burn (40+) \r\n<br>If the Defending Pokemon already has any damage counters on it, this attack does 40 damage plus 20 more damage.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "31/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65157,
+    "name": "Clefable ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84350_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84350_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84350_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "106/112",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Colorless",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Metronome\r\n<br>Choose 1 of the Defending Pokemon's attacks.  Metronome copies that attack except for its Energy cost.  (You must still do anything else in order to use that attack.) <i>(No matter what type that Pokemon is, Clefable ex's type is still Colorless.)</i>  Clefable ex performs that attack.",
+      "Attack 2": "[2] Moon Impact (40)",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "106/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65158,
+    "name": "Clefairy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84354_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84354_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84354_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "59/112",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Gesture \r\n<br>Choose 1 of your opponent's Benched Pokemon and switch it with the Defending Pokemon.  Your opponent chooses the Defending Pokemon to switch.",
+      "Attack 2": "[2] Moon Kick (20)",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "59/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65159,
+    "name": "Cloyster",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84373_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84373_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84373_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "20/112",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Exoskeleton\r<br>\n<br>Any damage done to Cloyster by attacks is reduced by 10 <em>(after applying Weakness and Resistance). </em>",
+      "Attack 1": "[2] Double Bubble (10x) \r\n<br>Flip 2 coins.  This attack does 10 damage times the number of heads.  If either of the coins is heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[2W] Shell Attack (50)",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "20/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65160,
+    "name": "Cubone",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84531_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84531_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84531_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "60/112",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Beat (10)",
+      "Attack 2": "[1F] Linear Attack \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 20 damage to that Pokemon. <i> (Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "G",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "60/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65161,
+    "name": "Dewgong",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84789_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84789_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84789_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "3/112",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Safeguard \r\n<br>\r\n<br>Prevent all effects of attacks, including damage, done to Dewgong by your opponent's Pokemon-ex.",
+      "Attack 1": "[W] Cold Breath (10) \r\n<br>The Defending Pokemon is now Asleep.",
+      "Attack 2": "[3] Aurora Beam (40)",
+      "Weakness": "M",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "3/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65162,
+    "name": "Diglett",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84821_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84821_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84821_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "61/112",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Dig Under \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 10 damage to that Pokemon.  This attack's damage isn't affected by Weakness or Resistance.",
+      "Weakness": "G",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "61/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65163,
+    "name": "Ditto",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84831_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84831_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84831_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "4/112",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Form Variation \r<br>\n<br>Once during your turn <em>(before you attack)</em>, you may search your discard pile for a Basic Pokemon (excluding Pokemon-ex and Ditto) and switch it with Ditto.  <em>(Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokemon.)</em>  Place Ditto in the discard pile.",
+      "Attack 1": "[1] Energy Ball (10+) \r\n<br>Does 10 damage plus 10 more damage for each Energy attached to Ditto but not used to pay for this attack's Energy cost.  You cannot add more than 20 damage in this way.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "4/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65164,
+    "name": "Dodrio",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84850_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84850_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84850_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "21/112",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Retreat Aid  \r<br>\n<br>As long as Dodrio is on your Bench, you pay 2 less to retreat your Active Pokemon (excluding Pokemon-ex and Baby Pokemon).",
+      "Attack 1": "[2] Tri Attack (20x) \r\n<br>Flip 3 coins.  This attack does 20 damage times the number of heads.",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "21/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65165,
+    "name": "Doduo",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84861_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84861_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84861_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "62/112",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Run Around \r\n<br>Switch Doduo with 1 of your Benched Pokemon.",
+      "Attack 2": "[2] Random Peck (10+) \r\n<br>Flip 2 coins.  This attack does 10 damage plus 10 more damage for each heads.",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "62/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65166,
+    "name": "Drowsee",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84973_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84973_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84973_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "32/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Hypnosis \r\n<br>The Defending Pokemon is now Asleep.",
+      "Attack 2": "[P] Ambush (10+) \r\n<br>Flip a coin.  If heads, this attack does 10 damage plus 10 more damage.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "32/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65167,
+    "name": "Dugtrio",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85000_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85000_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85000_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "22/112",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1F] Sonicboom (30) \r\n<br>This attack's damage isn't affect by Weakness or Resistance.",
+      "Attack 2": "[2F] Rumble (50) \r\n<br>The Defending Pokemon can't retreat until the end of your opponent's next turn.",
+      "Weakness": "G",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "22/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65173,
+    "name": "EXP.ALL",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85368_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85368_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85368_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "91/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Tool",
+      "CardText": "<em>Attach EXP. ALL to 1 of your Pokemon (excluding Pokemon-ex and Pokemon that has an owner in its name) that doesn't already have a Pokemon Tool attached to it.  If that Pokemon is Knocked Out, discard this card.</em>\r<br>\n<br>\r<br>\n<br>During your opponent's turn, if 1 of your Active Pokemon is Knocked Out by your opponent's attack, you may take 1 basic Energy card attached to that Knocked Out Pokemon and attach it to the Pokemon with EXP.ALL attached to it.  If you do, discard EXP.ALL.\r<br>\n<br>\r<br>\n<br>\r<br>\n<em><b>(EXP.ALL and Exp.Share are the same card.)</em></b>",
+      "code": "91/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65168,
+    "name": "Electrode ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85165_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85165_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85165_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "107/112",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Lightning",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-POWER</b> Extra Energy Bomb \r<br>\n<br>Once during your turn (before your attack), you may discard Electrode ex and all the cards attached to it <em>(this counts as Knocking Out Electrode ex)</em>.  If you do, search your discard pile for 5 Energy cards and attach them to any of your Pokemon (excluding Pokemon-ex) in any way you like.  This power can't be used if Electrode ex is affected by a Special Condition.",
+      "Attack 1": "[1L] Crush and Burn (30+) \r\n<br>You may discard as many Energy as you like attached to your Pokemon in play.  If you do, this attack does 30 damage plus 20 more for each Energy you discarded.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "107/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65169,
+    "name": "Energy Removal 2",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85222_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85222_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85222_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "89/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Flip a coin.  If heads, choose 1 Energy card attached to 1 of your opponent's Pokemon and discard it.",
+      "code": "89/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65170,
+    "name": "Energy Switch",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85254_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85254_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85254_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "90/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Move a basic Energy card from 1 of your Pokemon to another of your Pokemon.",
+      "code": "90/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65171,
+    "name": "Exeggcute",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85346_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85346_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85346_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "33/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[P] Psybeam (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Confused.",
+      "Attack 2": "[2] Double Spin (20x) \r\n<br>Flip 2 coins.  This attack does 20 damage times the number of heads.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "33/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65172,
+    "name": "Exeggutor",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85359_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85359_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85359_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "5/112",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Psychic Exchange \r\n<br>Shuffle your hand into your deck.  Draw up to 8 cards.",
+      "Attack 2": "[1P] Big Eggplosion (40x) \r\n<br>Flip a coin for each Energy attached to Exeggutor.  This attack does 40 damage times the number of heads.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "5/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65174,
+    "name": "Farfetch'd",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85384_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85384_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85384_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "23/112",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Hoard \r\n<br>Search your deck for up to 2 Pokemon Tool cards and attach them to any of your Pokemon (excluding Pokemon that already have a Pokemon Tool attached to them).  Shuffle your deck afterward.",
+      "Attack 2": "[1] Cross-Cut (10+)\r\n<br>If the Defending Pokemon is an Evolved Pokemon, this attack does 10 damage plus 20 more damage.",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "23/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65175,
+    "name": "Fearow",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85397_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85397_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85397_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "24/112",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Free Flight \r\n<br>\r\n<br>If Fearow has no Energy attached to it, Fearow's Retreat Cost is 0.",
+      "Attack 1": "[2] Shot Air (10) \r\n<br>Does 20 damage to 1 of your opponent's Benched Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Attack 2": "[3] Drill Peck (50)",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "24/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65176,
+    "name": "Gastly",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85650_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85650_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85650_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "63/112",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Slow Trip Gas\r\n<br>At the end of your opponent's next turn, the Defending Pokemon is now Confused.",
+      "Weakness": "D",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "63/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65177,
+    "name": "Gengar ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85680_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85680_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85680_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "108/112",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Psychic",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "Attack 1": "[1P] Poltergeist (40+) \r\n<br>Look at your opponent's hand.  This attack does 40 damage plus 10 more damage for each Trainer card in your opponent's hand.",
+      "Attack 2": "[1PP] Prize Count (60+) \r\n<br>If you have more Prizes left than your opponent, this attack does 60 damage plus 40 more damage.",
+      "Weakness": "DP",
+      "Resistance": "FC",
+      "RetreatCost": "2",
+      "code": "108/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65178,
+    "name": "Great Ball",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85895_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85895_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85895_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "92/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Search your deck for a Basic Pokemon (excluding Pokemon-ex) and put it onto your Bench.  Shuffle your deck afterward.",
+      "code": "92/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65179,
+    "name": "Growlithe",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85954_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85954_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85954_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "64/112",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Bite (10)",
+      "Attack 2": "[2R] Flame Tail (40)",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "64/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65180,
+    "name": "Gyarados ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86004_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86004_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86004_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "109/112",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Water",
+      "HP": "130",
+      "Stage": "Stage 1",
+      "Attack 1": "[1W] Twister (40) \r\n<br>Flip 2 coins.  For each heads, choose 1 Energy attached to the Defending Pokemon, if any, and discard it.  If both are tails, this attack does nothing.",
+      "Attack 2": "[3WW] Dragon Rage (100)",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "109/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65181,
+    "name": "Haunter",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86025_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86025_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86025_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "34/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-POWER</b> Head Trip\r<br>\n<br>Once during your turn <em>(before your attack)</em>, if Haunter is on your Bench, you may use this power.  One of your Active Pokemon is now Confused.",
+      "Attack 1": "[1P] Confuse Ray (20) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Confused.",
+      "Weakness": "D",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "34/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65182,
+    "name": "Hypno",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86252_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86252_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86252_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "25/112",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Eerie Aura \r\n<br>\r\n<br>As long as Hypno is your Active Pokemon, put 2 damage counters on each Pokemon that remains Asleep between turns.",
+      "Attack 1": "[1P] Hypnotic Ray (20) \r\n<br>The Defending Pokemon is now Asleep.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "25/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65183,
+    "name": "Ivysaur",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86297_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86297_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86297_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "35/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Poison Seed \r\n<br>The Defending Pokemon is now Poisoned.",
+      "Attack 2": "[1GG] Razor Leaf (50)",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "35/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65184,
+    "name": "Jigglypuff",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86316_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86316_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86316_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "65/112",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Sleep Inducer \r\n<br>Switch 1 of your opponent's Benched Pokemon with 1 of the Defending Pokemon.  Your opponent chooses the Defending Pokemon to switch.  The new Defending Pokemon is now Asleep.",
+      "Attack 2": "[2] Quick Blow (10+) \r\n<br>Flip a coin.  If heads, this attack does 10 damage plus 20 more damage.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "65/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65185,
+    "name": "Kakuna",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86411_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86411_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86411_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "36/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Poison Payback \r\n<br>\r\n<br>If Kakuna is your Active Pokemon and is damaged by an opponent's attack <em>(even if Kakuna is Knocked Out)</em>, the Attacking Pokemon is now Poisoned.",
+      "Attack 1": "[1] Headbutt (10)",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "36/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65186,
+    "name": "Kangaskhan",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86421_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86421_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86421_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "6/112",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[1] Fetch \r\n<br>Draw a card.",
+      "Attack 2": "[2] Headbutt (20)",
+      "Attack 3": "[3] One-Two Punch (30+) \r\n<br>Flip a coin.  If heads, this attack does 30 damage plus 20 more damage.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "6/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65187,
+    "name": "Kingler",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86456_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86456_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86456_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "26/112",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Salt Water \r\n<br>Search your deck for up to 2 W Energy cards and attach them to Kingler.  Shuffle your deck afterward.",
+      "Attack 2": "[1W] Hyper Pump (30+) \r\n<br>Does 30 damage plus 20 more damage for each basic Energy attached to Kingler but not used to pay for this attack's Energy cost.  You can't add more than 40 damage in this way.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "26/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65188,
+    "name": "Krabby",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86524_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86524_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86524_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "66/112",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Irongrip (10)",
+      "Attack 2": "[W] Nap \r\n<br>Remove 2 damage counters from Krabby <i>(remove 1 if there is only 1).</i>",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "66/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65189,
+    "name": "Lickitung",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86719_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86719_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86719_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "37/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[1] Lick (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[2] Tongue Whip \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 20 damage to that Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "37/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65190,
+    "name": "Life Herb",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86731_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86731_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86731_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "93/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Flip a coin.  If heads, choose 1 of your Pokemon (excluding Pokemon-ex) and remove all Special Conditions and 6 damage counters from that Pokemon <em>(all if there are less than 6).</em>",
+      "code": "93/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65191,
+    "name": "Magikarp",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87026_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87026_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87026_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "67/112",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "30",
+      "Stage": "Basic",
+      "Attack 1": "[1] Surprise Attack (10)\r\n<br>Flip a coin.  If tails, this attack does nothing.",
+      "Attack 2": "[1W] Ascension \r\n<br>Search your deck for a card that evolves from Magikarp and put it on Magikarp. <i> (This counts as evolving Magikarp.)</i> Shuffle your deck afterward.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "67/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65192,
+    "name": "Magnemite",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87075_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87075_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87075_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "68/112",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Supersonic \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Confused.",
+      "Attack 2": "[1L] Speed Ball (20)",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "1",
+      "code": "68/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65193,
+    "name": "Magneton",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87102_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87102_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87102_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "27/112",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1L] Thundershock (20) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[3] Speed Shot \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 40 damage to that Pokemon.  This attack's damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies, or any other effects on that Pokemon.",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "1",
+      "code": "27/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65194,
+    "name": "Mankey",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87173_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87173_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87173_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "38/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Mischief \r\n<br>Shuffle your opponent's deck.",
+      "Attack 2": "[1F] Light Punch (30)",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "38/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65195,
+    "name": "Marowak",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87226_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87226_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87226_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "7/112",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1F] Linear Attack\r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 30 damage to that Pokemon. <i> (Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Attack 2": "[2F] Vengeance (30+)\r\n<br>Does 30 damage plus 10 more damage for each Basic Pokemon and each Evolution card in your discard pile.  You can't add more than 60 damage in this way.",
+      "Weakness": "G",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "7/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65196,
+    "name": "Meowth",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87317_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87317_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87317_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "69/112",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Collect \r\n<br>Draw a card.",
+      "Attack 2": "[2] Cat Kick (20)",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "69/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65197,
+    "name": "Metapod",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87389_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87389_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87389_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "39/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Energy Protection\r\n<br>\r\n<br>Any damage done to Metapod by attacks is reduced by 10 for each Energy attached to Metapod.  You can't reduce more than 30 damage in this way.",
+      "Attack 1": "[2] Sharpen (20)",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "39/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65198,
+    "name": "Moltres ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87566_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87566_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87566_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "115/112",
+      "Rarity": "Secret Rare",
+      "Card Type": "Fire",
+      "HP": "110",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Legendary Ascent \r<br>\n<br>Once during your turn, when you put Moltres ex from your hand onto your Bench, you may switch 1 of your Active Pokemon with Moltres ex.  If you do, you may also move any number of basic Fire Energy cards attached to your Pokemon to Moltres ex.",
+      "Attack 1": "[1RR] Crushing Flames (60) \r\n<br>You may discard an Energy card attached to Moltres ex.  If you do, the Defending Pokemon is now Confused.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "115/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65199,
+    "name": "Mr. Mime ex - 110/112",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87598_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87598_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87598_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "110/112",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Magic Odds \r<br>\n<br>If Mr. Mime ex would be damaged by an attack, prevent that attack's damage done to Mr. Mime ex if that damage is 10, 30, 50, 70, 90, 110, 130, 150, or 170.",
+      "Attack 1": "[1P] Breakdown \r\n<br>Count the number of cards in your opponent's hand.  Put that many damage counters on the Defending Pokemon.",
+      "Weakness": "None",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "110/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65200,
+    "name": "Mr. Mime ex - 111/112",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87599_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87599_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87599_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "111/112",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Magic Evens \r<br>\n<br>If Mr. Mime ex would be damaged by an attack, prevent that attack's damage done to Mr. Mime ex if that damage is 20, 40, 60, 80, 100, 120, 140, 160, or 180.",
+      "Attack 1": "[1P] Breakdown \r\n<br>Count the number of cards in your opponent's hand.  Put that many damage counters on the Defending Pokemon.",
+      "Weakness": "None",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "111/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65201,
+    "name": "Mt. Moon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87603_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87603_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87603_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "94/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "CardText": "This card stays in play when you play it.  Discard this card if another Stadium card comes into play.\r<br>\n<br>\r<br>\n<br>Any Pokemon <em>(both yours and your opponent's)</em>, with maximum HP less than 70 can't use any Poke-Powers.",
+      "code": "94/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65202,
+    "name": "Multi Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87630_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87630_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87630_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "103/112",
+      "Rarity": "Rare",
+      "Card Type": "Special Energy",
+      "CardText": "Attach Multi Energy to 1 of your Pokemon.  While in play, Multi Energy provides every type of Energy but provides only 1 energy at a time.  <em>(Doesn't count as a basic Energy card when not in play.)</em> Multi Energy provides Colorless Energy when attached to a Pokemon that already has Special Energy cards attached to it.",
+      "code": "103/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65203,
+    "name": "Nidoking",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87696_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87696_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87696_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "8/112",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-BODY</b> Power Gene \r<br>\n<br>As long as Nidoking is in play, your attacks from Nidoran F, Nidorina, Nidoqueen, Nidoran M, and Nidorino do 10 more damage to the Defending Pokemon.",
+      "Attack 1": "[1F] Earth Poison (40) \r\n<br>If the Defending Pokemon already has any damage counters on it, the Defending Pokemon is now Poisoned.",
+      "Attack 2": "[2FF] Bound Crush\r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 60 damage to that Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>  Nidoking can't use Bound Crush during your next turn.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "8/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65204,
+    "name": "Nidoqueen",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87707_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87707_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87707_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "9/112",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-BODY</b> Family Bonds \r<br>\n<br>As long as Nidoqueen is in play, the Retreat Cost for Nidoran F, Nidorina, Nidoran M, Nidorino, and Nidoking is 0.",
+      "Attack 1": "[G] Toxic \r\n<br>The Defending Pokemon is now Poisoned.  Put 2 damage counters instead of 1 on the Defending Pokemon between turns.",
+      "Attack 2": "[2F] Power Lariat (40+) \r\n<br>Does 40 damage plus 10 more damage for each Evolved Pokemon you have in play.",
+      "Weakness": "G",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "9/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65205,
+    "name": "Nidoran F",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87717_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87717_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87717_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "70/112",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Look for Friends \r\n<br>Reveal cards from your deck until you reveal a Basic Pokemon.  Show that card to your opponent and put it into your hand.  Shuffle the other revealed cards back into your deck. <i> (If you don't reveal a Basic Pokemon, shuffle all the revealed cards back into your deck.)</i>",
+      "Attack 2": "[2] Bite (20)",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "70/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65206,
+    "name": "Nidoran M",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87726_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87726_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87726_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "71/112",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Call for Family \r\n<br>Search your deck for a Nidoran F or a Nidoran M card and put it onto your Bench.  Shuffle your deck afterward.",
+      "Attack 2": "[1] Double Stab (10x) \r\n<br>Flip 2 coins.  This attack does 10 damage times the number of heads.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "71/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65207,
+    "name": "Nidorina",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87735_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87735_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87735_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "40/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Scratch (20)",
+      "Attack 2": "[2] Fast Evolution\r\n<br>Search your deck for up to 2 Evolution cards, show them to your opponent, and put them into your hand.  Shuffle your deck afterward.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "40/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65208,
+    "name": "Nidorino",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87744_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87744_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87744_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "41/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Double Stab (20x) \r\n<br>Flip 2 coins.  This attack does 20 damage times the number of heads.",
+      "Attack 2": "[3] Rend (30+) \r\n<br>If the Defending Pokemon already has any damage counters on it, this attack does 30 damage plus 30 more damage.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "41/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65209,
+    "name": "Onix",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87879_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87879_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87879_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "42/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[F] Rock Throw (10)",
+      "Attack 2": "[1F] Tunneling \r\n<br>Choose up to 2 of your opponent's Benched Pokemon.  This attack does 10 damage to each of them. <i> (Don't apply Weakness and Resistance for Benched Pokemon.) </i> Onix can't attack during your next turn.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "42/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65210,
+    "name": "Paras",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87950_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87950_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87950_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "72/112",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Call for Family \r\n<br>Search your deck for up to 2 Basic Pokemon and put them onto your Bench.  Shuffle your deck afterward.",
+      "Attack 2": "[G] Toxic Sport (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Poisoned.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "72/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65211,
+    "name": "Parasect",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87957_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87957_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87957_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "43/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[G] Energy Powder \r\n<br>Search your deck for up to 2 basic Energy cards and attach them to any of your Pokemon (excluding Pokemon-ex) in any way you like.  Shuffle your deck afterward.",
+      "Attack 2": "[1G] Toxic Spore (20) \r\n<br>The Defending Pokemon is now Poisoned.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "43/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65212,
+    "name": "Persian",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87984_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87984_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87984_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "44/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Thick Skin - Persian can't be affected by any Special Conditions.",
+      "Attack 1": "[1] Poison Claws \r\n<br>The Defending Pokemon is now Poisoned.",
+      "Attack 2": "[2] Shining Claws (30) \r\n<br>The Defending Pokemon is now Confused.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "44/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65213,
+    "name": "Pidgeot",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88031_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88031_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88031_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "10/112",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-POWER</b> Quick Search \r<br>\n<br>Once during your turn <em>(before you attack)</em>, you may choose any 1 card from your deck and put it into your hand.  Shuffle your deck afterward.  You can't use more than 1 Quick Search Poke-Power each turn.  This power can't be used if Pidgeot is affected by a Special Condition.",
+      "Attack 1": "[2] Clutch (40) \r\n<br>The Defending Pokemon can't retreat until the end of your opponent's next turn.",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "0",
+      "code": "10/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65214,
+    "name": "Pidgeotto",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88040_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88040_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88040_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "45/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Clutch (10) \r\n<br>The Defending Pokemon can't retreat until the end of your opponent's next turn.",
+      "Attack 2": "[2] Cutting Wind (30)",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "0",
+      "code": "45/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65215,
+    "name": "Pidgey",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88048_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88048_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88048_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "73/112",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Corner \r\n<br>The Defending Pokemon can't retreat until the end of your opponent's next turn.",
+      "Attack 2": "[2] Gust (20)",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "73/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65216,
+    "name": "Pikachu",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88078_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88078_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88078_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "74/112",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Plasma (10) \r\n<br>Flip a coin.  If heads, search your discard pile for a Lightning Energy card and attach it to Pikachu.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "74/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65217,
+    "name": "Poke Ball",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88183_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88183_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88183_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "95/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Flip a coin.  If heads, search your deck for a Basic Pokemon or Evolution card, show it to your opponent and put it into your hand.  Shuffle your deck afterward.",
+      "code": "95/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65218,
+    "name": "PokeDex (HANDY909)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88201_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88201_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88201_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "96/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Shuffle your deck.  Look at 6 cards from the top of your deck, then put them back on top of your deck in any order.",
+      "code": "96/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65219,
+    "name": "Pokemon Reversal",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88239_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88239_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88239_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "97/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Flip a coin.  If heads, choose 1 of your opponent's Benched Pokemon and switch it with 1 of the Defending Pokemon.  Your opponent chooses the Defending Pokemon to switch.",
+      "code": "97/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65220,
+    "name": "Poliwag",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88257_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88257_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88257_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "75/112",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Spiral Attack \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Confused.",
+      "Attack 2": "[2] Tail Whap (20)",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "75/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65221,
+    "name": "Poliwhirl",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88265_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88265_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88265_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "46/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Energy Stream (10) \r\n<br>Flip a coin.  Search your discard pile for a basic Energy card and attach it to Poliwhirl.",
+      "Attack 2": "[1W] Bubble (20) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "46/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65222,
+    "name": "Poliwrath",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88276_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88276_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88276_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "11/112",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-BODY</b> Spiral\r<br>\n<br>As long as Poliwrath is your Active Pokemon, your opponent's Confused Pokemon can't retreat.",
+      "Attack 1": "[2] Split Spiral Punch (20) \r\n<br>The Defending Pokemon is now Confused.",
+      "Attack 2": "[2W] Mega Throw (50+) \r\n<br>If the Defending Pokemon is Pokemon-ex, this attack does 50 damage plus 30 more damage.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "11/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65223,
+    "name": "Ponyta",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88285_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88285_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88285_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "76/112",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[2] Stomp (20+) \r\n<br>Flip a coin.  If heads, this attack does 20 damage plus 10 more damage.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "76/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65224,
+    "name": "Porygon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88308_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88308_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88308_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "47/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Data Retrieval \r\n<br>If you have less than 4 cards in your hand, draw cards until you have 4 cards in your hand.",
+      "Attack 2": "[2] Confuse Ray (10) \r\n<br>The Defending Pokemon is now Confused.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "47/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65225,
+    "name": "Potion",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88334_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88334_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88334_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "101/112",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Remove 2 damage counters from 1 of your Pokemon (remove 1 damage counter if that Pokemon has only 1).\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<em>(This card is an <b>old printing</b>, new print rules: \"Heal 30 damage from 1 of your Pokemon.\")</em>",
+      "code": "101/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65226,
+    "name": "Primeape",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88362_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88362_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88362_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "28/112",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Toss (30x) \r\n<br>You may discard from your hand as many Technical Machine and Pokemon Tool cards as you like.  This attack does 30 damage times the number of cards you discarded.",
+      "Attack 2": "[1F] Low Kick (40)",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "0",
+      "code": "28/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65227,
+    "name": "Prof. Oak's Research",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88403_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88403_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88403_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "98/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "<em>You can play only one Supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.</em>\r<br>\n<br>\r<br>\n<br>Shuffle you hand into your deck, then draw 5 cards.",
+      "code": "98/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65228,
+    "name": "Raichu",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88507_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88507_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88507_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "12/112",
+      "Rarity": "Holo Rare",
+      "Card Type": "Lightning",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Recharge \r\n<br>Search your deck for up to 2 Lightning Energy cards and attach them to Raichu.  Shuffle your deck afterward.",
+      "Attack 2": "[1LL] Thunder Reflection (50) \r\n<br>You may move any number of Lightning Energy cards attached to Raichu to another of your Pokemon.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "12/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65229,
+    "name": "Rapidash",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88581_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88581_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88581_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "13/112",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Fiery Aura \r<br>\n<br>As long as Rapidash is your Active Pokemon, put 4 damage counters instead of 2 on Burned Pokemon between turns.",
+      "Attack 1": "[1R] Searing Flames (10) \r\n<br>The Defending Pokemon is now Burned.",
+      "Attack 2": "[2R] Rear Kick (40)",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "13/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65230,
+    "name": "Raticate",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88603_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88603_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88603_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "48/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Thick Skin\r\n<br>\r\n<br>Raticate can't be affected by any Special Conditions.",
+      "Attack 1": "[1] Pickup \r\n<br>Search your discard pile for a Basic Pokemon (or Evolution card), a Trainer card, and an Energy card.  Show them to your opponent and put them into your hand.",
+      "Attack 2": "[1] Quick Attack (10+) \r\n<br>Flip a coin.  If heads, this attack does 10 damage plus 40 more damage.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "0",
+      "code": "48/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65231,
+    "name": "Rattata",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88615_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88615_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88615_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "77/112",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Collect \r\n<br>Draw a card.",
+      "Attack 2": "[1] Scratch (10)",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "77/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65232,
+    "name": "Scyther",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88998_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88998_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88998_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "29/112",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Leaf Ride \r<br>\n<br>If Scyther has any Energy attached to it, Scyther's Retreat Cost is 0.",
+      "Attack 1": "[1G] Fury Cutter (10+) \r\n<br>Flip 3 coins.  If 1 of them are heads, this attack does 10 damage plus 10 more damage.  If 2 of them are heads, this attack does 10 damage plus 20 more damage.  If all of them are heads, this attack does 10 damage plus 40 more damage.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "29/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65233,
+    "name": "Seel",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89052_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89052_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89052_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "78/112",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[W] Horn Hazard (30) \r\n<br>Flip a coin.  If tails, this attack does nothing.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "78/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65234,
+    "name": "Shellder",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89137_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89137_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89137_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "79/112",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Minimize \r\n<br>During your opponent's next turn, any damage done to Shellder by attacks is reduced by 20 <i>(after applying Weakness and Resistance).</i>",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "79/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65235,
+    "name": "Slowbro",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89304_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89304_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89304_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "14/112",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-POWER</b> Strange Behavior \r<br>\n<br>As often as you like during your turn <em>(before your attack)</em>, you may move 1 damage counter from 1 of your Pokemon to Slowbro as long as you don't Knock Out Slowbro.  This power can't be used if Slowbro is affected by a Special Condition.",
+      "Attack 1": "[1P] Psyshock (30) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "14/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65236,
+    "name": "Slowpoke",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89327_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89327_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89327_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "80/112",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Confusion Wave\r\n<br>Both Slowpoke and the Defending Pokemon are now Confused.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "80/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65237,
+    "name": "Snorlax",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89388_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89388_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89388_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "15/112",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "90",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Rest Up\r<br>\n<br>If Snorlax remains Asleep between turns, remove 2 damage counters from Snorlax (remove 1 if there is only 1).",
+      "Attack 1": "[1] Collapse (10) \r\n<br>Snorlax is now Asleep.",
+      "Attack 2": "[3] Toss and Turn (30+) \r\n<br>If Snorlax is Asleep, this attack does 30 damage plus 30 more damage.  <i>(This attack can be used even if Snorlax is Asleep.)</i>",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "15/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65238,
+    "name": "Spearow",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89439_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89439_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89439_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "81/112",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Claw (10) \r\n<br>Flip a coin.  If tails, this attack does nothing.",
+      "Attack 2": "[2] Wing Attack (20)",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "81/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65239,
+    "name": "Squirtle - 082/112",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89489_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89489_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89489_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "82/112",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[W] Sleepy Ball (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Asleep.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "82/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65240,
+    "name": "Squirtle - 083/112",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89490_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89490_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89490_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "83/112",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Bubble \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[1W] Smash Turn (20) \r\n<br>After your attack, you may switch Squirtle with 1 of your Benched Pokemon.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "83/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65241,
+    "name": "Super Scoop Up",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89636_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89636_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89636_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "99/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Flip a coin.  If heads, return 1 of your Pokemon and all cards attached to it to your hand.",
+      "code": "99/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65242,
+    "name": "Switch",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89712_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89712_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89712_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "102/112",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Switch 1 of your Active Pokemon with 1 of your Benched Pokemon.",
+      "code": "102/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65243,
+    "name": "Tangela",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89742_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89742_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89742_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "30/112",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Vine Tease\r\n<br>Look at your Prize cards without showing your opponent  Choose 1 of the Prize cards and switch it with the top card of your deck without looking at the top card of your deck.  If you have no cards in your deck, this attack does nothing.",
+      "Attack 2": "[G] Wiggle \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Confused.  If tails, the Defending Pokemon is now Poisoned.",
+      "Weakness": "R",
+      "Resistance": "W",
+      "RetreatCost": "1",
+      "code": "30/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65244,
+    "name": "Tauros",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89761_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89761_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89761_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "16/112",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Knock Over (10) \r\n<br>You may discard any Stadium card in play.",
+      "Attack 2": "[3] Rampage (20+) \r\n<br>Does 20 damage plus 10 more damage for each damage counter on Tauros.  After doing damage, flip a coin.  If tails, Tauros is now Confused.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "16/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65250,
+    "name": "VS Seeker",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90426_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90426_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90426_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "100/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Search your discard pile for a Supporter card, show it to your opponent, and put it into your hand.",
+      "code": "100/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65245,
+    "name": "Venomoth",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90301_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90301_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90301_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "49/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Protective Dust \r<br>\n<br>Prevent all effects of attacks, except damage, done to Venomoth by the Attacking Pokemon.",
+      "Attack 1": "[G] Sleep Poison \r\n<br>The Defending Pokemon is now Asleep and Poisoned.",
+      "Attack 2": "[2] Razor Wind (60) \r\n<br>Flip a coin.  If tails, this attack does nothing.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "0",
+      "code": "49/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65246,
+    "name": "Venonat",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90307_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90307_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90307_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "84/112",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Psycho Waves \r\n<br>Discard an Energy card attached to Venonat.  The Defending Pokemon is now Confused.",
+      "Attack 2": "[G] Bite (10)",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "84/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65247,
+    "name": "Venusaur ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90323_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90323_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90323_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "112/112",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Grass",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-POWER</b> Energy Trans \r<br>\n<br>As often as you like during your turn <em>(before your attack)</em>, move a Grass Energy card attacked to 1 of your Pokemon to another of your Pokemon.  This power can be used if Venusaur ex is affected by a Special Condition.",
+      "Attack 1": "[2G] Pollen Hazard (20) \r\n<br>The Defending Pokemon is now Poisoned, Burned, and Confused.",
+      "Attack 2": "[2GGG] Solarbeam (90)",
+      "Weakness": "PR",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "112/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65248,
+    "name": "Victreebel",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90362_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90362_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90362_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "17/112",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "110",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-BODY</b> Acid Sampler \r<br>\n<br>As long as Victreebel is your Active Pokemon, put 1 damage counter on each Defending Pokemon between turns.  Acid Sampler stops working if your other Active Pokemon is not a Victreebel.",
+      "Attack 1": "[2G] Acid (50) \r\n<br>The Defending Pokemon can't retreat until the end of your opponent's next turn.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "17/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65249,
+    "name": "Voltorb",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90414_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90414_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90414_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "85/112",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Floating Electrons \r<br>\n<br>As long as Voltorb has any Energy attached to it, Voltorb's Retreat Cost is 0.",
+      "Attack 1": "[1L] Thundershock (20) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "85/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65251,
+    "name": "Wartortle",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90486_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90486_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90486_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "50/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[W] Water Gun (20+) \r\n<br>This attack does 20 damage plus 10 more damage for each Water Energy attached to Wartortle but not used to pay for this attack's Energy cost.  You can't add more than 20 damage in this way.",
+      "Attack 2": "[2W] Smash Turn (40) \r\n<br>After your attack, you may switch Wartortle with 1 of your Benched Pokemon.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "50/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65252,
+    "name": "Weedle",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90542_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90542_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90542_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "86/112",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Call for Family \r\n<br>Search your deck for up to 2 Grass Basic Pokemon and put them onto your Bench.  Shuffle your deck afterward.",
+      "Attack 2": "[G] Poison Spurt \r\n<br>Discard a Grass Energy card attached to Weedle.  The Defending Pokemon is now Poisoned.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "86/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65253,
+    "name": "Weepinbell",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90552_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90552_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90552_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "51/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[G] Razor Leaf (20)",
+      "Attack 2": "[2] Corrosive Acid (10) \r\n<br>The Defending Pokemon is now Burned.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "51/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65254,
+    "name": "Wigglytuff",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90596_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90596_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90596_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "52/112",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-POWER</b> Assistance  \r<br>\n<br>Once during your turn <em>(before you attack)</em>, if Wigglytuff is on your Bench, you may choose 1 of your Active Pokemon and remove 1 Special Condition from it.",
+      "Attack 1": "[2] Expand (30) \r\n<br>During your opponent's next turn, any damage done to Wigglytuff by attacks is reduced by 10 <i>(after applying Weakness and Resistance).</i>",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "52/112"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-firered-leafgreen",
+    "id": 65255,
+    "name": "Zapdos ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90723_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90723_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90723_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "116/112",
+      "Rarity": "Secret Rare",
+      "Card Type": "Lightning",
+      "HP": "110",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Legendary Ascent \r<br>\n<br>Once during your turn, when you put Zapdos ex from your hand onto your Bench, you may switch 1 of your Active Pokemon with Zapdos ex.  If you do, you may also move any number of basic Lightning Energy cards attached to your Pokemon to Zapdos ex.",
+      "Attack 1": "[1LL] Electron Crush (50+) \r\n<br>You may discard an Energy card attached to Zapdos ex.  If you do, this attack does 50 damage plus 20 more damage.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "116/112"
+    }
+  }
+]

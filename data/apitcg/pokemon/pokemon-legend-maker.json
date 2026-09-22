@@ -1,0 +1,2175 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64390,
+    "name": "Absol",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83451_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83451_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83451_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "15/92",
+      "Rarity": "Rare",
+      "Card Type": "Darkness",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Shining Horn \r\n<br>As long as Absol is the only Pokemon you have in play, your opponent's Basic Pokemon can't attack.",
+      "Attack 1": "[1] Extra Call\r\n<br>Search your deck for a Pokemon-ex, show it to your opponent, and put it into your hand.  Shuffle your deck afterward.",
+      "Attack 2": "[1D] Feint Attack\r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 20 damage to that Pokemon.  This attack's damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies, or any other effects on that Pokemon.",
+      "Weakness": "F",
+      "Resistance": "P",
+      "RetreatCost": "1",
+      "code": "15/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64391,
+    "name": "Aerodactyl",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83468_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83468_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83468_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "1/92",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY  Reactive Protection</b>\r\n<br>Any damage done to Aerodactyl by attacks from your opponent's Pokemon is reduced by 10 for each React Energy card attached to Aerodactyl <em>(after applying Weakness and Resistance).",
+      "Attack 1": "[1] Power Blow (10+)\r\n<br>Does 10 damage plus 10 more damage for each Energy attached to Aerodactyl.",
+      "Attack 2": "[3] Speed Stroke (40) \r\n<br>During your opponent's next turn, prevent all effects, including damage, done to Aerodactyl by attacks from your opponent's Pokemon-ex.",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "0",
+      "code": "1/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64392,
+    "name": "Aggron",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83476_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83476_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83476_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "2/92",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal",
+      "HP": "110",
+      "Stage": "Stage 2",
+      "Attack 1": "[2F] Heavy Blow (70-) \r\n<br>Does 70 damage minus 10 damage for each damage counter on Aggron.  If Aggron has any React Energy cards attached to it, this attack does 70 instead.",
+      "Attack 2": "[2FM] Bound Crush \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 60 damage to that Pokemon. <i> (Don't apply Weakness and Resistance for Benched Pokemon.) </i> During your next turn, Aggron can't use Bound Crush.",
+      "Weakness": "R",
+      "Resistance": "G",
+      "RetreatCost": "4",
+      "code": "2/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64393,
+    "name": "Anorith",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83559_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83559_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83559_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "29/92",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Influence\r\n<br>Search your deck for Omanyte, Kabuto, Aerodactyl, Lileep, or Anorith and put 2 of them onto your Bench.  Shuffle your deck afterward.  Treat the new Benched Pokemon as Basic Pokemon.",
+      "Attack 2": "[2] Stretch Claws (20) \r\n<br>If Anorith has any React Energy cards attached to it, this attack does 20 damage to 1 of your opponent's Benched Pokemon. <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "29/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64394,
+    "name": "Arcanine ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83590_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83590_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83590_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "83/92",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fire",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Fire Remedy \r\n<br>Whenever you attach a Fire Energy from your hand to Arcanine ex, remove 1 damage counter and all Special Conditions from Arcanine ex.",
+      "Attack 1": "[1R] Overrun (30) \r\n<br>Does 20 damage to 1 of your opponent's Benched Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Attack 2": "[1RR] Flame Swirl (100) \r\n<br>Discard 2 Fire Energy or 1 React Energy card attached to Arcanine ex.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "83/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64395,
+    "name": "Armaldo ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83624_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83624_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83624_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "84/92",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fighting",
+      "HP": "160",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-BODY</b> Dual Armor \r\n<br>As long as Armaldo ex has any React Energy cards attached to it, Armaldo ex is both Grass and Fighting type.",
+      "Attack 1": "[1F] Spiral Drain (40) \r\n<br>Remove 2 damage counters from Armaldo ex.",
+      "Attack 2": "[2F] Vortex Chop (70) \r\n<br>If the Defending Pokemon has any Resistance, this attack's base damage is 100 instead of 70.",
+      "Weakness": "G",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "84/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64396,
+    "name": "Aron",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83632_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83632_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83632_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "48/92",
+      "Rarity": "Common",
+      "Card Type": "Metal",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Self Charge  \r\n<br>Attach a Metal Energy card from your hand to Aron.",
+      "Attack 2": "[1M] Headbutt (20)",
+      "Weakness": "R",
+      "Resistance": "G",
+      "RetreatCost": "2",
+      "code": "48/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64397,
+    "name": "Banette ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83725_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83725_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83725_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "85/92",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Psychic",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-POWER</b> Shady Move \r\n<br>Once during your turn<em> (before your attack)</em>, if Banette ex is your Active Pokemon, you may move 1 damage counter from either player's Pokemon to another Pokemon<em> (yours or your opponent's)</em>.  This power can't be used if Banette ex is affected by a Special Condition.  (Poke-POWER)",
+      "Attack 1": "[1P] Shadow Chant (30+) \r\n<Br>Does 30 damage plus 10 more damage for each Supporter card in your discard pile.  You can't add more than 60 damage in this way.",
+      "Weakness": "D",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "85/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64398,
+    "name": "Bellsprout",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83808_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83808_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83808_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "49/92",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Sleep Powder \r\n<br>The Defending Pokemon is now Asleep.",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "code": "49/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64399,
+    "name": "Cascoon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84120_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84120_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84120_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "30/92",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-POWER</b> Emerge \r\n<br>Once during your turn (before your attack), if Cascoon is your Active Pokemon, you may flip a coin.  If heads, search your deck for a card that evolves from Cascoon and put it onto Cascoon. <em> (This counts as evolving Cascoon.) </em> Shuffle your deck afterward.  This power can't be used if Cascoon is affected by a Special Condition.",
+      "Attack 1": "[2] Tackle (20)",
+      "Weakness": "Rx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "30/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64400,
+    "name": "Chinchou",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84306_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84306_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84306_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "50/92",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[L] Random Spark \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 10 damage to that Pokemon.<i>  (Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Attack 2": "[1L] Lightning Ball (20)",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "code": "50/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64401,
+    "name": "Clamperl",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84324_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84324_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84324_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "51/92",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Iron Defense  \r\n<br>Flip a coin.  If heads, prevent all effects of an attack, including damage, done to Clamperl during your opponent's next turn.",
+      "Attack 2": "[W] Clamp Splash (10)",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "51/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64402,
+    "name": "Claw Fossil",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84329_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84329_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84329_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "78/92",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "HP": "40",
+      "CardText": "Play Claw Fossil as if it were a Basic Pokemon.  While in play, Claw Fossil counts as a Colorless Pokemon (as well as a Trainer card).  Claw Fossil has no attacks of its own, can't retreat, and can't be affected by any Special Conditions.  If Claw Fossil is Knocked Out, it doesn't count as a Knocked Out Pokemon.  (Discard it anyway.) At any time during your turn before your attack, you may discard Claw Fossil from play.\r\n<br>\r\n<br>\r\n<br<b>Poke-BODY</b> Jagged Stone \r\n<br>If Claw Fossil is your Active Pokemon and is damaged by an opponent's attack (even if Claw Fossil is Knocked Out), put 1 damage counter on the Attacking Pokemon.",
+      "code": "78/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64403,
+    "name": "Cradily",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84452_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84452_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84452_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "3/92",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "Attack 1": "[2] Devolution Wave\r\n<br>Count the number of React Energy cards attached to Cradily and choose up to that number of your opponent's Evolved Pokemon.  Remove the highest Stage Evolution card from each of those Pokemon, then have your opponent shuffle those cards into his or her deck.",
+      "Attack 2": "[1G] Linear Attack \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 30 damage to that Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Attack 3": "[3] Mud Shot (50)",
+      "Weakness": "R",
+      "RetreatCost": "2",
+      "code": "3/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64404,
+    "name": "Cursed Stone",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84538_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84538_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84538_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "72/92",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "CardText": "This card stays in play when you play it.  Discard this card if another Stadium card comes into play.  If another card with the same name is in play, you can't play this card.\r\n<br>\r\n<br>\r\nAt any time between turns, each player puts 1 damage counter on his or her Pokemon that has a Poke-Power.",
+      "code": "72/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64405,
+    "name": "Delcatty",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84738_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84738_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84738_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "4/92",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<b> Poke-POWER</b> Reactive Shift \r\n<br>Once during your turn (before your attack), you may move a React Energy card attached to 1 of your Pokemon to another of your Pokemon.  This power can't be used if Delcatty is affected by a Special Condition.",
+      "Attack 1": "[1] Energy Link (20) \r\n<br>Search your discard pile for an Energy card and attach it to Delcatty.",
+      "Attack 2": "[3] Tail Whap (40)",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "code": "4/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64406,
+    "name": "Dunsparce",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85009_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85009_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85009_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "31/92",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Deadlock \r\n<br>As long as Dunsparce is your Active Pokemon, your opponent's Dunsparce can't attack.",
+      "Attack 1": "[1] Down Draw\r\n<br>Draw 2 cards from the bottom of your deck.",
+      "Attack 2": "[1] Tripping Turn \r\n<br>The Defending Pokemon is now Confused.  You may switch Dunsparce with 1 of your Benched Pokemon.",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "31/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64407,
+    "name": "Dustox ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85060_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85060_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85060_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "86/92",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Grass",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-BODY</b> Safeguard  \r\n<br>Prevent all effects of attacks, including damage, done to Dustox ex by your opponent's Pokemon-ex.",
+      "Attack 1": "[1G] Silver Wind (40) \r\n<br>During your next turn, if an attack does damage to the Defending Pokemon <i>(after applying Weakness and Resistance)</i>, that attack does 30 more damage.",
+      "Attack 2": "[2G] Cutting Wind (70)",
+      "Weakness": "RP",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "86/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64408,
+    "name": "Electrode",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85155_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85155_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85155_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "32/92",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Supersonic (10) \r\n<br>The Defending Pokemon is now Confused.",
+      "Attack 2": "[2L] Tumbling Attack (40+)\r\n<br>Flip a coin.  If heads, this attack does 40 damage plus 20 more damage.",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "0",
+      "code": "32/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64409,
+    "name": "Fieldworker",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85431_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85431_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85431_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "73/92",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "You can play only one supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.\r\n<br>\r\n<br>\r\nDraw 3 cards.  Your opponent may also draw a card.",
+      "code": "73/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64410,
+    "name": "Flygon ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85530_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85530_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85530_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "87/92",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Colorless",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-POWER</b> Emerge Charge \r\n<br>Once during your turn, when you play Flygon ex from your hand to evolve 1 of your Pokemon, you may search your discard pile for up to 2 Energy cards, and attach them to Flygon ex.",
+      "Attack 1": "[1L] Reactive Blast (40+) \r\n<br>You may discard any number of React Energy cards attached to Flygon ex.  If you do, this attack does 40 damage plus 30 more damage for each React Energy card you discarded.",
+      "Attack 2": "[3GL] Dragon Claw (100)",
+      "Weakness": "C",
+      "Resistance": "FL",
+      "RetreatCost": "2",
+      "code": "87/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64411,
+    "name": "Full Flame",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85579_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85579_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85579_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "74/92",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "CardText": "This card stays in play when you play it.  Discard this card if another Stadium card comes into play.  If another card with the same name is in play, you can't play this card.\r\n<br>\r\n<br>\r\nPut 4 damage counters instead of 2 on each Burned Pokemon between turns.  The Special Condition Burned can't be removed by evolving or devolving the Burned Pokemon.",
+      "code": "74/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64412,
+    "name": "Furret",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85592_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85592_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85592_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "33/92",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Body Slam (20)\r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[3] Do the Wave (10+) \r\n<br>Does 10 damage plus 10 more damage for each of your Benched Pokemon.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "code": "33/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64413,
+    "name": "Gastly",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85651_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85651_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85651_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "52/92",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Lick \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[P] Smog \r\n<br>The Defending Pokemon is now Poisoned.",
+      "Weakness": "D",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "52/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64414,
+    "name": "Gengar",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85674_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85674_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85674_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "5/92",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-POWER</b> Shadow Curse\r\n<br>If Gengar would be Knocked Out by damage from an opponent's attack, you may put 3 damage counters on 1 of your opponent's Pokemon.",
+      "Attack 1": "[P] Cursed Reaction \r\n<br>Put 2 damage counters on your opponent's Pokemon in any way you like.  If Gengar has any React Energy attached to it, put 4 damage counters instead.",
+      "Attack 2": "[1PP] Super Psy Bolt (60)",
+      "Weakness": "D",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "5/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64415,
+    "name": "Geodude",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85689_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85689_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85689_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "53/92",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1F] Selfdestruct (50) \r\n<br>Does 10 damage to each Benched Pokemon <i>(both yours and your opponent's).  (Don't apply Weakness and Resistance for Benched Pokemon.) </i> Geodude does 50 damage to itself.",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "code": "53/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64416,
+    "name": "Giant Stump",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85697_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85697_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85697_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "75/92",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "CardText": "Each player can't have more than 3 Benched Pokemon.  When Giant Stump comes into play, each player discards Benched Pokemon and any cards attached to them until he or she has 3 Benched Pokemon.  <em>(You discard your Pokemon first.)</em>",
+      "code": "75/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64417,
+    "name": "Girafarig",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85730_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85730_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85730_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "16/92",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Rear Sensor \r\n<br>Each player's Active Basic Pokemon <em>(excluding Pokemon-ex)</em> can't use any Poke-Powers.",
+      "Attack 1": "[1] Foresight \r\n<br>Look at the top 5 cards of either player's deck and put them back on top of that player's deck in any order.",
+      "Attack 2": "[1P] Disorder (20) \r\n<br>If the Defending Pokemon has any Special Energy cards attached to it, the Defending Pokemon is now Confused.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "16/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64418,
+    "name": "Golem",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85827_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85827_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85827_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "6/92",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "Attack 1": "[1] Mend\r\n<br>Search your discard pile for a Fighting Energy card and attach it to Golem.  If you do, remove 2 damage counters from Golem.",
+      "Attack 2": "[1F] Enraged Linear Attack\r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 10 damage for each damage counter on Golem to that Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Attack 3": "[2FF] Rock Tumble (70) \r\n<br>This attack's damage isn't affected by Resistance.",
+      "Weakness": "W",
+      "RetreatCost": "3",
+      "code": "6/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64419,
+    "name": "Gorebyss",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85843_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85843_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85843_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "17/92",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Reactive Booster\r\n<br>Each React Energy card attached to all of your Huntail and Gorebyss provides 2 Energy of each type but has no effect other than providing Energy.",
+      "Attack 1": "[1W] Hydro Pump (30+) \r\n<br>Does 30 damage plus 20 more damage for each Water Energy attached to Gorebyss but not used to pay for this attack's Energy cost.  You can't add more than 40 damage in this way.",
+      "Weakness": "Lx2",
+      "Resistance": "None",
+      "RetreatCost": "0",
+      "code": "17/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64420,
+    "name": "Graveler",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85891_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85891_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85891_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "34/92",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Exoskeleton\r\n<br>Any damage done to Graveler by attacks is reduced by 10 <em>(after applying Weakness and Resistance).  </em>",
+      "Attack 1": "[1F] Rock Slide (20) \r\n<br>Does 10 damage to 2 of your opponent's Benched Pokemon (1 if there is only 1).  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "34/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64421,
+    "name": "Grimer",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85910_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85910_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85910_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "54/92",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[G] Ascension \r\n<br>Search your deck for a card that evolves from Grimer and put it onto Grimer.  <i>(This counts as evolving Grimer).</i>  Shuffle your deck afterward.",
+      "Attack 2": "[2] Sludge Toss (20)",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "54/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64422,
+    "name": "Growlithe",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85955_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85955_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85955_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "55/92",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Body Slam (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[1R] Firebreathing (10+)\r\n<br>Flip a coin.  If heads, this attack does 10 damage plus 20 more damage.",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "code": "55/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64423,
+    "name": "Haunter",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86026_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86026_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86026_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "35/92",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Time Spiral \r\n<br>If your opponent has any Evolved Pokemon in play, choose 1 of them and flip a coin.  If heads, remove the highest Stage Evolution card on the Pokemon and have your opponent shuffle it into his or her deck.",
+      "Attack 2": "[1P] Haunt \r\n<br>Put 2 damage counters on the Defending Pokemon.",
+      "Weakness": "D",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "35/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64424,
+    "name": "Huntail",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86237_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86237_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86237_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "18/92",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-POWER</b> Reactive Generator\r\n<br>Once during your turn (before your attack), if Huntail has no React Energy cards attached to it, you may search your deck for a React Energy card and attach it to Huntail.  Shuffle your deck afterward.  This power can't be used if Huntail is affected by a Special Condition.",
+      "Attack 1": "[2W] Bite Off (40+) \r\n<br>If the Defending Pokemon is Pokemon-ex, this attack does 40 damage plus 30 more damage.",
+      "Weakness": "Lx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "18/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64425,
+    "name": "Kabuto",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86384_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86384_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86384_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "36/92",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Ancient Protection  \r\n<br>Each of your Omanyte, Omastar, Kabuto, Kabutops, and Kabutops ex has no Weakness.",
+      "Attack 1": "[2] Granite Head (20) \r\n<br>During your opponent's next turn, any damage done to Kabuto by attacks is reduced by 10 <i>(after applying Weakness and Resistance).</i>",
+      "Weakness": "G",
+      "RetreatCost": "2",
+      "code": "36/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64426,
+    "name": "Kabutops",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86397_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86397_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86397_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "7/92",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "110",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-BODY</b> Ancient Shell\r\n<br>As long as you have Omanyte or Omastar in play, damage done to Kabutops by attacks is reduced by 20<em> (after applying Weakness and Resistance). </em>",
+      "Attack 1": "[F] Energy Stream (30) \r\n<br>Search your discard pile for a basic Energy card and attach it to Kabutops.",
+      "Attack 2": "[2F] Energy Claws (50+) \r\n<br>If the Defending Pokemon is a Pokemon-ex, this attack does 50 damage plus 30 more damage.",
+      "Weakness": "G",
+      "RetreatCost": "2",
+      "code": "7/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64427,
+    "name": "Kecleon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86429_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86429_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86429_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "37/92",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Reactive Colors  \r\n<br>If Kecleon has any React Energy cards attached to it, Kecleon is Grass, FIre, Water, Lightning, Psychic, and Fighting type.",
+      "Attack 1": "[1] Tongue Whip  \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 10 damage to that Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Attack 2": "[2] Quick Attack (10+) \r\n<br>Flip a coin.  If heads, this attack does 10 damage plus 20 more damage.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "code": "37/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64428,
+    "name": "Lairon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86576_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86576_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86576_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "38/92",
+      "Rarity": "Uncommon",
+      "Card Type": "Metal",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Rest \r\n<br>Remove all Special Conditions and 5 damage counters (all if there are less than 5) from Lairon.  Lairon is now Asleep.",
+      "Attack 2": "[1M] Body Slam (20) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "R",
+      "Resistance": "G",
+      "RetreatCost": "2",
+      "code": "38/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64429,
+    "name": "Lanturn",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86606_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86606_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86606_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "19/92",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Dual Armor\r\n<br>As long as Lanturn has any Water Energy attached to it, Lanturn is both Water and Lightning type.",
+      "Attack 1": "[1L] Razor Fin (30)",
+      "Attack 2": "[3] Water Gun (40+) \r\n<br>Does 40 damage plus 20 more damage for each Water Energy attached to Lanturn but not used to pay for this attack's Energy cost.  You may not add more than 40 damage in this way.",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "19/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64430,
+    "name": "Lapras",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86617_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86617_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86617_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "8/92",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Support Navigation \r\n<br>Once during your turn, when you put Lapras onto your bench from your hand, you may search your deck for a Supporter card, show it to your opponent, and put it into your hand.  Shuffle your deck afterward.",
+      "Attack 1": "[1W] Surf (30)",
+      "Weakness": "L",
+      "RetreatCost": "2",
+      "code": "8/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64431,
+    "name": "Lileep",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86787_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86787_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86787_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "56/92",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Tender Tentacles (20) \r\n<br>If Lileep has any React Energy cards attached to it, remove 2 damage counters from Lileep.",
+      "Attack 2": "[1G] Confuse Ray (20) \r\n<br>The Defending Pokemon is now Confused.",
+      "Weakness": "R",
+      "RetreatCost": "2",
+      "code": "56/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64432,
+    "name": "Lunatone",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86925_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86925_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86925_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "20/92",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Sol Shade\r\nAs long as you have Solrock in play, each player's R Pokemon (excluding Pokemon-ex) can't use any Poke-Powers.",
+      "Attack 1": "[1] Moon Guidance\r\n<br>Search your deck for a Trainer card<i> (excluding Supporter cards)</i>, show it to your opponent, and put it into your hand.  Shuffle your deck afterward.",
+      "Attack 2": "[P] Psyshock (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "20/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64433,
+    "name": "Machamp",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86963_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86963_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86963_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "9/92",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "Attack 1": "[1F] Derail (40)\r\n<br> Discard a Special Energy card, if any, attached to the Defending Pokemon.",
+      "Attack 2": "[2F] Swift Blow (60+) \r\n<br>Does 60 damage plus 20 damage for each React Energy card attached to Machamp.",
+      "Weakness": "P",
+      "RetreatCost": "2",
+      "code": "9/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64434,
+    "name": "Machoke",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86979_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86979_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86979_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "39/92",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Paranoid  \r\n<br>As long as Machoke is Confused, Machoke's attacks do 50 more damage to the Defending Pokemon (before applying Weakness and Resistance).",
+      "Attack 1": "[F] Split Kick \r\n<br>Does 20 damage to each Defending Pokemon.",
+      "Attack 2": "[3] Magnum Punch (40)",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "39/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64435,
+    "name": "Machop",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86993_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86993_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86993_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "57/92",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[F] Mach Punch (10) \r\n<br>Does 10 damage to 1 of your opponent's Benched Pokemon. <i> (Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "57/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64436,
+    "name": "Magby",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87004_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87004_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87004_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "58/92",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "40",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Baby Evolution \r\n<br>Once during your turn <em>(before your attack)</em>, you may put Magmar from your hand onto Magby <em>(this counts as evolving Magby)</em> and remove all damage counters from Magby.",
+      "Attack 1": "[1] Ignite (10) \r\n<br>If Full Flame is in play, the Defending Pokemon is now Burned.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "58/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64437,
+    "name": "Magmar",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87046_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87046_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87046_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "21/92",
+      "Rarity": "Rare",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Stages of Evolution \r\n<br>As long as Magmar is an Evolved Pokemon, all Energy attached to Magmar are R Energy instead of their usual types.",
+      "Attack 1": "[1] Linear Attack\r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 10 damage to that Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Attack 2": "[RRR] Burning Sensation (40) \r\n<br>If the Defending Pokemon already has any damage counters on it, the Defending Pokemon is now Burned.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "21/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64438,
+    "name": "Magnemite",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87079_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87079_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87079_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "59/92",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Magnetic Swirl (10) \r\n<br>Flip a coin.  If tails, this attack does nothing.  If heads, discard an Energy attached to the Defending Pokemon.",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "1",
+      "code": "59/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64439,
+    "name": "Magneton",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87105_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87105_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87105_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "22/92",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-POWER</b> Reactive Recharge \r\n<br>If Magneton would be Knocked Out by damage from an opponent's attack, you may move any number of React Energy cards from Magneton to your Pokemon in any way you like.",
+      "Attack 1": "[1L] Multiple Force (30+) \r\n<br>If Magneton has any React Energy cards attached to it, this attack does 30 damage plus 10 more damage for each Magnemite and Magneton <i>(both yours and your opponent's) in play.",
+      "Attack 2": "[3L] Magnetic Blast (60)",
+      "Weakness": "Fx2",
+      "Resistance": "M-30",
+      "RetreatCost": "1",
+      "code": "22/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64440,
+    "name": "Mew",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87399_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87399_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87399_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "10/92",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Type Change \r\n<br>Once during your turn <em>(before your attack)</em>, you may choose 1 of the Defending Pokemon.  Mew is the same type as that Pokemon <em>(all if that Pokemon is more than 1 type)</em> until the end of your turn.  This power can't be used if Mew is affected by a Special Condition.",
+      "Attack 1": "[1P] Link Blast (50)\r\n<br>If Mew and the Defending Pokemon have a different amount of Energy attached to them, this attack's base damage is 20 instead of 50.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "10/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64441,
+    "name": "Mew ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87409_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87409_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87409_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "88/92",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Psychic",
+      "HP": "90",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Versatile \r\n<br>Mew ex can use the attacks of all Pokemon in play as its own.  <em>(You still need the necessary Energy to use each attack.)  </em>",
+      "Attack 1": "[1P] Power Move \r\n<br>Search your deck for an Energy card and attach it to Mew ex.  Shuffle your deck afterward.  Then, you may switch Mew ex with 1 of your Benched Pokemon.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "88/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64442,
+    "name": "Misdreavus",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87505_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87505_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87505_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "40/92",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Deep Sleep \r\n<br>As long as Misdreavus is your Active Pokemon, each player flips 2 coins for each of his or her Pokemon that is Asleep between turns.  If either coin is tails, that Pokemon is still Asleep.",
+      "Attack 1": "[1] Return Trance \r\n<br>Return an Energy card attached to Misdreavus to your hand.  The Defending Pokemon is now Asleep.",
+      "Attack 2": "[P] Dream Eater (30) \r\n<br>If the Defending Pokemon is not Asleep, this attack does nothing.",
+      "Weakness": "D",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "40/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64443,
+    "name": "Muk",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87622_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87622_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87622_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "11/92",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Stench \r\n<br>As long as Muk is your Active Pokemon, each player's Pokemon can't use any Poke-Powers.",
+      "Attack 1": "[1G] Poison Ring (20)\r\n<br>The Defending Pokemon is now Poisoned.  The Defending Pokemon can't retreat during your opponent's next turn.",
+      "Attack 2": "[2G] Sludge Toss (50)",
+      "Weakness": "P",
+      "RetreatCost": "2",
+      "code": "11/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64444,
+    "name": "Mysterious Fossil",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87663_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87663_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87663_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "79/92",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "HP": "50",
+      "CardText": "Play Mysterious Fossil as if it were a Basic Pokemon.  While in play, Mysterious Fossil counts as a Pokemon (as well as a Trainer card).  Mysterious Fossil has no attacks, can't retreat, and can't be Asleep, Confused, Paralyzed, or Poisoned.  If Mysterious Fossil is Knocked Out, it doesn't count as a Knocked Out Pokemon.  (Discard it anyway.) At any time during your turn before your attack, you may discard Mysterious Fossil from play.",
+      "code": "79/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64445,
+    "name": "Nuzleaf",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87822_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87822_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87822_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "41/92",
+      "Rarity": "Uncommon",
+      "Card Type": "Darkness",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Pound (20)",
+      "Attack 2": "[1D] Plunder (30) \r\n<br>Before doing damage, discard all Trainer cards attached to the Defending Pokemon.",
+      "Weakness": "F",
+      "Resistance": "P",
+      "RetreatCost": "1",
+      "code": "41/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64446,
+    "name": "Omanyte",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87858_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87858_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87858_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "60/92",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Ancient Tentacles \r\n<br>Damage done to your opponent's Pokemon by Omanyte, Omastar, Kabuto, Kabutops, and Kabutops ex isn't affected by Resistance.",
+      "Attack 1": "[1W] Rising Lunge (20+) \r\n<br>Flip a coin.  If heads, this attack does 20 damage plus 20 more damage.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "60/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64447,
+    "name": "Omastar",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87868_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87868_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87868_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "23/92",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-BODY</b> Ancient Fang \r\n<br>As long as you have Kabuto, Kabutops, or Kabutops ex in play, Omastar's attacks do 20 more damage to the Defending Pokemon <em>(before applying Weakness and Resistance).",
+      "Attack 1": "[1] Drag Off (10) \r\n<br>Before doing damage, you may choose 1 of your opponent's Benched Pokemon and switch it with 1 of the Defending Pokemon.  You opponent chooses the Defending Pokemon to switch.",
+      "Attack 2": "[2W] Hydro Splash (50)",
+      "Weakness": "Lx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "23/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64448,
+    "name": "Pikachu (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88107_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88107_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88107_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "93/92",
+      "Rarity": "Secret Rare",
+      "Card Type": "Metal",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Thunder Wave \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[1M] Iron Tail (20x) \r\n<br>Flip a coin until you get tails.  This attack does 20 damage times the number of heads.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "93/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64449,
+    "name": "Pinsir",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88136_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88136_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88136_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "24/92",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Shining Horn\r\n<br>As long as Pinsir is the only Pokemon you have in play, your opponent's Basic Pokemon can't attack.",
+      "Attack 1": "[1] Cry for Help\r\n<br>Search your deck for a G Pokemon (excluding Pokemon-ex), show it to your opponent, and put it into your hand.  Shuffle your deck afterward.",
+      "Attack 2": "[1G] Overhead Toss (30) \r\n<br>Does 20 damage to 1 of your Benched Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "Rx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "24/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64450,
+    "name": "Power Tree",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88355_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88355_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88355_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "76/92",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "CardText": "Once during each player's turn, if the player has no Special Energy cards in his or her discard pile, that player searches his or her discard pile for a Basic Energy card, shows it to the opponent, and puts it into his or her hand.",
+      "code": "76/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64451,
+    "name": "Rainbow Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88546_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88546_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88546_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "81/92",
+      "Rarity": "Rare",
+      "Card Type": "Special Energy",
+      "CardText": "Attach Rainbow Energy to 1 of your Pokemon.  While in play, Rainbow Energy provides every type of energy but provides only 1 energy at a time.  <em>(Has no effect other than providing energy.)</em>  When you attach this card from your hand to 1 of your Pokemon, put 1 damage counter on that Pokemon.",
+      "code": "81/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64452,
+    "name": "React Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88649_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88649_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88649_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "82/92",
+      "Rarity": "Uncommon",
+      "Card Type": "Special Energy",
+      "CardText": "React Energy provides C Energy.",
+      "code": "82/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64453,
+    "name": "Regice Star",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88658_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88658_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88658_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "90/92",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Water",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[W] Ice Barrier (10) \r\n<br>Prevent all effects of an attack, including damage, done to Regice Star by your opponent's Pokemon-ex during your opponent's next turn.",
+      "Attack 2": "[1WW] Final Blizzard (30) \r\n<br>If your opponent has only 1 Prize card left and Regice Star is the only Pokemon you have in play, this attack does 30 damage to each of your opponent's Benched Pokemon. <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "M",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "90/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64454,
+    "name": "Regirock Star",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88673_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88673_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88673_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "91/92",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fighting",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[F] Dig Drain (10) \r\n<br>Remove 1 damage counter from Regirock Star.",
+      "Attack 2": "[1FF] Final Blast (30)\r\nIf your opponent has only 1 Prize card left and Regirock Star is the only Pokemon you have in play, this attack's base damage is 100 instead of 30.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "91/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64455,
+    "name": "Registeel Star",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88678_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88678_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88678_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "92/92",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Metal",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[M] Barrier Attack (10)\r\n<br>During your opponent's next turn, any damage done to Registeel Star by attacks is reduced by 10 <i>(after applying Weakness and Resistance).",
+      "Attack 2": "[1MM] Final Laser  \r\n<br>Put 3 damage counters on your opponent's Pokemon in any way you like.  If your opponent has only 1 Prize card left and Regice Star is the only Pokemon you have in play, put 6 damage counters instead.",
+      "Weakness": "R",
+      "Resistance": "G",
+      "RetreatCost": "3",
+      "code": "92/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64456,
+    "name": "Root Fossil",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88811_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88811_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88811_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "80/92",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "HP": "40",
+      "CardText": "Play Root Fossil as if it were a Basic Pokemon.  While in play, Root Fossil counts as a C Pokemon (as well as a Trainer card).  Root Fossil has no attacks of it's own, can't retreat, and can't be affected by any Special Conditions.  If Root Fossil is Knocked Out, it doesn't count as a Knocked Out Pokemon.  (Discard it anyway.) At any time during your turn before your attack, you may discard Root Fossil from play.\r\n<br>\r\n<br>\r\n<b>Poke-BODY</b> Spongy Stone \r\n<br>At any time between turns, remove 1 damage counter from Root Fossil",
+      "code": "80/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64457,
+    "name": "Roselia",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88818_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88818_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88818_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "42/92",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Reactive Aroma \r\n<br>As long as Roselia has any React Energy cards attached to it, remove 1 damage counter from each of your Pokemon (excluding Pokemon-ex) that has any React Energy cards attached to it between turns.  You can't use more than 1 Reactive Aroma Poke-Body each turn.",
+      "Attack 1": "[1] Flick Poison \r\n<br>Switch 1 of your opponent's Benched Pokemon with 1 of the Defending Pokemon.  Your opponent chooses the Defending Pokemon to switch.  The new Defending Pokemon is now Poisoned.",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "code": "42/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64458,
+    "name": "Sealeo",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89030_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89030_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89030_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "43/92",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-POWER</b> Power Circulation  \r\n<br>Once during your turn (before your attack), you may search your discard pile for a basic Energy card, show it to your opponent, and put it on top of your deck.  If you do, put 1 damage counter on Sealeo.  This power can't be used if Sealeo is affected by a Special Condition.",
+      "Attack 1": "[1W] Lunge Out (30)",
+      "Weakness": "M",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "43/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64459,
+    "name": "Seedot",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89040_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89040_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89040_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "61/92",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Drawup Power \r\n<br>Search your deck for an Energy card, show it to your opponent, and put it into your hand.  Shuffle your deck afterward.",
+      "Attack 2": "[G] Continuous Tumble (10x) \r\n<br>Flip a coin until you get tails.  This attack does 10 damage times the number of heads.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "61/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64460,
+    "name": "Sentret",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89065_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89065_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89065_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "62/92",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Scratch (10)",
+      "Attack 2": "[2] Quick Attack (10+) \r\n<br>Flip a coin.  If heads, this attack does 10 damage plus 20 more damage.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "62/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64461,
+    "name": "Shiftry",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89156_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89156_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89156_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "12/92",
+      "Rarity": "Holo Rare",
+      "Card Type": "Darkness",
+      "HP": "110",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-POWER</b> Evolutionary Fan \r\n<br>Once during your turn, when you play Shiftry from your hand to evolve 1 of your Pokemon, you may choose 1 of your Evolved Pokemon in play<em> (excluding any Shiftry)</em>.  Return that Pokemon and all cards attached to it to your hand.",
+      "Attack 1": "[2] Reactive Beating (30) \r\n<br>If Shiftry has any React Energy cards attached to it, the Defending Pokemon is now Confused.",
+      "Attack 2": "[2D] Cross-Cut (40+) \r\n<br>If the Defending Pokemon is an Evolved Pokemon, this attack does 40 damage plus 30 more damage.",
+      "Weakness": "Fx2",
+      "Resistance": "P-30",
+      "RetreatCost": "1",
+      "code": "12/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64462,
+    "name": "Shuppet",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89197_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89197_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89197_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "63/92",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Headbutt (10)",
+      "Attack 2": "[1P] Will-o'-the-wisp (20)",
+      "Weakness": "D",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "63/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64463,
+    "name": "Skitty",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89264_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89264_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89264_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "64/92",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Important Errands \r\n<br>Search your deck for a React Energy card, show it to your opponent, and put it into your hand.  Shuffle your deck afterward.",
+      "Attack 2": "[2] Jump On (10+) \r\n<br>Flip a coin.  If heads, this attack does 10 damage plus 20 more damage.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "64/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64464,
+    "name": "Solrock",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89427_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89427_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89427_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "25/92",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Luna Shade \r\n<br>As long as you have Lunatone in play, each player's Colorless Pokemon <em>(excluding Pokemon-ex)</em> can't use any Poke-Powers.",
+      "Attack 1": "[1] Call for Family\r\n<br>Search your deck for a Lunatone and put it onto your Bench.  Shuffle your deck afterward.",
+      "Attack 2": "[F] Hyper Beam\r\n<br> Flip a coin.  If heads, discard an Energy card attached to the Defending Pokemon.",
+      "Weakness": "G",
+      "RetreatCost": "1",
+      "code": "25/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64465,
+    "name": "Spheal",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89446_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89446_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89446_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "65/92",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[2] Ram (20)",
+      "Weakness": "M",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "65/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64466,
+    "name": "Spinda",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89460_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89460_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89460_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "26/92",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Pattern Distraction \r\n<br>As long as Spinda is your Active Pokemon, whenever your opponent's Basic Pokemon tries to attack, your opponent flips a coin.  If tails, that attack does nothing.  You can't use more than 1 Pattern Distraction Poke-Body each turn.",
+      "Attack 1": "[1] Whimsy Draw\r\n<br>Flip a coin until you get tails.  For each heads, draw 2 cards.",
+      "Attack 2": "[2] Double-Edge (30) \r\n<br>Flip a coin.  If tails, Spinda does 10 damage to itself.",
+      "Weakness": "Fx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "26/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64467,
+    "name": "Strange Cave",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89574_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89574_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89574_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "77/92",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "CardText": "Once during each player's turn, that player may put an Omanyte, Kabuto, Aerodactyl, Aerodactyl ex, Lileep, or Anorith onto his or her Bench from his or her hand.  Treat the new Benched Pokemon as Basic Pokemon.",
+      "code": "77/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64468,
+    "name": "Tangela",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89743_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89743_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89743_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "44/92",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Reactive Healing \r\n<br>Whenever you attach a React Energy card from your hand to Tangela, remove all damage counters from Tangela.",
+      "Attack 1": "[1] Entangling Vines (10) \r\n<br>If the Defending Pokemon is a Basic Pokemon, that Pokemon can't attack during your opponent's next turn.",
+      "Attack 2": "[2G] Gentle Wrap (30) \r\n<br>The Defending Pokemon can't retreat during your opponent's next turn.",
+      "Weakness": "R",
+      "Resistance": "W",
+      "RetreatCost": "1",
+      "code": "44/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64469,
+    "name": "Tentacool",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89867_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89867_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89867_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "66/92",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[W] Poison Sting \r\n<br>The Defending Pokemon is now Poisoned.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "66/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64470,
+    "name": "Tentacruel",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89876_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89876_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89876_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "45/92",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Reactive Shield \r\n<br>As long as Tentacruel has any React Energy cards attached to it, prevent all effects, including damage, done to any of your Tentacruel in play by attacks from your opponent's Pokemon-ex.",
+      "Attack 1": "[W] Water Arrow \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 20 damage to that Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Attack 2": "[2] Fury Strikes (20x) \r\n<br>Flip 3 coins.  This attack does 20 damage times the number of heads.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "0",
+      "code": "45/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64471,
+    "name": "Torkoal",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89968_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89968_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89968_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "27/92",
+      "Rarity": "Rare",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[1] Cry for Help\r\n<br>Search your deck for a Fire Pokemon <i>(excluding Pokemon-ex)</i>, show it to your opponent, and put it into your hand.  Shuffle your deck afterward.",
+      "Attack 2": "[1R] Fireworks (30) \r\n<br>Flip a coin.  If tails, discard a R Energy attached to Torkoal.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "27/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64472,
+    "name": "Trapinch",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90021_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90021_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90021_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "67/92",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Pebble Throw \r\n<br>Choose 1 of your opponent's Benched Pokemon.  This attack does 10 damage to that Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Attack 2": "[1F] Double Pinchers (20x) \r\n<br>Flip 2 coins.  This attack does 2 damage times the number of heads.",
+      "Weakness": "G",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "67/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64473,
+    "name": "Vibrava",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90335_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90335_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90335_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "46/92",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Supersonic \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Confused.",
+      "Attack 2": "[2] Bi-Blast (20+) \r\n<br>If Vibrava has any React Energy cards attached to it, this attack does 20 damage plus 20 more damage.",
+      "Weakness": "C",
+      "Resistance": "FL",
+      "RetreatCost": "1",
+      "code": "46/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64474,
+    "name": "Victreebel",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90363_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90363_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90363_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "13/92",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-POWER</b> Nectar Pod \r\n<br>Once during your turn (before your attack), you may switch 1 of your opponent's Benched Stage 2 Evolved Pokemon with 1 of the Defending Pokemon.  Your opponent chooses the Defending Pokemon to switch.  This power can't be used if Victreebel is affected by a Special Condition.",
+      "Attack 1": "[1G] Sleep Poison (10) The Defending Pokemon is now Asleep and Poisoned.",
+      "Attack 2": "[2G] Sharp Leaf (40+) Flip a coin.  If heads, this attack does 40 plus 30 more damage.",
+      "Weakness": "R",
+      "RetreatCost": "2",
+      "code": "13/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64475,
+    "name": "Voltorb",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90417_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90417_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90417_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "68/92",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Thunder Wave \r\n<br>Flip a coin.  If the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[1L] Bouncing Ball (30) \r\n<br>Voltorb does 10 damage to itself.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "68/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64476,
+    "name": "Wailmer",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90452_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90452_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90452_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "69/92",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[2] Double Tackle \r\n<br>Does 20 damage to each Defending Pokemon.",
+      "Attack 2": "[1WW] Whirlpool (30) \r\n<br>Flip a coin.  If heads, discard an Energy card attached to the Defending Pokemon.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "69/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64477,
+    "name": "Wailord",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90458_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90458_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90458_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "14/92",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Reactive Lift \r\n<br>As long as Wailord has any React Energy cards attached to it, the Retreat Cost for each of your W Pokemon <em>(excluding Pokemon-ex)</em> is now 0.",
+      "Attack 1": "[1WW] Hypno Splash (40)\r\n<br>The Defending Pokemon is now Asleep.",
+      "Attack 2": "[2WW] Rely on Friends (40+) \r\n<br>Does 40 damage plus 10 more damage for each of your Benched Stage 1 Evolved Pokemon.",
+      "Weakness": "L",
+      "RetreatCost": "4",
+      "code": "14/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64478,
+    "name": "Walrein ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90470_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90470_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90470_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "89/92",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Water",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-BODY</b> Icy Aura \r\n<br>As long as Walrein ex is your Active Pokemon, put 1 damage counter on each Active Pokemon <em>(both yours and your opponent's)</em> between turns, excluding W Pokemon.",
+      "Attack 1": "[1W] Water Arrow\r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 40 damage to that Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Attack 2": "[2WW] Ice Throw (80) \r\n<br>If the Defending Pokemon is a Fighting Pokemon, this attack's base damage is 120 instead of 80.",
+      "Weakness": "FM",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "89/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64479,
+    "name": "Weepinbell",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90553_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90553_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90553_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "47/92",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Sleep Seed (20) \r\n<br>The Defending Pokemon is now Asleep.",
+      "Attack 2": "[2G] Vine Whip (40)",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "47/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64480,
+    "name": "Wobbuffet",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90616_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90616_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90616_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "28/92",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Stages of Evolution\r\n<br>As long as Wobbuffet is an Evolved Pokemon, your opponent pays 1 more to retreat his or her Active Pokemon.",
+      "Attack 1": "[1] Grind (10x) \r\n<br>Does 10 damage times the amount of Energy attached to Wobbuffet.",
+      "Attack 2": "[1PP] Shadow Tag \r\n<br>Put 7 damage counters on the Defending Pokemon at the end of your opponent's next turn.",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "28/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64481,
+    "name": "Wurmple",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90650_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90650_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90650_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "70/92",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Poison Payback \r\n<br>If Wurmple is your Active Pokemon and is damaged by an opponent's attack <em>(even if Wurmple is Knocked Out), the Attacking Pokemon is now Poisoned. </em>",
+      "Attack 1": "[1] String Pull  \r\n<br>Switch 1 of your opponent's Benched Pokemon with 1 of the Defending Pokemon.  Your opponent chooses the Defending Pokemon to switch.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "70/92"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-legend-maker",
+    "id": 64482,
+    "name": "Wynaut",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90655_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90655_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90655_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "71/92",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Baby Evolution \r\n<br>Once during your turn <em>(before your attack)</em>, you may put Wobbuffet from your hand onto Wynaut <em>(this counts as evolving Wynaut)</em> and remove all damage counters from Wynaut.  (Poke-POWER)",
+      "Attack 1": "[1] Confusion Wave  \r\n<br>Both Wynaut and the Defending Pokemon are now Confused.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "71/92"
+    }
+  }
+]

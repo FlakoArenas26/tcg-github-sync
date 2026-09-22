@@ -1,0 +1,477 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-vault",
+    "id": 60702,
+    "name": "Axew (12)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83670_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83670_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83670_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "12/20",
+      "Rarity": "Holo Rare",
+      "Card Type": "Dragon",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[F] Signs of Evolution - Flip a coin.  If heads, search your deck for Fraxure, reveal it, and put it into your hand.  Shuffle your deck afterward.",
+      "Attack 2": "[M] Scratch (10)",
+      "Weakness": "Ox2",
+      "RetreatCost": "1",
+      "code": "12/20"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-vault",
+    "id": 60703,
+    "name": "Axew (13)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83671_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83671_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83671_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "13/20",
+      "Rarity": "Holo Rare",
+      "Card Type": "Dragon",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[FM] Lunge (30) Flip a coin.  If tails, this attack does nothing.",
+      "Weakness": "Ox2",
+      "RetreatCost": "1",
+      "code": "13/20"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-vault",
+    "id": 60704,
+    "name": "Bagon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83701_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83701_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83701_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "6/20",
+      "Rarity": "Holo Rare",
+      "Card Type": "Dragon",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Headbutt (10)",
+      "Attack 2": "[RW] Dragon Claw (20)",
+      "Weakness": "Ox2",
+      "RetreatCost": "1",
+      "code": "6/20"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-vault",
+    "id": 60705,
+    "name": "Dragonair (3)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84902_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84902_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84902_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "3/20",
+      "Rarity": "Holo Rare",
+      "Card Type": "Dragon",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Tail Whap (20)",
+      "Attack 2": "[1GL] Dragon Pulse (70)",
+      "Weakness": "Ox2",
+      "RetreatCost": "2",
+      "code": "3/20"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-vault",
+    "id": 60706,
+    "name": "Dragonair (4)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84903_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84903_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84903_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "4/20",
+      "Rarity": "Holo Rare",
+      "Card Type": "Dragon",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[G] Healing Melody - Heal 10 from each of your Pokemon.",
+      "Attack 2": "[1L] Slam (30x) Flip 2 coins.  This attack does 30 damage times the number of heads.",
+      "Weakness": "Ox2",
+      "RetreatCost": "2",
+      "code": "4/20"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-vault",
+    "id": 60707,
+    "name": "Dragonite",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84915_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84915_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84915_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "5/20",
+      "Rarity": "Holo Rare",
+      "Card Type": "Dragon",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "Attack 1": "[2L] Hyper Beam (50) Flip a coin.  If heads, discard an Energy attached to the Defending Pokemon.",
+      "Attack 2": "[3G] Hurricane Tail (60x) Flip 4 coins.  This attack does 60 damage times the number of heads.",
+      "Weakness": "Ox2",
+      "RetreatCost": "3",
+      "code": "5/20"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-vault",
+    "id": 60708,
+    "name": "Dratini (1)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84937_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84937_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84937_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "1/20",
+      "Rarity": "Holo Rare",
+      "Card Type": "Dragon",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[GL] Warp (20) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "Ox2",
+      "RetreatCost": "1",
+      "code": "1/20"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-vault",
+    "id": 60709,
+    "name": "Dratini (2)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84938_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84938_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84938_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "2/20",
+      "Rarity": "Holo Rare",
+      "Card Type": "Dragon",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[G] Hypnotic Gaze - The Defending Pokemon is now Asleep.",
+      "Attack 2": "[L] Tail Whap (10)",
+      "Weakness": "Ox2",
+      "RetreatCost": "1",
+      "code": "2/20"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-vault",
+    "id": 60710,
+    "name": "Druddigon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84979_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84979_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84979_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "17/20",
+      "Rarity": "Holo Rare",
+      "Card Type": "Dragon",
+      "HP": "110",
+      "Stage": "Basic",
+      "Attack 1": "[2] Tight Jaw (20) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[1RW] Dragon Tail (80x) Flip 2 coins.  This attack does 80 damage times the number of heads.",
+      "Weakness": "Ox2",
+      "RetreatCost": "2",
+      "code": "17/20"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-vault",
+    "id": 60711,
+    "name": "Exp. Share",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85366_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85366_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85366_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "18/20",
+      "Rarity": "Holo Rare",
+      "Card Type": "Item",
+      "HP": "0",
+      "Stage": "Tool",
+      "CardText": "Attach a Pokemon Tool to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.",
+      "Attack 1": "When your Active Pokemon is Knocked Out by damage from an opponent's attack, you may move 1 basic Energy card that was attached to that Pokemon to the Pokemon this card is attached to.",
+      "code": "18/20"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-vault",
+    "id": 60712,
+    "name": "First Ticket",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85470_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85470_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85470_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "19/20",
+      "Rarity": "Holo Rare",
+      "Card Type": "Item",
+      "HP": "0",
+      "Stage": "Item",
+      "CardText": "You may play as many Item cards as you like during your turn (before your attack).",
+      "Attack 1": "Before you flip a coin to decide who goes first in a game, you may play this card.  Don't flip that coin, and you go first.  If both players play First Ticket, flip the coin as normal.  (You may play only 1 First Ticket before you flip that coin.)",
+      "code": "19/20"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-vault",
+    "id": 60713,
+    "name": "Fraxure (14)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85559_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85559_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85559_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "14/20",
+      "Rarity": "Holo Rare",
+      "Card Type": "Dragon",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "Grit - If this Pokemon is affected by a Special Condition, each of its attacks does 40 more damage (before applying Weakness and Resistance).  (Ability)",
+      "Attack 1": "[1FM] Dragon Claw (60)",
+      "Weakness": "Ox2",
+      "RetreatCost": "1",
+      "code": "14/20"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-vault",
+    "id": 60714,
+    "name": "Fraxure (15)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85560_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85560_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85560_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "15/20",
+      "Rarity": "Holo Rare",
+      "Card Type": "Dragon",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1M] Scratch (20)",
+      "Attack 2": "[2F] Sharp Fang (40)",
+      "Weakness": "Ox2",
+      "RetreatCost": "2",
+      "code": "15/20"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-vault",
+    "id": 60715,
+    "name": "Haxorus",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86034_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86034_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86034_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "16/20",
+      "Rarity": "Holo Rare",
+      "Card Type": "Dragon",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[2] Axe Slugger (60+) If the Defending Pokemon is a C Pokemon, this attack does 60 more damage.",
+      "Attack 2": "[2FM] Dragon Pulse (100) Discard the top card of your deck.",
+      "Weakness": "Ox2",
+      "RetreatCost": "2",
+      "code": "16/20"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-vault",
+    "id": 60716,
+    "name": "Kyurem",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86563_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86563_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86563_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "21/20",
+      "Rarity": "Holo Rare",
+      "Card Type": "Dragon",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[3] Dragon Claw (60)",
+      "Attack 2": "[2PW] Blizzard (90) Does 10 damage to each of your opponent's Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "Ox2",
+      "RetreatCost": "2",
+      "code": "21/20"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-vault",
+    "id": 60717,
+    "name": "Latias",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86654_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86654_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86654_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "9/20",
+      "Rarity": "Holo Rare",
+      "Card Type": "Dragon",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[1] Energy Assist - Attach a basic Energy card from your discard pile to 1 of your Benched Pokemon.",
+      "Attack 2": "[PR] Sky Heal (40) If Latios is on your Bench, heal 20 damage from this Pokemon.",
+      "Weakness": "Ox2",
+      "RetreatCost": "1",
+      "code": "9/20"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-vault",
+    "id": 60718,
+    "name": "Latios",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86668_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86668_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86668_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "10/20",
+      "Rarity": "Holo Rare",
+      "Card Type": "Dragon",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[1W] Sky Blade (20+) If Latias is on your Bench, this attack does 20 more damage.",
+      "Attack 2": "[2P] Speed Wing (60)",
+      "Weakness": "Ox2",
+      "RetreatCost": "1",
+      "code": "10/20"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-vault",
+    "id": 60719,
+    "name": "Rayquaza",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88631_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88631_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88631_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "11/20",
+      "Rarity": "Holo Rare",
+      "Card Type": "Dragon",
+      "HP": "120",
+      "Stage": "Basic",
+      "Attack 1": "[L] Dragon Pulse (40) Discard the top 2 cards of your deck.",
+      "Attack 2": "[1LR] Shred (90) This attack's damage isn't affected by any effects on the Defending Pokemon.",
+      "Weakness": "Ox2",
+      "RetreatCost": "3",
+      "code": "11/20"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-vault",
+    "id": 60720,
+    "name": "Salamence",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88900_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88900_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88900_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "8/20",
+      "Rarity": "Holo Rare",
+      "Card Type": "Dragon",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "Scornful Storm - Once during your turn (before your attack), you may have your opponent discard cards from his or her hand until he or she has 4 cards left in his or her hand.  (Ability)",
+      "Attack 1": "[2RW] Shred (90) This attack's damage isn't affected by any effects on the Defending Pokemon.",
+      "Weakness": "Ox2",
+      "RetreatCost": "2",
+      "code": "8/20"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-vault",
+    "id": 60721,
+    "name": "Shelgon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89130_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89130_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89130_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "7/20",
+      "Rarity": "Holo Rare",
+      "Card Type": "Dragon",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Knock Away (10+) Flip a coin.  If heads, this attack does 20 more damage.",
+      "Attack 2": "[1RW] Rollout (50)",
+      "Weakness": "Ox2",
+      "RetreatCost": "3",
+      "code": "7/20"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-vault",
+    "id": 60722,
+    "name": "Super Rod",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89632_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89632_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89632_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "20/20",
+      "Rarity": "Holo Rare",
+      "Card Type": "Item",
+      "HP": "0",
+      "Stage": "Item",
+      "CardText": "You may play as many Item cards as you like during your turn (before your attack).",
+      "Attack 1": "Shuffle 3 in any combination of Pokemon and basic Energy cards from your discard pile back into your deck.",
+      "code": "20/20"
+    }
+  }
+]

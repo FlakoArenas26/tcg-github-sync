@@ -1,0 +1,4341 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 65978,
+    "name": "Aipom",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83487_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83487_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83487_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "067/147",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Stretch Tail\r\n<br>Flip a coin. If heads, choose 1 of your opponent's Benched Pokémon and this attack does 10 damage to it. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Attack 2": "[2] Skedaddle (20)\r\n<br>Return Aipom and all basic Energy cards attached to it to your hand. If you have no Benched Pokémon, this attack does nothing.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "Artist": "Kagemaru Himeno",
+      "code": "067/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 65979,
+    "name": "Ampharos",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83536_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83536_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83536_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "001/147",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "Attack 1": "[L] Thundershock (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Attack 2": "[1LL] Reflect Energy (50) \r\n<br>If you have any Benched Pokémon and if there are any basic Energy cards attached to Ampharos, take 1 of those Energy cards and attach it to 1 of those Pokémon.",
+      "Weakness": "F",
+      "RetreatCost": "2",
+      "Artist": "Shin-ichi Yoshida",
+      "code": "001/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 65980,
+    "name": "Ampharos (H1)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83537_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83537_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83537_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H01/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Lightning",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "Attack 1": "[L] Thundershock (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Attack 2": "[1LL] Reflect Energy (50)\r\n<br>If you have any Benched Pokémon and if there are any basic Energy cards attached to Ampharos, take 1 of those Energy cards and attach it to 1 of those Pokémon.",
+      "Weakness": "F",
+      "RetreatCost": "2",
+      "Artist": "Shin-ichi Yoshida",
+      "code": "H01/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 65981,
+    "name": "Apricorn Forest",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83563_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83563_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83563_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "118/147",
+      "Rarity": "Rare",
+      "Card Type": "Stadium",
+      "CardText": "This card stays in play when you play it. Discard this card if another Stadium card comes into play.\r\n<br>\r\nOnce during each player's turn <em>(before attacking)</em>, if that player's Bench isn't full, that player flips a coin. If heads, that player shows his or her opponent a basic Energy card from his or her hand. Then, that player searches his or her deck for a Basic Pokémon card of the same type (color) as the revealed Energy card and puts it onto his or her Bench. The player shuffles his or her deck afterward.",
+      "Artist": "Midori Harada",
+      "code": "118/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 65982,
+    "name": "Arcanine",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83575_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83575_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83575_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "002/147",
+      "Rarity": "Rare",
+      "Card Type": "Fire",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-BODY — Extreme Speed</strong>\r\n<br>\r\nYou pay 1 Colorless less to retreat Arcanine for each Energy attached to it.",
+      "Attack 1": "[3] Fire Blow (30+)\r\n<br>You may discard any number of Fire Energy cards attached to Arcanine. If you do, flip a number of coins equal to the number of Fire Energy cards you discarded. This attack does 30 damage plus 30 more damage for each heads.",
+      "Weakness": "W",
+      "RetreatCost": "3",
+      "Artist": "Kyoko Umemoto",
+      "code": "002/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 65983,
+    "name": "Arcanine (H2)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83576_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83576_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83576_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H02/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-BODY — Extreme Speed</strong>\r\n<br>\r\nYou pay 1 Colorless less to retreat Arcanine for each Energy attached to it.",
+      "Attack 1": "[3] Fire Blow (30+)\r\n<br>You may discard any number of Fire Energy cards attached to Arcanine. If you do, flip a number of coins equal to the number of Fire Energy cards you discarded. This attack does 30 damage plus 30 more damage for each heads.",
+      "Weakness": "W",
+      "RetreatCost": "3",
+      "Artist": "Kyoko Umemoto",
+      "code": "H02/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 65984,
+    "name": "Ariados",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83613_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83613_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83613_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "003/147",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-BODY — Gluey Slime</strong>\r\n<br>\r\nAs long as Ariados is in play, each player must pay an additional Colorless to retreat his or her Active Pokémon. Gluey Slime can't make a player pay more than an additional Colorless to retreat a Pokémon, even if there is more than 1 Ariados in play.",
+      "Attack 1": "[1G] Spider Force (20+)\r\n<br>Flip a coin. If heads, this attack does 20 damage plus 10 more damage. If tails, this attack does 20 damage and the Defending Pokémon is now Paralyzed.",
+      "Weakness": "R",
+      "Artist": "Shin-ichi Yoshida",
+      "code": "003/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 65985,
+    "name": "Ariados (H3)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83614_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83614_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83614_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H03/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-BODY — Gluey Slime</strong>\r\n<br>\r\nAs long as Ariados is in play, each player must pay an additional Colorless to retreat his or her Active Pokémon. Gluey Slime can't make a player pay more than an additional Colorless to retreat a Pokémon, even if there is more than 1 Ariados in play.",
+      "Attack 1": "[1G] Spider Force (20+)\r\n<br>Flip a coin. If heads, this attack does 20 damage plus 10 more damage. If tails, this attack does 20 damage and the defending Pokémon is now Paralyzed.",
+      "Weakness": "R",
+      "Artist": "Shin-ichi Yoshida",
+      "code": "H03/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 65986,
+    "name": "Azumarill",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83680_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83680_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83680_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "004/147",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-POWER — Bubble Turn</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Azumarill is on your Bench, you may flip a coin. If heads, return Azumarill and all cards attached to it to your hand.",
+      "Attack 1": "[2W] Aqua Sonic (40)\r\n<br>Don't apply Resistance.",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "Artist": "Kagemaru Himeno",
+      "code": "004/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 65987,
+    "name": "Azumarill (H4)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83681_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83681_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83681_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H04/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-POWER — Bubble Turn</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Azumarill is on your Bench, you may flip a coin. If heads, return Azumarill and all cards attached to it to your hand.",
+      "Attack 1": "[2W] Aqua Sonic (40)\r\n<br>Don't apply Resistance.",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "Artist": "Kagemaru Himeno",
+      "code": "H04/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 65988,
+    "name": "Bellossom",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83796_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83796_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83796_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "005/147",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "90",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Poké-POWER — Flower Supplement</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may flip a coin. If heads, attach 1 basic Energy card from your hand to 1 of your Benched Pokémon. This power can't be used if Bellossom is affected by a Special Condition.",
+      "Attack 1": "[1GG] Knife Leaf (30x)\r\n<br>Flip 3 coins. This attack does 30 damage times the number of heads.",
+      "Weakness": "R",
+      "Resistance": "W-30",
+      "RetreatCost": "2",
+      "Artist": "Sumiyoshi Kizuki",
+      "code": "005/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 65989,
+    "name": "Bellossom (H5)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83797_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83797_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83797_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H05/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "90",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Poké-POWER — Flower Supplement</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may flip a coin. If heads, attach 1 basic Energy card from your hand to 1 of your Benched Pokémon. This power can't be used if Bellossom is affected by a Special Condition.",
+      "Attack 1": "[1GG] Knife Leaf (30x)\r\n<br>Flip 3 coins. This attack does 30 damage times the number of heads.",
+      "Weakness": "R",
+      "Resistance": "W-30",
+      "RetreatCost": "2",
+      "Artist": "Sumiyoshi Kizuki",
+      "code": "H05/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 65990,
+    "name": "Bellsprout (45)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83804_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83804_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83804_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "045/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1G] Blot (20)\r\n<br>Remove 1 damage counter from Bellsprout.",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "Artist": "Masako Yamashita",
+      "code": "045/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 65991,
+    "name": "Bellsprout (68)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83806_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83806_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83806_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "068/147",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Poison Vine\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+      "Attack 2": "[G] Sharp Leaf (10+)\r\n<br>Flip a coin. If heads, this attack does 10 damage plus 10 more damage.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Keiko Fukuyama",
+      "code": "068/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 65992,
+    "name": "Blissey",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83919_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83919_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83919_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "006/147",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-POWER — Happy Healing</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, choose 1 of your Benched Pokémon and flip a coin. If heads, count the number of Energy attached to Blissey and then remove that many damage counters from the chosen Benched Pokémon. This power can't be used if Blissey is affected by a Special Condition.",
+      "Attack 1": "[3] Smash Bomber (50)\r\n<br>Flip a coin. If tails, this attack does nothing.",
+      "Weakness": "F",
+      "RetreatCost": "2",
+      "Artist": "Naoyo Kimura",
+      "code": "006/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 65993,
+    "name": "Blissey (H6)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83920_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83920_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83920_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H06/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-POWER — Happy Healing</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, choose 1 of your Benched Pokémon and flip a coin. If heads, count the number of Energy attached to Blissey and then remove that many damage counters from the chosen Benched Pokémon. This power can't be used if Blissey is affected by a Special Condition.",
+      "Attack 1": "[3] Smash Bomber (50)\r\n<br>Flip a coin. If tails, this attack does nothing.",
+      "Weakness": "F",
+      "RetreatCost": "2",
+      "Artist": "Naoyo Kimura",
+      "code": "H06/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 65994,
+    "name": "Boost Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83937_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83937_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83937_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "145/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Special Energy",
+      "CardText": "Boost Energy can be attached only to an Evolved Pokémon.\r\n<br>\r\nDiscard Boost Energy at the end of the turn it was attached. Boost Energy provides 3 Colorless Energy. The Pokémon Boost Energy is attached to can't retreat.\r\n<br>\r\nWhen the Pokémon Boost Energy is attached to is no longer an Evolved Pokémon, discard Boost Energy.",
+      "Artist": "Shin-ichi Yoshikawa",
+      "code": "145/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 65995,
+    "name": "Chansey",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84171_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84171_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84171_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "069/147",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[1] Rollout (10)",
+      "Attack 2": "[3] Double-edge (40)\r\n<br>Chansey does 40 damage to itself.",
+      "Weakness": "F",
+      "RetreatCost": "2",
+      "Artist": "Atsuko Nishida",
+      "code": "069/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 65996,
+    "name": "Chinchou (70)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84301_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84301_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84301_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "070/147",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Float\r\n<br>Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Chinchou.",
+      "Attack 2": "[2] Headbutt (20)",
+      "Weakness": "G",
+      "RetreatCost": "1",
+      "Artist": "Yuka Morii",
+      "code": "070/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 65997,
+    "name": "Chinchou (71)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84302_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84302_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84302_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "071/147",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Jolt\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Attack 2": "[1L] Confuse Ray (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Confused.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "Artist": "Hisao Nakamura",
+      "code": "071/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 65998,
+    "name": "Crystal Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84518_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84518_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84518_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "146/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Special Energy",
+      "CardText": "Crystal Energy provides 1 Energy of all types (colors) of basic Energy cards attached to the Pokémon Crystal Energy is attached to.\r\n<br>\r\nIf there are no basic Energy cards attached to the Pokémon Crystal Energy is attached to, Crystal Energy provides Colorless Energy.",
+      "Artist": "Shin-ichi Yoshikawa",
+      "code": "146/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 65999,
+    "name": "Cubone",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84528_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84528_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84528_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "072/147",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Teary Eyes\r\n<br>\r\nDuring your opponent's next turn, any damage done to Cubone by attacks is reduced by 20.",
+      "Attack 2": "[F] Tackle (10)",
+      "Weakness": "G",
+      "Resistance": "L-30",
+      "RetreatCost": "1",
+      "Artist": "Midori Harada",
+      "code": "072/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66000,
+    "name": "Darkness Cube 01",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84675_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84675_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84675_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "119/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Technical Machine",
+      "CardText": "Attach this card to 1 of your Darkness Pokémon in play. That Pokémon may use this card's attack instead of its own. At the end of your turn, discard Darkness Cube 01.",
+      "Attack 1": "[D] Plunder (10)\r\n<br>Before doing damage, discard any Trainer cards attached to the Defending Pokémon.",
+      "Artist": "\"Big Mama\" Tagawa",
+      "code": "119/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66001,
+    "name": "Darkness Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84696_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84696_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84696_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "142/147",
+      "Rarity": "Rare",
+      "Card Type": "Special Energy",
+      "CardText": "If the Pokémon Darkness Energy is attached to damages the Defending Pokémon <em>(after applying Weakness and Resistance)</em>, the attack does 10 more damage to the Defending Pokémon.\r\n<br>\r\nAt the end of every turn, put 1 damage counter on the Pokémon Darkness Energy is attached to, unless it's Darkness or has Dark in its name.\r\n<br>\r\nDarkness Energy provides Darkness Energy. <em>(Doesn't count as a basic Energy card.)</em>",
+      "Artist": "Milky Isobe",
+      "code": "142/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66002,
+    "name": "Dodrio",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84848_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84848_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84848_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "046/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Tri Attack (10x)\r\n<br>Flip 3 coins. This attack does 10 damage times the number of heads.",
+      "Attack 2": "[2] Peck Attack\r\n<br>Flip 2 coins. If 1 of them is heads, this attack does 20 damage. If both are heads, this attack does 50 damage. If both are tails, the Defending Pokémon is now Confused.",
+      "Weakness": "L",
+      "Resistance": "F-30",
+      "RetreatCost": "1",
+      "Artist": "Yukiko Baba",
+      "code": "046/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66003,
+    "name": "Doduo",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84859_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84859_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84859_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "073/147",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Super Speed\r\n<br>Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Doduo.",
+      "Attack 2": "[2] Rear Kick (20)",
+      "Weakness": "L",
+      "Resistance": "F-30",
+      "RetreatCost": "1",
+      "Artist": "Yukiko Baba",
+      "code": "073/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66004,
+    "name": "Donphan",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84870_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84870_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84870_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "007/147",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[F] Earthquake (30)\r\n<br>Does 10 damage to each of your Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Attack 2": "[3] Double Stab (40x)\r\n<br>Flip 2 coins. This attack does 40 damage times the number of heads.",
+      "Weakness": "G",
+      "Resistance": "L-30",
+      "RetreatCost": "2",
+      "Artist": "Mitsuhiro Arita",
+      "code": "007/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66005,
+    "name": "Drowzee (74a)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84971_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84971_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84971_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "074a/147",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[P] Sleep Inducer\r\n<br>Flip a coin. If heads, choose 1 of your opponent's Benched Pokémon and switch the Defending Pokémon with it. The new Defending Pokémon is now Asleep.",
+      "Attack 2": "[2] Tackle (20)",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Hisao Nakamura",
+      "code": "074a/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66006,
+    "name": "Drowzee (74b)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84972_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84972_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84972_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "074b/147",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[P] Sleep Inducer\r\n<br>Flip a coin. If heads, choose 1 of your opponent's Benched Pokémon and switch the Defending Pokémon with it. The new Defending Pokémon is now Asleep.",
+      "Attack 2": "[2] Tackle (20)",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Hisao Nakamura",
+      "code": "074b/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66007,
+    "name": "Eevee",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85080_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85080_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85080_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "075/147",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Charge Up\r\n<br>Flip a coin. If heads, search your deck for an Energy card and attack it to Eevee. Shuffle your deck afterward.",
+      "Attack 2": "[1] Lunge (20)\r\n<br>Flip a coin. If tails, this attack does nothing.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "Artist": "Midori Harada",
+      "code": "075/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66009,
+    "name": "Electrode",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85148_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85148_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85148_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "008/147",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-POWER — Super Dynamo</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Electrode is your Active Pokémon, you may flip a coin. If heads, choose a Lightning Energy card from your discard pile and attach it to 1 of your Pokémon. This power can't be used if Electrode is affected by a Special Condition.",
+      "Attack 1": "[1L] Swift (30)\r\n<br>This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "Artist": "Shin-ichi Yoshida",
+      "code": "008/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66008,
+    "name": "Electrode (H7)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85147_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85147_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85147_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H07/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-POWER — Super Dynamo</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Electrode is your Active Pokémon, you may flip a coin. If heads, choose a Lightning Energy card from your discard pile and attach it to 1 of your Pokémon. This power can't be used if Electrode is affected by a Special Condition.",
+      "Attack 1": "[1L] Swift (30)\r\n<br>This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "Artist": "Shin-ichi Yoshida",
+      "code": "H07/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66010,
+    "name": "Elekid",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85167_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85167_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85167_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "009/147",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "30",
+      "Stage": "Basic",
+      "CardText": "<em>If your Active Pokémon is a Baby Pokémon and your opponent announces an attack, your opponent flips a coin (before doing anything else). If tails, your opponent's turn ends.</em>",
+      "Attack 1": "[L] Energy Kick\r\n<br>\r\nFlip a coin. If heads, choose an Energy card attached to the Defending Pokémon. Your opponent moves that card to 1 of his or her other Pokémon. (If your opponent has no Benched Pokémon, this attack does nothing.)",
+      "RetreatCost": "1",
+      "Artist": "Hikaru Koike",
+      "code": "009/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66011,
+    "name": "Energy Switch",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85253_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85253_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85253_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "120/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Move a basic Energy card attached to 1 of your Pokémon to another of your Pokémon.",
+      "Artist": "Mikio Menjo",
+      "code": "120/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66013,
+    "name": "Entei",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85268_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85268_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85268_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "010/147",
+      "Rarity": "Rare",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "<strong>Poké-BODY — Pure Body</strong>\r\n<br>\r\nTo attach a Fire Energy card from your hand to Entei, you must discard an Energy card attached to Entei. (Attach the Fire Energy, and then discard an Energy from Entei.)",
+      "Attack 1": "[2R] Burning Fang (40)\r\n<br>You may flip a coin. If heads, discard a Fire Energy card attached to Entei and the Defending Pokémon is now Burned.",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "Artist": "Atsuko Nishida",
+      "code": "010/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66012,
+    "name": "Entei (H8)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85267_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85267_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85267_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H08/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "<strong>Poké-BODY — Pure Body</strong>\r\n<br>\r\nTo attach a Fire Energy card from your hand to Entei, you must discard an Energy card attached to Entei. (Attach the Fire Energy, and then discard an Energy from Entei.)",
+      "Attack 1": "[2R] Burning Fang (40)\r\n<br>You may flip a coin. If heads, discard a Fire Energy card attached to Entei and the Defending Pokémon is now Burned.",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "Artist": "Atsuko Nishida",
+      "code": "H08/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66015,
+    "name": "Espeon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85318_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85318_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85318_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "011/147",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-POWER — Energy Return</strong>\r\n<br>\r\nAs often as you like during your turn <em>(before your attack)</em>, choose an Energy card attached to 1 of your Pokémon and return it to your hand. This power can't be used if Espeon is affected by a Special Condition.",
+      "Attack 1": "[2P] Damage Blast (30+)\r\n<br>Flip a number of coins equal to the number of damage counters on the Defending Pokémon. This attack does 30 damage plus 10 more damage for each heads.",
+      "Weakness": "P",
+      "Artist": "Kyoko Umemoto",
+      "code": "011/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66014,
+    "name": "Espeon (H9)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85317_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85317_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85317_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H09/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-POWER — Energy Return</strong>\r\n<br>\r\nAs often as you like during your turn <em>(before your attack)</em>, choose an Energy card attached to 1 of your Pokémon and return it to your hand. This power can't be used if Espeon is affected by a Special Condition.",
+      "Attack 1": "[2P] Damage Blast (30+)\r\n<br>Flip a number of coins equal to the number of damage counters on the Defending Pokémon. This attack does 30 damage plus 10 more damage for each heads.",
+      "Weakness": "P",
+      "Artist": "Kyoko Umemoto",
+      "code": "H09/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66016,
+    "name": "Exeggcute (76)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85344_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85344_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85344_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "076/147",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Growth Spurt\r\n<br>\r\nAttach an Energy card from your hand to Exeggcute.",
+      "Attack 2": "[G] Sleep Powder (10)\r\n<br>The Defending Pokémon is now Asleep.",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "Artist": "Yukiko Baba",
+      "code": "076/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66017,
+    "name": "Exeggcute (77)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85345_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85345_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85345_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "077/147",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Continuous Eggsplosion (10x)\r\n<br>Flip a coin until you get tails. This attack does 10 damage times the number of heads.",
+      "Attack 2": "[P] Energy Support\r\n<br>Flip a coin. If heads, search your deck for a Psychic Energy card and attach it to 1 of your Benched Pokémon. Shuffle your deck afterward.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Sumiyoshi Kizuki",
+      "code": "077/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66019,
+    "name": "Exeggutor (12)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85354_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85354_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85354_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "012/147",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Super Eggsplosion (40x)\r\n<br>Discard any number of Energy cards attached to any of your Pokémon. Flip a number of coins equal to the number of Energy cards discarded this way. This attack does 40 damage times the number of heads.",
+      "Attack 2": "[G] Called Shot\r\n<br>\r\nChoose 1 of your opponent's Benched Pokémon. This attack does 10 damage times the amount of Grass Energy attached to Exeggutor. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "Artist": "Yukiko Baba",
+      "code": "012/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66020,
+    "name": "Exeggutor (13)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85356_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85356_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85356_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "013/147",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Big Eggsplosion (20x)\r\n<br>Flip a number of coins equal to the number of Energy attached to Exeggutor. This attack does 20 damage times the number of heads.",
+      "Attack 2": "[2P] Lateral Eggsplosion (30+)\r\n<br>Flip a number of coins equal to the total number of Energy attached to all of your Benched Pokémon. This attack does 30 damage plus 10 more damage for each heads.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Sumiyoshi Kizuki",
+      "code": "013/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66018,
+    "name": "Exeggutor (H10)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85353_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85353_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85353_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H10/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Super Eggsplosion (40x)\r\n<br>Discard any number of Energy cards attached to any of your Pokémon. Flip a number of coins equal to the number of Energy cards discarded this way. This attack does 40 damage times the number of heads.",
+      "Attack 2": "[G] Called Shot\r\n<br>\r\nChoose 1 of your opponent's Benched Pokémon. This attack does 10 damage times the amount of Grass Energy attached to Exeggutor. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "Artist": "Yukiko Baba",
+      "code": "H10/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66021,
+    "name": "Fighting Cube 01",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85432_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85432_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85432_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "121/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Tool",
+      "CardText": "Attach this card to 1 of your Fighting Pokémon in play. That Pokémon may use this card's attack instead of its own. At the end of your turn, discard Fighting Cube 01.",
+      "Attack 1": "[F] Violent Rage (10x)\r\n<br>\r\nFlip a number of coins equal to the number of damage counters on this Pokémon. This attack does 10 damage times the number of heads.",
+      "Artist": "\"Big Mama\" Tagawa",
+      "code": "121/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66022,
+    "name": "Fire Cube 01",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85451_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85451_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85451_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "122/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Tool",
+      "CardText": "Attach this card to 1 of your Fire Pokémon in play. That Pokémon may use this card's attack instead of its own. At the end of your turn, discard Fire Cube 01.",
+      "Attack 1": "[R] Singe\r\n<br>The Defending Pokémon is now Burned.",
+      "Artist": "\"Big Mama\" Tagawa",
+      "code": "122/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66023,
+    "name": "Flaaffy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85477_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85477_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85477_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "047/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Thundershock (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Attack 2": "[1LL] Spark (30)\r\n<br>If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "Artist": "Shin-ichi Yoshida",
+      "code": "047/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66024,
+    "name": "Forest Guardian",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85541_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85541_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85541_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "123/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.\r\n<br>\r\nShuffle your deck. Then, look at the top 7 cards of your deck. Choose 1 of those cards and put it into your hand. Shuffle the rest into your deck afterward.",
+      "Artist": "Ken Sugimori",
+      "code": "123/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66025,
+    "name": "Furret",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85590_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85590_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85590_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "048/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-POWER — Scavenger Hunt</em>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may put 2 cards from your hand into your deck. Then, search your deck for an Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward. This power can't be used if Furret is affected by a Special Condition.",
+      "Attack 1": "[2] Spinning Attack (30)",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "Artist": "Atsuko Nishida",
+      "code": "048/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66026,
+    "name": "Gloom",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85780_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85780_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85780_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "049/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-BODY — Enervating Pollen</strong>\r\n<br>\r\nAs long as Gloom is in play, Resistance on each player's Active Pokémon only reduces damage by 10.",
+      "Attack 1": "[2] Sleep Sap (20)\r\n<br>Both Gloom and the Defending Pokémon are now Asleep <em>(after doing damage)</em>.",
+      "Weakness": "R",
+      "RetreatCost": "2",
+      "Artist": "Kyoko Umemoto",
+      "code": "049/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66027,
+    "name": "Goldeen",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85804_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85804_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85804_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "078/147",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Knock Away (10+)\r\n<br>Flip a coin. If heads, this attack does 10 damage plus 10 more damage.",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "Artist": "Miki Tanaka",
+      "code": "078/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66028,
+    "name": "Golduck (50a)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85813_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85813_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85813_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "050a/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Slash (20)",
+      "Attack 2": "[2P] Distortion Beam (30)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Asleep. If tails, the Defending Pokémon is now Confused.",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "Artist": "Sumiyoshi Kizuki",
+      "code": "050a/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66029,
+    "name": "Golduck (50b)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85814_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85814_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85814_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "050b/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Slash (20)",
+      "Attack 2": "[2P] Distortion Beam (30)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Asleep. If tails, the Defending Pokémon is now Confused.",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "Artist": "Sumiyoshi Kizuki",
+      "code": "050b/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66030,
+    "name": "Grass Cube 01",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85868_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85868_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85868_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "124/127",
+      "Rarity": "Uncommon",
+      "Card Type": "Technical Machine",
+      "CardText": "Attach this card to 1 of your Grass Pokémon in play. That Pokémon may use this card's attack instead of its own. At the end of your turn, discard Grass Cube 01.",
+      "Attack 1": "[G] Sleep Poison\r\n<br>The Defending Pokémon is now Asleep and Poisoned.",
+      "Artist": "\"Big Mama\" Tagawa",
+      "code": "124/127"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66031,
+    "name": "Grimer",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85907_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85907_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85907_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "079/147",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Poison Sludge\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Keiji Kinebuchi",
+      "code": "079/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66032,
+    "name": "Growlithe (51)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85949_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85949_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85949_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "051/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1R] Ember (30)\r\n<br>Discard a Fire Energy card attached to Growlithe.",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "Artist": "Kyoko Umemoto",
+      "code": "051/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66033,
+    "name": "Growlithe (80)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85953_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85953_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85953_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "080/147",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Roar\r\n<br>\r\nIf your opponent has any Benched Pokémon, he or she chooses 1 of them and switches the Defending Pokémon with it.",
+      "Attack 2": "[R] Firebreathing (10+)\r\n<br>Flip a coin. If heads, this attack does 10 damage plus 10 more damage.",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "Artist": "Yukiko Baba",
+      "code": "080/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66034,
+    "name": "Healing Berry",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86040_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86040_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86040_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "125/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Tool",
+      "CardText": "Attach Healing Berry to 1 of your Pokémon that doesn't already have a Pokémon Tool card attached to it. If that Pokémon is Knocked Out, discard this card.\r\n<br>\r\nAt the end of any turn, if the Pokémon this card is attached to has 20 HP or less, remove 3 damage counters from that Pokémon and discard this card.",
+      "Artist": "Shin-ichi Yoshikawa",
+      "code": "125/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66035,
+    "name": "Hitmonchan",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86091_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86091_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86091_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "081/147",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1F] Rush (10x)\r\n<br>Flip 5 coins. This attack does 10 damage times the number of heads. Hitmonchan can't attack during your next turn.",
+      "Attack 2": "[3] Smash Punch (50)\r\n<br>Flip a coin. If tails, this attack does nothing.",
+      "Weakness": "P",
+      "RetreatCost": "2",
+      "Artist": "Tomokazu Komiya",
+      "code": "081/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66036,
+    "name": "Hitmontop",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86113_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86113_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86113_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "082/147",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[2] Double Kick (20x)\r\n<br>Flip 2 coins. This attack does 20 damage times the number of heads.",
+      "Attack 2": "[2F] Triple Spin (20x) \r\n<br>Flip 3 coins. This attack does 20 damage times the number of heads. If you get 2 or more heads, switch Hitmontop with 1 of your Benched Pokémon, if any.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Tomokazu Komiya",
+      "code": "082/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66037,
+    "name": "Hoppip",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86178_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86178_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86178_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "083/147",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "CardText": "<strong>Poké-BODY — Lightweight</strong>\r\n<br>\r\nYou pay 1 Colorless less to retreat Hoppip for each Grass Energy attached to it.",
+      "Attack 1": "[1] Careless Tackle (20)\r\n<br>Hoppip does 10 damage to itself.",
+      "Weakness": "R",
+      "Resistance": "W-30",
+      "RetreatCost": "1",
+      "Artist": "Yuka Morii",
+      "code": "083/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66038,
+    "name": "Horsea (84)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86186_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86186_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86186_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "084/147",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[W] Bubble (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "Artist": "Hisao Nakamura",
+      "code": "084/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66039,
+    "name": "Horsea (85)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86187_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86187_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86187_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "085/147",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[2] Reverse Thrust (20)\r\n<br>If you have any Benched Pokémon, choose 1 of them and switch it with Horsea.",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "Artist": "Atsuko Nishida",
+      "code": "085/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66041,
+    "name": "Houndoom (14)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86202_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86202_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86202_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "014/147",
+      "Rarity": "Rare",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Smokescreen (10)\r\n<br>If the defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+      "Attack 2": "[1RR] Burn Up (60)\r\n<br>Flip a coin. If tails, discard all Fire Energy cards attached to Houndoom.",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "Artist": "Naoyo Kimura",
+      "code": "014/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66042,
+    "name": "Houndoom (15)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86203_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86203_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86203_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "015/147",
+      "Rarity": "Rare",
+      "Card Type": "Darkness",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1R] Fireworks (30)\r\n<br>Flip a coin. If tails, discard a Fire Energy card attached to Houndoom.",
+      "Attack 2": "[2D] Dark Impact (40)\r\n<br>\r\nThe Defending Pokémon can't use any Poké-Powers until the end of your opponent's next turn.",
+      "Weakness": "F",
+      "Resistance": "P-30",
+      "RetreatCost": "1",
+      "Artist": "Hajime Kusajima",
+      "code": "015/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66040,
+    "name": "Houndoom (H11)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86199_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86199_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86199_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H11/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Darkness",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1R] Fireworks (30)\r\n<br>Flip a coin. If tails, discard a Fire Energy card attached to Houndoom.",
+      "Attack 2": "[2D] Dark Impact (40)\r\n<br>\r\nThe Defending Pokémon can't use any Poké-Powers until the end of your opponent's next turn.",
+      "Weakness": "F",
+      "Resistance": "P-30",
+      "RetreatCost": "1",
+      "Artist": "Hajime Kusajima",
+      "code": "H11/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66043,
+    "name": "Houndour (86)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86221_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86221_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86221_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "086/147",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Singe\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Burned.",
+      "Attack 2": "[1R] Flare (20)",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "Artist": "mido",
+      "code": "086/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66044,
+    "name": "Houndour (87)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86222_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86222_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86222_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "087/147",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1D] Feint Attack\r\n<br>Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on that Pokémon.",
+      "Weakness": "F",
+      "Resistance": "P-30",
+      "RetreatCost": "1",
+      "Artist": "Atsuko Nishida",
+      "code": "087/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66046,
+    "name": "Hypno",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86249_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86249_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86249_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "016/147",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-POWER — Sleep Pendulum</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Hypno is your active Pokémon, you may make the Defending Pokémon Asleep. This power can't be used if Hypno is affected by a Special Condition.",
+      "Attack 1": "[2P] Spiral Aura (30)\r\n<br>\r\nIf the Defending Pokémon isn't Knocked Out by the damage from this attack, you may choose 1 of your opponent's Benched Pokémon and switch the Defending Pokémon with it.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "016/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66045,
+    "name": "Hypno (H12)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86248_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86248_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86248_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H12/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-POWER — Sleep Pendulum</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Hypno is your active Pokémon, you may make the Defending Pokémon Asleep. This power can't be used if Hypno is affected by a Special Condition.",
+      "Attack 1": "[2P] Spiral Aura (30)\r\n<br>\r\nIf the Defending Pokémon isn't Knocked Out by the damage from this attack, you may choose 1 of your opponent's Benched Pokémon and switch the Defending Pokémon with it.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "H12/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66047,
+    "name": "Juggler",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86360_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86360_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86360_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "126/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.\r\n<br>\r\nDiscard up to 2 basic Energy cards from your hand. If you discarded 1 basic Energy card, draw 3 cards. If you discarded 2 basic Energy cards, draw 5 cards.",
+      "Artist": "Ken Sugimori",
+      "code": "126/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66049,
+    "name": "Jumpluff",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86364_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86364_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86364_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "017/147",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Poké-BODY — Fluff</strong>\r\n<br>\r\nDuring your opponent's turn, if Jumpluff would be damaged or affected by an opponent's attack and it already has at least 1 damage counter on it, flip a coin. If heads, prevent all effects of that attack (including damage).",
+      "Attack 1": "[G] Cotton Punch (30x)\r\n<br>Flip 2 coins. This attack does 30 damage times the number of heads.",
+      "Weakness": "R",
+      "Resistance": "W-30",
+      "Artist": "Yuka Morii",
+      "code": "017/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66048,
+    "name": "Jumpluff (H13)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86363_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86363_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86363_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H13/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Poké-BODY — Fluff</strong>\r\n<br>\r\nDuring your opponent's turn, if Jumpluff would be damaged or affected by an opponent's attack and it already has at least 1 damage counter on it, flip a coin. If heads, prevent all effects of that attack (including damage).",
+      "Attack 1": "[G] Cotton Punch (30x)\r\n<br>Flip 2 coins. This attack does 30 damage times the number of heads.",
+      "Weakness": "R",
+      "Resistance": "W-30",
+      "Artist": "Yuka Morii",
+      "code": "H13/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66050,
+    "name": "Jynx",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86370_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86370_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86370_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "018/147",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1P] Meditate (10+)\r\n<br>This attack does 10 damage plus 10 more damage for each damage counter on the Defending Pokémon.",
+      "Attack 2": "[2P] Confuse Ray (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Confused.",
+      "Weakness": "P",
+      "RetreatCost": "2",
+      "Artist": "Hisao Nakamura",
+      "code": "018/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66051,
+    "name": "Kangaskhan",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86420_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86420_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86420_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "088/147",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[2] Baby Outing\r\n<br>Look at the top 3 cards of your deck, and then choose 1 of those cards and put it into your hand. Shuffle the rest into your deck afterward.",
+      "Attack 2": "[3] Mega Punch (30)",
+      "Weakness": "F",
+      "RetreatCost": "2",
+      "Artist": "Toshinao Aoki",
+      "code": "088/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66054,
+    "name": "Kingdra (148)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86444_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86444_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86444_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "148/147",
+      "Rarity": "Secret Rare",
+      "Card Type": "Colorless",
+      "HP": "110",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Poké-BODY — Crystal Type</strong>\r\n<br>\r\nWhenever you attach a Water,  Lightning, or Psychic basic Energy card from your hand to Kingdra, Kingdra's type (color) becomes the same as that Energy card type until the end of the turn.",
+      "Attack 1": "[WWL] Aquabomb (40)\r\n<br>Kingdra does 10 damage to itself. <em>(Don't apply Weakness or Resistance when Kingdra damages itself with this attack.)</em>",
+      "Attack 2": "[1PPL] Dual Burn (60)\r\n<br>Flip 2 coins. For each tails, discard 1 Energy card attached to Kingdra.",
+      "Weakness": "L",
+      "RetreatCost": "3",
+      "Artist": "Mikio Menjo",
+      "code": "148/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66053,
+    "name": "Kingdra (19)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86443_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86443_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86443_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "019/147",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Poké-POWER — Water Cyclone</strong>\r\n<br>\r\nAs often as you like during your turn <em>(before your attack)</em>, you may move a Water Energy card from your Active Pokémon to 1 of your Benched Pokémon. This power can't be used if Kingdra is affected by a Special Condition.",
+      "Attack 1": "[2WW] Rapids (50)\r\n<br>\r\nFlip a coin. If heads, discard 1 Energy card attached to the Defending Pokémon, if any.",
+      "Weakness": "L",
+      "RetreatCost": "3",
+      "Artist": "Atsuko Nishida",
+      "code": "019/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66052,
+    "name": "Kingdra (H14)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86441_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86441_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86441_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H14/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Poké-POWER — Water Cyclone</strong>\r\n<br>\r\nAs often as you like during your turn <em>(before your attack)</em>, you may move a Water Energy card from your Active Pokémon to 1 of your Benched Pokémon. This power can't be used if Kingdra is affected by a Special Condition.",
+      "Attack 1": "[2WW] Rapids (50)\r\n<br>\r\nFlip a coin. If heads, discard 1 Energy card attached to the Defending Pokémon, if any.",
+      "Weakness": "L",
+      "RetreatCost": "3",
+      "Artist": "Atsuko Nishida",
+      "code": "H14/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66056,
+    "name": "Lanturn (20)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86600_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86600_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86600_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "020/147",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[L] Lightning Ball (20)",
+      "Attack 2": "[3] Conduction (30+)\r\n<br>Discard all Lightning Energy cards attached to Lantern. Flip a number of coins equal to the number of Lightning Energy cards you discarded. This attack does 30 damage plus 40 more damage for each heads.",
+      "Weakness": "G",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "020/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66057,
+    "name": "Lanturn (21)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86601_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86601_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86601_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "021/147",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-POWER — Ion Coating</strong>\r\n<br>\r\nYou may use this power once during each of your turns <em>(before your attack)</em>. All Lightning Energy attached to your Active Pokémon becomes Water Energy for the rest of the turn. (This effect ends if your Active Pokémon retreats or is returned to your hand.) This power can't be used if Lanturn is affected by a Special Condition.",
+      "Attack 1": "[2] Electric Tackle (20+)\r\n<br>\r\nThis attack does 20 damage plus 10 more damage for each Lightning Energy attached to Lanturn. Flip a coin. If tails, Lanturn does 10 damage to itself for each Lightning Energy attached to it.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "Artist": "Yuka Morii",
+      "code": "021/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66055,
+    "name": "Lanturn (H15)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86599_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86599_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86599_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H15/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Lightning",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-POWER — Ion Coating</strong>\r\n<br>\r\nYou may use this power once during each of your turns <em>(before your attack)</em>. All Lightning Energy attached to your Active Pokémon becomes Water Energy for the rest of your turn. (This effect ends if your Active Pokémon retreats or is returned to your hand.) This power can't be used if Lanturn is affected by a Special Condition.",
+      "Attack 1": "[2] Electric Tackle (20+)\r\n<br>\r\nThis attack does 20 damage plus 10 more damage for each Lightning Energy attached to Lanturn. Flip a coin. If tails, Lanturn does 10 damage to itself for each Lightning Energy attached to it.",
+      "Weakness": "G",
+      "RetreatCost": "1",
+      "Artist": "Yuka Morii",
+      "code": "H15/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66058,
+    "name": "Larvitar",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86634_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86634_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86634_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "089/147",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Mountain Eater\r\n<br>\r\nYour opponent discards the top card from his or her deck. Then you remove a damage counter from Larvitar.",
+      "Attack 2": "[F] Rising Lunge (10+)\r\n<br>Flip a coin. If heads, this attack does 10 damage plus 10 more damage.",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "Artist": "Naoyo Kimura",
+      "code": "089/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66059,
+    "name": "Lickitung",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86718_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86718_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86718_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "090/147",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[2] Long Tongue\r\n<br>Choose 1 of your opponent's Pokémon in play. This attack does 10 damage to that Pokémon. Don't apply Weakness and Resistance.",
+      "Attack 2": "[3] Body Slam (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Weakness": "F",
+      "RetreatCost": "2",
+      "Artist": "Yuka Morii",
+      "code": "090/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66060,
+    "name": "Lightning Cube 01",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86754_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86754_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86754_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "127/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Technical Machine",
+      "CardText": "Attach this card to 1 of your Lightning Pokémon in play. That Pokémon may use this card's attach instead of its own. At the end of your turn, discard Lightning Cube 01.",
+      "Attack 1": "[L] Discharge (40x)\r\n<br>\r\nDiscard all Lightning Energy cards attached to this Pokémon. Then, flip a number of coins equal to the number of Energy cards discarded that way. This attack does 40 damage times the number of heads.",
+      "Artist": "\"Big Mama\" Tagawa",
+      "code": "127/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66061,
+    "name": "Lugia",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86905_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86905_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86905_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "149/147",
+      "Rarity": "Secret Rare",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Basic",
+      "CardText": "<strong>Poké-BODY — Crystal Type</strong>\r\n<br>\r\nWhenever you attach a Fire, Water, or Psychic basic Energy card from your hand to Lugia, Lugia's type (color) becomes the same as that Energy card type until the end of the turn.",
+      "Attack 1": "[PR] Psychic (10x)\r\n<br>\r\nThis attack does 10 damage times the number of Energy cards attached to the Defending Pokémon.",
+      "Attack 2": "[1WWR] Steam Blast (50)\r\n<br>Discard an Energy card attached to Lugia.",
+      "Weakness": "P",
+      "RetreatCost": "3",
+      "Artist": "Naoyo Kimura",
+      "code": "149/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66062,
+    "name": "Magnemite (52)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87066_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87066_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87066_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "052/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Metal",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[M] Attract\r\n<br>\r\nChoose 1 of your opponent's Benched Pokémon and switch the Defending Pokémon with it.",
+      "Attack 2": "[2] Tackle (20)",
+      "Weakness": "R",
+      "Resistance": "G-30",
+      "RetreatCost": "1",
+      "Artist": "Shin-ichi Yoshida",
+      "code": "052/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66063,
+    "name": "Magnemite (91)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87071_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87071_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87071_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "091/147",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "CardText": "<strong>Poké-BODY — Conductive Body</strong>\r\n<br>\r\nYou pay 1 Colorless less to retreat Magnemite for each Magnemite on your Bench.",
+      "Attack 1": "[1L] Magnetic Bomb (20+)\r\n<br>Flip a coin. If heads, this attack does 20 damage plus 10 more damage. If tails, Magnemite does 10 damage to itself.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "Artist": "Hajime Kusajima",
+      "code": "091/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66065,
+    "name": "Magneton",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87097_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87097_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87097_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "022/147",
+      "Rarity": "Rare",
+      "Card Type": "Metal",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-POWER — Magnetic Flow</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Magneton is your Active Pokémon, you may flip a coin. If heads, choose 2 of your opponent's Pokémon that have Energy cards attached to them. Choose 1 of the Energy cards attached to each of those Pokémon and switch them between the Pokémon. This power can't be used if Magneton is affected by a Special Condition.",
+      "Attack 1": "[3] Steel Wave (30)\r\n<br>\r\nThis attack does 10 damage to each of your opponent's Benched Pokémon that are the same type (color) as the Defending Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Weakness": "R",
+      "Resistance": "G-30",
+      "RetreatCost": "2",
+      "Artist": "Hikaru Koike",
+      "code": "022/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66064,
+    "name": "Magneton (H16)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87094_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87094_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87094_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H16/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-POWER — Magnetic Flow</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Magneton is your Active Pokémon, you may flip a coin. If heads, choose 2 of your opponent's Pokémon that have Energy cards attached to them. Choose 1 of the Energy cards attached to each of those Pokémon and switch them between the Pokémon. This power can't be used if Magneton is affected by a Special Condition.",
+      "Attack 1": "[3] Steel Wave (30)\r\n<br>\r\nThis attack does 10 damage to each of your opponent's Benched Pokémon that are the same type (color) as the Defending Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Weakness": "R",
+      "Resistance": "G-30",
+      "RetreatCost": "2",
+      "Artist": "Hikaru Koike",
+      "code": "H16/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66066,
+    "name": "Mankey",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87172_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87172_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87172_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "092/147",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[F] Mug (10)\r\n<br>Before doing damage, discard all Trainer cards attached to the Defending Pokémon.",
+      "Attack 2": "[2] Rage (10+)\r\n<br>\r\nThis attack does 10 damage plus 10 more damage for each damage counter on Mankey.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Tomokazu Komiya",
+      "code": "092/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66067,
+    "name": "Mareep",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87195_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87195_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87195_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "093/147",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Charge\r\n<br>Attach 1 Lightning Energy card from your discard pile to Mareep.",
+      "Attack 2": "[1L] Tail Slap (20)",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "Artist": "Hizuki Misono",
+      "code": "093/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66068,
+    "name": "Marill",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87212_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87212_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87212_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "053/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Headbutt (10)",
+      "Attack 2": "[1W] Sleepy Ball (10)\r\n<br>The Defending Pokémon is now Asleep.",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "Artist": "Yukiko Baba",
+      "code": "053/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66069,
+    "name": "Marowak",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87225_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87225_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87225_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "054/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Triple Bone\r\n<br>\r\nChoose 1 of your opponent's Benched Pokémon. Flip 3 coins. This attack does 10 damage times the number of heads to that Pokémon. Don't apply Weakness and Resistance.",
+      "Attack 2": "[2F] Bone Rush (50x)\r\n<br>Flip a coin until you get tails. This attack does 50 damage times the number of heads.",
+      "Weakness": "G",
+      "Resistance": "L-30",
+      "RetreatCost": "1",
+      "Artist": "Kagemaru Himeno",
+      "code": "054/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66070,
+    "name": "Memory Berry",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87307_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87307_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87307_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "128/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Tool",
+      "CardText": "Attach Memory Berry to 1 of your Pokémon that doesn't have a Pokémon Tool attached to it. If that Pokémon is Knocked Out, discard this card.\r\n<br>\r\nThe Pokémon this card is attached to can use any attack from its Basic Pokémon card or any Evolution card from which the Pokémon evolved. (You still have to pay for that attack's Energy cost.) Discard this card at the end of any turn the Pokémon attacks.",
+      "Artist": "Shin-ichi Yoshikawa",
+      "code": "128/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66071,
+    "name": "Metal Cube 01",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87348_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87348_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87348_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "129/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Technical Machine",
+      "CardText": "Attach this card to 1 of your Metal Pokémon in play. That Pokémon may use this card's attack instead of its own. At the end of your turn, discard Metal Cube 01.",
+      "Attack 1": "[M] Metal Reversal (10)\r\n<br>Before doing damage, you may choose 1 of your opponent's Benched Pokémon and switch it with the Defending Pokémon.",
+      "Artist": "\"Big Mama\" Tagawa",
+      "code": "129/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66072,
+    "name": "Metal Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87369_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87369_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87369_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "143/147",
+      "Rarity": "Rare",
+      "Card Type": "Special Energy",
+      "CardText": "Damage done to the Pokémon Metal Energy is attached to is reduced by 10 <em>(after applying Weakness and Resistance)</em>. If the Pokémon Metal Energy is attached to isn't Metal, whenever it damages a Pokémon, reduce that damage by 10 <em>(before applying Weakness and Resistance)</em>.\r\n<br>\r\nMetal Energy provides Metal Energy. <em>(Doesn't count as a basic Energy card.)</em>",
+      "Artist": "Milky Isobe",
+      "code": "143/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66073,
+    "name": "Miltank",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87462_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87462_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87462_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "094/147",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[2] Tackle (20)",
+      "Attack 2": "[2] Continuous Tumble (20x)\r\n<br>Flip a coin until you get tails. This attack does 20 damage times the number of heads.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "Artist": "Kouki Saitou",
+      "code": "094/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66074,
+    "name": "Mr. Mime (95a)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87590_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87590_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87590_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "095a/147",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "CardText": "<strong>Poké-BODY — Energy Barrier</strong>\r\n<br>\r\nIf Mr. Mime would be damaged by an attack, reduce that damage by 10 for each basic Energy card attached to Mr. Mime. The maximum amount of damage that can be reduced by Energy Barrier is 20.",
+      "Attack 1": "[1P] Mind Shock (20)\r\n<br>Don't apply Weakness and Resistance.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Yukiko Baba",
+      "code": "095a/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66075,
+    "name": "Mr. Mime (95b)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87591_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87591_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87591_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "095b/147",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "CardText": "<strong>Poké-BODY — Energy Barrier</strong>\r\n<br>\r\nIf Mr. Mime would be damaged by an attack, reduce that damage by 10 for each basic Energy card attached to Mr. Mime. The maximum amount of damage that can be reduced by Energy Barrier is 20.",
+      "Attack 1": "[1P] Mind Shock (20)\r\n<br>Don't apply Weakness and Resistance.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Yukiko Baba",
+      "code": "095b/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66077,
+    "name": "Muk",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87620_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87620_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87620_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "023/147",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-BODY — Heavyweight</strong>\r\n<br>\r\nAs long as there is a Grass Energy attached to Muk, you must pay an additional 2 Colorless to retreat it.",
+      "Attack 1": "[2] Burning Sludge (10)\r\n<br>\r\nFlip a number of coins equal to the amount of Grass Energy attached to Muk. If any of them are heads, the Defending Pokémon is now Poisoned and Burned.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Hajime Kusajima",
+      "code": "023/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66076,
+    "name": "Muk (H17)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87619_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87619_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87619_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H17/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-BODY — Heavyweight</strong>\r\n<br>\r\nAs long as there is a Grass Energy attached to Muk, you must pay an additional 2 Colorless to retreat it.",
+      "Attack 1": "[2] Burning Sludge (10)\r\n<br>\r\nFlip a number of coins equal to the amount of Grass Energy attached to Muk. If any of them are heads, the Defending Pokémon is now Poisoned and Burned.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Hajime Kusajima",
+      "code": "H17/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66080,
+    "name": "Nidoking (150)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87695_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87695_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87695_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "150/147",
+      "Rarity": "Secret Rare",
+      "Card Type": "Colorless",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Poké-BODY — Crystal Type</strong>\r\n<br>\r\nWhenever you attach a Grass, Lightning, or Fire basic Energy card from your hand to Nidoking, Nidoking's type (color) becomes the same as that Energy card type until the end of the turn.",
+      "Attack 1": "[1GG] Poison Horn (20)\r\n<br>The Defending Pokémon is now Poisoned.",
+      "Attack 2": "[LLFF] Rolling Thunder (50)\r\n<br>Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. If tails, this attack does 10 damage to each of your Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Weakness": "G",
+      "RetreatCost": "3",
+      "Artist": "Hironobu Yoshida",
+      "code": "150/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66079,
+    "name": "Nidoking (24)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87693_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87693_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87693_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "024/147",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "110",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Poké-POWER — Earth Rage</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Nidoking is your Active Pokémon, you may flip a coin. If heads, put a damage counter on each of your opponent's Benched Pokémon. This power can't be used if Nidoking is affected by a Special Condition.",
+      "Attack 1": "[2FF] Giant Horn (50+)\r\n<br>Flip a coin. If heads, this attack does 50 damage plus 30 more damage.",
+      "Weakness": "G",
+      "Resistance": "L-30",
+      "RetreatCost": "3",
+      "Artist": "Naoyo Kimura",
+      "code": "024/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66078,
+    "name": "Nidoking (H18)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87692_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87692_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87692_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H18/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "110",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Poké-POWER — Earth Rage</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, if Nidoking is your Active Pokémon, you may flip a coin. If heads, put a damage counter on each of your opponent's Benched Pokémon. This power can't be used if Nidoking is affected by a Special Condition.",
+      "Attack 1": "[2FF] Giant Horn (50+)\r\n<br>Flip a coin. If heads, this attack does 50 damage plus 30 more damage.",
+      "Weakness": "G",
+      "Resistance": "L-30",
+      "RetreatCost": "3",
+      "Artist": "Naoyo Kimura",
+      "code": "H18/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66081,
+    "name": "Nidoran M",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87725_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87725_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87725_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "096/147",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[G] Poison Horn\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+      "Attack 2": "[2] Scratch (20)",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Keiko Fukuyama",
+      "code": "096/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66082,
+    "name": "Nidorino",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87742_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87742_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87742_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "055/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[G] Poison Horn (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+      "Attack 2": "[3] Take Down (40)\r\n<br>Nidorino does 10 damage to itself.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Kagemaru Himeno",
+      "code": "055/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66084,
+    "name": "Ninetales",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87768_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87768_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87768_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "025/147",
+      "Rarity": "Rare",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[R] Miracle Tail (10)\r\n<br>Flip a coin. If heads, choose a Special Condition <em>(Asleep, Burned, Confused, Paralyzed, or Poisoned)</em>. The Defending Pokémon is now affected by that Special Condition.",
+      "Attack 2": "[2R] Roasting Heat (40+)\r\n<br>If the Defending Pokémon is Burned, this attack does 40 damage plus 20 more damage.",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "Artist": "Kagemaru Himeno",
+      "code": "025/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66083,
+    "name": "Ninetales (H19)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87767_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87767_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87767_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H19/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[R] Miracle Tail (10)\r\n<br>Flip a coin. If heads, choose a Special Condition <em>(Asleep, Burned, Confused, Paralyzed, or Poisoned)</em>. The Defending Pokémon is now affected by that Special Condition.",
+      "Attack 2": "[2R] Roasting Heat (40+)\r\n<br>If the Defending Pokémon is Burned, this attack does 40 damage plus 20 more damage.",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "Artist": "Kagemaru Himeno",
+      "code": "H19/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66086,
+    "name": "Octillery",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87829_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87829_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87829_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "026/147",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-BODY — Suction Cups</strong>\r\n<br>\r\nAs long as Octillery is your Active Pokémon, whenever the Defending Pokémon retreats, discard all Energy cards attached to the Defending Pokémon when it goes to the Bench.",
+      "Attack 1": "[2W] Smokescreen (40)\r\n<br>If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+      "Weakness": "L",
+      "RetreatCost": "2",
+      "Artist": "Kouki Saitou",
+      "code": "026/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66085,
+    "name": "Octillery (H20)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87828_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87828_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87828_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H20/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-BODY — Suction Cups</strong>\r\n<br>\r\nAs long as Octillery is your Active Pokémon, whenever the Defending Pokémon retreats, discard all Energy cards attached to the Defending Pokémon when it goes to the Bench.",
+      "Attack 1": "[2W] Smokescreen (40)\r\n<br>If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+      "Weakness": "L",
+      "RetreatCost": "2",
+      "Artist": "Kouki Saitou",
+      "code": "H20/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66087,
+    "name": "Oddish",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87839_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87839_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87839_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "097/147",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[G] Stun Spore\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Attack 2": "[2] Ram (20)",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "Artist": "Kyoko Umemoto",
+      "code": "097/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66088,
+    "name": "Onix",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87878_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87878_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87878_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "098/147",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1F] Crush (20x)\r\n<br>\r\nFlip a number of coins equal to the amount of Energy attached to Onix. This attack does 20 damage times the number of heads.",
+      "Weakness": "W",
+      "RetreatCost": "2",
+      "Artist": "Hajime Kusajima",
+      "code": "098/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66089,
+    "name": "Paras",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87949_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87949_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87949_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "099/147",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Spore\r\n<br>The Defending Pokémon is now Asleep.",
+      "Attack 2": "[1G] Spore Evolution\r\n<br>Search your deck for a card that evolves from Paras. Attach it to Paras. This counts as evolving Paras. Shuffle your deck afterward.",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "Artist": "Miki Tanaka",
+      "code": "099/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66090,
+    "name": "Parasect",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87954_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87954_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87954_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "027/147",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[G] Sleep Inducer\r\n<br>\r\nChoose 1 of your opponent's Benched Pokémon and switch the Defending Pokémon with it. The new Defending Pokémon is now Asleep.",
+      "Attack 2": "[2] Rupture Pollen (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Asleep. If tails, remove 2 damage counters from Parasect.",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "Artist": "Masako Yamashita",
+      "code": "027/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66091,
+    "name": "Phanpy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87998_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87998_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87998_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "100/147",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Flail (10x)\r\n<br>Does 10 damage times the number of damage counters on Phanpy.",
+      "Attack 2": "[1F] Rollout (20)",
+      "Weakness": "G",
+      "Resistance": "L-30",
+      "RetreatCost": "1",
+      "Artist": "Naoyo Kimura",
+      "code": "100/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66092,
+    "name": "Pinsir",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88134_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88134_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88134_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "101/147",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[2] Horn Grab (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Poisoned. If tails, this attack does nothing.",
+      "Attack 2": "[1GG] Super Slice (90)\r\n<br>Flip 2 coins. If either of them is tails, this attack does nothing.",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "Artist": "Toshinao Aoki",
+      "code": "101/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66093,
+    "name": "Pokemon Fan Club",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88225_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88225_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88225_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "130/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.\r\n<br>\r\nSearch your deck for up to 2 Baby Pokémon and/or Basic Pokémon cards and put them onto your Bench. Shuffle your deck afterward.",
+      "Artist": "Ken Sugimori",
+      "code": "130/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66094,
+    "name": "Pokemon Park",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88230_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88230_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88230_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "131/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "CardText": "This card stays in play when you play it. Discard this card if another Stadium card comes into play.\r\n<br>\r\nOnce during each of his or her turns, whenever a player attaches an Energy card from his or her hand to 1 of his or her Benched Pokémon, he or she removes 1 damage counter, if any, from that Pokémon.",
+      "Artist": "Kazuo Yazawa",
+      "code": "131/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66095,
+    "name": "Ponyta",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88283_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88283_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88283_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "102/147",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Tackle (10)",
+      "Attack 2": "[1R] Ember (30)\r\n<br>Discard a Fire Energy card attached to Ponyta.",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "Artist": "Shin-ichi Yoshida",
+      "code": "102/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66096,
+    "name": "Porygon (103a)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88306_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88306_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88306_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "103a/147",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Data Sort\r\n<br>Flip a coin. If heads, choose a Trainer card from your discard pile, show it to your opponent, and then shuffle it into your deck.",
+      "Attack 2": "[1] Peck (10)",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "Artist": "Masako Yamashita",
+      "code": "103a/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66097,
+    "name": "Porygon (103b)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88307_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88307_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88307_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "103b/147",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Data Sort\r\n<br>Flip a coin. If heads, choose a Trainer card from your discard pile, show it to your opponent, and then shuffle it into your deck.",
+      "Attack 2": "[1] Peck (10)",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "Artist": "Masako Yamashita",
+      "code": "103b/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66098,
+    "name": "Porygon2",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88323_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88323_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88323_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "028/147",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-POWER — Backup</strong>\r\n<br>\r\nOnce during each of your turns <em>(before your attack)</em>, if you have 2 or fewer cards in your hand, you may draw cards from your deck until you have 3 cards in your hand. This power can't be used if Porygon2 is affected by a Special Condition.",
+      "Attack 1": "[2] Hypnotic Ray (20)\r\n<br>The Defending Pokémon is now Asleep.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "Artist": "Hikaru Koike",
+      "code": "028/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66099,
+    "name": "Power Plant",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88354_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88354_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88354_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "139/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "CardText": "This card stays in play when you play it. Discard this card if another Stadium card comes into play.\r\n<br>\r\nOnce during each of his or her turns, a player may discard a basic Energy card from his or her hand. If that player does, he or she chooses a basic Energy card from his or her discard pile, shows it to his or her opponent, and then puts it into his or her hand.",
+      "Artist": "Kai Ishikawa",
+      "code": "139/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66100,
+    "name": "Primeape",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88359_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88359_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88359_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "029/147",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1F] Karate Chop (40-)\r\n<br>\r\nDamage from this attack is reduced by 10 for each damage counter on Primeape.",
+      "Attack 2": "[2F] Sudden Charge (40)\r\n<br>Primeape does 10 damage to itself. Then, your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Tomokazu Komiya",
+      "code": "029/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66101,
+    "name": "Psychic Cube 01",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88412_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88412_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88412_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "132/147",
+      "Rarity": "Uncommon",
+      "Card Type": "TM",
+      "CardText": "Attach this card to 1 of your Psychic Pokémon in play. That Pokémon may use this card's attack instead of its own. At the end of your turn, discard Psychic Cube 01.",
+      "Attack 1": "[P] Psy-Confuse\r\n<br>The Defending Pokémon is now Confused.",
+      "Artist": "\"Big Mama\" Tagawa",
+      "code": "132/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66102,
+    "name": "Psyduck",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88435_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88435_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88435_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "104/147",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Headbutt (10)",
+      "Attack 2": "[2] Scratch (20)",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "Artist": "Keiko Fukuyama",
+      "code": "104/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66103,
+    "name": "Pupitar",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88446_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88446_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88446_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "056/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[3] Thrash (30+)\r\n<br>Flip a coin. If heads, this attack does 30 damage plus 10 more damage.  f tails, Pupitar does 10 damage to itself.",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "Artist": "Naoyo Kimura",
+      "code": "056/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66104,
+    "name": "Quagsire",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88467_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88467_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88467_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "030/147",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[W] Water Gun (20+)\r\n<br>\r\nThis attack does 20 damage plus 10 more damage for each Water Energy attached to Quagsire but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+      "Attack 2": "[4] Slam (50x)\r\n<br>Flip 2 coins. This attack does 50 damage times the number of heads.",
+      "Weakness": "G",
+      "RetreatCost": "2",
+      "Artist": "Mitsuhiro Arita",
+      "code": "030/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66105,
+    "name": "Rainbow Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88552_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88552_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88552_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "144/147",
+      "Rarity": "Rare",
+      "Card Type": "Special Energy",
+      "CardText": "Attach Rainbow Energy to 1 of your Pokémon. While in play, Rainbow Energy provides every type of Energy but provides only 1 Energy at a time. <em>(Doesn't count as a basic Energy card when not in play.)</em> When you attach this card from your hand to 1 of your Pokémon, put 1 damage counter on that Pokémon.",
+      "Artist": "Takumi Akabane",
+      "code": "144/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66106,
+    "name": "Rapidash",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88577_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88577_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88577_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "031/147",
+      "Rarity": "Rare",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Agility (10)\r\n<br>Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Rapidash.",
+      "Attack 2": "[2R] Gallop (30+)\r\n<br>Flip a coin. If heads, discard a Fire Energy card attached to Rapidash and this attack does 30 damage plus 20 more damage.",
+      "Weakness": "W",
+      "Artist": "Kouki Saitou",
+      "code": "031/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66107,
+    "name": "Remoraid",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88694_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88694_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88694_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "105/147",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[W] Splatter\r\n<br>Choose 1 of your opponent's Pokémon in play. This attack does 10 damage to that Pokémon. Don't apply Weakness or Resistance for this attack.",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "105/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66109,
+    "name": "Scizor",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88959_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88959_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88959_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "032/147",
+      "Rarity": "Rare",
+      "Card Type": "Metal",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-BODY — Poison Resistance</strong>\r\n<br>\r\nScizor can't be Poisoned.",
+      "Attack 1": "[1M] Snatch (20)\r\n<br>\r\nBefore doing damage, you may choose 1 of your opponent's Benched Pokémon with no damage counters on it and switch the Defending Pokémon with it.",
+      "Attack 2": "[3] Heavy Metal (30+)\r\n<br>\r\nFlip a number of coins equal to the number of Metal Energy attached to Scizor. This attack does 30 damage plus 20 more damage for each heads.",
+      "Weakness": "R",
+      "RetreatCost": "2",
+      "Artist": "Hisao Nakamura",
+      "code": "032/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66108,
+    "name": "Scizor (H21)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88957_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88957_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88957_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H21/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-BODY — Poison Resistance</strong>\r\n<br>\r\nScizor can't be Poisoned.",
+      "Attack 1": "[1M] Snatch (20)\r\n<br>\r\nBefore doing damage, you may choose 1 of your opponent's Benched Pokémon with no damage counters on it and switch the Defending Pokémon with it.",
+      "Attack 2": "[3] Heavy Metal (30+)\r\n<br>\r\nFlip a number of coins equal to the number of Metal Energy attached to Scizor. This attack does 30 damage plus 20 more damage for each heads.",
+      "Weakness": "R",
+      "RetreatCost": "2",
+      "Artist": "Hisao Nakamura",
+      "code": "H21/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66111,
+    "name": "Scyther (106)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88997_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88997_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88997_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "106/147",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Slash (10)",
+      "Attack 2": "[1G] Swift (20)\r\n<br>This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon.",
+      "Weakness": "L",
+      "Resistance": "F-30",
+      "RetreatCost": "1",
+      "Artist": "Midori Harada",
+      "code": "106/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66110,
+    "name": "Scyther (57)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88996_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88996_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88996_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "057/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[G] Quick Turn (10x)\r\n<br>Flip 2 coins. This attack does 10 damage times the number of heads.",
+      "Attack 2": "[3] Cross-Cut (20+)\r\n<br>If the Defending Pokémon is an Evolved Pokémon, this attack does 20 damage plus 20 more damage.",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "Artist": "Hisao Nakamura",
+      "code": "057/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66112,
+    "name": "Seadra",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89010_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89010_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89010_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "058/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[W] Wave Splash (20)",
+      "Attack 2": "[3] Water Bullet (30+)\r\n<br>Flip a number of coins equal to the number of Water Energy attached to Seadra. This attack does 30 damage plus 10 more damage for each heads.",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "058/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66113,
+    "name": "Seaking",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89024_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89024_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89024_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "059/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Flail (10x)\r\n<br>Does 10 damage times the number of damage counters on Seaking.",
+      "Attack 2": "[2W] Undulate (30)\r\n<br>Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Seaking.",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "Artist": "Sumiyoshi Kizuki",
+      "code": "059/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66114,
+    "name": "Seer",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89056_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89056_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89056_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "133/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.\r\n<br>\r\nLook at the top 6 cards of your deck. Take all basic Energy cards you find there, show them to your opponent, and then put them into your hand. Shuffle your deck afterward.",
+      "Artist": "Ken Sugimori",
+      "code": "133/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66115,
+    "name": "Sentret",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89063_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89063_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89063_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "107/147",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Spy\r\n<br>Look at the top 3 cards of your opponent's deck. Put them back in the same order.",
+      "Attack 2": "[1] Double Scratch (10x)\r\n<br>Flip 2 coins. This attack does 10 damage times the number of heads.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "Artist": "Hizuki Misono",
+      "code": "107/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66116,
+    "name": "Skiploom",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89254_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89254_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89254_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "060/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-BODY — Lightweight</strong>\r\n<br>\r\nYou pay 1 Colorless less to retreat Skiploom for each Grass Energy attached to it.",
+      "Attack 1": "[1] Break Powder (10+)\r\n<br>Flip a coin. If heads, this attack does 10 damage plus 20 more damage. If tails, this attack does 10 damage and the Defending Pokémon is now Asleep.",
+      "Weakness": "R",
+      "Resistance": "W-30",
+      "RetreatCost": "1",
+      "Artist": "Yuka Morii",
+      "code": "060/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66117,
+    "name": "Slowbro",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89302_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89302_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89302_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "033/147",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-BODY — Dense Body</strong>\r\n<br>\r\nAny damage done to Slowbro by attacks from Basic Pokémon (excluding Baby Pokémon) is reduced by 20.",
+      "Attack 1": "[1W] Energy Cannon (30+)\r\n<br>\r\nThis attack does 30 damage plus 10 more damage for each Energy attached to Slowbrow but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+      "Weakness": "L",
+      "RetreatCost": "2",
+      "Artist": "Aya Kusube",
+      "code": "033/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66119,
+    "name": "Slowking",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89313_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89313_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89313_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "034/147",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Bursting Hand (10x)\r\n<br>Look at your opponent's hand. This attack does 10 damage times the number of Energy cards there.",
+      "Attack 2": "[2P] Shuffle Attack (40)\r\n<br>\r\nLook at a number of cards on top of your opponent's deck equal to the number of Energy cards attached to the Defending Pokémon. Put those cards in any order, and then put them back on top of your opponent's deck.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Aya Kusube",
+      "code": "034/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66118,
+    "name": "Slowking (H22)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89312_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89312_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89312_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H22/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Bursting Hand (10x)\r\n<br>Look at your opponent's hand. This attack does 10 damage times the number of Energy cards there.",
+      "Attack 2": "[2P] Shuffle Attack (40)\r\n<br>\r\nLook at a number of cards on top of your opponent's deck equal to the number of Energy cards attached to the Defending Pokémon. Put those cards in any order, and then put them back on top of your opponent's deck.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Aya Kusube",
+      "code": "H22/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66120,
+    "name": "Slowpoke",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89325_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89325_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89325_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "108/147",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Fishing Tail\r\n<br>\r\nSearch your discard pile for a Baby Pokémon, Basic Pokémon, Evolution card, or basic Energy card, show it to your opponent, and then put it into your hand.",
+      "Attack 2": "[2] Bite (20)",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "Artist": "Aya Kusube",
+      "code": "108/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66121,
+    "name": "Smeargle",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89352_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89352_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89352_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "109/147",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Paint Trick\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Confused. Then, choose 1 of your Benched Pokémon and switch Smeargle with it.",
+      "Attack 2": "[2] Doubleslap (20x)\r\n<br>Flip 2 coins. This attack does 20 damage times the number of heads.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "Artist": "Miki Tanaka",
+      "code": "109/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66122,
+    "name": "Smoochum",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89360_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89360_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89360_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "061/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "30",
+      "Stage": "Basic",
+      "CardText": "<em>If your Active Pokémon is a Baby Pokémon and your opponent announces an attack, your opponent flips a coin (before doing anything else). If tails, your opponent's turn ends.</em>",
+      "Attack 1": "[P] Energy Kiss (10x)\r\n<br>\r\nFlip a number of coins equal to the number of Energy cards attached to the Defending Pokémon. This attack does 10 damage times the number of heads.",
+      "RetreatCost": "1",
+      "Artist": "Kagemaru Himeno",
+      "code": "061/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66123,
+    "name": "Sneasel",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89368_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89368_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89368_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "110/147",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[D] Rob\r\n<br>Look at your opponent's hand. Choose all Technical Machine and Pokémon Tool cards there and put them into his or her deck. Your opponent shuffles the deck afterward.",
+      "Attack 2": "[2] Claw (30)\r\n<br>Flip a coin. If tails, this attack does nothing.",
+      "Weakness": "F",
+      "Resistance": "P-30",
+      "RetreatCost": "1",
+      "Artist": "Midori Harada",
+      "code": "110/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66125,
+    "name": "Spinarak (111)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89454_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89454_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89454_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "111/147",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[G] Sharp Stinger\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Poisoned. If tails, the Defending Pokémon is now Paralyzed.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "Artist": "Miki Tanaka",
+      "code": "111/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66124,
+    "name": "Spinarak (62)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89451_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89451_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89451_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "062/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Gnaw (10)",
+      "Attack 2": "[1G] Gooey Thread (20)\r\n<br>The Defending Pokémon can't retreat during your opponent's next turn.",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "Artist": "Masako Yamashita",
+      "code": "062/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66127,
+    "name": "Steelix",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89560_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89560_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89560_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "035/147",
+      "Rarity": "Rare",
+      "Card Type": "Metal",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Earth Rift (10)\r\n<br>\r\nThis attack does 10 damage to each of your opponent's Benched Pokémon. <em>(Don't apply Weakness or Resistance for Benched Pokémon.)</em> Then, flip a coin. If tails, this attack can't be used during your next turn.",
+      "Attack 2": "[2MM] Iron Smash (50+)\r\n<br>Flip 2 coins. If both are heads, this attack does 50 damage plus 20 more damage. If both are tails, this attack does nothing. If 1 is heads and 1 is tails, this attack just does 50 damage.",
+      "Weakness": "R",
+      "Resistance": "G-30",
+      "RetreatCost": "4",
+      "Artist": "Hajime Kusajima",
+      "code": "035/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66126,
+    "name": "Steelix (H23)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89557_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89557_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89557_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H23/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Earth Rift (10)\r\n<br>\r\nThis attack does 10 damage to each of your opponent's Benched Pokémon. <em>(Don't apply Weakness or Resistance for Benched Pokémon.)</em> Then, flip a coin. If tails, this attack can't be used during your next turn.",
+      "Attack 2": "[2MM] Iron Smash (50+)\r\n<br>Flip 2 coins. If both are heads, this attack does 50 damage plus 20 more damage. If both are tails, this attack does nothing. If 1 is heads and 1 is tails, this attack just does 50 damage.",
+      "Weakness": "R",
+      "Resistance": "G-30",
+      "RetreatCost": "4",
+      "Artist": "Hajime Kusajima",
+      "code": "H23/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66129,
+    "name": "Sudowoodo",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89591_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89591_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89591_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "036/147",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Copy\r\n<br>Choose 1 of the Defending Pokémon's attacks. Copy copies that attack. This attack does nothing if Sudowoodo doesn't have the Energy necessary to use that attack. <em>(You must still do anything else required in order to use that attack.)</em>",
+      "Attack 2": "[F] Energy Draw\r\n<br>Search your deck for a basic Energy card and attach it to Sudowoodo. Shuffle your deck afterward.",
+      "Weakness": "W",
+      "RetreatCost": "2",
+      "Artist": "Kagemaru Himeno",
+      "code": "036/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66128,
+    "name": "Sudowoodo (H24)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89589_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89589_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89589_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H24/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Copy\r\n<br>Choose 1 of the Defending Pokémon's attacks. Copy copies that attack. This attack does nothing if Sudowoodo doesn't have the Energy necessary to use that attack. <em>(You must still do anything else required in order to use that attack.)</em>",
+      "Attack 2": "[F] Energy Draw\r\n<br>Search your deck for a basic Energy card and attach it to Sudowoodo. Shuffle your deck afterward.",
+      "Weakness": "W",
+      "RetreatCost": "2",
+      "Artist": "Kagemaru Himeno",
+      "code": "H24/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66131,
+    "name": "Suicune",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89600_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89600_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89600_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "037/147",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "<strong>Poké-BODY — Pure Body</strong>\r\n<br>\r\nTo attach a Water Energy card from your hand to Suicune, you must discard an Energy card attached to Suicune. (Attach the Water Energy, and then discard an Energy card from Suicune.)",
+      "Attack 1": "[2W] Hypno Wave (30+)\r\n<br>Flip a coin. If heads, this attack does 30 damage plus 20 more damage. If tails, this attack does 30 damage and the Defending Pokémon is now Asleep.",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "Artist": "Atsuko Nishida",
+      "code": "037/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66130,
+    "name": "Suicune (H25)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89598_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89598_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89598_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H25/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "<strong>Poké-BODY — Pure Body</strong>\r\n<br>\r\nTo attach a Water Energy card from your hand to Suicune, you must discard an Energy card attached to Suicune. (Attach the Water Energy, and then discard an Energy card from Suicune.)",
+      "Attack 1": "[2W] Hypno Wave (30+)\r\n<br> Flip a coin. If heads, this attack does 30 damage plus 20 more damage. If tails, this attack does 30 damage and the Defending Pokemon is now Asleep.",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "Artist": "Atsuko Nishida",
+      "code": "H25/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66132,
+    "name": "Super Energy Removal 2",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89627_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89627_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89627_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "134/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Flip 2 coins. If both are heads, discard all Energy cards attached to the Defending Pokémon. If both are tails, discard all Energy cards attached to your Active Pokémon. If 1 is heads and 1 is tails, this card does nothing.",
+      "Artist": "Keiji Kinebuchi",
+      "code": "134/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66133,
+    "name": "Tangela",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89741_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89741_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89741_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "112/147",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[2] Tickling Vines (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.",
+      "Attack 2": "[2G] Double Kick (30x)\r\n<br>Flip 2 coins. This attack does 30 damage times the number of heads.",
+      "Weakness": "R",
+      "Resistance": "W-30",
+      "RetreatCost": "2",
+      "Artist": "Tomokazu Komiya",
+      "code": "112/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66134,
+    "name": "Tentacool",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89865_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89865_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89865_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "113/147",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Poison Sting\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+      "Attack 2": "[W] Recover\r\n<br>Discard 1 Water Energy card attached to Tentacool in order to use this attack. Remove all damage counters from Tentacool.",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "Artist": "Hajime Kusajima",
+      "code": "113/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66136,
+    "name": "Tentacruel",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89872_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89872_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89872_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "038/147",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-POWER — Strange Tentacles</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, as long as the number of Energy cards attached to the Defending Pokémon is less than the number of Energy cards attached to your Active Pokémon, you may choose an Energy card, if any, in your opponent's discard pile and attach it to the Defending Pokémon. This power can't be used if Tentacruel is affected by a Special Condition.",
+      "Attack 1": "[1W] Poison Sting (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+      "Weakness": "L",
+      "Artist": "Hajime Kusajima",
+      "code": "038/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66135,
+    "name": "Tentacruel (H26)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89871_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89871_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89871_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H26/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-POWER — Strange Tentacles</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, as long as the number of Energy cards attached to the Defending Pokémon is less than the number of Energy cards attached to your Active Pokémon, you may choose an Energy card, if any, in your opponent's discard pile and attach it to the Defending Pokémon. This power can't be used if Tentacruel is affected by a Special Condition.",
+      "Attack 1": "[1W] Poison Sting (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+      "Weakness": "L",
+      "Artist": "Hajime Kusajima",
+      "code": "H26/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66137,
+    "name": "Time Shard",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89919_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89919_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89919_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "135/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Tool",
+      "CardText": "Attach Time Shard to 1 of your Pokémon that doesn't already have a Pokémon Tool card attached to it. If that Pokémon is Knocked Out, discard this card.\r\n<br>\r\nIf the Pokémon this card is attached to is Knocked Out by damage from the Defending Pokémon's attack during your opponent's turn, you may return up to 2 basic Energy cards attached to that Pokémon to your hand.",
+      "Artist": "Shin-ichi Yoshikawa",
+      "code": "135/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66138,
+    "name": "Togepi",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89931_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89931_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89931_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "114/147",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Minor Errand-Running\r\n<br>Flip 2 coins. For each heads, search your deck for a basic Energy card. Show those cards to your opponent, and then put them into your hand. Shuffle your deck afterward.",
+      "Attack 2": "[1] Pound (10)",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "Artist": "Miki Tanaka",
+      "code": "114/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66140,
+    "name": "Togetic",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89941_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89941_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89941_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "039/147",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-POWER — Miracle Shift</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, discard a basic Energy card attached to 1 of your Pokémon. Then, choose a basic Energy card from your discard pile and attach it to that Pokémon. This power can't be used if Togetic is affected by a Special Condition.",
+      "Attack 1": "[1] Mini-Metronome\r\n<br>Flip a coin. If heads, choose 1 of the Defending Pokémon's attacks. Mini-Metronome copies that attack except for its Energy cost. <em>(You must still do anything else required in order to use that attack.) (No matter what type the Defending Pokémon is, Togetic is still Colorless.)</em> Togetic performs that attack.",
+      "Weakness": "L",
+      "Resistance": "F-30",
+      "RetreatCost": "1",
+      "Artist": "Kagemaru Himeno",
+      "code": "039/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66139,
+    "name": "Togetic (H27)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89940_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89940_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89940_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H27/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-POWER — Miracle Shift</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, discard a basic Energy card attached to 1 of your Pokémon. Then, choose a basic Energy card from your discard pile and attach it to that Pokémon. This power can't be used if Togetic is affected by a Special Condition.",
+      "Attack 1": "[1] Mini-Metronome\r\n<br>Flip a coin. If heads, choose 1 of the Defending Pokémon's attacks. Mini-Metronome copies that attack except for its Energy cost. <em>(You must still do anything else required in order to use that attack.) (No matter what type the Defending Pokémon is, Togetic is still Colorless.)</em> Togetic performs that attack.",
+      "Weakness": "L",
+      "Resistance": "F-30",
+      "RetreatCost": "1",
+      "Artist": "Kagemaru Himeno",
+      "code": "H27/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66141,
+    "name": "Town Volunteers",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90006_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90006_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90006_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "136/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.\r\n<br>\r\nTake 5 Baby Pokémon, Basic Pokémon, Evolution, and/or basic Energy cards from your discard pile and then show them to your opponent. Shuffle them into your deck.",
+      "Artist": "Ken Sugimori",
+      "code": "136/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66142,
+    "name": "Traveling Salesman",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90030_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90030_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90030_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "137/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.\r\n<br>\r\nSearch your deck for up to 2 Technical Machines and/or Pokémon Tool cards, show them to your opponent, and then put them into your hand. Shuffle your deck afterward.",
+      "Artist": "Ken Sugimori",
+      "code": "137/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66144,
+    "name": "Tyranitar",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90117_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90117_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90117_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "040/147",
+      "Rarity": "Rare",
+      "Card Type": "Darkness",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "Attack 1": "[D] Destructive Roar\r\n<br>Flip a coin. If heads, discard 1 Energy card attached to 1 of your opponent's Pokémon.",
+      "Attack 2": "[2D] Tail Slap (30)",
+      "Attack 3": "[3DD] Gigacrush (60)\r\n<br>Each player discards the top 3 cards from his or her deck.",
+      "Weakness": "F",
+      "Resistance": "P-30",
+      "RetreatCost": "3",
+      "Artist": "Naoyo Kimura",
+      "code": "040/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66143,
+    "name": "Tyranitar (H28)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90114_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90114_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90114_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H28/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Darkness",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "Attack 1": "[D] Destructive Roar\r\n<br>Flip a coin. If heads, discard 1 Energy card attached to 1 of your opponent's Pokémon.",
+      "Attack 2": "[2D] Tail Slap (30)",
+      "Attack 3": "[3DD] Gigacrush (60)\r\n<br>Each player discards the top 3 cards from his or her deck.",
+      "Weakness": "F",
+      "Resistance": "P-30",
+      "RetreatCost": "3",
+      "Artist": "Naoyo Kimura",
+      "code": "H28/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66145,
+    "name": "Tyrogue",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90127_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90127_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90127_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "063/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "30",
+      "Stage": "Basic",
+      "CardText": "<em>Evolves into Hitmonchan, Hitmonlee, or Hitmontop</em>\r\n<br>\r\nPut Hitmonchan, Hitmonlee, or Hitmontop on the Baby Pokémon\r\n<br>\r\n<em>If your Active Pokémon is a Baby Pokémon and your opponent announces an attack, your opponent flips a coin (before doing anything else). If tails, your opponent's turn ends.</em>",
+      "Attack 1": "[F] Energy Punch (10)\r\n<br>\r\nFlip a coin. If heads, discard a Special Energy card attached to the Defending Pokémon. If tails, this attack does nothing.",
+      "RetreatCost": "1",
+      "Artist": "Tomokazu Komiya",
+      "code": "063/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66147,
+    "name": "Umbreon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90143_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90143_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90143_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "041/147",
+      "Rarity": "Rare",
+      "Card Type": "Darkness",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-POWER — Dark Moon</strong>\r\n<br>\r\nAs long as Umbreon is your Active Pokémon and has a Darkness Energy attached to it, once during your turn <em>(before your attack)</em>, you may look at your opponent's hand. Choose from it a number of cards up to the number of Darkness Energy attached to Umbreon and shuffle them into your opponent's deck. Your opponent then draws the same number of cards from his or her deck. This power can't be used if Umbreon is affected by a Special Condition.",
+      "Attack 1": "[3] Shadow Bind (30)\r\n<br>The Defending Pokémon can't retreat during your opponent's next turn.",
+      "Weakness": "F",
+      "Resistance": "P-30",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "041/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66146,
+    "name": "Umbreon (H29)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90139_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90139_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90139_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H29/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Darkness",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Poké-POWER — Dark Moon</strong>\r\n<br>\r\nAs long as Umbreon is your Active Pokémon and has a Darkness Energy attached to it, once during your turn <em>(before your attack)</em>, you may look at your opponent's hand. Choose from it a number of cards up to the number of Darkness Energy attached to Umbreon and shuffle them into your opponent's deck. Your opponent then draws the same number of cards from his or her deck. This power can't be used if Umbreon is affected by a Special Condition.",
+      "Attack 1": "[3] Shadow Bind (30)\r\n<br>The Defending Pokémon can't retreat during your opponent's next turn.",
+      "Weakness": "F",
+      "Resistance": "P-30",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "H29/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66148,
+    "name": "Undersea Ruins",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90158_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90158_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90158_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "138/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "CardText": "This card stays in play when you play it. Discard this card if another Stadium card comes into play.\r\n<br>\r\nOnce during each player's turn <em>(before attacking)</em>, that player may flip a coin. If heads, that player chooses 1 of his or her Evolved Pokémon in play and discards the top Evolution card from that Pokémon, devolving it.",
+      "Artist": "Midori Harada",
+      "code": "138/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66150,
+    "name": "Victreebel",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90361_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90361_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90361_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "042/147",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "90",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Poké-POWER — Fragrance Trap</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may flip a coin. If heads, choose 1 of your opponent's Benched Pokémon and switch the Defending Pokémon with it. This power can't be used if Victreebel is affected by a Special Condition.",
+      "Attack 1": "[1GG] Corrosive Acid (40)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Burned.",
+      "Weakness": "R",
+      "RetreatCost": "2",
+      "Artist": "Miki Tanaka",
+      "code": "042/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66149,
+    "name": "Victreebel (H30)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90360_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90360_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90360_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H30/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "90",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Poké-POWER — Fragrance Trap</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may flip a coin. If heads, choose 1 of your opponent's Benched Pokémon and switch the Defending Pokémon with it. This power can't be used if Victreebel is affected by a Special Condition.",
+      "Attack 1": "[1GG] Corrosive Acid (40)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Burned.",
+      "Weakness": "R",
+      "RetreatCost": "2",
+      "Artist": "Miki Tanaka",
+      "code": "H30/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66152,
+    "name": "Vileplume",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90378_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90378_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90378_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "043/147",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "Attack 1": "[G] Poison Scent\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Poisoned and Confused. If tails, the Defending Pokémon is now Poisoned and Asleep.",
+      "Attack 2": "[3] Addictive Pollen (40)\r\n<br>Flip a coin. If heads, your opponent can't play Supporter cards during his or her next turn.",
+      "Weakness": "P",
+      "RetreatCost": "2",
+      "Artist": "Kyoko Umemoto",
+      "code": "043/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66151,
+    "name": "Vileplume (H31)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90377_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90377_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90377_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H31/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "Attack 1": "[G] Poison Scent\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Poisoned and Confused. If tails, the Defending Pokémon is now Poisoned and Asleep.",
+      "Attack 2": "[3] Addictive Pollen (40)\r\n<br>Flip a coin. If heads, your opponent can't play Supporter cards during his or her next turn.",
+      "Weakness": "P",
+      "RetreatCost": "2",
+      "Artist": "Kyoko Umemoto",
+      "code": "H31/H32"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66154,
+    "name": "Voltorb (115)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90412_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90412_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90412_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "115/147",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[L] Swift (20)\r\n<br>This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "Artist": "Keiji Kinebuchi",
+      "code": "115/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66153,
+    "name": "Voltorb (64)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90407_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90407_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90407_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "064/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Rollout (10)",
+      "Attack 2": "[1L] Thundershock (20)\r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "Artist": "Yukiko Baba",
+      "code": "064/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66155,
+    "name": "Vulpix",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90435_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90435_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90435_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "116/147",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[R] Collect Fire (10)\r\n<br>If there are any Fire Energy cards in your discard pile, flip a coin. If heads, attach 1 of them to Vulpix.",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "Artist": "Keiko Fukuyama",
+      "code": "116/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66156,
+    "name": "Warp Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90472_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90472_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90472_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "147/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Special Energy",
+      "CardText": "Warp Energy provides 1 Colorless Energy.\r\n<br>\r\nWhen you attach Warp Energy from your hand to your Active Pokémon, switch your Active Pokémon with 1 of your Benched Pokémon.",
+      "Artist": "Shin-ichi Yoshikawa",
+      "code": "147/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66157,
+    "name": "Water Cube 01",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90500_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90500_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90500_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "140/147",
+      "Rarity": "Uncommon",
+      "Card Type": "TM",
+      "CardText": "Attach this card to 1 of your Water Pokémon in play. That Pokémon may use this card's attack instead of its own. At the end of your turn, discard Water Cube 01.",
+      "Attack 1": "[W] Splatter\r\n<br>Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. Don't apply Weakness and Resistance.",
+      "Artist": "\"Big Mama\" Tagawa",
+      "code": "140/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66158,
+    "name": "Weakness Guard",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90530_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90530_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90530_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "141/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer",
+      "CardText": "Attach this card to 1 of your Pokémon. Discard it at the end of your opponent's next turn.\r\n<br>\r\nAs long as this card is attached, this Pokémon has no Weakness.",
+      "Artist": "Jungo Suzuki",
+      "code": "141/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66159,
+    "name": "Weepinbell",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90551_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90551_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90551_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "065/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Growth\r\n<br>\r\nAttach up to 2 Grass Energy cards from your hand to Weepinbell.",
+      "Attack 2": "[1G] Double Razor Leaf (30x)\r\n<br>Flip 2 coins. This attack does 30 damage times the number of heads.",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "Artist": "Miki Tanaka",
+      "code": "065/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66161,
+    "name": "Wooper (117)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90633_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90633_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90633_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "117/147",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[W] Bubble (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Attack 2": "[1W] Wave Splash (20)",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "Artist": "Keiko Fukuyama",
+      "code": "117/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66160,
+    "name": "Wooper (66)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90630_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90630_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90630_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "066/147",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Tail Whap (10)",
+      "Attack 2": "[W] Deep Dive\r\n<br>Flip 3 coins. For each heads, remove 1 damage counter from Wooper.",
+      "Weakness": "G",
+      "RetreatCost": "1",
+      "Artist": "Atsuko Nishida",
+      "code": "066/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66163,
+    "name": "Zapdos",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90716_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90716_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90716_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "044/147",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "80",
+      "Stage": "Basic",
+      "CardText": "<strong>Poké-BODY — Anti-Lightning</strong>\r\n<br>\r\nYou can't attach Lightning Energy cards from your hand to Zapdos.",
+      "Attack 1": "[1] Plasma (10)\r\n<br>If there are any Lightning Energy cards in your discard pile, flip a coin. If heads attach 1 of them to Zapdos.",
+      "Attack 2": "[2LL] Lightning Storm (60)\r\n<br>Flip a coin. If tails, put 2 damage counters on Zapdos.",
+      "Weakness": "L",
+      "Resistance": "F-30",
+      "RetreatCost": "2",
+      "Artist": "Hajime Kusajima",
+      "code": "044/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-aquapolis",
+    "id": 66162,
+    "name": "Zapdos (H32)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90715_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90715_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90715_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "H32/H32",
+      "Rarity": "Holo Rare",
+      "Card Type": "Lightning",
+      "HP": "80",
+      "Stage": "Basic",
+      "CardText": "<strong>Poké-BODY — Anti-Lightning</strong>\r\n<br>\r\nYou can't attach Lightning Energy cards from your hand to Zapdos.",
+      "Attack 1": "[1] Plasma (10)\r\n<br>If there are any Lightning Energy cards in your discard pile, flip a coin. If heads attach 1 of them to Zapdos.",
+      "Attack 2": "[2LL] Lightning Storm (60)\r\n<br>Flip a coin. If tails, put 2 damage counters on Zapdos.",
+      "Weakness": "L",
+      "Resistance": "F-30",
+      "RetreatCost": "2",
+      "Artist": "Hajime Kusajima",
+      "code": "H32/H32"
+    }
+  }
+]

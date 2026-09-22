@@ -1,0 +1,2614 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64485,
+    "name": "Azumarill",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83683_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83683_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83683_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "114/113",
+      "Rarity": "Secret Rare",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Thick Fat  \r\n<br>Any damage done to Azumarill by attacks from Fire Pokemon and Water Pokemon is reduced by 30 <em>(after applying Weakness and Resistance).",
+      "Attack 1": "[1WW] Bubblebeam (40) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "114/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64486,
+    "name": "Azumarill (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83687_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83687_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83687_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "19/113",
+      "Rarity": "Rare",
+      "Card Type": "Metal Water",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Bubblebeam (20) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[2W] Rolling Tackle (50)",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "19/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64487,
+    "name": "Azurill",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83689_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83689_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83689_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "20/113",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Baby Evolution \r\n<br>Once during your turn (before your attack), you may put Marill from your hand onto Azurill (this counts as evolving Azurill) and remove all damage counters from Azurill.",
+      "Attack 1": "[1] Type Match  \r\n<br> Choose a basic Energy card in your hand and show it to your opponent.  Then, search your deck for a Basic Pokemon or Evolution card of that Energy type, show it to your opponent, and put it into your hand.  Shuffle your deck afterward.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "20/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64488,
+    "name": "Bagon - 057/113 (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83703_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83703_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83703_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "57/113",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Bite (10)",
+      "Weakness": "C",
+      "Resistance": "FR",
+      "RetreatCost": "1",
+      "code": "57/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64489,
+    "name": "Bagon - 058/113 (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83704_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83704_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83704_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "58/113",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1R] Ember (30) Discard a Fire Energy card attached to Bagon.",
+      "Weakness": "C",
+      "Resistance": "FR",
+      "RetreatCost": "1",
+      "code": "58/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64490,
+    "name": "Beedrill (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83775_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83775_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83775_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "1/113",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal Grass",
+      "HP": "90",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-POWER</b> Final Sting \r\n<br>Once during your turn (before your attack), you may Knock Out Beedrill.  If you do, choose 1 of your opponent's Defending Pokemon.  That Pokemon is now Paralyzed and Poisoned.  Put 2 damage counters instead of 1 on that Pokemon between turns.  This power can't be used if Beedrill is affected by a Special Condition.",
+      "Attack 1": "[1GM] Super Slash (50+)\r\n<br>If the Defending Pokemon is an Evolved Pokemon, this attack does 50 damage plus 30 more damage.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "0",
+      "code": "1/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64491,
+    "name": "Beldum (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83794_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83794_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83794_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "59/113",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Conductive Body \r\n<br>As long as Beldum is your Active Pokemon, you pay 1 less to retreat Beldum for each Beldum on your Bench.",
+      "Attack 1": "[1L] Take Down (30) Beldum does 10 damage to itself.",
+      "Weakness": "R",
+      "Resistance": "G",
+      "RetreatCost": "1",
+      "code": "59/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64492,
+    "name": "Castform",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84127_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84127_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84127_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "34/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Temperamental Weather\r\n<br>Once during your turn (before you attack), you may search your deck for Sunny Castform, Rain Castform, or Snow-cloud Castform and switch it with Castform.  <em>(Any cards attached to Castform, damage counters, Special Conditions, and effects on it are now on the new Pokemon.)</em>  Shuffle Castform back into your deck.  You can't use more than 1 Temperamental Weather Poke-Power each turn.",
+      "Attack 1": "[1] Holon Draw \r\n<br>Draw a card.  If Castform has any Holon Energy cards attached to it, draw 2 more cards.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "34/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64493,
+    "name": "Crobat (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84490_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84490_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84490_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "2/113",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal Grass",
+      "HP": "90",
+      "Stage": "Stage 2",
+      "Attack 1": "[2] Radar Jam (30) \r\n<br>Your opponent can't play any Trainer cards (except for Supporter cards) from his or her hand during your opponent's next turn.",
+      "Attack 2": "[1GM] Target Attack  \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 40 damage to that Pokemon.  If that Pokemon already has damage counters on it, this attack does 60 damage instead. <i> (Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "P",
+      "RetreatCost": "0",
+      "code": "2/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64494,
+    "name": "Cubone",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84533_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84533_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84533_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "60/113",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Beat (10)",
+      "Attack 2": "[2] Rage (10+) \r\n<br>Does 10 damage plus 10 more damage for each damage counter on Cubone.",
+      "Weakness": "G",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "60/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64495,
+    "name": "Darkness Energy (Special)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84686_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84686_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84686_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "103/113",
+      "Rarity": "Rare",
+      "Card Type": "Special Energy",
+      "CardText": "If the Pokemon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokemon (before applying Weakness and Resistance).  Ignore this effect unless the Attacking Pokemon is Darkness or has Dark in its name.  Darkness Energy provides Darkness Energy.  <em>(Doesn't count as a basic Energy card.)</em>",
+      "code": "103/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64496,
+    "name": "Ditto",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84832_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84832_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84832_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "35/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Duplicate \r\n<br>Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto.  <em>(Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokemon.)</em>  If you do, put Ditto on top of your deck.  Shuffle your deck afterward.  You can't use more than 1 Duplicate Poke-Power each turn.",
+      "Attack 1": "[1] Energy Link (10) \r\n<br>Search your discard pile for an Energy card and attach it to Ditto.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "code": "35/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64497,
+    "name": "Ditto (Bulbasaur)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84833_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84833_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84833_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "36/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Duplicate \r\n<br>Once during your turn <em>(before your attack)</em>, you may search your deck for another Ditto and switch it with Ditto. <em> (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokemon.) </em> If you do, put Ditto on top of your deck.  Shuffle your deck afterward.  You can't use more than 1 Duplicate Poke-Power each turn.",
+      "Attack 1": "[1G] Toxic \r\n<br>The Defending Pokemon is now Poisoned.  Put 2 damage counters instead of 1 on the Defending Pokemon between turns.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "36/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64503,
+    "name": "Ditto (Geodude)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84839_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84839_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84839_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "62/113",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Duplicate \r\n<br>Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto. <em> (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokemon.)</em>  If you do, put Ditto on top of your deck.  Shuffle your deck afterward.  You can't use more than 1 Duplicate Poke-Power each turn.",
+      "Attack 1": "[1L] Linear Attack \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 20 damage to that Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon).",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "62/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64498,
+    "name": "Ditto - 037/113 (Charmander)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84834_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84834_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84834_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "37/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Duplicate\r\n<br>Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto.  (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokemon.)  If you do, put Ditto on top of your deck.  Shuffle your deck afterward.  You can't use more than 1 Duplicate Poke-Power each turn.  (Poke-POWER)",
+      "Attack 1": "[2] Rage (10+) \r\n<br>Does 10 damage plus 10 more damage for each damage counter on Ditto.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "37/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64499,
+    "name": "Ditto - 038/113 (Mr. Mime)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84835_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84835_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84835_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "38/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Duplicate \r\n<br>Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto.  <em>(Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokemon.)</em>  If you do, put Ditto on top of your deck.  Shuffle your deck afterward.  You can't use more than 1 Duplicate Poke-Power each turn.",
+      "Attack 1": "[1] Copy \r\n<br>Choose 1 of the Defending Pokemon's attacks.  Copy copies that attack.  This attack does nothing if Ditto doesn't have the Energy necessary to use that attack. <i> (You must still do anything else required for that attack.) </i>Ditto performs that attack.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "38/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64500,
+    "name": "Ditto - 039/113 (Pikachu)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84836_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84836_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84836_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "39/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Duplicate \r\n<br>Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto.  <em>(Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokemon.)</em>  If you do, put Ditto on top of your deck.  Shuffle your deck afterward.  You can't use more than 1 Duplicate Poke-Power each turn.  (Poke-POWER)",
+      "Attack 1": "[1L] Thunderbolt (40) Discard all Energy cards attached to Ditto.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "code": "39/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64501,
+    "name": "Ditto - 040/113 (Squirtle)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84837_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84837_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84837_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "40/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Duplicate \r\n<br>Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto.  <em>(Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokemon.)</em>  If you do, put Ditto on top of your deck.  Shuffle your deck afterward.  You can't use more than 1 Duplicate Poke-Power each turn.",
+      "Attack 1": "[1W] Smash Turn (20) \r\n<br>After your attack, you may switch Ditto with 1 of your Benched Pokemon.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "40/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64502,
+    "name": "Ditto - 61/113 (Charmander)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84838_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84838_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84838_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "061/113",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Duplicate \r\n<br>Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto. <em> (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokemon.)</em>  If you do, put Ditto on top of your deck.  Shuffle your deck afterward.  You can't use more than 1 Duplicate Poke-Power each turn.",
+      "Attack 1": "[1R] Fireworks (30) \r\n<br>Flip a coin.  If tails, discard a R Energy card attached to Ditto.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "061/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64504,
+    "name": "Ditto - 63/113 (Pikachu)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84840_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84840_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84840_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "063/113",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Duplicate \r\n<br>Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto. <em> (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokemon.) </em>If you do, put Ditto on top of your deck.  Shuffle your deck afterward.  You can't use more than 1 Duplicate Poke-Power each turn.",
+      "Attack 1": "[1L] Thundershock (20) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "063/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64505,
+    "name": "Ditto - 64/113 (Squirtle)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84841_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84841_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84841_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "064/113",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Duplicate\r\n<br>Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto. <em> (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokemon.)</em>  If you do, put Ditto on top of your deck.  Shuffle your deck afterward.  You can't use more than 1 Duplicate Poke-Power each turn.",
+      "Attack 1": "[1W] Spiral Drain (20) \r\n<br>Remove 3 damage counters from Ditto <i>(all if there are less than 3).</i>",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "064/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64506,
+    "name": "Dragonair - 41/113 (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84905_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84905_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84905_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "041/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Slam (20x) \r\n<br>Flip 2 coins.  This attack does 20 damage times the number of heads.",
+      "Attack 2": "[2L] Dragon Rage (40)",
+      "Weakness": "C",
+      "Resistance": "FG",
+      "RetreatCost": "1",
+      "code": "041/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64507,
+    "name": "Dragonair - 42/113 (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84906_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84906_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84906_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "042/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1L] Twister (20) \r\n<br>Flip 2 coins.  If both are tails, this attack does nothing.  For each heads, discard an Energy attached to the Defending Pokemon.",
+      "Weakness": "C",
+      "Resistance": "FG",
+      "RetreatCost": "2",
+      "code": "042/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64508,
+    "name": "Dragonite (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84917_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84917_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84917_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "3/113",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal Lightning",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-POWER</b> Delta Charge  \r\n<br>Once during your turn <em>(before your attack)</em>, you may attach a Lightning Energy card from your discard pile to 1 of your Benched Pokemon.  This power can't be used if Dragonite is affected by a Special Condition.",
+      "Attack 1": "[1L] Agility (30) \r\n<br>Flip a coin.  If heads, prevent all effects of an attack, including damage, done to Dragonite during your opponent's next turn.",
+      "Attack 2": "[2LM] Heavy Impact (70)",
+      "Weakness": "C",
+      "Resistance": "FG",
+      "RetreatCost": "2",
+      "code": "3/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64509,
+    "name": "Dratini - 065/113 (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84940_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84940_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84940_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "65/113",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Hook (10)",
+      "Attack 2": "[1L] Thunder Jolt (30) \r\n<br>Flip a coin.  If tails, Dratini does 10 damage to itself.",
+      "Weakness": "C",
+      "Resistance": "FG",
+      "RetreatCost": "1",
+      "code": "65/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64510,
+    "name": "Dratini - 066/113 (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84941_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84941_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84941_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "66/113",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[L] Thunder Wave (10)\r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "C",
+      "Resistance": "FG",
+      "RetreatCost": "1",
+      "code": "66/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64511,
+    "name": "Drowzee",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84975_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84975_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84975_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "67/113",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[P] Disable \r\n<br>Choose 1 of the Defending Pokemon's attacks.  That Pokemon can't use that attack during your opponent's next turn.",
+      "Attack 2": "[2] Headbutt (20)",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "67/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64512,
+    "name": "Dual Ball",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84986_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84986_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84986_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "89/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Flip 2 coins.  For each heads, search your deck for a Basic Pokemon card, show it to your opponent, and put it into your hand.  Shuffle your deck afterward.",
+      "code": "89/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64514,
+    "name": "Eevee - 068/113",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85097_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85097_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85097_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "68/113",
+      "Rarity": "Common",
+      "Card Type": "Metal",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Metal Scoop (10) \r\n<br>Search your discard pile for a Metal Energy card and attach it to Eevee.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "68/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64513,
+    "name": "Eevee - 069/113",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85082_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85082_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85082_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "69/113",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Call for Family \r\n<br>Search your deck for a Basic Pokemon and put it onto your Bench.  Shuffle your deck afterward.",
+      "Attack 2": "[2] Rear Kick (20)",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "69/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64515,
+    "name": "Espeon (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85327_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85327_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85327_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "4/113",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal Psychic",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-POWER</b> Delta Heal \r\n<br>Once during your turn <em>(before your attack)</em>, you may remove 1 damage counter from each of your Pokemon that has Delta Species symbol on its card.  You can't use more than 1 Delta Heal Poke-Power each turn.  This power can't be used if Espeon is affected by a Special Condition.",
+      "Attack 1": "[MP] Psyshock (30) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "4/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64516,
+    "name": "Flareon (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85501_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85501_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85501_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "5/113",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal Fire",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Delta Search (10) \r\n<br>Search your deck for a Holon Energy card and attach it to Flareon.  Shuffle your deck afterward.",
+      "Attack 2": "[1MR] Return Burn (50) \r\n<br>You may return an Energy card to your hand.  If you do, the Defending Pokemon is now Burned.",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "code": "5/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64517,
+    "name": "Flareon ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85505_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85505_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85505_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "108/113",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fire",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-POWER</b> Evolutionary Flame \r\n<br>Once during your turn, when you play Flareon ex from your hand to evolve 1 of your Pokemon, you may choose 1 of the Defending Pokemon.  That Pokemon is now Burned and Confused.",
+      "Attack 1": "[1R] Flame Screen (30) \r\n<br>During your opponent's next turn, any damage done to Flareon ex by attacks is reduced by 20 <i>(after applying Weakness and Resistance).</i>",
+      "Attack 2": "[2R] Heat Tackle (70) \r\n<br>Flareon ex does 10 damage to itself.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "108/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64518,
+    "name": "Gardevoir (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85640_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85640_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85640_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "6/113",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal Psychic",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-POWER</b>Energy Jump \r\n<br>Once during your turn <em>(before your attack)</em>, you may move an Energy card attached to 1 of your Pokemon to another of your Pokemon.  This power can't be used if Gardevoir is affected by a Special Condition.",
+      "Attack 1": "[1M] Psychic Rage \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 10 damage for each damage counter on Gardevoir to that Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Attack 2": "[2P] Black Magic (10+) \r\n<br>Does 10 damage plus 20 more damage times the number of your opponent's Benched Pokemon.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "6/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64519,
+    "name": "Golbat",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85795_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85795_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85795_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "43/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[G] Super Poison Breath \r\n<br>Each Defending Pokemon is now Poisoned.",
+      "Attack 2": "[2] Sonic Signal  \r\n<br>Choose 2 of your opponent's Pokemon.  This attack does 10 damage to each of them. <i> (Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "43/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64520,
+    "name": "Great Ball",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85896_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85896_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85896_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "90/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Search your deck for a Basic Pokemon (excluding Pokemon-ex) and put it onto your Bench.  Shuffle your deck afterward.",
+      "code": "90/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64521,
+    "name": "Groudon Star",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85927_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85927_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85927_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "111/113",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fighting",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[F] Critical Condition (10) \r\n<br>Count the number of Prize cards your opponent has taken.  Search your discard pile for up to that many Fighting Energy cards and attach them to Groudon Star.",
+      "Attack 2": "[2FFF] Ground Slash (80) \r\n<br>Discard a Fighting Energy card attached to Groudon Star.",
+      "Weakness": "W",
+      "RetreatCost": "3",
+      "code": "111/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64522,
+    "name": "Hariyama",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86013_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86013_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86013_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "44/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Reversal Aura \r\n<br>As long as you have more Prize cards left than your opponent, each of Hariyama's attacks does 20 more damage to the Active Pokemon <em>(before applying Weakness and Resistance)</em> and damage done by the Active Pokemon to Hariyama is reduced by 20 <em>(after applying Weakness and Resistance).</em>",
+      "Attack 1": "[2] Slap Push (30)",
+      "Attack 2": "[1FF] Brick Smash (50) \r\n<br>This attack's damage isn't affected by Resistance, Poke-Powers, Poke-Bodies, or any other effects on the Defending Pokemon.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "44/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64523,
+    "name": "Holon Energy FF",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86136_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86136_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86136_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "104/113",
+      "Rarity": "Rare",
+      "Card Type": "Special Energy",
+      "CardText": "Holon Energy FF provides Colorless Energy.\r\n<br>If the Pokémon that Holon Energy FF is attached to also has a basic Fire Energy card attached to it, that Pokémon has no Weakness. If the Pokémon that Holon Energy FF is attached to also has a basic Fighting Energy card attached to it, damage done by that Pokémon's attack isn't affected by Resistance. Ignore these effects if Holon Energy FF is attached to Pokémon-ex.",
+      "code": "104/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64524,
+    "name": "Holon Energy GL",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86138_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86138_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86138_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "105/113",
+      "Rarity": "Rare",
+      "Card Type": "Special Energy",
+      "CardText": "Holon Energy GL provides Colorless Energy.\r\n<br>If the Pokemon that Holon Energy GL is attached to also has a basic Grass Energy card attached to it, that Pokemon can't be affected by any Special Conditions.  If the Pokemon that Holon Energy GL is attached to also has a basic Lightning Energy card attached to it, damage done by your opponent's Pokemon-ex is reduced by 10.  Ignore these effects if Holon Energy GL is attached to Pokemon-ex.",
+      "code": "105/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64525,
+    "name": "Holon Energy WP",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86140_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86140_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86140_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "106/113",
+      "Rarity": "Rare",
+      "Card Type": "Special Energy",
+      "CardText": "Holon Energy WP provides Colorless Energy. \r\n<br>If the Pokemon that Holon Energy WP is attached to also has a basic Water Energy card attached to it, prevent all effects, excluding damage, done to that Pokemon by your opponent's Pokemon.  If the Pokemon that Holon Energy WP is attached to also has a basic Psychic Energy card attached to it, that Pokemon's Retreat Cost is 0.  Ignore these effects if Holon Energy WP is attached to Pokemon-ex.",
+      "code": "106/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64526,
+    "name": "Holon Farmer",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86142_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86142_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86142_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "91/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "Discard a card from your hand.  If you can't discard a card from your hand, you can't play this card.  \r\n\r\n<br>Search your discard pile for 3 basic Energy cards and any combination of 3 Basic Pokemon or Evolution cards, show them to your opponent, and put them on top of your deck.  Shuffle your deck afterward.",
+      "code": "91/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64527,
+    "name": "Holon Lass",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86145_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86145_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86145_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "92/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "Discard a card from your hand.  If you can't discard a card from your hand, you can't play this card.\r\n<br>\r\n<br> Count the number of Prize cards left (both yours and your opponent's).  Look at that many cards from the top of your deck, choose as many Energy cards as you like, show them to your opponent, and put them into your hand.  Put the other cards back on top of your deck.  Shuffle your deck afterward.",
+      "code": "92/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64528,
+    "name": "Holon Mentor",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86147_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86147_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86147_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "93/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "Discard a card from your hand.  If you can't discard a card from your hand, you can't play this card.\r\n<br>\r\n<br>Search your deck for up to 3 Basic Pokemon that each has 100 HP or less, show them to your opponent, and put them into your hand.  Shuffle your deck afterward.",
+      "code": "93/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64529,
+    "name": "Holon Research Tower",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86149_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86149_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86149_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "94/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "CardText": "Each Player's basic Energy cards attached to Pokemon that has Delta Species symbol on its card are both their usual Energy type and Metal type but provide only 1 Energy at a time.  <em>(Has no effect other than providing Energy.)</em>",
+      "code": "94/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64530,
+    "name": "Holon Researcher",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86150_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86150_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86150_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "95/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "Discard a card from your hand.  If you can't discard a card from your hand, you can't play this card.  Search your deck for a M Energy card or a Basic Pokemon <em>(or Evolution card)</em> that has Delta Species symbol on its card, show it to your opponent, and put it into your hand.  Shuffle your deck afterward.",
+      "code": "95/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64531,
+    "name": "Holon Ruins",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86151_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86151_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86151_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "96/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "CardText": "Each player that has any Pokemon in play that has Delta Species symbol on its card may draw a card once during his or her turn.  If the player does, he or she discards a card from his or her hand.",
+      "code": "96/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64532,
+    "name": "Holon Scientist",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86152_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86152_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86152_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "97/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "CardText": "Discard a card from your hand.  If you can't discard a card from your hand, you can't play this card.  If you have less cards in your hand than your opponent, draw cards until you have the same number of cards as your opponent.",
+      "code": "97/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64533,
+    "name": "Holon Transceiver",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86153_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86153_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86153_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "98/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Tool",
+      "CardText": "Search your deck for a Supporter card that has Holon in its name, show it to your opponent, and put it into your hand.  Shuffle your deck afterward.  Or, search your discard pile for a Supporter card that has Holon in its name, show it to your opponent, and put it into your hand.",
+      "code": "98/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64534,
+    "name": "Holon's Electrode",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86155_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86155_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86155_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "21/113",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "You may attach this as an Energy card from your hand to 1 of your Pokemon that already has an Energy card attached to it.  When you attach this card, return an Energy card attached to that Pokemon to your hand.  While attached, this card is a Special Energy card and provides every type of Energy but 2 Energy at a time.  <em>(Has no effect other than providing Energy.)</em>",
+      "Attack 1": "[1L] Dazzle Blast (30) \r\n<br>The Defending Pokemon is now Confused.",
+      "Weakness": "F",
+      "code": "21/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64535,
+    "name": "Holon's Magnemite",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86156_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86156_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86156_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "70/113",
+      "Rarity": "Common",
+      "Card Type": "Metal",
+      "HP": "40",
+      "Stage": "Basic",
+      "CardText": "You may attach this as an Energy card from your hand to 1 of your Pokemon.  While attached, this card is a Special Energy card and provides 1 Colorless Energy.",
+      "Attack 1": "[M] Linear Attack  \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 10 damage to that Pokemon.<i>  (Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "F",
+      "Resistance": "G",
+      "code": "70/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64536,
+    "name": "Holon's Magneton",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86157_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86157_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86157_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "22/113",
+      "Rarity": "Rare",
+      "Card Type": "Metal",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "You may attach this as an Energy card from your hand to 1 of your Pokemon that already has an Energy card attached to it.  When you attach this card, return an Energy card attached to that Pokemon to your hand.  While attached, this card is a Special Energy card and provides every type of Energy but 2 Energy at a time.  <em>(Has no effect other than providing Energy.)",
+      "Attack 1": "[1M] Extra Ball (30+)\r\n<br>If the Defending Pokemon is Pokemon-ex, this attack does 30 damage plus 20 more damage.",
+      "Weakness": "F",
+      "Resistance": "G",
+      "code": "22/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64537,
+    "name": "Holon's Voltorb",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86158_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86158_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86158_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "71/113",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "40",
+      "Stage": "Basic",
+      "CardText": "You may attach this as an Energy card from your hand to 1 of your Pokemon.  While attached, this card is a Special Energy card and provides 1 Colorless Energy.",
+      "Attack 1": "[L] Thundershock (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "0",
+      "code": "71/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64538,
+    "name": "Hypno",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86253_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86253_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86253_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "23/113",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Blinding Aura \r\n<br>Your opponent can't play any Basic Pokemon or Evolution cards from his or her hand to evolve an Asleep Pokemon and can't attach any Energy cards from his or her hand to an Asleep Pokemon.",
+      "Attack 1": "[1] Sleep Inducer \r\n<br>Switch 1 of your opponent's Benched Pokemon with 1 of the Defending Pokemon.  Your opponent chooses the Defending Pokemon to switch.  The new Defending Pokemon is now Asleep.",
+      "Attack 2": "[1P] Psyshot (40)",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "23/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64539,
+    "name": "Illumise",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86266_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86266_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86266_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "45/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Beacon Protection \r\n<br>As long as you have Volbeat in play, prevent all effects, including damage, done to Illumise by attacks from your opponent's Pokemon that has Dark in its name.",
+      "Attack 1": "[1] Call for Family  \r\n<br>Search your deck for a Basic Pokemon and put it onto your Bench.  Shuffle your deck afterward.",
+      "Attack 2": "[1G] Strange Rasping (20) \r\n<br>If the Defending Pokemon is an Evolved Pokemon, the Defending Pokemon is now Confused.",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "code": "45/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64540,
+    "name": "Jolteon (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86349_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86349_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86349_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "7/113",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal Lightning",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Delta Search (10) \r\n<br>Search your deck for a Holon Energy card and attach it to Jolteon.  Shuffle your deck afterward.",
+      "Attack 2": "[1LM] Return Spark (50) \r\n<br>You may return an Energy card attached to Jolteon to your hand.  If you do, this attack does 20 damage to 1 of your opponent's Benched Pokemon.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "1",
+      "code": "7/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64541,
+    "name": "Jolteon ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86352_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86352_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86352_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "109/113",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Lightning",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-POWER</b> Evolutionary Thunder \r\n<br>Once during your turn, when you play Jolteon ex from your hand to evolve 1 of your Pokemon, you may put 1 damage counter on each of your opponent's Pokemon.",
+      "Attack 1": "[1L] Second Bite (20+) \r\n<br>Does 20 damage plus 10 more damage for each damage counter on the Defending Pokemon.",
+      "Attack 2": "[2L] Thunder Blast (70)\r\n<br>Discard a Lightning Energy card attached to Jolteon ex.",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "0",
+      "code": "109/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64542,
+    "name": "Kakuna",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86412_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86412_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86412_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "46/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Stage 1",
+      "Attack 1": "[G] Fast Evolution \r\n<br>Search your deck for an Evolution card, show it to your opponent, and put it into your hand.  Shuffle your deck afterward.",
+      "Attack 2": "[3] Rollout (30)",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "46/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64543,
+    "name": "Kirlia",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86463_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86463_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86463_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "47/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Calm Mind \r\n<br>Remove 3 damage counters from Kirlia.",
+      "Attack 2": "[1P] Psychic Boom (20+) \r\n<br>Does 20 damage plus 10 more damage for each Energy attached to the Defending Pokemon.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "47/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64544,
+    "name": "Koffing",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86495_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86495_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86495_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "72/113",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[G] Confusion Gas \r\n<br>The Defending Pokemon is now Confused.",
+      "Attack 2": "[2] Ram (20)",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "72/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64545,
+    "name": "Kyogre Star",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86552_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86552_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86552_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "112/113",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Water",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[W] Critical Collection (10) \r\n<br>Count the number of Prize cards your opponent has taken.  Search your discard pile for up to that many Water Energy cards and attach them to Kyogre Star.",
+      "Attack 2": "[2WWW] Sheer Cold (60) \r\n<br>Flip a coin.  If heads, each Defending Pokemon can't attack during your opponent's next turn.",
+      "Weakness": "L",
+      "RetreatCost": "3",
+      "code": "112/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64546,
+    "name": "Larvitar (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86646_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86646_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86646_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "73/113",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Bite (10)",
+      "Attack 2": "[1R] Rising Lunge (20+) \r\n<br>Flip a coin.  If heads, this attack does 20 damage plus 10 more damage.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "73/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64547,
+    "name": "Latias (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86655_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86655_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86655_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "8/113",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal Lightning",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Delta Aura \r\n<br>If you have Latios or Latios ex in play, the attack cost of Latias's Extra Crush is now 1LM.",
+      "Attack 1": "[1M] Spiral Drain (20) \r\n<br>Remove 2 damage counters from Latias.",
+      "Attack 2": "[3LM] Extra Crush (80) \r\n<br>If your opponent has no Pokemon-ex in play, this attack does nothing.",
+      "Weakness": "C",
+      "Resistance": "FP",
+      "RetreatCost": "1",
+      "code": "8/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64548,
+    "name": "Latios (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86669_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86669_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86669_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "9/113",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal Lightning",
+      "HP": "80",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Delta Aura -\r\n<br>If you have Latias or Latias ex in play, the attack cost of Latio's Psychic Force is now 1LM.",
+      "Attack 1": "[2] Dragon Claw (20)",
+      "Attack 2": "[3LM] Psychic Force (80) \r\n<br>If your opponent has no Stage 2 Evolved Pokemon in play, this attack does nothing.",
+      "Weakness": "C",
+      "Resistance": "FG",
+      "RetreatCost": "2",
+      "code": "9/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64549,
+    "name": "Magnemite",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87078_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87078_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87078_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "74/113",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Collect \r\n<br>Draw a card.",
+      "Attack 2": "[L] Magnetic Blast (10)",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "1",
+      "code": "74/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64550,
+    "name": "Magneton",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87104_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87104_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87104_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "48/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1L] Supersonic (20) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Confused.",
+      "Attack 2": "[1L] Speed Ball (50)",
+      "Weakness": "F",
+      "Resistance": "M",
+      "RetreatCost": "1",
+      "code": "48/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64551,
+    "name": "Makuhita",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87130_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87130_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87130_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "75/113",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Sand Attack (10) \r\n<br>If the Defending Pokemon tries to attack during your opponent's next turn, your opponent flips a coin.  If tails, that attack does nothing.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "75/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64552,
+    "name": "Marill",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87217_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87217_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87217_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "76/113",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Rollout (10)",
+      "Attack 2": "[2] Jump On (10+)\r\n<br>Flip a coin.  If heads, this attack does 10 damage plus 20 more damage.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "76/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64553,
+    "name": "Marowak (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87230_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87230_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87230_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "10/113",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal Fighting",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[FM] Energy Bone  \r\n<br>Choose a number of your opponent's Pokemon up to the amount of Energy Attached to Marowak.  This attack does 20 damage to each of them.",
+      "Attack 2": "[2F] Metal Crusher (50) \r\n<br>If the Defending Pokemon is Metal Pokemon, this attack's base damage is 90.",
+      "Weakness": "G",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "10/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64554,
+    "name": "Master Ball",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87254_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87254_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87254_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "99/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Look at the top 7 cards from your deck.  Choose a Basic Pokemon or Evolution card from those cards, show it to your opponent, and put it into your hand.  Put the other 6 cards back on top of your deck.  Shuffle your deck afterward.",
+      "code": "99/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64555,
+    "name": "Meowth",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87318_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87318_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87318_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "77/113",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Pickup Power \r\n<br>Search your discard pile for an Energy card, show it to your opponent, and put it into your hand.",
+      "Attack 2": "[1] Bite (10)",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "77/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64556,
+    "name": "Metagross (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87342_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87342_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87342_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "11/113",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal Lightning",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-POWER</b> Delta Control \r\n<br>Once during your turn <em>(before your attack)</em>, you may look at the top 4 cards of your deck, choose 1 of them, and put it into your hand.  Put the 3 other cards on the bottom of your deck in any order.  This power can't be used if Metagross is affected by a Special Condition.",
+      "Attack 1": "[LM] Crush and Burn (30+) \r\n<br>You may discard as many Energy cards as you like attached to your Pokemon in play.  If you do, this attack does 30 damage plus 20 more damage for each Energy card you discarded.",
+      "Weakness": "R",
+      "Resistance": "G",
+      "RetreatCost": "3",
+      "code": "11/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64557,
+    "name": "Metagross Star",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87345_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87345_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87345_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "113/113",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Metal",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[M] Critical Collection (10) \r\n<br>Count the number of Prize cards your opponent has taken.  Search your discard pile for up to that many Metal Energy cards and attach them to Metagross Star.",
+      "Attack 2": "[2MMM] Hyper Beam (50) \r\n<br>Flip a coin.  If heads, discard an Energy card attached to the Defending Pokemon.",
+      "Weakness": "R",
+      "Resistance": "G",
+      "RetreatCost": "3",
+      "code": "113/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64558,
+    "name": "Metal Energy (Special)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87359_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87359_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87359_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "107/113",
+      "Rarity": "Rare",
+      "Card Type": "Special Metal Energy",
+      "CardText": "Damage done by attacks to the Pokemon that Metal Energy is attached to is reduced by 10 <em>(after applying Weakness and Resistance). </em> Ignore this effect if the Pokemon that Metal Energy is attached to isn't Metal.  Metal Energy provides Metal Energy.  <em>(Doesn't count as a basic Energy card.)</em>",
+      "code": "107/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64559,
+    "name": "Metang (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87384_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87384_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87384_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "49/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Sharp Claws (20+) \r\n<br>Flip a coin.  If heads, this attack does 20 damage plus 10 more damage.",
+      "Attack 2": "[2L] Magnetic Blast (50)",
+      "Weakness": "R",
+      "Resistance": "G",
+      "RetreatCost": "2",
+      "code": "49/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64560,
+    "name": "Mewtwo (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87425_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87425_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87425_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "12/113",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal Fire",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Delta Switch \r\n<br>Once during your turn, when you put Mewtwo from your hand onto your Bench, you may move any number of basic Energy cards attached to your Pokemon to your other Pokemon (excluding Mewtwo) in any way you like.",
+      "Attack 1": "[MR] Energy Burst (10x) \r\n<br>Does 10 damage times the total amount of Energy attached to Mewtwo and the Defending Pokemon.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "12/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64561,
+    "name": "Mightyena (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87450_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87450_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87450_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "24/113",
+      "Rarity": "Rare",
+      "Card Type": "Darkness Metal",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1D] Delta Fang (20) \r\n<br>If the Defending Pokemon is Pokemon-ex, that Pokemon can't attack during your opponent's next turn.",
+      "Attack 2": "[1M] Gang Up (10x) \r\n<br>Does 10 damage times the number of Darkness Pokemon and Metal Pokemon you have in play.",
+      "Weakness": "F",
+      "Resistance": "P",
+      "RetreatCost": "1",
+      "code": "24/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64562,
+    "name": "Persian",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87985_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87985_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87985_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "50/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-POWER</b> Prowl -\r\n<br>Once during your turn, when you play Persian from your hand to evolve 1 of your Pokemon, you may search your deck for any 1 card and put it into your hand.  Shuffle your deck afterward.",
+      "Attack 1": "[2] Snap Tail \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 30 damage to that Pokemon. <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "50/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64563,
+    "name": "Ponyta",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88286_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88286_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88286_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "78/113",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[R] Flare (10)",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "78/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64564,
+    "name": "Poochyena",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88297_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88297_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88297_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "79/113",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Roar \r\n<br>Your opponent switches the Defending Pokemon with 1 of his or her Benched Pokemon, if any.",
+      "Attack 2": "[1D] Ambush (10+) \r\n<br>Flip a coin.  If heads, this attack does 10 damage plus 20 more damage.",
+      "Weakness": "F",
+      "Resistance": "P",
+      "RetreatCost": "1",
+      "code": "79/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64565,
+    "name": "Porygon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88310_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88310_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88310_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "80/113",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[2] Sharpen (30)",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "80/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64566,
+    "name": "Porygon2",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88325_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88325_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88325_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "25/113",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-POWER</b> Backup \r\n<br>Once during your turn (before your attack), if you have less than 6 cards in your hand, you may draw cards until you have 6 cards in your hand.  This power can't be used if Porygon2 is affected by a Special Condition.",
+      "Attack 1": "[2] Machine Burst (30) \r\n<br>If Porygon2 has a Technical Machine card attached to it, the Defending Pokemon is now Asleep and Burned.",
+      "Weakness": "F",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "25/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64567,
+    "name": "Potion",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88338_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88338_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88338_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "101/113",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Remove 2 damage counters from 1 of your Pokemon (remove 1 damage counter if that Pokemon has only 1).",
+      "code": "101/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64568,
+    "name": "Pupitar (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88455_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88455_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88455_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "51/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Paralyzing Gaze  \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[2R] Double-edge (40) \r\n<br>Pupitar does 10 damage to itself.",
+      "Weakness": "G",
+      "Resistance": "None",
+      "RetreatCost": "0",
+      "code": "51/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64569,
+    "name": "Rain Castform",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88544_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88544_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88544_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "26/113",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Temperamental Weather \r\n<br>Once during your turn (before you attack), you may search your deck for Castform, Sunny Castform, or Snow-cloud Castform and switch it with Rain Castform.  <em>(Any cards attached to Rain Castform, damage counters, Special Conditions, and effects on it are now on the new Pokemon.)  </em>Shuffle Rain Castform back into your deck.  You can't use more than 1 Temperamental Weather Poke-Power each turn.",
+      "Attack 1": "[3] Holon Splash (30+) \r\n<br>Does 30 damage plus 10 more damage for each Holon Energy card attached to Rain Castform.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "26/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64570,
+    "name": "Ralts",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88558_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88558_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88558_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "81/113",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Collect \r\n<br>Draw a card.",
+      "Attack 2": "[2] Quick Blow (10+) \r\n<br>Flip a coin.  If heads, this attack does 10 damage plus 20 more damage.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "81/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64571,
+    "name": "Rapidash",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88582_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88582_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88582_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "52/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[R] Super Singe  \r\n<br>The Defending Pokemon is now Burned.",
+      "Attack 2": "[1R] Stomp (30+) \r\n<br>Flip a coin.  If heads, this attack does 30 damage plus 10 more damage.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "0",
+      "code": "52/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64572,
+    "name": "Rayquaza (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88633_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88633_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88633_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "13/113",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal Lightning",
+      "HP": "90",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Delta Guard \r\n<br>As long as Rayquaza has any Holon Energy cards attached to it, ignore the effect of Rayquaza's Lightning Storm attack.",
+      "Attack 1": "[L] Power Blow (10x) \r\n<br>Does 10 damage times the amount of Energy attached to Rayquaza.",
+      "Attack 2": "[2LM] Lightning Storm (70) \r\n<br>Put 7 damage counters on Rayquaza.",
+      "Weakness": "C",
+      "Resistance": "FW",
+      "RetreatCost": "3",
+      "code": "13/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64573,
+    "name": "Salamence (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88902_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88902_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88902_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "14/113",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal Fire",
+      "HP": "110",
+      "Stage": "Stage 2",
+      "Attack 1": "[1R] Fire Dance (30) \r\n<br>Search your discard pile for a Fire Energy card and attach it to 1 of your Pokemon.",
+      "Attack 2": "[2MR] Delta Blast (100) \r\n<br>Discard a Metal Energy card attached to Salamence.",
+      "Weakness": "C",
+      "Resistance": "FR",
+      "RetreatCost": "1",
+      "code": "14/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64574,
+    "name": "Sandshrew",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88923_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88923_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88923_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "82/113",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[F] Dig Under \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 10 damage to that Pokemon.  This attack's damage isn't affected by Weakness or Resistance.",
+      "Attack 2": "[2] Scratch (20)",
+      "Weakness": "G",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "82/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64575,
+    "name": "Sandslash (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88936_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88936_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88936_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "27/113",
+      "Rarity": "Rare",
+      "Card Type": "Metal Fighting",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Delta Storm\r\n<br>As long as Sandslash is your Active Pokemon, put 1 damage counter on each of your opponent's Pokemon-ex between turns.",
+      "Attack 1": "[1F] Rend (20+) \r\n<br>If the Defending Pokemon already has any damage counters on it, this attack does 20 damage plus 20 more damage.",
+      "Attack 2": "[2M] Slash (50)",
+      "Weakness": "G",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "27/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64576,
+    "name": "Shelgon - 053/113 (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89132_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89132_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89132_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "53/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[R] Tight Jaw (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[2R] Combustion (40)",
+      "Weakness": "C",
+      "Resistance": "FR",
+      "RetreatCost": "2",
+      "code": "53/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64577,
+    "name": "Shelgon - 054/113 (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89133_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89133_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89133_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "54/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Exoskeleton \r\n<br>Any damage done to Shelgon by attacks is reduced by 10 <em>(after applying Weakness and Resistance). </em>",
+      "Attack 1": "[1R] Heat Blast (30)",
+      "Weakness": "C",
+      "Resistance": "FR",
+      "RetreatCost": "2",
+      "code": "54/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64578,
+    "name": "Skarmory",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89239_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89239_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89239_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "55/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Metal",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Shining Horn \r\n<br>As long as Skarmory is the only Pokemon you have in play, your opponent's Basic Pokemon can't attack.",
+      "Attack 1": "[1] Cry for Help\r\n<br>Search your deck for a Metal Pokemon <i>(excluding Pokemon-ex)</i>, show it to your opponent, and put it into your hand.  Shuffle your deck afterward.",
+      "Attack 2": "[1M] Steel Wing (20)\r\n<br>During your opponent's next turn, any damage done to Skarmory by attacks is reduced by 20 <i>(after applying Weakness and Resistance).</i>",
+      "Weakness": "R",
+      "Resistance": "G",
+      "RetreatCost": "1",
+      "code": "55/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64579,
+    "name": "Slowking",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89315_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89315_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89315_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "28/113",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-POWER</b> Prize Shift  \r\n<br>Once during your turn <em>(before your attack)</em>, you may choose a card from your hand and put it as a Prize card face up.  If you do, choose 1 of your face-down Prize cards without looking and put it into your hand.  This power can't be used if Slowking is affected by a Special Condition or if all of your Prize cards are face up.",
+      "Attack 1": "[2] Psychic Option (20+) \r\n<br>If Slowking has a Water Energy card attached to it, this attack does 20 damage plus 20 more damage.  If Slowking has a Psychic Energy card attached to it, discard a Special Energy card attached to the Defending Pokemon, if any.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "28/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64580,
+    "name": "Slowpoke",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89330_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89330_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89330_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "83/113",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Yawn \r\n<br>The Defending Pokemon is now Asleep.",
+      "Attack 2": "[2] Tackle (20)",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "83/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64581,
+    "name": "Snow-cloud Castform",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89409_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89409_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89409_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "29/113",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Temperamental Weather \r\n<br>Once during your turn <em>(before you attack)</em>, you may search your deck for Castform, Rain Castform, or Sunny Castform and switch it with Snow-cloud Castform.  <em>(Any cards attached to Snow-cloud Castform, damage counters, Special Conditions, and effects on it are now on the new Pokemon.)</em>  Shuffle Snow-cloud Castform back into your deck.  You can't use more than 1 Temperamental Weather Poke-Power each turn.",
+      "Attack 1": "[1W] Holon Blizzard (20) \r\n<br>If Snow-cloud Castform has any Holon Energy attached to it, this attack does 10 damage for each of your opponent's Benched Pokemon. <i> (Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "M",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "29/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64582,
+    "name": "Starmie - 015/113 (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89540_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89540_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89540_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "15/113",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal Water",
+      "HP": "60",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-POWER</b> Metal Navigation \r\n<br>Once during your turn <em>(before your attack)</em>, you may search your deck for a Metal Energy card and attach it to Starmie.  Shuffle your deck afterward.  This power can't be used if Starmie is affected by a Special Condition.",
+      "Attack 1": "[W] Collect \r\n<br>Draw 3 cards.",
+      "Attack 2": "[M] Energy Loop (30) \r\n<br>Return an Energy card attached to Starmie to your hand.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "0",
+      "code": "15/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64583,
+    "name": "Starmie - 030/113 (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89541_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89541_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89541_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "30/113",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[W] Surf (20)",
+      "Attack 2": "[3] Swift (50) \r\n<br>This attack's damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies, or any other effects on the Defending Pokemon.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "30/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64584,
+    "name": "Staryu - 084/113",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89548_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89548_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89548_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "84/113",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Tackle (10)",
+      "Attack 2": "[1W] Spinning Attack (20)",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "84/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64585,
+    "name": "Staryu - 085/113",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89549_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89549_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89549_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "85/113",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Surprise Attack (20) \r\n<br>Flip a coin.  If tails, this attack does nothing.",
+      "Attack 2": "[W] Recover \r\n<br>Discard a Water Energy card attached to Staryu and remove 4 damage counters from Staryu<i> (all if there are less than 4).</i>",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "code": "85/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64586,
+    "name": "Sunny Castform",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89624_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89624_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89624_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "31/113",
+      "Rarity": "Rare",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-POWER</b> Temperamental Weather  \r\n<br>Once during your turn <em>(before you attack)</em>, you may search your deck for Castform, Rain Castform, or Snow-cloud Castform and switch it with Sunny Castform.  <em>(Any cards attached to Sunny Castform, damage counters, Special Conditions, and effects on it are now on the new Pokemon.) </em> Shuffle Sunny Castform back into your deck.  You can't use more than 1 Temperamental Weather Poke-Power each turn.",
+      "Attack 1": "[2] Holon Search \r\n<br>Search your deck for a Holon Energy card and attach it to 1 of your Pokemon.  Shuffle your deck afterward.",
+      "Weakness": "W",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "31/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64587,
+    "name": "Super Scoop Up",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89637_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89637_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89637_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "100/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "CardText": "Flip a coin.  If heads, return 1 of your Pokemon and all cards attached to it to your hand.",
+      "code": "100/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64588,
+    "name": "Swellow",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89693_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89693_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89693_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "32/113",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Steep Dive \r\n<br>Flip a coin.  If heads, prevent all effects of an attack, including damage, done to Swellow during your opponent's next turn.  If tails, during your next turn, Swellow's Glide attack's base damage is 100.",
+      "Attack 2": "[3] Glide (40)",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "0",
+      "code": "32/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64589,
+    "name": "Switch",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89713_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89713_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89713_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "102/113",
+      "Rarity": "Common",
+      "Card Type": "Item",
+      "CardText": "Switch 1 of your Active Pokemon with 1 of your Benched Pokemon.",
+      "code": "102/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64590,
+    "name": "Taillow",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89734_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89734_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89734_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "86/113",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Skill Dive \r\n<br>Does 10 damage to 1 of your opponent's Pokemon. <i> (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "86/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64591,
+    "name": "Tyranitar (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90123_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90123_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90123_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "16/113",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal Fire",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "CardText": "<b>Poke-POWER</b> Crush Draw \r\n<br>Once during your turn <em>(before you attack)</em>, you may reveal the top card of your deck.  If that card is a basic Energy card, attach it to 1 of your Pokemon.  If not, put the card back on your deck.  This power can't be used if Tyranitar is affected by a Special Condition.",
+      "Attack 1": "[1MR] Delta Crush (50+) \r\n<br>You may discard an Energy card attached to Tyranitar.  If you do, this attack does 50 damage plus 20 more damage.",
+      "Weakness": "G",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "16/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64592,
+    "name": "Umbreon (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90151_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90151_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90151_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "17/113",
+      "Rarity": "Holo Rare",
+      "Card Type": "Darkness Metal",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Delta Moon\r\n<br>When your opponent attaches a Special Energy card from his or her hand to 1 of his or her Pokemon, put 1 damage counter on that Pokemon.  You can't use more than 1 Delta Moon Poke-Body each turn.",
+      "Attack 1": "[DM] Feint Attack  \r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 30 damage to that Pokemon.  This attack's damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies, or any other effect on that Pokemon.",
+      "Weakness": "F",
+      "Resistance": "P",
+      "RetreatCost": "1",
+      "code": "17/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64593,
+    "name": "Vaporeon (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90290_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90290_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90290_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "18/113",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Delta Search (10) \r\n<br>Search your deck for a Holon Energy card and attach it to Vaporeon.  Shuffle your deck afterward.",
+      "Attack 2": "[1MW] Return Wave (50) \r\n<br>You may return an Energy card attached to Vaporeon to your hand.  If you do, choose an Energy card attached to the Defending Pokemon and return it to your opponent's hand.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "18/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64594,
+    "name": "Vaporeon ex",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90293_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90293_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90293_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "110/113",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Water",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-POWER</b> Evolutionary Swirl \r\n<br>Once during your turn, when you play Vaporeon ex from your hand to evolve 1 of your Pokemon, you may have your opponent shuffle his or her hand into his or her deck.  Then, your opponent draws up to 4 cards.",
+      "Attack 1": "[1W] Fastwave (40) \r\n<br>This attack's damage isn't affected by Resistance, Poke-Powers, Poke-Bodies, or any other effects on the Defending Pokemon.",
+      "Attack 2": "[2W] Hydrosplash (60)",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "110/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64595,
+    "name": "Volbeat",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90398_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90398_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90398_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "56/113",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY</b> Extra Protection \r\n<br>As long as you have Illumise in play, prevent all effects, including damage, done to Volbeat by attacks from your opponent's Pokemon-ex.",
+      "Attack 1": "[1G] Swift (30) \r\n<br>This attack's damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies, or any other effects on the Defending Pokemon.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "56/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64596,
+    "name": "Weedle",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90543_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90543_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90543_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "87/113",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] String Shot (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "R",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "87/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64597,
+    "name": "Weezing",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90561_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90561_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90561_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "33/113",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Body Odor \r\n<br>As long as Weezing is the Active Pokemon, put 1 damage counter on each of your opponent's Pokemon that has any Poke-Bodies between turns.",
+      "Attack 1": "[G] Mist Attack  \r\n<br>Does 10 damage to each of your opponent's Pokemon. <i> (Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Attack 2": "[2G] Sludge Whirlpool (50)",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "33/113"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-delta-species",
+    "id": 64598,
+    "name": "Zubat",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90773_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90773_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90773_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "88/113",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[G] Poison Fang (10) \r\n<br>Flip a coin.  If heads, the Defending Pokemon is now Poisoned.",
+      "Weakness": "P",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "88/113"
+    }
+  }
+]

@@ -1,0 +1,2278 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64068,
+    "name": "Altaria ex (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83525_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83525_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83525_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "90/101",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Water",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "CardText": "Extra Boost - Once during your turn (before your attack), you may attach a basic Energy card from your hand to 1 of your Stage 2 Pokemon-ex.  This power can't be used if Altaria ex is affected by a Special Condition.  (Poke-POWER)",
+      "Attack 1": "[2W] Healing Light (60) Remove 1 damage counter from each of your Pokemon.",
+      "Weakness": "C",
+      "Resistance": "FG",
+      "RetreatCost": "1",
+      "code": "90/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64069,
+    "name": "Ampharos (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83549_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83549_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83549_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "1/101",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "CardText": "Holon Veil - Treat each Basic Pokemon and Evolution card in your deck, in your discard pile, in your hand, and in play as a Pokemon that has Delta Species on its card.  (Poke-BODY)",
+      "Attack 1": "[3] Delta Circle (20+) Does 20 damage plus 10 more damage for each Pokemon you have in play that has Delta Species on its card.",
+      "Weakness": "F",
+      "RetreatCost": "2",
+      "code": "1/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64070,
+    "name": "Arbok (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83572_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83572_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83572_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "13/101",
+      "Rarity": "Rare",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Burning Venom - The Defending Pokemon is now Burned and Poisoned.",
+      "Attack 2": "[1RR] Strangle (50+) If the Defending Pokemon has Delta Species on its card, this attack does 50 damage plus 30 more damage.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "13/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64071,
+    "name": "Bagon (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83705_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83705_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83705_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "43/101",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[W] Granite Head (10) During your opponent's next turn, any damage done to Bagon by attacks is reduced by 10 (after applying Weakness and Resistance).",
+      "RetreatCost": "1",
+      "code": "43/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64072,
+    "name": "Bayleef (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83750_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83750_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83750_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "26/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1F] Poisonpowder (20) The Defending Pokemon is now Poisoned.",
+      "Weakness": "R",
+      "Resistance": "W",
+      "RetreatCost": "1",
+      "code": "26/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64073,
+    "name": "Boost Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83940_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83940_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83940_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "87/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Special Energy",
+      "HP": "0",
+      "Stage": "Special Energy",
+      "Attack 1": "Boost Energy can be attached only to an Evolved Pokemon.  Discard Boost Energy at the end of the turn it was attached.  Boost Energy provides CCC Energy.  The Pokemon Boost Energy is attached to can't retreat.  If the Pokemon Boost Energy is attached to isn't an Evolved Pokemon, discard Boost Energy.",
+      "code": "87/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64074,
+    "name": "Buffer Piece",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84013_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84013_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84013_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "72/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "HP": "0",
+      "Stage": "Tool",
+      "CardText": "Attach Buffer Piece to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.  If that Pokemon is Knocked Out, discard this card.",
+      "Attack 1": "Attach Buffer Piece to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.  If that Pokemon is Knocked Out, discard this card.  Damage done to the Pokemon Buffer Piece is attached to by an opponent's attack is reduced by 20 (after applying Weakness and Resistance).  At the end of your opponent's turn after you played Buffer Piece, discard Buffer Piece.",
+      "code": "72/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64075,
+    "name": "Charizard Star (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84198_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84198_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84198_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "100/101",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Darkness",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[1D] Rotating Claws (20) \r\n<br>You may discard an Energy card attached to Charizard Star. If you do, search your discard pile for an Energy card (excluding the one you discarded) and attach it to Charizard Star.",
+      "Attack 2": "[1DDDD] Dark Swirl (150) \r\n<br>Discard all Energy cards attached to Charizard Star and discard the top 3 cards from your opponent's deck.",
+      "Weakness": "W",
+      "RetreatCost": "3",
+      "code": "100/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64076,
+    "name": "Chikorita (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84281_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84281_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84281_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "44/101",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Sleep Powder - The Defending Pokemon is now Asleep.",
+      "Attack 2": "[2] Tackle (20)",
+      "Weakness": "R",
+      "Resistance": "W",
+      "RetreatCost": "1",
+      "code": "44/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64077,
+    "name": "Cloyster (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84376_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84376_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84376_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "14/101",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "Solid Shell - Prevent all effects of attacks, including damage, done by your opponent's Pokemon to each of your Benched Pokemon that has Delta Species on its card.  (Poke-BODY)",
+      "Attack 1": "[F] Grind (10+) Does 10 damage plus 10 more damage for each Energy attached to Cloyster.",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "code": "14/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64078,
+    "name": "Copycat",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84425_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84425_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84425_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "73/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "HP": "0",
+      "Stage": "Supporter",
+      "CardText": "You can play only one Supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.",
+      "Attack 1": "Shuffle your hand into your deck.  Then, count the number of cards in your opponent's hand and draw that many cards.",
+      "code": "73/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64079,
+    "name": "Croconaw (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84504_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84504_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84504_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "27/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Scary Face - Flip a coin.  If heads, the Defending Pokemon can't attack or retreat during your opponent's next turn.",
+      "Attack 2": "[2L] Slash (50)",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "code": "27/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64080,
+    "name": "Cyndaquil (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84554_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84554_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84554_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "45/101",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1P] Swift (30) This attack's damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies, or any other effects on that Pokemon.",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "code": "45/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64081,
+    "name": "Delta Rainbow Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84755_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84755_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84755_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "88/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Special Energy",
+      "HP": "0",
+      "Stage": "Special Energy",
+      "Attack 1": "Delta Species Rainbow Energy provides C Energy.  While attached to a Pokemon that has Delta Species on its card, Delta Species Rainbow Energy provides every type of Energy but provides only 1 Energy at a time.  (Has no effect other than providing Energy.)",
+      "code": "88/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64082,
+    "name": "Dewgong (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84792_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84792_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84792_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "15/101",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "Delta Protection - Any damage done to Dewgong by attacks from your opponent's Pokemon that has Delta Species on its card is reduced by 40 (after applying Weakness and Resistance).  (Poke-BODY)",
+      "Attack 1": "[2] Ice Beam (20) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[3] Surge (40+) If Dewgong has at least 2 W Energy attached to it, this attack does 40 damage plus 20 more damage.",
+      "Weakness": "L",
+      "RetreatCost": "2",
+      "code": "15/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64083,
+    "name": "Dragonair (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84907_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84907_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84907_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "28/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Wrap - Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[2G] Horn Attack (40)",
+      "RetreatCost": "2",
+      "code": "28/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64084,
+    "name": "Dragonite ex (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84919_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84919_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84919_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "91/101",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Grass",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "Attack 1": "[2] Deafen (40) Your opponent can't play any Trainer cards (except for Supporter cards) from his or her hand during your opponent's next turn.",
+      "Attack 2": "[2GG] Dragon Roar - Put 8 damage counters on the Defending Pokemon.  If that Pokemon would be Knocked Out by this attack, put any damage counters not necessary to Knock Out the Defending Pokemon on your opponent's Benched Pokemon in any way you like.",
+      "RetreatCost": "2",
+      "code": "91/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64085,
+    "name": "Dratini (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84942_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84942_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84942_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "46/101",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Ram (10)",
+      "RetreatCost": "1",
+      "code": "46/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64086,
+    "name": "Ekans (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85105_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85105_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85105_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "47/101",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Bite (10)",
+      "Attack 2": "[1R] Tail Snap (20)",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "47/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64087,
+    "name": "Electabuzz (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85119_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85119_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85119_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "29/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "Power of Evolution - Once during your turn (before your attack), if Electabuzz is an Evolved Pokemon, you may draw a card from the bottom of your deck.  This power can't be used if Electabuzz is affected by a Special Condition.  (Poke-POWER)",
+      "Attack 1": "[1F] Swift (30) This attack's damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies, or any other affects on the Defending Pokemon.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "code": "29/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64088,
+    "name": "Elekid (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85173_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85173_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85173_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "48/101",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "40",
+      "Stage": "Basic",
+      "CardText": "Baby Evolution - Once during your turn (before your attack), you may put Electabuzz from your hand onto Elekid (this counts as evolving Elekid) and remove all damage counters from Elekid.  (Poke-POWER)",
+      "Attack 1": "[1] Thunder Spear - Choose 1 of your opponent's Pokemon.  This attack does 10 damage to that Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "code": "48/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64089,
+    "name": "Feebas (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85407_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85407_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85407_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "49/101",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "30",
+      "Stage": "Basic",
+      "Attack 1": "[R] Flail (10x) Does 10 damage times the number of damage counters on Feebas.",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "code": "49/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64090,
+    "name": "Feraligatr (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85423_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85423_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85423_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "2/101",
+      "Rarity": "Holo Rare",
+      "Card Type": "Lightning",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "CardText": "Battle Aura - Each of your Pokemon that has Delta Species on its card does 10 more damage to the Defending Pokemon (before applying Weakness and Resistance).  (Poke-BODY)",
+      "Attack 1": "[2] Drag Off (20) Before doing damage, you may choose 1 of your opponent's Benched Pokemon and switch it with 1 of the Defending Pokemon.  Your opponent chooses the Defending Pokemon to switch.",
+      "Attack 2": "[1LL] Sharp Fang (60)",
+      "Weakness": "L",
+      "RetreatCost": "2",
+      "code": "2/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64091,
+    "name": "Flaaffy (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85487_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85487_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85487_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "30/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Thundershock (20) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "code": "30/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64092,
+    "name": "Flygon ex (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85532_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85532_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85532_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "92/101",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Psychic",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "CardText": "Sand Damage - As long as Flygon ex is your Active Pokemon, put 1 damage counter on each of your opponent's Benched Basic Pokemon between turns.  You can't use more than 1 Sand Damage Poke-Body between turns.  (Poke-BODY)",
+      "Attack 1": "[1PP] Psychic Pulse (80) Does 10 damage to each of your opponent's Benched Pokemon that has any damage counters on it.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "RetreatCost": "2",
+      "code": "92/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64093,
+    "name": "Gardevoir ex (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85642_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85642_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85642_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "93/101",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fire",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "CardText": "Imprison - Once during your turn (before your attack), if Gardevoir ex is your Active Pokemon, you may put an Imprison marker on 1 of your opponent's Pokemon.  Any Pokemon that has any Imprison markers on it can't use any Poke-Powers or Poke-Bodies.  This power can't be used if Gardevoir ex is affected by a Special Condition.  (Poke-POWER)",
+      "Attack 1": "[2R] Flame Ball (80) You may move a R Energy card attached to Gardevoir ex to 1 of your Benched Pokemon.",
+      "Weakness": "P",
+      "RetreatCost": "2",
+      "code": "93/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64094,
+    "name": "Gligar (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85770_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85770_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85770_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "16/101",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Sting Turn - Flip a coin.  If heads, the Defending Pokemon is now Paralyzed and switch Gligar with 1 of your Benched Pokemon.",
+      "Attack 2": "[1] Tail Sting (10+) If the Defending Pokemon is Pokemon-ex, this attack does 10 damage plus 10 more damage and the Defending Pokemon is now Poisoned.",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "code": "16/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64095,
+    "name": "Heracross (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86067_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86067_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86067_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "3/101",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "Shining Horn - As long as Heracross is the only Pokemon you have in play, your opponent's Basic Pokemon can't attack.  (Poke-BODY)",
+      "Attack 1": "[1] Dig Deep - Search your discard pile for an Energy card, show it to your opponent, and put it into your hand.",
+      "Attack 2": "[1R] Extra Claws (30+) If the Defending Pokemon is Pokemon-ex, this attack does 30 damage plus 20 more damage.",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "code": "3/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64096,
+    "name": "Holon Energy FF",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86137_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86137_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86137_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "84/101",
+      "Rarity": "Rare",
+      "Card Type": "Special Energy",
+      "HP": "0",
+      "Stage": "Special Energy",
+      "Attack 1": "Holon Energy FF provides C Energy.  If the Pokemon that Holon Energy FF is attached to also has a basic R Energy card attached to it, that Pokemon has no Weakness.  If the Pokemon that Holon Energy is attached to also has a basic F Energy card attached to it, damage done by that Pokemon's attack isn't affected by Resistance.  Ignore these effects if Holon Energy FF is attached to Pokemon-ex.",
+      "code": "84/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64097,
+    "name": "Holon Energy GL",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86139_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86139_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86139_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "85/101",
+      "Rarity": "Rare",
+      "Card Type": "Special Energy",
+      "HP": "0",
+      "Stage": "Special Energy",
+      "Attack 1": "Holon Energy GL provides C Energy.  If the Pokemon that Holon Energy GL is attached to also has a basic G Energy card attached to it, that Pokemon can't be affected by any Special Conditions.  If the Pokemon that Holon Energy GL is attached to also has a basic L Energy card attached to it, damage done by your opponent's Pokemon-ex is reduced by 10.  Ignore these effects if Holon Energy GL is attached to Pokemon-ex.",
+      "code": "85/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64098,
+    "name": "Holon Energy WP",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86141_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86141_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86141_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "86/101",
+      "Rarity": "Rare",
+      "Card Type": "Special Energy",
+      "HP": "0",
+      "Stage": "Special Energy",
+      "Attack 1": "Holon Energy WP provides C Energy.  If the Pokemon that Holon Energy WP is attached to also has a basic W Energy card attached to it, prevent all effects, excluding damage, done to that Pokemon by your opponent's Pokemon.  If the Pokemon that Holon Energy WP is attached to also has a basic P Energy card attached to it, that Pokemon's Retreat Cost is 0.  Ignore these effects if Holon Energy WP is attached to Pokemon-ex.",
+      "code": "86/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64099,
+    "name": "Holon Legacy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86146_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86146_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86146_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "74/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "HP": "0",
+      "Stage": "Stadium",
+      "CardText": "This card stays in play when you play it.  Discard this card if another Stadium card comes into play.  If another card with the same name is in play, you can't play this card.",
+      "Attack 1": "Each Pokemon in play that has Delta Species on its card (both yours and your opponent's) has no Weakness and can't use any Poke-Powers.",
+      "code": "74/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64100,
+    "name": "Holon Mentor",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86148_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86148_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86148_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "75/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "HP": "0",
+      "Stage": "Supporter",
+      "CardText": "You can play only one supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.",
+      "Attack 1": "Discard a card from your hand.  If you can't discard a card from your hand, you can't play this card.  Search your deck for up to 3 Basic Pokemon that each has 100 HP or less, show them to your opponent, and put them into your hand.  Shuffle your deck afterward.",
+      "code": "75/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64101,
+    "name": "Horsea - 031/101 (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86195_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86195_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86195_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "31/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Tackle (10)",
+      "Attack 2": "[1F] Reverse Thrust (20) Switch Horsea with 1 of your Benched Pokemon.",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "code": "31/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64102,
+    "name": "Horsea - 050/101 (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86196_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86196_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86196_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "50/101",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Sleepy Ball (10) \r\n<br>The Defending Pokemon is now Asleep.",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "code": "50/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64103,
+    "name": "Island Hermit",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86291_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86291_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86291_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "76/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer - Supporter",
+      "HP": "0",
+      "Stage": "Supporter",
+      "CardText": "You can play only one supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.",
+      "Attack 1": "Choose up to 2 of your Prize cards and put them face up.  (These cards remain face up for the rest of the game.)  Draw 2 cards.",
+      "code": "76/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64104,
+    "name": "Jynx (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86378_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86378_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86378_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "17/101",
+      "Rarity": "Rare",
+      "Card Type": "Fire",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "Stages of Evolution - As long as Jynx is an Evolved Pokemon, you pay 1 less to retreat your R and P Pokemon.  (Poke-BODY)",
+      "Attack 1": "[1F] Fire Punch (30)",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "17/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64105,
+    "name": "Kingdra ex (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86452_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86452_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86452_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "94/101",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fighting",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "Extra Smoke - Any damage done to your Stage 2 Pokemon-ex by your opponent's attacks is reduced by 10 (before applying Weakness and Resistance).  (Poke-BODY)",
+      "Attack 1": "[1F] Energy Link (40) Search your discard pile for an Energy card and attach it to Kingdra ex.",
+      "Attack 2": "[2F] Protective Swirl (80) Kingdra ex has no Weakness during your opponent's next turn.",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "code": "94/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64106,
+    "name": "Kirlia",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86464_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86464_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86464_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "32/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1P] Psyshock (20) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[2P] Link Blast (60) If Kirlia and the Defending Pokemon have a different amount of Energy attached to them, this attack's base damage is 30 instead of 60.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "32/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64107,
+    "name": "Kirlia (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86473_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86473_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86473_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "33/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1R] Flickering Flames (20) The Defending Pokemon is Asleep.",
+      "Attack 2": "[2R] Smack (40)",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "33/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64108,
+    "name": "Larvitar",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86641_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86641_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86641_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "51/101",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[F] Bite (10)",
+      "Attack 2": "[1F] Mud Slap (20)",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "code": "51/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64109,
+    "name": "Larvitar (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86647_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86647_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86647_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "52/101",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[L] Paralyzing Gaze - Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[2] Horn Attack (20)",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "code": "52/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64110,
+    "name": "Latias ex (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86661_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86661_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86661_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "95/101",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fire",
+      "HP": "100",
+      "Stage": "Basic",
+      "CardText": "Fellow Boost - Once during your turn (before your attack), you may attach a basic energy card from your hand to your Latias, Latias ex, Latios, or Latios ex.  If you do, your turn ends.  This power can't be used if Latias ex is affected by a Special Condition.  (Poke-POWER)",
+      "Attack 1": "[1RR] Power Crush (90) If the Defending Pokemon is Knocked Out by this attack, discard 2 R Energy attached to Latias ex.",
+      "Weakness": "P",
+      "RetreatCost": "2",
+      "code": "95/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64111,
+    "name": "Latios ex (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86675_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86675_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86675_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "96/101",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Water",
+      "HP": "100",
+      "Stage": "Basic",
+      "CardText": "Link Wing - The Retreat Cost for each of your Latias, Latias ex, Latios, and Latios ex is 0.  (Poke-BODY)",
+      "Attack 1": "[1W] Ice Barrier (30) Prevent all effects of an attack, including damage done to Latios ex by your opponent's Pokemon-ex during your opponent's next turn.",
+      "Attack 2": "[2W] Hydro Splash (60)",
+      "Weakness": "P",
+      "RetreatCost": "2",
+      "code": "96/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64112,
+    "name": "Ledian (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86697_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86697_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86697_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "18/101",
+      "Rarity": "Rare",
+      "Card Type": "Metal",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "Prowl - Once during your turn, when you play Ledian from your hand to evolve 1 of your Pokemon, you may search your deck for any 1 card and put it into your hand.  Shuffle your deck afterward.  (Poke-POWER)",
+      "Attack 1": "[1M] Metal Star (30) If Ledian has a Pokemon Tool attached to it, draw 3 cards.",
+      "Weakness": "R",
+      "RetreatCost": "0",
+      "code": "18/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64113,
+    "name": "Ledyba (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86707_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86707_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86707_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "53/101",
+      "Rarity": "Common",
+      "Card Type": "Metal",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Tackle (10)",
+      "Attack 2": "[M] Supersonic - Flip a coin.  If heads, the Defending Pokemon is now Confused.",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "code": "53/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64114,
+    "name": "Lickitung (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86724_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86724_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86724_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "19/101",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Lap Up - Draw 2 cards.",
+      "Attack 2": "[P] Delta Mind - Put 1 damage counter on 1 of your opponent's Pokemon.  If that Pokemon has Delta Species on its card, put 3 damage counters instead.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "code": "19/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64115,
+    "name": "Mantine (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87185_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87185_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87185_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "20/101",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "CardText": "Power Circulation - Once during your turn (before your attack), you may search your discard pile for a basic Energy card, show it to your opponent, and put it on top of your deck.  If you do, put 1 damage counter on Mantine.  This power can't be used if Mantine is affected by a Special Condition.  (Poke-POWER)",
+      "Attack 1": "[L] Spiral Drain (10) Remove 1 damage counter from Mantine.",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "code": "20/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64116,
+    "name": "Mareep (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87209_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87209_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87209_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "54/101",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Tail Whap (10)",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "code": "54/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64117,
+    "name": "Meganium (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87297_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87297_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87297_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "4/101",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "110",
+      "Stage": "Stage 2",
+      "CardText": "Evolutionary Call - Once during your turn, when you play Meganium from your hand to evolve 1 of your Pokemon, you may search your deck for up to 3 in any combination of Basic Pokemon or Evolution cards.  Show them to your opponent and put them into your hand.  Shuffle your deck afterward.  (Poke-POWER)",
+      "Attack 1": "[1F] Delta Reduction (40) During your opponent's next turn, any damage done by attacks from the Defending Pokemon is reduced by 30 (before applying Weakness and Resistance).",
+      "Attack 2": "[2F] Mega Impact (60)",
+      "Weakness": "R",
+      "Resistance": "W",
+      "RetreatCost": "2",
+      "code": "4/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64118,
+    "name": "Mew Star (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87408_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87408_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87408_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "101/101",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Mimicry \r\n<br>Choose an attack of 1 of your opponent's Pokemon in play.  Mimicry copies that attack.  This attack does nothing if Mew Star doesn't have the Energy necessary to use that attack. <i> (You must still do anything else required for that attack.) </i> Mew Star performs that attack.",
+      "Attack 2": "[W] Rainbow Wave \r\n<br>Choose 1 basic Energy card attached to Mew Star.  This attack does 20 damage to each of your opponent's Pokemon that is the same type as the basic Energy card that you chose.  <i>(Don't apply Weakness and Resistance for Benched Pokemon.)</i>",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "101/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64119,
+    "name": "Milotic (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87458_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87458_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87458_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "5/101",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "CardText": "Sharing - Once during your turn (before your attack), you may look at your opponent's hand.  You may use the effect of a Supporter card you find there as the effect of this power.  (The Supporter card remains in your opponent's hand.)  You can't use more than 1 Sharing Poke-Power each turn.  This power can't be used if Milotic is affected by a Special Condition.  (Poke-POWER)",
+      "Attack 1": "[1RR] Flare (60)",
+      "Weakness": "L",
+      "RetreatCost": "2",
+      "code": "5/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64120,
+    "name": "Mr. Stone's Project",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87602_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87602_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87602_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "77/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "HP": "0",
+      "Stage": "Supporter",
+      "CardText": "You can play only one Supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.",
+      "Attack 1": "Search your deck for up to 2 basic Energy cards, show them to your opponent, and put them into your hand.  Shuffle your deck afterward.  Or, search your discard pile for up to 2 basic Energy cards, show them to your opponent, and put them into your hand.",
+      "code": "77/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64121,
+    "name": "Natu (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87689_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87689_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87689_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "55/101",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[D] Flop (10)",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "55/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64122,
+    "name": "Nidoking (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87701_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87701_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87701_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "6/101",
+      "Rarity": "Holo Rare",
+      "Card Type": "Darkness",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "Attack 1": "[2] Linear Attack - Choose 1 of your opponent's Pokemon.  This attack does 30 damage to that Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Attack 2": "[2D] Dark Horn (60) You may discard a Basic Pokemon or Evolution card from your hand.  If you do, choose 1 of your opponent's Benched Pokemon and do 20 damage to that Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "P",
+      "RetreatCost": "3",
+      "code": "6/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64123,
+    "name": "Nidoqueen (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87712_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87712_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87712_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "7/101",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "CardText": "Invitation - Once during your turn (before your attack), you may search your deck for a Basic Pokemon or Evolution card, show it to your opponent, and put it into your hand.  Shuffle your deck afterward.  This power can't be used if Nidoqueen is affected by a Special Condition.  (Poke-POWER)",
+      "Attack 1": "[3] Vengeance (30+) Does 30 damage plus 10 more damage for each Basic Pokemon and each Evolution card in your discard pile.  You can't add more than 60 damage in this way.",
+      "Weakness": "P",
+      "RetreatCost": "2",
+      "code": "7/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64124,
+    "name": "Nidoran F (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87722_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87722_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87722_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "56/101",
+      "Rarity": "Common",
+      "Card Type": "Metal",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Tail Whip - Flip a coin.  If heads, the Defending Pokemon can't attack during your opponent's next turn.",
+      "Attack 2": "[1] Scratch (10)",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "56/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64125,
+    "name": "Nidoran M (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87731_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87731_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87731_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "57/101",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Peck (10)",
+      "Attack 2": "[D] Poison Horn - Flip a coin.  If heads, the Defending Pokemon is now Poisoned.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "57/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64126,
+    "name": "Nidorina (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87740_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87740_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87740_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "34/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Metal",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Poison Sting (10) The Defending Pokemon is now Poisoned.",
+      "Attack 2": "[2M] Rear Kick (40)",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "34/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64127,
+    "name": "Nidorino (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87749_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87749_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87749_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "35/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Darkness",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1D] Rage (10+) Does 10 damage plus 10 more damage for each damage counter on Nidorino.",
+      "Attack 2": "[3] Horn Drill (50)",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "35/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64128,
+    "name": "Ninetales (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87781_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87781_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87781_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "8/101",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "Volunteer - Once during your turn (before your attack), you may remove 4 damage counters from Ninetales and discard Ninetales from Vulpix.  If you do, search your deck for Ninetales or Ninetales ex and put it onto Vulpix (this counts as evolving Vulpix).  Shuffle your deck afterward.  (Poke-POWER)",
+      "Attack 1": "[2] Trick Tail (30) Search your discard pile for an Energy card and attach it to 1 of your Pokemon.",
+      "Weakness": "W",
+      "RetreatCost": "0",
+      "code": "8/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64129,
+    "name": "Old Rod",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87852_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87852_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87852_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "78/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer",
+      "HP": "0",
+      "Stage": "Trainer",
+      "Attack 1": "Flip 2 coins.  If both are heads, put a Baby Pokemon, Basic, or Evolution card from your discard pile into your hand.  If both are tails, put a Trainer card from your discard pile into your hand.",
+      "code": "78/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64130,
+    "name": "Pinsir (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88141_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88141_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88141_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "9/101",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "Armor - If your opponent has 5 or more cards in his or her hand, any damage done to Pinsir by attacks is reduced by 30 (after applying Weakness and Resistance).  (Poke-BODY)",
+      "Attack 1": "[1] Delta Call - Search your deck for a Pokemon that has Delta Species on its card, show it to your opponent, and put it into your hand.  Shuffle your deck afterward.",
+      "Attack 2": "[2F] Guillotine (40)",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "code": "9/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64131,
+    "name": "Professor Elm's Training Method",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88391_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88391_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88391_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "79/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "HP": "0",
+      "Stage": "Supporter",
+      "CardText": "You can play only one Supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.",
+      "Attack 1": "Search your deck for an Evolution card, show it to your opponent, and put it into your hand.  Shuffle your deck afterward.",
+      "code": "79/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64132,
+    "name": "Professor Oak's Research",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88404_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88404_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88404_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "80/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "HP": "0",
+      "Stage": "Supporter",
+      "CardText": "You can play only one Supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.",
+      "Attack 1": "Shuffle you hand into your deck, then draw 5 cards.",
+      "code": "80/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64133,
+    "name": "Pupitar",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88450_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88450_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88450_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "58/101",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[F] Headbutt (20)",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "code": "58/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64134,
+    "name": "Pupitar (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88456_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88456_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88456_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "59/101",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1L] Hyper Beam (20) Flip a coin.  If heads, discard an Energy Card attached to the Defending Pokemon.",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "code": "59/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64135,
+    "name": "Quagsire (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88475_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88475_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88475_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "21/101",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "Dig Up - Once during your turn, when you play Quagsire from your hand to evolve 1 of your Pokemon, you may search your discard pile for up to 2 Pokemon Tool cards, show them to your opponent, and put them into your hand.  (Poke-POWER)",
+      "Attack 1": "[2G] Pump Out (50+) If Quagsire has a Pokemon Tool attached to it, this attack does 50 damage plus 20 more damage.",
+      "Weakness": "G",
+      "RetreatCost": "1",
+      "code": "21/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64136,
+    "name": "Quilava (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88488_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88488_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88488_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "36/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Smash Kick (20)",
+      "Attack 2": "[2P] Quick Attack (30+) Flip a coin.  If heads, this attack does 30 damage plus 20 more damage.",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "code": "36/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64137,
+    "name": "Ralts",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88559_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88559_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88559_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "60/101",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Hypnosis - The Defending Pokemon is now Asleep.",
+      "Attack 2": "[P] Psychic Boom (10x) Does 10 damage times the amount of Energy attached to the Defending Pokemon.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "60/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64138,
+    "name": "Ralts (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88568_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88568_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88568_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "61/101",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Calm Mind - Remove 2 damage counters from Ralts.",
+      "Attack 2": "[1R] Will-o'-the-wisp (20)",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "61/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64139,
+    "name": "Rayquaza ex (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88647_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88647_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88647_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "97/101",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Lightning",
+      "HP": "110",
+      "Stage": "Basic",
+      "CardText": "Rage Aura - If you have more Prize cards left than your opponent, ignore all C Energy necessary to use Rayquaza ex's Special Circuit and Sky-high Claws attacks.  (Poke-BODY)",
+      "Attack 1": "[1L] Special Circuit - Choose 1 of your opponent's Pokemon.  This attack does 30 damage to that Pokemon.  If you choose a Pokemon that has any Poke-Powers or Poke-Bodies, this attack does 50 damage instead.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Attack 2": "[2LL] Sky-high Claws (70)",
+      "RetreatCost": "2",
+      "code": "97/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64140,
+    "name": "Salamence ex (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88905_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88905_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88905_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "98/101",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Water",
+      "HP": "160",
+      "Stage": "Stage 2",
+      "CardText": "Type Shift - Once during your turn (before your attack), you may use this power.  Salamence ex's type is R until the end of your turn.  (Poke-POWER)",
+      "Attack 1": "[2W] Claw Swipe (60)",
+      "Attack 2": "[2WW] Dual Stream (80) You may do 40 damage instead of 80 to the Defending Pokemon.  If you do, this attack does 40 damage to 1 of your opponent's Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "C",
+      "Resistance": "FR",
+      "RetreatCost": "2",
+      "code": "98/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64141,
+    "name": "Scramble Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88989_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88989_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88989_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "89/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Energy",
+      "HP": "0",
+      "Stage": "Special Energy",
+      "Attack 1": "Scramble Energy can be attached only to an Evolved Pokemon (excluding Pokemon-ex).  Scramble Energy provides 1 Colorless Energy.  While in play, if you have more Prize cards left than your opponent, Scramble Energy provides every type of Energy but provides only 3 in any combination at a time.  If the Pokemon Scramble Energy is attached to isn't an Evolved Pokemon (or evolves into Pokemon-ex), discard Scramble Energy.",
+      "code": "89/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64142,
+    "name": "Seadra - 022/101 (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89019_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89019_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89019_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "22/101",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Smokescreen (20) \r\n<br>If the Defending Pokemon tries to attack during your opponent's next turn, your opponent flips a coin.  If tails, that attack does nothing.",
+      "Attack 2": "[2F] Razor Wing (40)",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "22/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64143,
+    "name": "Seadra - 037/101 (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89020_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89020_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89020_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "37/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1F] Ram (20)",
+      "Attack 2": "[3] Extra Ball (30+) \r\n<br>If the Defending Pokemon is Pokemon-ex, this attack does 30 damage plus 30 more damage.",
+      "Weakness": "L",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "37/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64144,
+    "name": "Seel (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89055_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89055_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89055_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "62/101",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Pound (10)",
+      "Attack 2": "[2] Aurora Beam (20)",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "code": "62/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64145,
+    "name": "Shelgon (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89134_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89134_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89134_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "38/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Headbutt (20)",
+      "Attack 2": "[2W] Double-edge (50) Shelgon does 10 damage to itself.",
+      "RetreatCost": "2",
+      "code": "38/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64146,
+    "name": "Shellder (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89140_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89140_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89140_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "63/101",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[F] Shell Grab (10) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "code": "63/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64147,
+    "name": "Smeargle (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89358_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89358_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89358_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "39/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Collect - Draw a card.",
+      "Attack 2": "[1] Flickering Tail (10+) If the Defending Pokemon is Pokemon-ex, this attack does 10 damage plus 10 more damage and the Defending Pokemon is now Asleep.",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "code": "39/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64148,
+    "name": "Smoochum (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89365_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89365_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89365_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "64/101",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "40",
+      "Stage": "Basic",
+      "CardText": "Baby Evolution - Once during your turn (before your attack), you may put Jynx from your hand onto Smoochum (this counts as evolving Smoochum) and remove all damage counters from Smoochum.  (Poke-POWER)",
+      "Attack 1": "[1] Alluring Kiss - Search your deck for a Basic Pokemon and a basic Energy card, show them to your opponent, and put them into your hand.  Shuffle your deck afterward.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "64/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64149,
+    "name": "Snorlax (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89395_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89395_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89395_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "10/101",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Basic",
+      "CardText": "Bedhead - As long as Snorlax remains Asleep between turns, put 2 damage counters on 1 of the Defending Pokemon.  (Poke-BODY)Dozing - Once during your turn (before your attack), if Snorlax is your Active Pokemon, you may remove 2 damage counters from Snorlax and Snorlax is now Asleep.  This power can't be used if Snorlax is affected by a Special Condition.  (Poke-POWER)",
+      "Weakness": "F",
+      "RetreatCost": "3",
+      "code": "10/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64150,
+    "name": "Strength Charm",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89576_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89576_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89576_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "81/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer",
+      "HP": "0",
+      "Stage": "Tool",
+      "CardText": "Attach Strength Charm to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.  If that Pokemon is Knocked Out, discard this card.",
+      "Attack 1": "Whenever an attack from the Pokemon that Strength Charm is attached to does damage to the Active Pokemon, the attack does 10 more damage (before applying Weakness and Resistance).  Discard Strength Charm at the end of the turn in which this Pokemon attacks.",
+      "code": "81/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64151,
+    "name": "Swablu (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89664_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89664_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89664_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "65/101",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[W] Splash About (10+) If Swablu has less Energy attached to it than the Defending Pokemon, this attack does 10 damage plus 10 more damage.",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "65/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64152,
+    "name": "Swellow (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89696_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89696_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89696_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "40/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "Extra Wing - The Retreat Cost for each of your Stage 2 Pokemon-ex is 0.  (Poke-BODY)",
+      "Attack 1": "[1R] Agility (30) Flip a coin.  If heads, prevent all effects of an attack, including damage, done to Swellow during your opponent's next turn.",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "0",
+      "code": "40/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64153,
+    "name": "Switch",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89714_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89714_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89714_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "83/101",
+      "Rarity": "Common",
+      "Card Type": "Trainer",
+      "HP": "0",
+      "Stage": "Trainer",
+      "Attack 1": "Switch 1 of your Active Pokemon with 1 of your Benched Pokemon.",
+      "code": "83/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64161,
+    "name": "TV Reporter",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90085_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90085_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90085_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "82/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "HP": "0",
+      "Stage": "Supporter",
+      "CardText": "You can play only one Supporter card each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.",
+      "Attack 1": "Draw 3 cards.  Then discard any 1 card from your hand.",
+      "code": "82/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64154,
+    "name": "Taillow (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89738_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89738_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89738_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "66/101",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[R] Quick Attack (10+) Flip a coin.  If heads, this attack does 10 damage plus 10 more damage.",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "1",
+      "code": "66/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64155,
+    "name": "Togepi (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89938_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89938_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89938_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "41/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[W] Charm - During your opponent's next turn, any damage done by attacks from the Defending Pokemon is reduced by 20 (before applying Weakness and Resistance).",
+      "Weakness": "F",
+      "RetreatCost": "1",
+      "code": "41/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64156,
+    "name": "Togetic (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89946_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89946_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89946_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "11/101",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Delta Copy - Choose an attack on 1 of your opponent's Pokemon in play that has Delta Species on its card.  Delta Copy copies that attack except for its Energy cost.  (You must still do anything else required for that attack.)  Togetic performs that attack.",
+      "Attack 2": "[1W] Wave Splash (30)",
+      "Weakness": "L",
+      "Resistance": "F",
+      "RetreatCost": "0",
+      "code": "11/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64157,
+    "name": "Totodile (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90004_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90004_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90004_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "67/101",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Scratch (10)",
+      "Attack 2": "[1L] Rage (10+) Does 10 damage plus 10 more damage for each damage counter on Totodile.",
+      "Weakness": "L",
+      "RetreatCost": "1",
+      "code": "67/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64158,
+    "name": "Trapinch - 068/101 (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90027_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90027_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90027_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "68/101",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Gnaw (10)",
+      "Attack 2": "[1P] Dig (20)",
+      "Weakness": "G",
+      "RetreatCost": "1",
+      "code": "68/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64159,
+    "name": "Trapinch - 069/101 (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90028_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90028_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90028_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "69/101",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[P] Quick Bind - Choose 1 of your opponent's Pokemon.  This attack does 10 damage to that Pokemon.  This attack's damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies, or any other effects on that Pokemon.",
+      "Weakness": "G",
+      "RetreatCost": "1",
+      "code": "69/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64160,
+    "name": "Tropius (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90064_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90064_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90064_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "23/101",
+      "Rarity": "Rare",
+      "Card Type": "Metal",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "Tropical Heal - Once during your turn, when you put Tropius from your hand onto your Bench, you may remove all Special Conditions, Imprison markers, and Shock-wave markers from your Pokemon.  (Poke-POWER)",
+      "Attack 1": "[M] Grind (10x) Does 10 damage times the amount of Energy attached to Tropius.",
+      "Weakness": "R",
+      "RetreatCost": "1",
+      "code": "23/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64162,
+    "name": "Typhlosion (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90110_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90110_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90110_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "12/101",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "100",
+      "Stage": "Stage 2",
+      "CardText": "Shady Move - Once during your turn (before your attack), if Typhlosion is your Active Pokemon, you may move 1 damage counter from either player's Pokemon to another Pokemon (yours or your opponent's).  This power can't be used if Typhlosion is affected by a Special Condition.  (Poke-POWER)",
+      "Attack 1": "[2P] Burning Ball (60) If Typhlosion has at least 2 R Energy attached to it, the Defending Pokemon is now Burned.",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "code": "12/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64163,
+    "name": "Tyranitar ex (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90126_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90126_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90126_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "99/101",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Lightning",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "Attack 1": "[1L] Electromark - Put a Shock-wave marker on 1 of your opponent's Pokemon.",
+      "Attack 2": "[2L] Hyper Claws (70+) If the Defending Pokemon is a Stage 2 Evolved Pokemon, this attack does 70 damage plus 20 more damage.",
+      "Attack 3": "[1LL] Shock-wave - Choose 1 of your opponent's Pokemon that has any Shock-wave markers on it.  That Pokemon is Knocked Out.",
+      "Weakness": "G",
+      "RetreatCost": "3",
+      "code": "99/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64164,
+    "name": "Vibrava - 024/101 (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90341_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90341_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90341_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "24/101",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "<b>Poke-BODY</b> Psychic Wing  \r\n<br>If Vibrava has a P Energy attached to it, the Retreat Cost for Vibrava is 0.",
+      "Attack 1": "[3] Quick Blow (20+) \r\n<br>Flip a coin.  If heads, this attack does 20 damage plus 20 more damage.",
+      "Weakness": "C",
+      "Resistance": "FL",
+      "RetreatCost": "1",
+      "code": "24/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64165,
+    "name": "Vibrava - 042/101 (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90342_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90342_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90342_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "42/101",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Bite (20)",
+      "Attack 2": "[1P] Sonic Noise (30) \r\n<br>If the Defending Pokemon is Pokemon-ex, that Pokemon is now Confused.",
+      "RetreatCost": "1",
+      "code": "42/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64166,
+    "name": "Vulpix (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90449_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90449_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90449_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "70/101",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Hypnotic Gaze - The Defending Pokemon is now Asleep.",
+      "Attack 2": "[1P] Will-o'-the-wisp (20)",
+      "Weakness": "W",
+      "RetreatCost": "1",
+      "code": "70/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64167,
+    "name": "Wooper (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90639_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90639_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90639_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "71/101",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Amnesia - Choose 1 of the Defending Pokemon's attacks.  That Pokemon can't use that attack during your opponent's next turn.",
+      "Attack 2": "[1G] Tail Slap (20)",
+      "Weakness": "G",
+      "RetreatCost": "1",
+      "code": "71/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragon-frontiers",
+    "id": 64168,
+    "name": "Xatu (Delta Species)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90668_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90668_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90668_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "25/101",
+      "Rarity": "Rare",
+      "Card Type": "Darkness",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "CardText": "Extra Feather - Each of your Stage 2 Pokemon-ex does 10 more damage to the Defending Pokemon (before applying Weakness and Resistance).  (Poke-BODY)",
+      "Attack 1": "[1D] Confuse Ray (20) Flip a coin.  If heads, the Defending Pokemon is now Confused.",
+      "Weakness": "P",
+      "RetreatCost": "1",
+      "code": "25/101"
+    }
+  }
+]

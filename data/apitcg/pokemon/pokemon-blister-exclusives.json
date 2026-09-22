@@ -1,0 +1,3539 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67908,
+    "name": "Aggron - 80/124 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/251183_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/251183_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/251183_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "080/124",
+      "Rarity": "Promo",
+      "Card Type": "Metal",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Toppling Wind</strong>\r\n<br>When you play this Pokémon from your hand to evolve 1 of your Pokémon, you may discard the top 3 cards of your opponent's deck.",
+      "Attack 1": "[1MM] Giga Horn (90)\r\n<br>Flip 2 coins. If both of them are tails, this attack does nothing.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "4",
+      "Artist": "Masakazu Fukuda",
+      "code": "080/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67930,
+    "name": "Alakazam - 082/167 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/620227_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/620227_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/620227_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "082/167",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[P] Strange Hacking\r\nYour opponent's Active Pokémon is now Confused. You may move any number of damage counters from your opponent's Pokémon to their other Pokémon in any way you like.",
+      "Attack 2": "[P] Psychic (10+)\r\nThis attack does 50 more damage for each Energy attached to your opponent's Active Pokémon.",
+      "Weakness": "Dx2",
+      "Resistance": "F-30",
+      "RetreatCost": "1",
+      "Artist": "Masaka Tomii",
+      "code": "082/167"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67846,
+    "name": "Alolan Dugtrio - 87/149 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/173106_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/173106_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/173106_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "087/149",
+      "Rarity": "Promo",
+      "Card Type": "Metal",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Ability — Tangling Hair</strong>\r\n<br>\r\nYour opponent's Active Pokémon's Retreat Cost is 1 Colorless more.",
+      "Attack 1": "[3] Dig Under\r\n<br>This attack does 50 damage to 1 of your opponent's Pokémon. This attack's damage isn't affected by Weakness or Resistance.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "Artist": "match",
+      "code": "087/149"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67840,
+    "name": "Alolan Golem - 42/145 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/173100_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/173100_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/173100_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "042/145",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "160",
+      "Stage": "Stage 2",
+      "Attack 1": "[2L] Electromagnetic Rock Wrecker (80x)\r\n<br>Flip a coin for each Lightning Energy attached to this Pokémon. This attack does 80 damage for each heads.",
+      "Attack 2": "[3L] Heavy Slam (200-)\r\n<br>This attack does 30 less damage for each Colorless in your opponent's Active Pokémon's Retreat Cost.",
+      "Weakness": "Fx2",
+      "Resistance": "M-20",
+      "RetreatCost": "4",
+      "Artist": "Shin Nagasawa",
+      "code": "042/145"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67844,
+    "name": "Alolan Muk - 58/149 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/173104_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/173104_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/173104_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "058/149",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Ability — Power of Alchemy</strong>\r\n<br>\r\nEach Basic Pokémon in play, in each player's hand, and in each player's discard pile has no Abilities.",
+      "Attack 1": "[2PP] Crunch (90)\r\n<br>Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.",
+      "Weakness": "Px2",
+      "RetreatCost": "4",
+      "Artist": "Hitoshi Ariga",
+      "code": "058/149"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67842,
+    "name": "Alolan Persian - 79/149 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/173102_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/173102_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/173102_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "079/149",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[0] Taunt\r\n<br>\r\nSwitch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
+      "Attack 2": "[D] Claw Rend (30+)\r\n<br>\r\nIf your opponent's Active Pokémon already has any damage counters on it, this attack does 30 more damage.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "Artist": "kirisAki",
+      "code": "079/149"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67870,
+    "name": "Ampharos - 40/124 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/216886_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/216886_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/216886_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "040/124",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Electromagnetic Wall\r\n<br>\r\nAs long as this Pokémon is your Active Pokémon, whenever your opponent attaches an Energy from his or her hand to 1 of his or her Pokémon, put 3 damage counters on that Pokémon.",
+      "Attack 1": "[2L] Electrobullet (70)\r\n<br>\r\nDoes 20 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Weakness": "Fx2",
+      "RetreatCost": "2",
+      "Artist": "Hajime Kusajima",
+      "code": "040/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67903,
+    "name": "Applin - 020/192 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/245146_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/245146_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/245146_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "020/192",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1G] Continuous Tumble (10+)\r\n<br>Flip a coin until you get tails. This attack does 30 more damage for each heads.",
+      "Weakness": "Rx2",
+      "RetreatCost": "1",
+      "Artist": "Mizue",
+      "code": "020/192"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67900,
+    "name": "Arcanine - 22/214 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/243855_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/243855_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/243855_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "022/214",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "140",
+      "Stage": "Stage 1",
+      "Attack 1": "[FFF] Grand Flame (120)\r\n<br>Attach 2 Fire Energy cards from your discard pile to 1 of your Benched Pokémon.",
+      "Attack 2": "[FFFF] Heat Tackle (190)\r\n<br>This Pokémon does 50 damage to itself.",
+      "Weakness": "Wx2",
+      "RetreatCost": "4",
+      "Artist": "Shin Nagasawa",
+      "code": "022/214"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67821,
+    "name": "Articuno - 27/99 (Next Destinies)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/147237_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/147237_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/147237_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "027/099",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "120",
+      "Stage": "Basic",
+      "Attack 1": "[2W] Ice Beam (50)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Attack 2": "[3W] Ice Wing (80)",
+      "Weakness": "Mx2",
+      "Resistance": "F-20",
+      "RetreatCost": "2",
+      "Artist": "Ryo Ueda",
+      "code": "027/099"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 321272,
+    "name": "Aurorus - 024/088 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/709694_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/709694_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/709694_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "024/088",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "170",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability: Tundra Wall</strong> All of your Pokémon that have any Water Energy attached take 50 less damage from attacks from your opponent's Pokémon <em>(after applying Weakness and Resistance)</em>. The effect of Tundra Wall doesn't stack.",
+      "Attack 1": "[WWC] Freezing Chill (150)<br> During your opponent's next turn, the Defending Pokémon can't use attacks.",
+      "Weakness": "Mx2",
+      "RetreatCost": "3",
+      "Artist": "HACCAN",
+      "code": "024/088"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67923,
+    "name": "Baxcalibur - 060/193 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/555880_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/555880_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/555880_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "060/193",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "160",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Super Cold</strong>\r\n<br>As often as you like during your turn, you may attach a Basic W Energy card from your hand to 1 of your Pokemon.",
+      "Attack 1": "[1WW] Buster Tail (130)",
+      "Weakness": "Mx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "060/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67834,
+    "name": "Beartic - 30/98 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/173090_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/173090_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/173090_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "030/098",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "130",
+      "Stage": "Stage 1",
+      "Attack 1": "[2W] Sheer Cold (50)\r\n<br>The Defending Pokémon can't attack during your opponent's next turn.",
+      "Attack 2": "[2WW] Icicle Crash (80)\r\n<br>This attack's damage isn't affected by Resistance.",
+      "Weakness": "Mx2",
+      "RetreatCost": "3",
+      "Artist": "Kouki Saitou",
+      "code": "030/098"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67835,
+    "name": "Beartic - 30/98 (Cracked Ice Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/173091_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/173091_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/173091_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "030/098",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "130",
+      "Stage": "Stage 1",
+      "Attack 1": "[2W] Sheer Cold (50)\r\n<br>The Defending Pokémon can't attack during your opponent's next turn.",
+      "Attack 2": "[2WW] Icicle Crash (80)\r\n<br>This attack's damage isn't affected by Resistance.",
+      "Weakness": "Mx2",
+      "RetreatCost": "3",
+      "Artist": "Kouki Saitou",
+      "code": "030/098"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67801,
+    "name": "Beheeyem - 62/99 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/91396_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/91396_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/91396_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "062/099",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[P] Brain Control\r\n<br>Your opponent reveals his or her hand. Choose a card from there and put it on the bottom of your opponent's deck.",
+      "Attack 2": "[2P] Psybeam (40)\r\n<br>The Defending Pokémon is now Confused.",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "Artist": "Kouki Saitou",
+      "code": "062/099"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67832,
+    "name": "Blastoise - 16/101 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/165634_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/165634_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/165634_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "016/101",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Deluge</strong>\r\n<br>\r\nAs often as you like during your turn <em>(before your attack)</em>, you may attach a Water Energy card from your hand to 1 of your Pokémon.",
+      "Attack 1": "[4] Hydro Pump (60+)\r\n<br>Does 10 more damage for each Water Energy attached to this Pokémon.",
+      "Weakness": "Gx2",
+      "RetreatCost": "4",
+      "Artist": "Satoshi Shirai",
+      "code": "016/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67837,
+    "name": "Boldore - 51/98 (Cracked Ice Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/173093_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/173093_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/173093_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "051/098",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1F] Smack Down (20+)\r\n<br>If the Defending Pokémon has Fighting Resistance, this attack does 60 more damage.",
+      "Attack 2": "[2FF] Power Gem (80)",
+      "Weakness": "Gx2",
+      "RetreatCost": "3",
+      "Artist": "Kouki Saitou",
+      "code": "051/098"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67919,
+    "name": "Chandelure - 20/99 (Cracked Ice Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/282145_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/282145_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/282145_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "020/099",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "Attack 1": "[R] Flame Burst (30)\r\n<br>Does 30 damage to 2 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Attack 2": "[1R] Inferno (80)\r\n<br>Discard all Energy attached to this Pokémon. The Defending Pokémon is now Burned.",
+      "Weakness": "Wx2",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "020/099"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67909,
+    "name": "Chandelure - 43/119 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/253847_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/253847_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/253847_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "043/119",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "130",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Fainting Spell</strong>\r\n<br>\r\nIf this Pokémon is Knocked Out by damage from an opponent's attack, flip a coin. If heads, the Attacking Pokémon is Knocked Out.",
+      "Attack 1": "[2P] Cursed Drop\r\n<br>Put 6 damage counters on your opponent's Pokémon in any way you like.",
+      "Weakness": "Mx2",
+      "Resistance": "F-20",
+      "RetreatCost": "2",
+      "Artist": "PLANETA",
+      "code": "043/119"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67872,
+    "name": "Charizard - 20/149 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/220119_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/220119_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/220119_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "020/149",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "160",
+      "Stage": "Stage 2",
+      "Attack 1": "[2R] Split Bomb\r\n<br>This attack does 40 damage to 2 of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Attack 2": "[4R] Scorching Fire (150)\r\n<br>Discard a Fire Energy attached to this Pokémon.",
+      "Weakness": "Wx2",
+      "RetreatCost": "3",
+      "Artist": "hatachu",
+      "code": "020/149"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67804,
+    "name": "Chesnaught - 14/146 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/141245_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/141245_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/141245_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "014/146",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "160",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Spiky Shield</strong>\r\n<br>If this Pokémon is your Active Pokémon and is damaged by an opponent's attack <em>(even if this Pokémon is Knocked Out)</em>, put 3 damage counters on the Attacking Pokémon.",
+      "Attack 1": "[2GG] Touchdown (90)\r\n<br>Heal 20 damage from this Pokémon.",
+      "Weakness": "Rx2",
+      "RetreatCost": "4",
+      "Artist": "5ban Graphics",
+      "code": "014/146"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 330694,
+    "name": "Cinderace - 028/132 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/716728_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/716728_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/716728_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "028/132",
+      "Rarity": "Rare",
+      "Card Type": "Fire",
+      "HP": "160",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability: Explosiveness</strong> If this Pokmon is in your hand when you are setting up to play, you may put it face down in the Active Spot.",
+      "Attack 1": "[C] Turbo Flare (50)<br> Search your deck for up to 3 Basic Energy cards and attach them to your Benched Pokemon in any way you like. Then, shuffle your deck.",
+      "Weakness": "Wx2",
+      "RetreatCost": "0",
+      "Artist": "REND",
+      "code": "028/132"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67890,
+    "name": "Cobalion - 84/101 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/227474_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/227474_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/227474_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "084/101",
+      "Rarity": "Promo",
+      "Card Type": "Metal",
+      "HP": "120",
+      "Stage": "Basic",
+      "Attack 1": "[1M] Energy Press (20+)\r\n<br>Does 20 more damage for each Energy attached to the Defending Pokémon.",
+      "Attack 2": "[1MM] Iron Breaker (80)\r\n<br>The Defending Pokémon can't attack during your opponent's next turn.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "084/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67881,
+    "name": "Copperajah - 137/202 (Non-Holo Gamestop Exclusive)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/222223_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/222223_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/222223_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "137/202",
+      "Rarity": "Promo",
+      "Card Type": "Metal",
+      "HP": "190",
+      "Stage": "Stage 1",
+      "Attack 1": "[MM] Dig Drain (60)\r\n<br>Heal 30 damage from this Pokémon.",
+      "Attack 2": "[MMM] Muscular Nose (220)\r\n<br>If this Pokémon has 8 or more damage counters on it, this attack does nothing.",
+      "Weakness": "Rx2",
+      "Resistance": "G-30",
+      "RetreatCost": "4",
+      "Artist": "Hitoshi Ariga",
+      "code": "137/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67841,
+    "name": "Crobat - 56/149 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/173101_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/173101_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/173101_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "056/149",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "130",
+      "Stage": "Stage 2",
+      "Attack 1": "[P] Triple Poison\r\n<br>Your opponent's Active Pokémon is now Poisoned. Put 3 damage counters instead of 1 on that Pokémon between turns.",
+      "Attack 2": "[3] Surprise Strike (60+)\r\n<br>If this Pokémon was on the Bench and became your Active Pokémon this turn, this attack does 60 more damage.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "Artist": "DemizuPosuka",
+      "code": "056/149"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67803,
+    "name": "Dartrix - 10/149 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/133823_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/133823_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/133823_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "010/149",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Sharp Blade Quill\r\n<br>This attack does 20 damage to 1 of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Attack 2": "[2G] Leaf Blade (50+)\r\n<br>Flip a coin. If heads, this attack does 20 more damage.",
+      "Weakness": "Rx2",
+      "RetreatCost": "1",
+      "Artist": "Mizue",
+      "code": "010/149"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67805,
+    "name": "Delphox - 26/146 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/141246_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/141246_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/141246_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "026/146",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Mystical Fire</strong>\r\n<br>Once during your turn <em>(before your attack)</em>, you may draw cards until you have 6 cards in your hand.",
+      "Attack 1": "[3] Blaze Ball (50+)\r\n<br>\r\nThis attack does 20 more damage for each Fire Energy attached to this Pokémon.",
+      "Weakness": "Wx2",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "026/146"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67894,
+    "name": "Dragonite - 5/20 (Dragon Vault)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/233835_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/233835_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/233835_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "005/020",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "Attack 1": "[2L] Hyper Beam (50)\r\n<br>\r\nFlip a coin. If heads, discard an Energy attached to the Defending Pokémon.",
+      "Attack 2": "[3G] Hurricane Tail (60x)\r\n<br>\r\nFlip 4 coins. This attack does 60 damage times the number of heads.",
+      "Weakness": "Ox2",
+      "RetreatCost": "3",
+      "Artist": "Mitsuhiro Arita",
+      "code": "005/020"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67828,
+    "name": "Dragonite - 83/116 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/153312_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/153312_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/153312_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "083/116",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "Attack 1": "[3] Deafen (60)\r\n<br>Your opponent can't play any Item cards from his or her hand during his or her next turn.",
+      "Attack 2": "[2GL] Healwing (90)\r\n<br>Heal 30 damage from this Pokémon.",
+      "Weakness": "Ox2",
+      "RetreatCost": "3",
+      "Artist": "Akira Komayama",
+      "code": "083/116"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67819,
+    "name": "Druddigon - 17/20 (Dragon Vault)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/145868_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/145868_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/145868_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "017/020",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "110",
+      "Stage": "Basic",
+      "Attack 1": "[2] Tight Jaw (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Attack 2": "[1RW] Dragon Tail (80x)\r\n<br>Flip 2 coins. This attack does 80 damage times the number of heads.",
+      "Weakness": "Ox2",
+      "RetreatCost": "2",
+      "Artist": "kawayoo",
+      "code": "017/020"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67858,
+    "name": "Druddigon - 70/106(Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/179082_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/179082_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/179082_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "070/106",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "110",
+      "Stage": "Basic",
+      "Attack 1": "[2] Revenge (20+)\r\n<br>\r\nIf any of your Pokémon were Knocked Out by damage from an opponent's attack during his or her last turn, this attack does 70 more damage.",
+      "Attack 2": "[2RW] Dragon Claw (80)",
+      "Weakness": "Yx2",
+      "RetreatCost": "2",
+      "Artist": "Ryota Murayama",
+      "code": "070/106"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67831,
+    "name": "Dusknoir - 63/149 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/165633_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/165633_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/165633_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "063/149",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "130",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Sinister Hand</strong>\r\n<br>\r\nAs often as you like during your turn <em>(before your attack)</em>, you may move 1 damage counter from 1 of your opponent's Pokémon to another of your opponent's Pokémon.",
+      "Attack 1": "[3P] Shadow Punch (60)\r\n<br>This attack's damage isn't affected by Resistance.",
+      "Weakness": "Dx2",
+      "RetreatCost": "3",
+      "Artist": "kawayoo",
+      "code": "063/149"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67850,
+    "name": "Eelektross - 65/160 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/173111_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/173111_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/173111_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "065/160",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Energy Connect</strong>\r\n<br>\r\n<em>They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.</em>",
+      "Attack 1": "[2LL] Electricannon (80+)\r\n<br>You may discard all Lightning Energy attached to this Pokémon. If you do, this attack does 50 more damage.",
+      "Weakness": "Fx2",
+      "Resistance": "M-20",
+      "RetreatCost": "3",
+      "Artist": "Mitsuhiro Arita",
+      "code": "065/160"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 328527,
+    "name": "Eevee - 116/128",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/714357_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/714357_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/714357_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "116/128",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[C] Fetch and Hide\r\n<br>Your opponent reveals their hand, and you put an Item card you find there on the bottom of your opponent's deck.",
+      "Attack 2": "[C] Tackle (10)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Wintr Wandr",
+      "code": "116/128"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 331654,
+    "name": "Eevee - 116/128 (30th Celebration)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/717879_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/717879_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/717879_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "116/128",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[C] Fetch and Hide\r\n<br>Your opponent reveals their hand, and you put an Item card you find there on the bottom of your opponent's deck.",
+      "Attack 2": "[C] Tackle (10)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Wintr Wandr",
+      "code": "116/128"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67879,
+    "name": "Electivire - 54/149 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/221300_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/221300_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/221300_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "054/149",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "Attack 1": "[2L] Electriwave\r\n<br>\r\nThis attack does 30 damage to each of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Attack 2": "[3L] Shock Wave (80)\r\n<br>\r\nThis attack's damage isn't affected by Resistance.",
+      "Weakness": "Fx2",
+      "RetreatCost": "3",
+      "Artist": "BERUBURI",
+      "code": "054/149"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67883,
+    "name": "Emboar - 26/149 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/227085_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/227085_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/227085_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "026/149",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "Attack 1": "[2R] Firebreathing (40+)\r\n<br>\r\nFlip a coin. If heads, this attack does 30 more damage.",
+      "Attack 2": "[2RR] Fire Blast (120)\r\n<br>\r\nDiscard an Energy attached to this Pokémon.",
+      "Weakness": "Wx2",
+      "RetreatCost": "4",
+      "Artist": "Shin Nagasawa",
+      "code": "026/149"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67833,
+    "name": "Entei - 14/98 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/170833_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/170833_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/170833_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "014/098",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "120",
+      "Stage": "Basic",
+      "Attack 1": "[1] Burning Roar\r\n<br>Discard the top 4 cards of your deck. If any of those cards are Fire Energy cards, attach them to your Pokémon in any way you like.",
+      "Attack 2": "[RR] Combat Blaze (20+)\r\n<br>This attack does 20 more damage for each of your opponent's Benched Pokémon.",
+      "Weakness": "Wx2",
+      "RetreatCost": "2",
+      "Artist": "Naoki Saito",
+      "code": "014/098"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67892,
+    "name": "Espeon - 89/214 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/229577_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/229577_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/229577_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "089/214",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Allure\r\n<br>Draw 3 cards.",
+      "Attack 2": "[P] Energy Crush (20+)\r\n<br>This attack does 20 more damage times the amount of Energy attached to all of your opponent’s Pokémon.",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "Artist": "Ryota Murayama",
+      "code": "089/214"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67839,
+    "name": "Excadrill - 56/98 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/173097_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/173097_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/173097_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "056/098",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Metal Claw (30)",
+      "Attack 2": "[FFF] Drill Run (80)\r\n<br>Discard an Energy attached to the Defending Pokémon.",
+      "Weakness": "Wx2",
+      "Resistance": "L-20",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "056/098"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67806,
+    "name": "Feraligatr - 17/119 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/141247_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/141247_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/141247_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "017/119",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "Attack 1": "[2W] Hyper Whirlpool (60)\r\n<br>Flip a coin until you get tails. For each heads, discard an Energy attached to your opponent's Active Pokémon.",
+      "Attack 2": "[2WW] Second Strike (80+)\r\n<br>If your opponent's Active Pokémon already has any damage counters on it, this attack does 80 more damage.",
+      "Weakness": "Gx2",
+      "RetreatCost": "3",
+      "Artist": "Shin Nagasawa",
+      "code": "017/119"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 232160,
+    "name": "Flygon - 053/094 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/696232_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/696232_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/696232_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "053/094",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability: Sandy Flapping</strong> Once during your turn, when you play this Pokemon from your hand to evolve 1 of your Pokemon, you may use this Ability. You may also use this Ability if this Pokemon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokemon. Discard the top 2 cards of your opponent's deck.",
+      "Attack 1": "[FF] Cutting Wind (130)",
+      "Weakness": "Gx2",
+      "RetreatCost": "1",
+      "Artist": "Jerky",
+      "code": "053/094"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67851,
+    "name": "Flygon - 110/160 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/173112_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/173112_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/173112_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "110/160",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Sand Flap</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may choose either player. That player shuffles his or her hand into his or her deck and draws 4 cards.",
+      "Attack 1": "[1GF] Sand Tomb (80)\r\n<br>The Defending Pokémon can't retreat during your opponent's next turn.",
+      "Weakness": "Yx2",
+      "RetreatCost": "1",
+      "Artist": "kirisAki",
+      "code": "110/160"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67829,
+    "name": "Furfrou - 114/146 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/164178_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/164178_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/164178_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "114/116",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "90",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Fur Coat</strong>\r\n<br>\r\nAny damage done to this Pokémon by attacks is reduced by 20 <em>(after applying Weakness and Resistance)</em>.",
+      "Attack 1": "[3] Energy Cutoff (80)\r\n<br>Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "5ban Graphics",
+      "code": "114/116"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67814,
+    "name": "Gallade - 61/135 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/144668_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/144668_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/144668_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "061/135",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[2] Powerful Storm (20x)\r\n<br>\r\nDoes 20 damage times the amount of Energy attached to all of your Pokémon.",
+      "Attack 2": "[2P] Swift Lunge (80)\r\n<br>\r\nYour opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon.",
+      "Weakness": "Px2",
+      "RetreatCost": "2",
+      "Artist": "kawayoo",
+      "code": "061/135"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67869,
+    "name": "Gallade - 84/162 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/216754_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/216754_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/216754_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "084/162",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Premonition</strong>\r\n<br>Once during your turn <em>(before your attack)</em>, you may look at the top 5 cards in your deck and put them back on top of your deck in any order.",
+      "Attack 1": "[2] Sensitive Blade (60+)\r\n<br>If you played any Supporter card from your hand during your turn, this attack does an additional 70 damage.",
+      "Weakness": "Px2",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "084/162"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67830,
+    "name": "Garchomp - 91/124 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/164208_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/164208_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/164208_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "091/124",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[1] Jet Headbutt (40)",
+      "Attack 2": "[1WF] Sand Tomb (80)\r\n<br>The Defending Pokémon can't retreat during your opponent's next turn.",
+      "Weakness": "Ox2",
+      "RetreatCost": "0",
+      "Artist": "Naoki Saito",
+      "code": "091/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67880,
+    "name": "Gardevoir - 54/98 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/221301_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/221301_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/221301_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "054/098",
+      "Rarity": "Promo",
+      "Card Type": "Fairy",
+      "HP": "130",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Bright Heal</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may heal 20 damage from each of your Pokémon.",
+      "Attack 1": "[3] Telekinesis\r\n<br>This attack does 50 damage to 1 of your opponent's Pokémon. This attack's damage isn't affected by Weakness or Resistance.",
+      "Weakness": "Mx2",
+      "Resistance": "D-20",
+      "RetreatCost": "2",
+      "Artist": "TOKIYA",
+      "code": "054/098"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67925,
+    "name": "Garganacl (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556981_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556981_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556981_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "123/193",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "180",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Blessed Salt</strong>                                          \r\n<br>During Pokémon Check Up, heal 20 damage from each of your Pokémon.",
+      "Attack 1": "[FF] Knocking Hammer (130)\r\n<br>Discard the top card of your opponent's deck.",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "Artist": "Anesaki Dynamic",
+      "code": "123/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 321274,
+    "name": "Gengar - 050/088 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/709697_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/709697_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/709697_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "050/088",
+      "Rarity": "Rare",
+      "Card Type": "Darkness",
+      "HP": "130",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability: Infinite Shadow</strong> If this Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, put it into your hand instead of the discard pile. <em>(Discard all attached cards.)</em>",
+      "Attack 1": "[D] Mind Jack (10+)<br> This attack does 30 more damage for each of your opponent's Benched Pokémon.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Masako Tomii",
+      "code": "050/088"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67838,
+    "name": "Gigalith - 53/98 (Cracked Ice Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/173094_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/173094_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/173094_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "053/098",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[F] Shear\r\n<br>\r\nDiscard the top 5 cards of your deck. If any of those cards are Fighting Energy cards, attach them to this Pokémon.",
+      "Attack 2": "[4] Rock Bullet (40+)\r\n<br>\r\nDoes 20 more damage for each Fighting Energy attached to this Pokémon.",
+      "Weakness": "Gx2",
+      "RetreatCost": "4",
+      "Artist": "Naoki Saito",
+      "code": "053/098"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67843,
+    "name": "Gigalith - 71/149 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/173103_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/173103_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/173103_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "071/149",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "160",
+      "Stage": "Stage 2",
+      "Attack 1": "[1F] Rock Artillery (50x)\r\n<br>\r\nDiscard any amount of Fighting Energy from your Pokémon. This attack does 50 damage for each card you discarded in this way.",
+      "Attack 2": "[2FF] Rock Tumble (120)\r\n<br>\r\nThis attack's damage isn't affected by Resistance.",
+      "Weakness": "Gx2",
+      "RetreatCost": "4",
+      "Artist": "Eske Yoshinob",
+      "code": "071/149"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67891,
+    "name": "Giratina - 97/214 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/228537_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/228537_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/228537_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "097/214",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "130",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Distortion Door</strong>\r\n<br>Once during your turn <em>(before your attack)</em>, if this Pokémon is in your discard pile, you may put it onto your Bench. If you do, put 1 damage counter on 2 of your opponent's Benched Pokémon.",
+      "Attack 1": "[1PP] Shadow Impact (130)\r\n<br>Put 4 damage counters on 1 of your Pokémon.",
+      "Weakness": "Dx2",
+      "Resistance": "F-20",
+      "RetreatCost": "3",
+      "Artist": "Hasuno",
+      "code": "097/214"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67896,
+    "name": "Gliscor - 4/90 (Cracked Ice Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/234310_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/234310_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/234310_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "004/090",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[F] Ninja Fang (30)\r\n<br>\r\nIf, before Gliscor does damage, the Defending Pokémon has no damage counters on it and is then damaged by this attack <em>(after applying Weakness and Resistance)</em>, the Defending Pokémon is now Paralyzed.",
+      "Attack 2": "[2F] Poison Jab (50)\r\n<br>\r\nThe Defending Pokémon is now Poisoned.",
+      "Weakness": "Wx2",
+      "Resistance": "L-20",
+      "RetreatCost": "1",
+      "Artist": "Naoki Saito",
+      "code": "004/090"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67912,
+    "name": "Gogoat - 19/146 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/257485_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/257485_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/257485_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "019/146",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Lead\r\n<br>\r\nSearch your deck for up to 2 Supporter cards, reveal them, and put them into your hand. Shuffle your deck afterward.",
+      "Attack 2": "[2G] Charge Dash (70+)\r\n<br>\r\nYou may do 20 more damage. If you do, this Pokémon does 20 damage to itself.",
+      "Weakness": "Rx2",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "019/146"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67867,
+    "name": "Golisopod - 51/236 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/216741_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/216741_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/216741_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "051/236",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "140",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Ability — Emergency Exit</strong>\r\n<br>If this Pokémon has 2 or fewer Energy attached to it, it has no Retreat Cost.",
+      "Attack 1": "[3W] First Impression (120+)\r\n<br>If this Pokémon was on the Bench and became your Active Pokémon this turn, this attack does 60 more damage.",
+      "Weakness": "Gx2",
+      "RetreatCost": "4",
+      "Artist": "Masakazu Fukuda",
+      "code": "051/236"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67853,
+    "name": "Goodra - 77/119 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/173114_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/173114_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/173114_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "077/119",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Abillity — Slip Trip</strong>\r\n<br>Each player can't attach any Pokémon Tool cards from his or her hand to any of his or her Pokémon.",
+      "Attack 1": "[2WY] Dragon Pulse (130)\r\n<br>Discard the top card of your deck.",
+      "Weakness": "Yx2",
+      "RetreatCost": "3",
+      "Artist": "5ban Graphics",
+      "code": "077/119"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67807,
+    "name": "Greninja - 41/146 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/141248_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/141248_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/141248_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "041/146",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "130",
+      "Stage": "Stage 2",
+      "CardText": "<strongAbility — Water Shuriken</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may discard a Water Energy card from your hand. If you do, put 3 damage counters on 1 of your opponent's Pokémon.",
+      "Attack 1": "[W] Mist Slash (50)\r\n<br>This attack's damage isn't affected by Weakness, Resistance, or any other effects on your opponent's Active Pokémon.",
+      "Weakness": "Gx2",
+      "RetreatCost": "1",
+      "Artist": "5ban Graphics",
+      "code": "041/146"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67862,
+    "name": "Grookey - 010/202 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/212994_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/212994_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/212994_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "010/202",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Fury Swipes (10x)\r\n<br>Flip 3 coins. This attack does 10 damage for each heads.",
+      "Weakness": "Rx2",
+      "RetreatCost": "1",
+      "Artist": "Naoki Saito",
+      "code": "010/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67859,
+    "name": "Gyarados - 24/124 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/180722_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/180722_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/180722_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "024/124",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "130",
+      "Stage": "Stage 1",
+      "Attack 1": "[2W] Sharp Fang (60)",
+      "Attack 2": "[3W] Swing Around (60+)\r\n<br>Flip 2 coins. This attack does 30 more damage for each heads.",
+      "Weakness": "Lx2",
+      "RetreatCost": "3",
+      "Artist": "Mizue",
+      "code": "024/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67907,
+    "name": "Gyarados - 33/147 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250573_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250573_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250573_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "033/147",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "150",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Venting Anger (50x)\r\n<br>This attack does 50 damage for each Magikarp in your discard pile.",
+      "Attack 2": "[2WW] Splash Burn (160)\r\n<br>This attack does 30 damage to each of your Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Weakness": "Lx2",
+      "RetreatCost": "4",
+      "Artist": "so-taro",
+      "code": "033/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67808,
+    "name": "Hawlucha - 63/111 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/141251_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/141251_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/141251_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "063/111",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Shining Spirit</strong>\r\n<br>Damage from this Pokémon's attacks isn't affected by Weakness or Resistance.",
+      "Attack 1": "[F] Flying Press (60)\r\n<br>If your opponent's Active Pokémon isn't a Pokémon-EX, this attack does nothing.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "0",
+      "Artist": "5ban Graphics",
+      "code": "063/111"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67818,
+    "name": "Haxorus - 16/20 (Dragon Vault)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/145867_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/145867_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/145867_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "016/020",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[2] Axe Slugger (60+)\r\n<br>If the Defending Pokémon is a Colorless Pokémon, this attack does 60 more damage.",
+      "Attack 2": "[2FM] Dragon Pulse (100)\r\n<br>Discard the top card of your deck.",
+      "Weakness": "Ox2",
+      "RetreatCost": "2",
+      "Artist": "Eske Yoshinob",
+      "code": "016/020"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67809,
+    "name": "Haxorus - 69/101 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/141252_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/141252_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/141252_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "069/101",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[M] Dragonaxe (40x)\r\n<br>Does 40 times the amount of Metal Energy attached to this Pokémon.",
+      "Attack 2": "[FM] Strike of the Champion\r\n<br>If the Defending Pokémon is a Team Plasma Pokémon, it is Knocked Out. (If the Defending Pokémon is not a Team Plasma Pokémon, this attack does nothing.)",
+      "Weakness": "Ox2",
+      "RetreatCost": "2",
+      "Artist": "Kouki Saitou",
+      "code": "069/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67928,
+    "name": "Hisuian Arcanine - 100/167 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/616142_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/616142_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/616142_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "100/167",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "130",
+      "Stage": "Stage 1",
+      "Attack 1": "[0] Proud Fangs (30+)\r\nIf your Benched Pokémon have any damage counters on them, this attack does 90 more damage.",
+      "Attack 2": "[FFC] Searing Flame (90)\r\nYour opponent's Active Pokémon is now Burned.",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "SIE NANAHARA",
+      "code": "100/167"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67921,
+    "name": "Houndstone - 042 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/535897_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/535897_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/535897_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "042",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "130",
+      "Stage": "Stage 1",
+      "CardText": "(2) Delve <br>\r\nPut up to 2 Item cards from your discard pile into your hand,",
+      "Attack 1": "(2P) Spooky Shot (100)",
+      "Weakness": "Mx2",
+      "Resistance": "F-30",
+      "RetreatCost": "3",
+      "code": "042"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67924,
+    "name": "Hydreigon (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/556978_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/556978_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/556978_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "140/193",
+      "Rarity": "Rare",
+      "Card Type": "Dark",
+      "HP": "180",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Tri Howl</strong>                                          \r\n<br>Once during your turn, you may look at the top 3 cards of your deck. Attach any number of Energy cards you find there to your Pokémon in any way you like. Discard the other cards.",
+      "Attack 1": "[1DD] Dark Cutter (160)",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "Artist": "Teeziro",
+      "code": "140/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67852,
+    "name": "Hydreigon - 074/119 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/173113_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/173113_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/173113_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "074/119",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Dark Impulse</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may attach a Darkness Energy card from your discard pile to your Active Pokémon.",
+      "Attack 1": "[2PD] Crazy Headbutt (130)\r\n<br>Discard an Energy attached to this Pokémon.",
+      "Weakness": "Yx2",
+      "RetreatCost": "3",
+      "Artist": "5ban Graphics",
+      "code": "074/119"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67887,
+    "name": "Hydreigon - 98/124 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/227089_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/227089_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/227089_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "098/124",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "Attack 1": "[2D] Consume (40)\r\n<br>\r\nHeal from this Pokémon the same amount of damage you did to the Defending Pokémon.",
+      "Attack 2": "[2PD] Destructor Beam (90)\r\n<br>\r\nFlip a coin. If heads, discard an Energy attached to the Defending Pokémon.",
+      "Weakness": "Ox2",
+      "RetreatCost": "3",
+      "Artist": "Naoki Saito",
+      "code": "098/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67865,
+    "name": "Klang - 75/114 (Cracked Ice Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/213005_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/213005_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/213005_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "075/114",
+      "Rarity": "Promo",
+      "Card Type": "Metal",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[M] Bind (10)\r\n<br>\r\nFlip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Attack 2": "[2M] Gear Grind (60x)\r\n<br>\r\nFlip 2 coins. This attack does 60 damage times the number of heads.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "Artist": "Naoki Saito",
+      "code": "075/114"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67820,
+    "name": "Klink - 74/114 (Cracked Ice Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/146704_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/146704_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/146704_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "074/114",
+      "Rarity": "Promo",
+      "Card Type": "Metal",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[M] Bind (10)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "Artist": "Masakazu Fukuda",
+      "code": "074/114"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67866,
+    "name": "Klinklang - 76/114 (Cracked Ice Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/213006_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/213006_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/213006_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "076/114",
+      "Rarity": "Promo",
+      "Card Type": "Metal",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Shift Gear</strong>\r\n<br>As often as you like during your turn <em>(before your attack)</em>, You may move a Metal Energy attached to 1 of your Pokémon to another of your Pokémon.",
+      "Attack 1": "[2M] Gear Grind (80x)\r\n<br>\r\nFlip 2 coins. This attack does 80 damage times the number of heads.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "3",
+      "Artist": "5ban Graphics",
+      "code": "076/114"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67905,
+    "name": "Krookodile - 65/114 (Cracked Ice Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/247288_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/247288_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/247288_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "065/114",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[2] Torment (30)\r\n<br>Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn.",
+      "Attack 2": "[2FF] Krookoroll (60+)\r\n<br>If the Defending Pokémon already has any damage counters on it, this attack does 40 more damage.",
+      "Weakness": "Wx2",
+      "Resistance": "L-20",
+      "RetreatCost": "3",
+      "Artist": "Masakazu Fukuda",
+      "code": "065/114"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67875,
+    "name": "Krookodile - 66/108 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/220179_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/220179_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/220179_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "066/108",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "Attack 1": "[2D] Dark Clamp (60)\r\n<br>The Defending Pokémon can't retreat during your opponent's next turn.",
+      "Attack 2": "[2DD] Bombast (40x)\r\n<br>Does 40 damage times the number of Prize cards you have taken.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "3",
+      "Artist": "5ban Graphics",
+      "code": "066/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67916,
+    "name": "Landorus - 148/264 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/266914_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/266914_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/266914_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "148/264",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "120",
+      "Stage": "Basic",
+      "Attack 1": "[1] Strafe (20)\r\n<br>You may switch this Pokémon with 1 of your Benched Pokémon.",
+      "Attack 2": "[1FF] Earthen Boom (120)\r\n<br>Move all Energy from this Pokémon to your Benched Pokémon in any way you like.",
+      "Weakness": "Gx2",
+      "RetreatCost": "1",
+      "Artist": "NC Empire",
+      "code": "148/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67815,
+    "name": "Latias - 9/20 (Dragon Vault)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/145864_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/145864_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/145864_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "009/020",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[1] Energy Assist\r\n<br>\r\nAttach a basic Energy card from your discard pile to 1 of your Benched Pokémon.",
+      "Attack 2": "[RP] Sky Heal (40)\r\n<br>\r\nIf Latios is on your Bench, heal 20 damage from this Pokémon.",
+      "Weakness": "Ox2",
+      "RetreatCost": "1",
+      "Artist": "Hideaki Hakozaki",
+      "code": "009/020"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67816,
+    "name": "Latios - 10/20 (Dragon Vault)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/145865_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/145865_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/145865_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "010/020",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[1W] Sky Blade (20+)\r\n<br>If Latias is on your Bench, this attack does 20 more damage.",
+      "Attack 2": "[2P] Speed Wing (60)",
+      "Weakness": "Ox2",
+      "RetreatCost": "1",
+      "Artist": "Ryo Ueda",
+      "code": "010/020"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67873,
+    "name": "Lucario - 64/99 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/220120_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/220120_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/220120_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "064/099",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Ability — Reflexive Retaliation</strong>\r\n<br>If this Pokémon is your Active Pokémon and is damaged by an opponent's attack <em>(even if this Pokémon is Knocked Out)</em>, put 2 damage counters on the Attacking Pokémon.",
+      "Attack 1": "[FF] Aura Sphere (50)\r\n<br>Does 20 damage to 1 of your opponent's Benched Pokémon. <em> (Don't apply Weakness and Resistance for Benched Pokemon.)</em>",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "Artist": "Naoki Saito",
+      "code": "064/099"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 321273,
+    "name": "Luxray - 028/088 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/709696_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/709696_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/709696_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "028/088",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "Attack 1": "[LC] Incessant Onslaught (70x)<br> This attack does 70 damage for each Prize card you have taken.",
+      "Attack 2": "[LLC] Strong Volt (200)<br> Discard 2 Energy from this Pokémon.",
+      "Weakness": "Fx2",
+      "RetreatCost": "0",
+      "Artist": "Taiga Kasai",
+      "code": "028/088"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67878,
+    "name": "Luxray - 46/99 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/220184_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/220184_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/220184_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "046/099",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[L] Flash Impact (60\r\n<br>\r\nDoes 20 damage to 1 of your Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Attack 2": "[1LL] Crunch (80)\r\n<br>\r\nFlip a coin. If heads, discard an Energy attached to the Defending Pokémon.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Shin Nagasawa",
+      "code": "046/099"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67877,
+    "name": "Luxray - 46/99 (Cracked Ice Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/220183_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/220183_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/220183_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "046/099",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[L] Flash Impact (60\r\n<br>\r\nDoes 20 damage to 1 of your Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Attack 2": "[1LL] Crunch (80)\r\n<br>\r\nFlip a coin. If heads, discard an Energy attached to the Defending Pokémon.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Shin Nagasawa",
+      "code": "046/099"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67810,
+    "name": "Machamp - 46/111 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/141253_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/141253_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/141253_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "046/111",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability -— Fighting Fury</strong>\r\n<br>Each of your Fighting Pokémon's attacks do 20 more damage to your opponent's Active Pokémon <em>(before applying Weakness and Resistance).</em>",
+      "Attack 1": "[FFF] Machamp Crush (80)\r\n<br>During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 40<em> (before applying Weakness and Resistance)</em>.",
+      "Weakness": "Px2",
+      "RetreatCost": "2",
+      "Artist": "PLANETA",
+      "code": "046/111"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67910,
+    "name": "Machamp - 49/101 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/256834_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/256834_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/256834_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "049/101",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Badge of Discipline</strong>\r\n<br>\r\nThe damage of each of your Fighting Pokémon's attacks isn't affected by Resistance.",
+      "Attack 1": "[3F] Close Combat (120)\r\n<br>Flip a coin. If tails, during your opponent's next turn, any damage done to this Pokémon by attacks is increased by 30 <em>(after applying Weakness and Resistance)</em>.",
+      "Weakness": "Px2",
+      "RetreatCost": "3",
+      "Artist": "Naoki Saito",
+      "code": "049/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67899,
+    "name": "Machamp - 65/145 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/238635_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/238635_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/238635_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "065/145",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "160",
+      "Stage": "Stage 2",
+      "Attack 1": "[FF] Settle the Score (20+)\r\n<br>This attack does 80 more damage for each Prize card your opponent took on their last turn.",
+      "Attack 2": "[FFF] Submission (150)\r\n<br>This Pokémon does 30 damage to itself.",
+      "Weakness": "Px2",
+      "RetreatCost": "3",
+      "Artist": "Hitoshi Ariga",
+      "code": "065/145"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 328524,
+    "name": "Marshadow - 040/084 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/714065_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/714065_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/714065_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "040/084",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[P] Shadowy Knot (30x)<br> This attack does 30 damage for each Retreat Cost.",
+      "Weakness": "Dx2",
+      "Resistance": "F-30",
+      "RetreatCost": "1",
+      "Artist": "Nakamura Ippan",
+      "code": "040/084"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67811,
+    "name": "Meganium - 3/122 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/141254_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/141254_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/141254_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "003/122",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Overgrow</strong>\r\n<br>If this Pokémon's HP is 50 or less, its attacks do 70 more damage to your opponent's Active Pokémon <em>(before applying Weakness and Resistance)</em>.",
+      "Attack 1": "[1GG] Green Force (50)\r\n<br>Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon.",
+      "Weakness": "Rx2",
+      "RetreatCost": "3",
+      "Artist": "kawayoo",
+      "code": "003/122"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67913,
+    "name": "Melmetal - 129/214 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/264434_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/264434_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/264434_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "129/214",
+      "Rarity": "Promo",
+      "Card Type": "Metal",
+      "HP": "150",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Ability — Metal Eater</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack)</em>, you may discard a Metal Pokémon from your hand. If you do, heal 100 damage from this Pokémon.",
+      "Attack 1": "[3M] Heavy Impact (130)",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "4",
+      "Artist": "Kouki Saitou",
+      "code": "129/214"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 328526,
+    "name": "Meowth - 113/128",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/714356_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/714356_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/714356_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "113/128",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[CC] Pay Day (30)\r\n<br>Draw a card.",
+      "Weakness": "Dx2",
+      "RetreatCost": "1",
+      "Artist": "MINAMINAMI Take",
+      "code": "113/128"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67825,
+    "name": "Metagross - 7/147 (Cracked Ice Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/153240_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/153240_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/153240_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "007/147",
+      "Rarity": "Promo",
+      "Card Type": "Metal",
+      "HP": "130",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Poké-BODY — Gravitation </strong>\r\n<br>Each Pokémon in play <em>(both yours and your opponent's)</em> gets -20 HP.  No more than 20 HP can be reduced by all Gravitation Poké-Bodies.",
+      "Attack 1": "[1MM] Geo Impact (60)\r\n<br>If you have a Stadium card in play, this attack does 20 damage to each of your opponent's Benched Pokémon that is the same type as the Defending Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Weakness": "R+30",
+      "Resistance": "P-20",
+      "RetreatCost": "3",
+      "Artist": "Kagemaru Himeno",
+      "code": "007/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67901,
+    "name": "Milotic - 28/124 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/244725_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/244725_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/244725_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "028/124",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "Attack 1": "[W] Clear Search\r\n<br>Search your deck for any 3 cards and put them into your hand. Shuffle your deck afterward.",
+      "Attack 2": "[2W] Water Pulse (60)\r\n<br>\r\nThe Defending Pokémon is now Asleep.",
+      "Weakness": "Lx2",
+      "RetreatCost": "1",
+      "Artist": "Mizue",
+      "code": "028/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67822,
+    "name": "Moltres - 14/99 (Next Destinies)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/147238_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/147238_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/147238_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "014/099",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "120",
+      "Stage": "Basic",
+      "Attack 1": "[2R] Searing Flame (50)\r\n<br>The Defending Pokémon is now Burned.",
+      "Attack 2": "[3R] Fire Blast (90)\r\n<br>Discard a Fire Energy attached to this Pokémon.",
+      "Weakness": "Wx2",
+      "Resistance": "F-20",
+      "RetreatCost": "2",
+      "Artist": "Ryo Ueda",
+      "code": "014/099"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67914,
+    "name": "Ninetales - 7/123 (Cracked Ice)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/264837_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/264837_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/264837_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "007/123",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "CardText": "<em>(All copies of this card were misprinted with the Undaunted set symbol.)</em>\r\n<br><br>\r\n<strong>Ability — Roast Reveal</strong>\r\n<br>\r\nOnce during your turn <em>(before your attack), you may discard a Fire Energy card from your hand. If you do, draw 3 cards. This power can't be used if Ninetales is affected by a Special Condition.",
+      "Attack 1": "[1RR] Will-o'-the-wisp (60)",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "Artist": "TOKIYA",
+      "code": "007/123"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67857,
+    "name": "Noivern - 77/111 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/179081_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/179081_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/179081_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "077/111",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Ability — Echolocation</strong>\r\n<br>If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage.",
+      "Attack 1": "[1PD] Boomburst\r\n<br>\r\nThis attack does 30 damage to each of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "5ban Graphics",
+      "code": "077/111"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 232161,
+    "name": "Pawmot - 034/094 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/696233_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/696233_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/696233_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "034/094",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[LL] Voltaic Fist (130)<br> You may have this Pokemon also do 60 damage to itself and make your opponent's Active Pokemon Paralyzed.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "satoma",
+      "code": "034/094"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67898,
+    "name": "Persian - 81/99 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/237574_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/237574_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/237574_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "081/099",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Nasty Plot\r\n<br>\r\nSearch your deck for a card and put it into your hand. Shuffle your deck afterward.",
+      "Attack 2": "[2] Shadow Claw (30)\r\n<br>\r\nFlip a coin. If heads, discard a random card from your opponent's hand.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Shigenori Negishi",
+      "code": "081/099"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67826,
+    "name": "Pyroar - 12/119 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/153309_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/153309_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/153309_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "012/119",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "CardText": "<Strong>Ability — Flare Command</strong>\r\n<br>Once during your turn <em>(before your attack)</em>, you may discard a Fire Energy attached to this Pokémon. If you do, switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon.",
+      "Attack 1": "[1RRR] Inferno Onrush (110)\r\n<br>\r\nThis Pokémon does 30 damage to itself.",
+      "Weakness": "Wx2",
+      "RetreatCost": "2",
+      "Artist": "Naoki Saito",
+      "code": "012/119"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67871,
+    "name": "Raichu - 40/99 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/220118_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/220118_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/220118_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "040/099",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[L] Thundershock (20)\r\n<br>Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+      "Attack 2": "[2L] Slam (80x)\r\n<br>Flip 2 coins. This attack does 80 damage times the number of heads.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Naoki Saito",
+      "code": "040/099"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67906,
+    "name": "Raichu - 41/147 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/250572_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/250572_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/250572_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "041/147",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Ability — Evoshock</strong>\r\n<br>When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may leave your opponent's Active Pokémon Paralyzed.",
+      "Attack 1": "[1LL] Volt Tackle (130)\r\n<br>This Pokémon does 30 damage to itself.",
+      "Weakness": "Fx2",
+      "Resistance": "M-20",
+      "RetreatCost": "1",
+      "Artist": "Kagemaru Himeno",
+      "code": "041/147"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67861,
+    "name": "Raichu - 43/146 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/212045_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/212045_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/212045_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "043/146",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Circle Circuit (20x)\r\n<br>This attack does 20 damage times the number of your Benched Pokémon.",
+      "Attack 2": "[1LL] Thunderbolt (100)\r\n<br>Discard all Energy attached to this Pokémon.",
+      "Weakness": "Fx2",
+      "Resistance": "M-20",
+      "Artist": "Mitsuhiro Arita",
+      "code": "043/146"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67848,
+    "name": "Raikou - 55/162 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/173108_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/173108_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/173108_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "055/162",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "120",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Shining Body</strong>\r\n<br>\r\nIf this Pokémon has any Lightning Energy attached to it, any damage done to this Pokémon by attacks is reduced by 20 <em>(after applying Weakness and Resistance)</em>.",
+      "Attack 1": "[3] Thunder Lance (50+)\r\n<br>This attack does 20 more damage for each Lightning Energy attached to this Pokémon.",
+      "Weakness": "Fx2",
+      "Resistance": "M-20",
+      "RetreatCost": "1",
+      "Artist": "Shin Nagasawa",
+      "code": "055/162"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 230412,
+    "name": "Rayquaza - 003/017 (2006)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/691978_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/691978_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/691978_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "003/017",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[1] Fly (10)\r\n<br>Flip a coin. If tails, this attack does nothing. If heads, prevent all effects of an attack, including damage, done to Rayquaza during your opponent's next turn.",
+      "Attack 2": "[RL] Dragon Claw (30)",
+      "Weakness": "C",
+      "RetreatCost": "1",
+      "Artist": "Katsura Tabata",
+      "code": "003/017"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67817,
+    "name": "Rayquaza - 11/20 (Dragon Vault)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/145866_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/145866_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/145866_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "011/020",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "120",
+      "Stage": "Basic",
+      "Attack 1": "[L] Dragon Pulse (40)\r\n<br>Discard the top 2 cards of your deck.",
+      "Attack 2": "[1RL] Shred (90)\r\n<br>This attack's damage isn't affected by any effects on the Defending Pokémon.",
+      "Weakness": "Ox2",
+      "RetreatCost": "3",
+      "Artist": "5ban Graphics",
+      "code": "011/020"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 232168,
+    "name": "Reshiram - 017/094 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/696441_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/696441_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/696441_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "017/094",
+      "Rarity": "Rare",
+      "Card Type": "Fire",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[R] Combustion (30)",
+      "Attack 2": "[RRRR] Burning Flare (240)<br> This Pokemon also does 60 damage to itself.",
+      "Weakness": "Wx2",
+      "RetreatCost": "2",
+      "Artist": "AKIRA EGAWA",
+      "code": "017/094"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67854,
+    "name": "Rhyperior - 62/146 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/173115_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/173115_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/173115_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "062/146",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "160",
+      "Stage": "Stage 2",
+      "Attack 1": "[F] Rock Blast (50x)\r\n<br>Flip a coin for each Fighting Energy attached to this Pokémon. This attack does 50 damage times the number of heads.",
+      "Attack 2": "[2FF] Rock Wrecker (130)\r\n<br>This attack's damage isn't affected by Weakness or Resistance. This Pokémon can't attack during your next turn.",
+      "Weakness": "Gx2",
+      "RetreatCost": "4",
+      "Artist": "Naoki Saito",
+      "code": "062/146"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67836,
+    "name": "Roggenrola - 49/98 (Cracked Ice Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/173092_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/173092_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/173092_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "049/098",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Harden\r\n<br>\r\nDuring your opponent's next turn, if this Pokémon would be damaged by an attack, prevent that attack's damage done to this Pokémon if that damage is 40 or less.",
+      "Attack 2": "[2F] Headbutt (40)",
+      "Weakness": "Gx2",
+      "RetreatCost": "2",
+      "Artist": "Kagemaru Himeno",
+      "code": "049/098"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67882,
+    "name": "Salamence - 57/108 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/224858_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/224858_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/224858_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "057/108",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "160",
+      "Stage": "Stage 2",
+      "Attack 1": "[R] Shatter (60)\r\n<br>Discard any Stadium card in play.",
+      "Attack 2": "[2W] Power Howl (20x)\r\n<br>This attack does 20 damage times the number of cards in your opponent's hand.",
+      "Attack 3": "[1RRW] Steam Blast (170)\r\n<br>Discard 3 Energy attached to this Pokémon.",
+      "Weakness": "Yx2",
+      "RetreatCost": "4",
+      "Artist": "TOKIYA",
+      "code": "057/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67888,
+    "name": "Salamence - 8/20 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/227090_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/227090_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/227090_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "008/020",
+      "Rarity": "Promo",
+      "Card Type": "Dragon",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Scornful Storm</strong>\r\n<br>Once during your turn <em>(before your attack)</em>, you may have your opponent discard cards from his or her hand until he or she has 4 cards left in his or her hand.",
+      "Attack 1": "[2RW] Shred (90)\r\n<br>This attack's damage isn't affected by any effects on the Defending Pokémon.",
+      "Weakness": "Ox2",
+      "RetreatCost": "2",
+      "Artist": "BERUBURI",
+      "code": "008/020"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67884,
+    "name": "Samurott - 41/149 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/227086_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/227086_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/227086_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "041/149",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[1W] Waterfall (50)",
+      "Attack 2": "[2WW] Destructive Whirlpool (80)\r\n<br>Discard an Energy attached to the Defending Pokémon.",
+      "Weakness": "Gx2",
+      "RetreatCost": "3",
+      "Artist": "match",
+      "code": "041/149"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67889,
+    "name": "Scizor - 94/149 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/227093_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/227093_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/227093_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "094/149",
+      "Rarity": "Promo",
+      "Card Type": "Metal",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Steel Slash (40)\r\n<br>During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Pokémon-EX.",
+      "Attack 2": "[2M] Slashing Strike (100)\r\n<br>This Pokémon can't use Slashing Strike during your next turn.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "Artist": "Hiroki Asanuma",
+      "code": "094/149"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67920,
+    "name": "Scolipede - 54/114 (Cracked Ice Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/532125_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/532125_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/532125_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "54/114",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "Attack 1": "[3] Steamroller (60) This attack's damage isn't affected by Resistance.",
+      "Attack 2": "[2PP] Poison Claws (80) The Defending Pokemon is now Poisoned.",
+      "Weakness": "Px2",
+      "RetreatCost": "3",
+      "code": "54/114"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67863,
+    "name": "Scorbunny - 030/202 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/212995_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/212995_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/212995_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "030/202",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[R] Ember (30)\r\n<br>Discard an Energy from this Pokémon.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "kirisAki",
+      "code": "030/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67885,
+    "name": "Serperior - 13/149 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/227087_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/227087_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/227087_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "013/149",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[1G] Double Slash (50x)\r\n<br>Flip 2 coins. This attack does 50 damage times the number of heads.",
+      "Attack 2": "[2G] Mega Drain (70)\r\n<br>Heal 30 damage from this Pokémon.",
+      "Weakness": "Rx2",
+      "RetreatCost": "1",
+      "Artist": "Mizue",
+      "code": "013/149"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67845,
+    "name": "Sharpedo - 82/149 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/173105_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/173105_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/173105_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "082/149",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "CardText": "<strong>Ability — Rough Skin</strong>\r\n<br>\r\nIf this Pokémon is your Active Pokémon and is damaged by an opponent's attack <em>(even if this Pokémon is Knocked Out)</em>, put 3 damage counters on the attacking Pokémon.",
+      "Attack 1": "[2D] Aqua Impact (60+)\r\n<br>\r\nThis attack does 20 more damage for each Colorless in your opponent's Active Pokémon's Retreat Cost.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "Artist": "Yumi",
+      "code": "082/149"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67895,
+    "name": "Shinx - 43/99 (Cracked Ice Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/234309_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/234309_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/234309_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "043/099",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Reckless Charge (20)\r\n<br>\r\nThis Pokémon does 10 damage to itself.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Naoki Saito",
+      "code": "043/099"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67897,
+    "name": "Sigilyph - 52/124 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/234366_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/234366_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/234366_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "052/124",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "90",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Safeguard</strong>\r\n<br>Prevent all effects of attacks, including damage, done to this Pokémon by Pokémon-EX.",
+      "Attack 1": "[2P] Psychic (50+)\r\n<br>Does 10 more damage for each Energy attached to the Defending Pokémon.",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "Artist": "Ryo Ueda",
+      "code": "052/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67868,
+    "name": "Silvally - 184/236 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/216742_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/216742_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/216742_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "184/236",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "130",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Avenging Heart (30+)\r\n<br>This attack does 50 more damage for each Prize card your opponent took on their last turn.",
+      "Attack 2": "[3] Air Slash (120)\r\n<br>Discard an Energy from this Pokémon.",
+      "Weakness": "Fx2",
+      "RetreatCost": "2",
+      "Artist": "Eske Yoshinob",
+      "code": "184/236"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67929,
+    "name": "Sinistcha - 022/167 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/616155_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/616155_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/616155_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "022/167",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Stage 1",
+      "Attack 1": "[G] Cursed Drop\r\nPut 4 damage counters on your opponent's Pokémon in any way you like.",
+      "Attack 2": "[G] Spi[LL] the Tea (70x)\r\nDiscard up to 3 G Energy cards from your Pokémon. This attack does 70 damage for each card you discarded this way.",
+      "Weakness": "Rx2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "Artist": "Kouki Saitou",
+      "code": "022/167"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67902,
+    "name": "Snorlax - 140/202 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/245145_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/245145_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/245145_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "140/202",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "150",
+      "Stage": "Basic",
+      "Attack 1": "[3] Rolling Tackle (80)",
+      "Attack 2": "[4] Heavy Impact (130)",
+      "Weakness": "Fx2",
+      "RetreatCost": "4",
+      "Artist": "chibi",
+      "code": "140/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67864,
+    "name": "Sobble - 54/202 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/212996_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/212996_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/212996_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "054/202",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[W] Water Gun (20)",
+      "Weakness": "Lx2",
+      "RetreatCost": "1",
+      "Artist": "Megumi Mizutani",
+      "code": "054/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67860,
+    "name": "Squirtle - 33/214 (Premium Collection Promo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/193275_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/193275_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/193275_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "033/214",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[W] Bubble (10)\r\n<br>Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+      "Weakness": "Gx2",
+      "RetreatCost": "1",
+      "Artist": "tetsuya koizumi",
+      "code": "033/214"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67904,
+    "name": "Steelix - 125/214 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/245918_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/245918_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/245918_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "125/214",
+      "Rarity": "Promo",
+      "Card Type": "Metal",
+      "HP": "180",
+      "Stage": "Stage 1",
+      "Attack 1": "[2M] Hammer In (90)",
+      "Attack 2": "[3M] Iron Tackle (170)\r\n<br>This Pokémon does 50 damage to itself.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "4",
+      "Artist": "Shin Nagasawa",
+      "code": "125/214"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67847,
+    "name": "Suicune - 30/122 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/173107_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/173107_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/173107_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "030/122",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "120",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Wind Charm</strong>\r\n<br>\r\nAs long as this Pokémon is your Active Pokémon, prevent all effects of your opponent's attacks, except damage, done to each of your Pokémon. (Existing effects are not removed.)",
+      "Attack 1": "[WWW] Aurora Beam (110)",
+      "Attack 4": "NO. 245 Aurora Pokémon HT: 6'07\" WT: 412.3 lbs.\r\n<br>\r\n<em>Said to be the embodiment of north winds, it can instantly purify filthy, murky water.</em>",
+      "Weakness": "Gx2",
+      "RetreatCost": "1",
+      "Artist": "Mitsuhiro Arita",
+      "code": "030/122"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67855,
+    "name": "Talonflame - 28/146 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/173116_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/173116_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/173116_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "028/146",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "130",
+      "Stage": "Stage 2",
+      "Attack 1": "[1] Devastating Wind\r\n<br>Your opponent shuffles his or her hand into his or her deck and draws 4 cards.",
+      "Attack 2": "[RR] Flare Blitz (100)\r\n<br>Discard all Fire Energy attached to this Pokémon.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "Artist": "5ban Graphics",
+      "code": "028/146"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 328525,
+    "name": "Team Rocket's Mimikyu - 097/217 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/714066_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/714066_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/714066_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "097/217",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[PC] Gemstone Mimicry<br> Choose 1 of your opponent's Active Tera Pokemon's attacks and use it as this attack.",
+      "Weakness": "Dx2",
+      "Resistance": "F-30",
+      "RetreatCost": "0",
+      "Artist": "DOM",
+      "code": "097/217"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67874,
+    "name": "Terrakion - 73/101 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/220124_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/220124_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/220124_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "073/101",
+      "Rarity": "Promo",
+      "Card Type": "Fighting",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[1F] Retaliate (30+)\r\n<br>If any of your Pokémon were Knocked Out by damage from an opponent's attack during his or her last turn, this attack does 60 more damage.",
+      "Attack 2": "[1FF] Land Crush (90)",
+      "Weakness": "Gx2",
+      "RetreatCost": "4",
+      "Artist": "5ban Graphics",
+      "code": "073/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67915,
+    "name": "Thundurus - 052/198 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/266913_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/266913_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/266913_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "052/198",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "120",
+      "Stage": "Basic",
+      "Attack 1": "[L] Assisting Spark (30)\r\n<br>You may attach a Lightning Energy card from your hand to 1 of your Benched Pokémon.",
+      "Attack 2": "[1LL] Thunder (130)\r\n<br>This Pokémon also does 30 damage to itself.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Souichirou Gunjima",
+      "code": "052/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67927,
+    "name": "Tinkaton - 105/193 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/610743_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/610743_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/610743_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "105/193",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Gather Materials</strong>\r\n<br>You must discard a card from your hand in order to use this Ability. Once during your turn, you may draw 3 cards.",
+      "Attack 1": "[1P] Special Hammer (90+)\r\n<br>If this Pokémon has any Special Energy attached, this attack does 90 more damage.",
+      "Weakness": "Mx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "Artist": "Kouki Saitou",
+      "code": "105/193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67922,
+    "name": "Togekiss - 085/197 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/552783_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/552783_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/552783_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "085/197",
+      "Rarity": "Promo",
+      "Card Type": "Psychic",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Precious Gift</strong>\r\n<br>Once during your turn (after your attack), you may draw cards until you have 8 cards in your hand.",
+      "Attack 1": "[2] Power Cyclone (110)\r\n<br> Move an Energy from this Pokémon to 1 of your Benched Pokémon.",
+      "Weakness": "Mx2",
+      "RetreatCost": "0",
+      "Artist": "Cana Nitanda",
+      "code": "085/197"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67917,
+    "name": "Tornadus - 142/185 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/266915_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/266915_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/266915_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "142/185",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "120",
+      "Stage": "Basic",
+      "Attack 1": "[1] Jet Draft (30)\r\n<br>Discard a Special Energy from your opponent's Active Pokémon.",
+      "Attack 2": "[3] Air Slash (120)\r\n<br>Discard an Energy from this Pokémon.",
+      "Weakness": "Lx2",
+      "Resistance": "F-30",
+      "RetreatCost": "1",
+      "Artist": "Masakazu Fukuda",
+      "code": "142/185"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67812,
+    "name": "Typhlosion - 20/162 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/141255_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/141255_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/141255_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "020/162",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "Attack 1": "[R] Massive Eruption (80x)\r\n<br>Discard the top 5 cards of your deck. This attack does 80 damage times the number of Energy cards you discarded.",
+      "Attack 2": "[1RR] Flare Destroy (130)\r\n<br>Discard an Energy card attached to this Pokémon and discard an Energy card attached to your opponent's Active Pokémon.",
+      "Weakness": "Wx2",
+      "RetreatCost": "3",
+      "Artist": "Megumi Mizutani",
+      "code": "020/162"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 321275,
+    "name": "Tyrantrum - 045/088 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/709698_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/709698_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/709698_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "045/088",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "180",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability: Tyrannically Gutsy</strong> If this Pokémon has any Special Energy attached, it gets +150 HP.",
+      "Attack 1": "[FC] Wreak Havoc (160)<br> Flip a coin until you get tails. For each heads, discard the top card of your opponent's deck.",
+      "Weakness": "Gx2",
+      "RetreatCost": "3",
+      "Artist": "Dsuke",
+      "code": "045/088"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67893,
+    "name": "Umbreon - 120/214 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/229578_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/229578_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/229578_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "120/214",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "Attack 1": "[D] Retaliate (30+)\r\n<br>If any of your Pokémon were Knocked Out by damage from an opponent's attack during their last turn, this attack does 90 more damage.",
+      "Attack 2": "[1D] Dark Cutter (60)",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "Artist": "Ryota Murayama",
+      "code": "120/214"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67886,
+    "name": "Venusaur - 3/108 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/227088_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/227088_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/227088_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "003/108",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "<strong>Ability — Floral Scent</strong>\r\n<br>Once during your turn <em>(before your attack)</em>, you may search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "Attack 1": "[2GG] Poison Powder (70)\r\n<br>The Defending Pokémon is now Poisoned.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "4",
+      "Artist": "Masakazu Fukuda",
+      "code": "003/108"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67876,
+    "name": "Virizion - 13/101 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/220180_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/220180_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/220180_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "013/101",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "110",
+      "Stage": "Basic",
+      "Attack 1": "[1] Double Draw\r\n<br>Draw 2 cards.",
+      "Attack 2": "[1G] Leaf Wallop (40)\r\n<br>During your next turn, this Pokémon's Leaf Wallop attack does 40 more damage <em>(before applying Weakness and Resistance)</em>.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "Artist": "5ban Graphics",
+      "code": "013/101"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67911,
+    "name": "Vivillon - 17/146 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/257484_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/257484_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/257484_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "017/146",
+      "Rarity": "Promo",
+      "Card Type": "Grass",
+      "HP": "130",
+      "Stage": "Stage 2",
+      "Attack 1": "[G] Conversion Powder\r\n<br>Choose either Asleep or Poisoned.  Your opponent's Active Pokémon is now affected by the Special Condition.",
+      "Attack 2": "[3] Colorful Wind (30+)\r\n<br>This attack does 30 more damage for each different type of basic Energy attached to this Pokémon.",
+      "Weakness": "Rx2",
+      "RetreatCost": "1",
+      "Artist": "5ban Graphics",
+      "code": "017/146"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67918,
+    "name": "Wailord - 40/168 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/267016_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/267016_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/267016_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "040/168",
+      "Rarity": "Promo",
+      "Card Type": "Water",
+      "HP": "220",
+      "Stage": "Stage 1",
+      "Attack 1": "[WWWW] Dwindling Wave (200-)\r\n<br>This attack does 40 less damage for each damage counter on this Pokémon.",
+      "Weakness": "Gx2",
+      "RetreatCost": "4",
+      "Artist": "Anesaki Dynamic",
+      "code": "040/168"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67802,
+    "name": "Wigglytuff - 79/99 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/91400_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/91400_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/91400_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "079/099",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Round (20x)\r\n<br>\r\nDoes 20 damage times the number of your Pokémon that have the Round attack.",
+      "Attack 2": "[3] Hypnoblast (60)\r\n<br>\r\nFlip a coin. If heads, the Defending Pokémon is now Asleep.",
+      "Weakness": "Fx2",
+      "RetreatCost": "2",
+      "Artist": "Shin Nagasawa",
+      "code": "079/099"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67926,
+    "name": "Xatu - 11/95 (Cracked Ice Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/565598_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/565598_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/565598_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "11/95",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[P] Psywave (20x) Does 20 damage times the amount of Energy attached to the Defending Pokemon.",
+      "Attack 2": "[2G] Confuse Ray (50) Flip a coin.  If heads, the Defending Pokemon is now Confused.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "code": "11/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67849,
+    "name": "Xerneas - 107/162 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/173109_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/173109_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/173109_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "107/162",
+      "Rarity": "Promo",
+      "Card Type": "Fairy",
+      "HP": "120",
+      "Stage": "Basic",
+      "Attack 1": "[2Y] Rainbow Force (10+)\r\n<br>This attack does 30 more damage for each different type of Pokémon on your Bench.",
+      "Attack 2": "[2YY] Power Creation (80+)\r\n<br>If this Pokémon healed damage this turn, this attack does 80 more damage.",
+      "Weakness": "Mx2",
+      "Resistance": "D-20",
+      "RetreatCost": "2",
+      "Artist": "Mitsuhiro Arita",
+      "code": "107/162"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67813,
+    "name": "Yveltal - 94/162 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/141256_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/141256_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/141256_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "094/162",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "130",
+      "Stage": "Basic",
+      "CardText": "<strong>Ability — Fright Night</strong>\r\n<br>As long as this Pokémon is your Active Pokémon, each Pokémon Tool card in play has no effect.",
+      "Attack 1": "[2D] Pitch-Black Spear (60)\r\n<br>This attack does 60 damage to 1 of your opponent's Benched Pokémon-EX. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "2",
+      "Artist": "TOKIYA",
+      "code": "094/162"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 232157,
+    "name": "Zacian - 045/094 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/696145_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/696145_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/696145_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "045/094",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[PC] Limit Break (50+)<br> If your opponent has 3 or fewer Prize cards remaining, this attack does 90 more damage.",
+      "Weakness": "Mx2",
+      "RetreatCost": "2",
+      "Artist": "kawayoo",
+      "code": "045/094"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67823,
+    "name": "Zapdos - 41/99 (Next Destinies)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/147239_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/147239_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/147239_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "041/099",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "120",
+      "Stage": "Basic",
+      "Attack 1": "[2L] Random Spark\r\n<br>This attack does 50 damage to 1 of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Attack 2": "[3L] Thundering Hurricane (50x)\r\n<br>Flip 4 coins. This attack does 50 damage times the number of heads.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "2",
+      "Artist": "Ryo Ueda",
+      "code": "041/099"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 321852,
+    "name": "Zarude - 056/084 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/706251_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/706251_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/706251_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "056/084",
+      "Rarity": "Rare",
+      "Card Type": "Darkness",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[D] Overhead Throw (30)<br> This attack also does 30 damage to 1 of your Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Attack 2": "[DDD] Shadowy Whip (100+)<br>If your Benched Pokémon have any Shadowy Darkness Energy attached, this attack does 70 more damage.",
+      "Weakness": "Gx2",
+      "RetreatCost": "2",
+      "Artist": "matazo",
+      "code": "056/084"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67824,
+    "name": "Zoroark - 71/114 (Cracked Ice Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/153069_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/153069_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/153069_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "071/114",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[D] Nasty Plot\r\n<br>Search your deck for a card and put it into your hand.  Shuffle your deck afterward.",
+      "Attack 2": "[2] Foul Play\r\n<br>Choose 1 of the Defending Pokémon's attacks and use it as this attack.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "Artist": "Naoki Saito",
+      "code": "071/114"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67827,
+    "name": "Zoroark - 73/146 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/153310_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/153310_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/153310_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "073/146",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[D] Corner (30)\r\n<br>The Defending Pokémon can't retreat during your opponent's next turn.",
+      "Attack 2": "[2D] Night Claw (100)\r\n<br>Flip a coin. If tails, discard 2 Energy attached to this Pokémon.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "Artist": "Kagemaru Himeno",
+      "code": "073/146"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-blister-exclusives",
+    "id": 67856,
+    "name": "Zoroark - 90/113 (Cosmos Holo)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/177866_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/177866_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/177866_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "090/113",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Brutal Bash (20x)\r\n<br>Does 20 damage times the number of Darkness Pokémon you have in play.",
+      "Attack 2": "[DD] Dark Rush (20x)\r\n<br>Does 20 damage times the number of damage counters on this card.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "Artist": "match",
+      "code": "090/113"
+    }
+  }
+]

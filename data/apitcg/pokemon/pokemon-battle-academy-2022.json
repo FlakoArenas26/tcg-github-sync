@@ -1,0 +1,2157 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45151,
+    "name": "Blitzle - 053/185 (#15 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268170_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268170_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268170_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "053/185",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[L] Zap Kick (20)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Saya Tsuruta",
+      "code": "053/185"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45150,
+    "name": "Blitzle - 053/185 (#2 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268169_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268169_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268169_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "053/185",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[L] Zap Kick (20)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Saya Tsuruta",
+      "code": "053/185"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45152,
+    "name": "Blitzle - 053/185 (#30 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268171_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268171_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268171_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "053/185",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[L] Zap Kick (20)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Saya Tsuruta",
+      "code": "053/185"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45153,
+    "name": "Blitzle - 053/185 (#55 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268172_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268172_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268172_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "053/185",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[L] Zap Kick (20)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Saya Tsuruta",
+      "code": "053/185"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45154,
+    "name": "Boltund - 076/202 (#16 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268173_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268173_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268173_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "076/202",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Bite (50)",
+      "Attack 2": "[1LL] Electric Dash (160)\r\n<br>This Pokémon can't attack during your next turn.",
+      "Weakness": "Fx2",
+      "Artist": "Kouki Saitou",
+      "code": "076/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45155,
+    "name": "Boss's Orders - 154/192 (#44 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268174_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268174_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268174_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "154/192",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "nagimiso",
+      "code": "154/192"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45156,
+    "name": "Bug Catcher - 226/264 (#26 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268175_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268175_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268175_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "226/264",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Draw 2 cards. Flip a coin. If heads, draw 2 more cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Yuu Nishida",
+      "code": "226/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45094,
+    "name": "Bug Catcher - 226/264 (#34 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268081_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268081_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268081_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "226/164",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Draw 2 cards. Flip a coin. If heads, draw 2 more cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Yuu Nishida",
+      "code": "226/164"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45157,
+    "name": "Bug Catcher - 226/264 (#46 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268176_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268176_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268176_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "226/264",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Draw 2 cards. Flip a coin. If heads, draw 2 more cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Yuu Nishida",
+      "code": "226/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45095,
+    "name": "Bug Catcher - 226/264 (#47 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268082_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268082_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268082_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "226/264",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Draw 2 cards. Flip a coin. If heads, draw 2 more cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Yuu Nishida",
+      "code": "226/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45222,
+    "name": "Bug Catcher - 226/264 (Eevee Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268250_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268250_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268250_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "226/264",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Draw 2 cards. Flip a coin. If heads, draw 2 more cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Yuu Nishida",
+      "code": "226/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45212,
+    "name": "Carvanha - 162/264 (Eevee Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268240_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268240_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268240_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "162/264",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Bite (10)",
+      "Weakness": "Gx2",
+      "RetreatCost": "1",
+      "Artist": "NC Empire",
+      "code": "162/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45096,
+    "name": "Centiskorch - 049/264 (#15 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268083_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268083_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268083_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "049/264",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "130",
+      "Stage": "Stage 1",
+      "Attack 1": "[R] Steady Firebreathing (30)",
+      "Attack 2": "[1RR] Heat Blast (100)",
+      "Weakness": "Wx2",
+      "RetreatCost": "3",
+      "Artist": "hasuno",
+      "code": "049/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45097,
+    "name": "Centiskorch - 049/264 (#30 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268084_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268084_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268084_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "049/264",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "130",
+      "Stage": "Stage 1",
+      "Attack 1": "[R] Steady Firebreathing (30)",
+      "Attack 2": "[1RR] Heat Blast (100)",
+      "Weakness": "Wx2",
+      "RetreatCost": "3",
+      "Artist": "hasuno",
+      "code": "049/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45098,
+    "name": "Centiskorch - 049/264 (#51 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268085_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268085_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268085_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "049/264",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "130",
+      "Stage": "Stage 1",
+      "Attack 1": "[R] Steady Firebreathing (30)",
+      "Attack 2": "[1RR] Heat Blast (100)",
+      "Weakness": "Wx2",
+      "RetreatCost": "3",
+      "Artist": "hasuno",
+      "code": "049/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45099,
+    "name": "Cinderace V - 043/264 (#60 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268087_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268087_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268087_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "043/264",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "220",
+      "Stage": "Basic",
+      "CardText": "<em>V rule — When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.</em>",
+      "Attack 1": "[1RR] Blaze Kick (210)\r\n<br>\r\nDiscard 2 Fire Energy from this Pokémon.",
+      "Weakness": "Wx2",
+      "RetreatCost": "2",
+      "Artist": "5ban Graphics",
+      "code": "043/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45225,
+    "name": "Cook - 228/264 (Eevee Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268255_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268255_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268255_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "228/264",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Heal 70 damage from your Active Pokémon.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Sanosuke Sakuma",
+      "code": "228/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45211,
+    "name": "Darkrai - 167/264 (Eevee Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268239_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268239_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268239_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "167/264",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "110",
+      "Stage": "Basic",
+      "Attack 1": "[2D] Dark Cutter (90)",
+      "Weakness": "Gx2",
+      "RetreatCost": "2",
+      "Artist": "Uta",
+      "code": "167/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45210,
+    "name": "Eevee V - SWSH065 (Eevee Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268238_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268238_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268238_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "SWSH065",
+      "Rarity": "Promo",
+      "Card Type": "Colorless",
+      "HP": "190",
+      "Stage": "Basic",
+      "CardText": "<em>V rule — When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.</em>",
+      "Attack 1": "[1] Collect\r\n<br>Draw 3 cards.",
+      "Attack 2": "[3] Brave Buddies (80+)\r\n<br>If you played a Supporter card from your hand during this turn, this attack does 80 more damage.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Kagemaru Himeno",
+      "code": "SWSH065"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45158,
+    "name": "Energy Recycler - 124/163 (#32 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268177_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268177_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268177_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "124/163",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Shuffle up to 5 basic Energy cards from your discard pile into your deck.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "Toyste Beach",
+      "code": "124/163"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45100,
+    "name": "Energy Retrieval - 160/202 (#25 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268091_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268091_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268091_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "160/202",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Put up to 2 basic Energy cards from your discard pile into your hand.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "Ryo Ueda",
+      "code": "160/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45101,
+    "name": "Energy Retrieval - 160/202 (#37 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268092_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268092_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268092_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "160/202",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Put up to 2 basic Energy cards from your discard pile into your hand.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "Ryo Ueda",
+      "code": "160/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45217,
+    "name": "Galarian Linoone - 036/073 (Eevee Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268245_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268245_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268245_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "036/073",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Double-Edge (60)\r\n<br>This Pokémon also does 20 damage to itself.",
+      "Weakness": "Gx2",
+      "RetreatCost": "2",
+      "Artist": "Akira Komayama",
+      "code": "036/073"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45228,
+    "name": "Galarian Obstagoon - SWSH193 (Eevee Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/286232_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/286232_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/286232_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "SWSH193",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "170",
+      "Stage": "Stage 2",
+      "Attack 1": "[1DD] Rampaging Kick (180)\r\n<br>Discard 2 Darkness Energy from this Pokémon.",
+      "Weakness": "Gx2",
+      "RetreatCost": "2",
+      "Artist": "Megumi Higuchi",
+      "code": "SWSH193"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45216,
+    "name": "Galarian Zigzagoon - 035/073 (Eevee Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268244_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268244_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268244_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "035/073",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Pin Missile (10x)\r\n<br>Flip 4 coins. This attack does 10 damage for each heads.",
+      "Weakness": "Gx2",
+      "RetreatCost": "2",
+      "Artist": "Kouki Saitou",
+      "code": "035/073"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45159,
+    "name": "Great Ball - 164/202 (#29 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268178_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268178_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268178_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "164/202",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "Toyste Beach",
+      "code": "164/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45120,
+    "name": "Great Ball - 164/202 (#33 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268111_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268111_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268111_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "164/202",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "Toyste Beach",
+      "code": "164/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45160,
+    "name": "Great Ball - 164/202 (#38 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268179_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268179_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268179_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "164/202",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "Toyste Beach",
+      "code": "164/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45121,
+    "name": "Great Ball - 164/202 (#43 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268112_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268112_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268112_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "164/202",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "Toyste Beach",
+      "code": "164/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45122,
+    "name": "Great Ball - 164/202 (#48 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268113_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268113_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268113_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "164/202",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "Toyste Beach",
+      "code": "164/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45161,
+    "name": "Great Ball - 164/202 (#49 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268180_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268180_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268180_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "164/202",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "Toyste Beach",
+      "code": "164/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45123,
+    "name": "Great Ball - 164/202 (#55 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268114_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268114_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268114_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "164/202",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "Toyste Beach",
+      "code": "164/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45162,
+    "name": "Great Ball - 164/202 (#57 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268181_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268181_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268181_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "164/202",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "Toyste Beach",
+      "code": "164/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45219,
+    "name": "Great Ball - 164/202 (Eevee Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268247_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268247_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268247_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "164/202",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "Toyste Beach",
+      "code": "164/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45163,
+    "name": "Hop - 165/202 (#13 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268182_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268182_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268182_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "165/202",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Draw 3 cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Ken Sugimori",
+      "code": "165/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45124,
+    "name": "Hop - 165/202 (#28 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268115_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268115_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268115_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "165/202",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Draw 3 cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Ken Sugimori",
+      "code": "165/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45164,
+    "name": "Hop - 165/202 (#33 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268183_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268183_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268183_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "165/202",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Draw 3 cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Ken Sugimori",
+      "code": "165/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45125,
+    "name": "Hop - 165/202 (#41 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268116_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268116_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268116_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "165/202",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Draw 3 cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Ken Sugimori",
+      "code": "165/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45165,
+    "name": "Hop - 165/202 (#42 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268184_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268184_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268184_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "165/202",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Draw 3 cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Ken Sugimori",
+      "code": "165/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45126,
+    "name": "Hop - 165/202 (#52 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268117_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268117_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268117_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "165/202",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Draw 3 cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Ken Sugimori",
+      "code": "165/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45166,
+    "name": "Hop - 165/202 (#54 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268186_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268186_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268186_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "165/202",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Draw 3 cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Ken Sugimori",
+      "code": "165/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45127,
+    "name": "Hop - 165/202 (#57 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268118_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268118_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268118_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "165/202",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Draw 3 cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Ken Sugimori",
+      "code": "165/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45220,
+    "name": "Hop - 165/202 (Eevee Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268248_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268248_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268248_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "165/202",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Draw 3 cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Ken Sugimori",
+      "code": "165/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45128,
+    "name": "Larvesta - 023/198 (#19 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268147_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268147_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268147_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "023/198",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[R] Flame Charge (10)\r\n<br>Search your deck for a Fire Energy card and attach it to this Pokémon. Then, shuffle your deck.",
+      "Weakness": "Wx2",
+      "RetreatCost": "3",
+      "Artist": "Misa Tsutsui",
+      "code": "023/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45129,
+    "name": "Larvesta - 023/198 (#36 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268148_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268148_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268148_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "023/198",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[R] Flame Charge (10)\r\n<br>Search your deck for a Fire Energy card and attach it to this Pokémon. Then, shuffle your deck.",
+      "Weakness": "Wx2",
+      "RetreatCost": "3",
+      "Artist": "Misa Tsutsui",
+      "code": "023/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45130,
+    "name": "Larvesta - 023/198 (#46 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268149_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268149_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268149_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "023/198",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[R] Flame Charge (10)\r\n<br>Search your deck for a Fire Energy card and attach it to this Pokémon. Then, shuffle your deck.",
+      "Weakness": "Wx2",
+      "RetreatCost": "3",
+      "Artist": "Misa Tsutsui",
+      "code": "023/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45185,
+    "name": "Luxio - 092/264 (#14 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268207_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268207_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268207_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "092/264",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1L] Electric Claws (50)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Tika Matsuno",
+      "code": "092/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45186,
+    "name": "Luxio - 092/264 (#37 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268208_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268208_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268208_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "092/264",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1L] Electric Claws (50)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Tika Matsuno",
+      "code": "092/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45187,
+    "name": "Luxio - 092/264 (#53 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268209_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268209_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268209_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "092/264",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1L] Electric Claws (50)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Tika Matsuno",
+      "code": "092/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45188,
+    "name": "Luxray - 093/264 (#28 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268210_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268210_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268210_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "093/264",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "160",
+      "Stage": "Stage 2",
+      "Attack 1": "[1L] Thunder Claws (90)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Atsushi Furasawa",
+      "code": "093/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45189,
+    "name": "Luxray - 096/264 (#47 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268211_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268211_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268211_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "093/264",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "160",
+      "Stage": "Stage 2",
+      "Attack 1": "[1L] Thunder Claws (90)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Atsushi Furasawa",
+      "code": "093/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45190,
+    "name": "Morpeko - 109/264 (#23 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268212_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268212_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268212_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "109/264",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[1L] Targeted Spark\r\n<br>This attack does 30 damage to 1 of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Sanosuke Sakuma",
+      "code": "109/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45132,
+    "name": "Ninetales - 030/264 (#23 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268151_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268151_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268151_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "030/264",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "Attack 1": "[1R] Supernatural Flames (70)",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "Artist": "kirisAki",
+      "code": "030/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45131,
+    "name": "Ninetales - 030/264 (#7 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268150_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268150_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268150_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "030/264",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "Attack 1": "[1R] Supernatural Flames (70)",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "Artist": "kirisAki",
+      "code": "030/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45224,
+    "name": "Piers - 165/189 (Eevee Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268253_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268253_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268253_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "165/189",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Search your deck for an Energy card and a Darkness Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "take",
+      "code": "165/189"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45191,
+    "name": "Pikachu V - 043/185 (#60 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268213_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268213_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268213_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "043/185",
+      "Rarity": "Holo Rare",
+      "Card Type": "Lightning",
+      "HP": "190",
+      "Stage": "Basic",
+      "CardText": "<em>V rule — When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.</em>",
+      "Attack 1": "[L] Charge\r\n<br>Search your deck for up to 2 Lightning Energy cards and attach them to this Pokémon. Then, shuffle your deck.",
+      "Attack 2": "[1LL] Thunderbolt (200)\r\n<br>Discard all Energy from this Pokémon.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Saki Hayashiro",
+      "code": "043/185"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45133,
+    "name": "Pokemon Catcher - 175/202 (#49 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268152_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268152_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268152_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "175/202",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with their Active Pokémon.\r\n<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "Ryo Ueda",
+      "code": "175/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45134,
+    "name": "Pokemon Catcher - 175/202 (#54 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268153_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268153_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268153_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "175/202",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with their Active Pokémon.\r\n<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "Ryo Ueda",
+      "code": "175/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45192,
+    "name": "Potion - 177/202 (#18 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268217_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268217_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268217_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "177/202",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Heal 30 damage from 1 of your Pokémon.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "Ryo Ueda",
+      "code": "177/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45193,
+    "name": "Potion - 177/202 (#40 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268218_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268218_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268218_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "177/202",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Heal 30 damage from 1 of your Pokémon.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "Ryo Ueda",
+      "code": "177/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45135,
+    "name": "Potion - 177/202 (#42 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268154_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268154_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268154_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "177/202",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Heal 30 damage from 1 of your Pokémon.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "Ryo Ueda",
+      "code": "177/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45213,
+    "name": "Sharpedo - 163/264 (Eevee Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268241_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268241_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268241_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "163/264",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[1D] Sharp Fang (70)",
+      "Weakness": "Gx2",
+      "RetreatCost": "1",
+      "Artist": "Hasuno",
+      "code": "163/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45136,
+    "name": "Shauna - 240/264 (#21 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268155_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268155_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268155_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "240/264",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Shuffle your hand into your deck. Then, draw 5 cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Yuu Nishida",
+      "code": "240/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45194,
+    "name": "Shauna - 240/264 (#24 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268220_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268220_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268220_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "240/264",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Shuffle your hand into your deck. Then, draw 5 cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Yuu Nishida",
+      "code": "240/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45137,
+    "name": "Shauna - 240/264 (#50 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268156_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268156_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268156_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "240/264",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Shuffle your hand into your deck. Then, draw 5 cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Yuu Nishida",
+      "code": "240/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45195,
+    "name": "Shauna - 240/264 (#50 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268221_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268221_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268221_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "240/264",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Shuffle your hand into your deck. Then, draw 5 cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Yuu Nishida",
+      "code": "240/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45138,
+    "name": "Shauna - 240/264 (#59 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268157_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268157_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268157_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "240/264",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Shuffle your hand into your deck. Then, draw 5 cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Yuu Nishida",
+      "code": "240/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45196,
+    "name": "Shauna - 240/264 (#59 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268222_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268222_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268222_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "240/264",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Shuffle your hand into your deck. Then, draw 5 cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Yuu Nishida",
+      "code": "240/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45221,
+    "name": "Shauna - 240/264 (Eevee Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268249_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268249_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268249_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "240/264",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Shuffle your hand into your deck. Then, draw 5 cards.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Yuu Nishida",
+      "code": "240/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45198,
+    "name": "Shinx - 091/264 (#20 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268226_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268226_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268226_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "091/264",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[L] Gnaw (10)",
+      "Attack 2": "[1L] Electric Claws (20)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Naoyo Kimura",
+      "code": "091/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45199,
+    "name": "Shinx - 091/264 (#41 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268227_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268227_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268227_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "091/264",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[L] Gnaw (10)",
+      "Attack 2": "[1L] Electric Claws (20)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Naoyo Kimura",
+      "code": "091/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45200,
+    "name": "Shinx - 091/264 (#45 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268228_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268228_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268228_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "091/264",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[L] Gnaw (10)",
+      "Attack 2": "[1L] Electric Claws (20)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Naoyo Kimura",
+      "code": "091/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45197,
+    "name": "Shinx - 091/264 (#6 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268225_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268225_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268225_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "091/264",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[L] Gnaw (10)",
+      "Attack 2": "[1L] Electric Claws (20)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Naoyo Kimura",
+      "code": "091/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45090,
+    "name": "Sizzlipede - 046/264 (#1 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268077_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268077_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268077_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "046/264",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[R] Gnaw (10)",
+      "Attack 2": "[1R] Ember (20)",
+      "Weakness": "Wx2",
+      "RetreatCost": "2",
+      "Artist": "miki kudo",
+      "code": "046/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45091,
+    "name": "Sizzlipede - 046/264 (#14 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268078_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268078_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268078_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "046/264",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[R] Gnaw (10)",
+      "Attack 2": "[1R] Ember (20)",
+      "Weakness": "Wx2",
+      "RetreatCost": "2",
+      "Artist": "miki kudo",
+      "code": "046/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45092,
+    "name": "Sizzlipede - 046/264 (#17 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268079_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268079_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268079_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "046/264",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[R] Gnaw (10)",
+      "Attack 2": "[1R] Ember (20)",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "Artist": "miki kudo",
+      "code": "046/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45093,
+    "name": "Sizzlipede - 046/264 (#56 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268080_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268080_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268080_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "046/264",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[R] Gnaw (10)",
+      "Attack 2": "[1R] Ember (20)",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "Artist": "miki kudo",
+      "code": "046/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45139,
+    "name": "Sonia - 167/192 (#45 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268158_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268158_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268158_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "167/192",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Search your deck for up to 2 Basic Pokemon or up to 2 basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Yusuke Ohmura",
+      "code": "167/192"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45201,
+    "name": "Sonia - 167/192 (#51 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268229_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268229_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268229_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "167/192",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Search your deck for up to 2 Basic Pokemon or up to 2 basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Yusuke Ohmura",
+      "code": "167/192"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45223,
+    "name": "Sonia - 167/192 (Eevee Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268252_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268252_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268252_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "167/192",
+      "Rarity": "Promo",
+      "Card Type": "Supporter",
+      "CardText": "Search your deck for up to 2 Basic Pokemon or up to 2 basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.<br><br> You may play only 1 Supporter card during your turn <em>(before your attack)</em>.",
+      "Artist": "Yusuke Ohmura",
+      "code": "167/192"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45202,
+    "name": "Switch - 183/202 (#36 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268230_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268230_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268230_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "183/202",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Switch your Active Pokémon with 1 of your Benched Pokémon.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "Studio Bora Inc.",
+      "code": "183/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45140,
+    "name": "Switch - 183/202 (#40 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268159_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268159_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268159_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "183/202",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Switch your Active Pokémon with 1 of your Benched Pokémon.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "Studio Bora Inc.",
+      "code": "183/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45203,
+    "name": "Switch - 183/202 (#52 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268231_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268231_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268231_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "183/202",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Switch your Active Pokémon with 1 of your Benched Pokémon.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "Studio Bora Inc.",
+      "code": "183/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45141,
+    "name": "Switch - 183/202 (#58 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268160_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268160_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268160_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "183/202",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Switch your Active Pokémon with 1 of your Benched Pokémon.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "Studio Bora Inc.",
+      "code": "183/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45218,
+    "name": "Switch - 183/202 (Eevee Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268246_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268246_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268246_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "183/202",
+      "Rarity": "Promo",
+      "Card Type": "Item",
+      "CardText": "Switch your Active Pokémon with 1 of your Benched Pokémon.<br><br> You may play as many Item cards as you like during your turn <em>(before your attack)</em>.",
+      "Artist": "Studio Bora Inc.",
+      "code": "183/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45142,
+    "name": "Turtonator - 029/202 (#39 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268161_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268161_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268161_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "029/202",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "130",
+      "Stage": "Basic",
+      "Attack 1": "[2] Tackle (30)",
+      "Attack 2": "[1RRR] Fire Spin (150)\r\n<br>Discard 2 Energy from this Pokémon.",
+      "Weakness": "Wx2",
+      "RetreatCost": "3",
+      "Artist": "KEIICHIRO ITO",
+      "code": "029/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45143,
+    "name": "Victini - 007/073 (#4 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268162_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268162_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268162_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "007/073",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Quick Draw\r\n<br>Draw a card.",
+      "Attack 2": "[1R] Combustion (30)",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "Artist": "Taira Akitsu",
+      "code": "007/073"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45144,
+    "name": "Victini - 007/073 (#53 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268163_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268163_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268163_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "007/073",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Quick Draw\r\n<br>Draw a card.",
+      "Attack 2": "[1R] Combustion (30)",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "Artist": "Taira Akitsu",
+      "code": "007/073"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45145,
+    "name": "Volcarona - 024/198 (#27 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268164_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268164_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268164_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "024/198",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "130",
+      "Stage": "Stage 1",
+      "Attack 1": "[1R] Combustion (50)",
+      "Attack 2": "[1RR] Fire Spin (170)\r\n<br>Discard 2 Energy card from this Pokémon.",
+      "Weakness": "Wx2",
+      "RetreatCost": "2",
+      "Artist": "Mika Pikazo",
+      "code": "024/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45146,
+    "name": "Volcarona - 024/198 (#44 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268165_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268165_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268165_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "024/198",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "130",
+      "Stage": "Stage 1",
+      "Attack 1": "[1R] Combustion (50)",
+      "Attack 2": "[1RR] Fire Spin (170)\r\n<br>Discard 2 Energy card from this Pokémon.",
+      "Weakness": "Wx2",
+      "RetreatCost": "2",
+      "Artist": "Mika Pikazo",
+      "code": "024/198"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45147,
+    "name": "Vulpix - 029/264 (#13 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268166_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268166_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268166_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "029/264",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Smash Kick (10)",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "Artist": "Megumi Mizutani",
+      "code": "029/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45148,
+    "name": "Vulpix - 029/264 (#18 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268167_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268167_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268167_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "029/264",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Smash Kick (10)",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "Artist": "Megumi Mizutani",
+      "code": "029/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45149,
+    "name": "Vulpix - 029/264 (#31 Cinderace Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268168_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268168_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268168_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "029/264",
+      "Rarity": "Promo",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Smash Kick (10)",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "Artist": "Megumi Mizutani",
+      "code": "029/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45204,
+    "name": "Yamper - 074/202 (#1 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268232_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268232_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268232_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "074/202",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Bite (10)",
+      "Attack 2": "[1L] Zap Kick (20)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Saya Tsuruta",
+      "code": "074/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45205,
+    "name": "Yamper - 074/202 (#58 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268233_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268233_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268233_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "074/202",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Bite (10)",
+      "Attack 2": "[1L] Zap Kick (20)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Saya Tsuruta",
+      "code": "074/202"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45206,
+    "name": "Zebstrika - 054/185 (#25 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268234_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268234_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268234_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "054/185",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "Attack 1": "[L] Low Kick (30)",
+      "Attack 2": "[1L] Zap Kick (70)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "0313",
+      "code": "054/185"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45207,
+    "name": "Zebstrika - 054/185 (#34 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268235_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268235_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268235_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "054/185",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "Attack 1": "[L] Low Kick (30)",
+      "Attack 2": "[1L] Zap Kick (70)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "0313",
+      "code": "054/185"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45208,
+    "name": "Zebstrika - 054/185 (#56 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268236_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268236_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268236_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "054/185",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "Attack 1": "[L] Low Kick (30)",
+      "Attack 2": "[1L] Zap Kick (70)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "0313",
+      "code": "054/185"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45209,
+    "name": "Zeraora - 102/264 (#5 Pikachu Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268237_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268237_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268237_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "102/264",
+      "Rarity": "Promo",
+      "Card Type": "Lightning",
+      "HP": "120",
+      "Stage": "Basic",
+      "Attack 1": "[1L] Wild Charge (70)\r\n<br>\r\nThis Pokémon also does 20 damage to itself.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "Artist": "Teeziro",
+      "code": "102/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45215,
+    "name": "Zoroark - 171/264 (Eevee Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268243_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268243_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268243_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "171/264",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Double Claw (40x)\r\n<br>Flip 2 coins. This attack does 40 damage for each heads.",
+      "Attack 2": "[1DD] Night Daze (100)",
+      "Weakness": "Gx2",
+      "RetreatCost": "2",
+      "Artist": "Kouki Saitou",
+      "code": "171/264"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-battle-academy-2022",
+    "id": 45214,
+    "name": "Zorua - 170/264 (Eevee Stamped)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/268242_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/268242_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/268242_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "170/264",
+      "Rarity": "Promo",
+      "Card Type": "Darkness",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Ram (10)",
+      "Attack 2": "[1D] Rear Kick (20)",
+      "Weakness": "Gx2",
+      "RetreatCost": "1",
+      "Artist": "nagimiso",
+      "code": "170/264"
+    }
+  }
+]

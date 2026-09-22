@@ -1,0 +1,2943 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60726,
+    "name": "Aggron",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83481_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83481_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83481_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "80/124",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "Toppling Wind - When you play this Pokemon from your hand to evolve 1 of your Pokemon, you may discard the top 3 cards of your opponent's deck.  (Ability)",
+      "Attack 1": "[1MM] Giga Horn (90) Flip 2 coins.  If both of them are tails, this attack does nothing.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "4",
+      "code": "80/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60727,
+    "name": "Aipom",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83494_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83494_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83494_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "99/124",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Double Hit (10x) Flip 2 coins.  This attack does 10 damage times the number of heads.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "99/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60728,
+    "name": "Alomomola",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83508_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83508_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83508_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "37/124",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[1W] Mysterious Beam (30) Flip a coin.  If heads, discard an Energy attached to the Defending Pokemon.",
+      "Attack 2": "[2W] Double Slap (50x) Flip 2 coins.  This attack does 50 damage times the number of heads.",
+      "Weakness": "Lx2",
+      "RetreatCost": "2",
+      "code": "37/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60729,
+    "name": "Altaria",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83519_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83519_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83519_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "84/124",
+      "Rarity": "Holo Rare",
+      "Card Type": "Dragon",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "Fight Song - Your Dragon Pokemon's attacks do 20 more damage to the Active Pokemon (before applying Weakness and Resistance).  (Ability)",
+      "Attack 1": "[1MW] Glide (40)",
+      "Weakness": "Ox2",
+      "RetreatCost": "1",
+      "code": "84/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60730,
+    "name": "Ambipom",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83529_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83529_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83529_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "100/124",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Double Hit (20x) Flip 2 coins.  This attack does 20 damage times the number of heads.",
+      "Attack 2": "[2] Hand Fling (10x) Does 10 damage times the number of cards in your hand.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "100/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60731,
+    "name": "Ampharos",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83547_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83547_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83547_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "40/124",
+      "Rarity": "Holo Rare",
+      "Card Type": "Lightning",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "CardText": "Electromagnetic Wall - As long as this Pokemon is your Active Pokemon, whenever your opponent attaches an Energy from his or her hand to 1 of his or her Pokemon, put 3 damage counters on that Pokemon.  (Ability)",
+      "Attack 1": "[2L] Electrobullet (70) Does 20 damage to 1 of your opponent's Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "Fx2",
+      "RetreatCost": "2",
+      "code": "40/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60732,
+    "name": "Aron",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83640_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83640_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83640_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "78/124",
+      "Rarity": "Common",
+      "Card Type": "Metal",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1M] Take Down (30) This Pokemon does 10 damage to itself.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "2",
+      "code": "78/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60733,
+    "name": "Audino",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83663_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83663_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83663_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "108/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[2] Wake-up Beam (40) Remove all Special Conditions from the Defending Pokemon.",
+      "Attack 2": "[3] Drain Slap (60) Heal 30 damage from this Pokemon.",
+      "Weakness": "Fx2",
+      "RetreatCost": "2",
+      "code": "108/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60734,
+    "name": "Baltoy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83718_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83718_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83718_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "63/124",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Spinning Attack (10)",
+      "Attack 2": "[2] Reverse Spin - Your opponent shuffles his or her hand into his or her hand and draws 4 cards.",
+      "Weakness": "Gx2",
+      "RetreatCost": "1",
+      "code": "63/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60735,
+    "name": "Beautifly",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83760_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83760_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83760_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "8/124",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "Attack 1": "[G] Triple Energy - Search your deck for 3 different types of basic Energy cards and attach them to your Pokemon in any way you like.  Shuffle your deck afterward.",
+      "Attack 2": "[2G] Drainpour (40) Heal 40 damage from each of your Benched Pokemon.",
+      "Weakness": "Rx2",
+      "RetreatCost": "1",
+      "code": "8/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60736,
+    "name": "Bibarel",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83821_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83821_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83821_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "107/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[3] Amnesia (40) Choose 1 of the Defending Pokemon's attacks.  That Pokemon can't use that attack during your opponent's next turn.",
+      "Attack 2": "[4] Tumbling Tackle (60) Both this Pokemon and the Defending Pokemon are now Asleep.",
+      "Weakness": "Fx2",
+      "RetreatCost": "2",
+      "code": "107/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60737,
+    "name": "Bidoof",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83829_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83829_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83829_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "106/124",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[2] Bang Heads (20) Both this Pokemon and the Defending Pokemon are now Confused.",
+      "Weakness": "Fx2",
+      "RetreatCost": "2",
+      "code": "106/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60738,
+    "name": "Blend Energy GFPD",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83916_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83916_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83916_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "117/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Energy",
+      "HP": "0",
+      "Stage": "Special Energy",
+      "Attack 1": "This card provides 1 Energy.  When this card is attached to a Pokemon, this card provides G, R, P, or D Energy but provides only 1 Energy at a time.",
+      "code": "117/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60739,
+    "name": "Blend Energy WLFM",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83917_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83917_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83917_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "118/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Energy",
+      "HP": "0",
+      "Stage": "Special Energy",
+      "Attack 1": "This card provides 1 Energy.  When this card is attached to a Pokemon, this card provides W, L, F, or M Energy but provides only 1 Energy at a time.",
+      "code": "118/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60740,
+    "name": "Boldore",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83935_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83935_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83935_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "66/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[F] Rock Cannon (30x) Flip a coin until you get tails.  This attack does 30 damage times the number of heads.",
+      "Attack 2": "[2F] Earthquake (60) Does 10 damage to each of your Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "Gx2",
+      "RetreatCost": "3",
+      "code": "66/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60741,
+    "name": "Bouffalant",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83944_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83944_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83944_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "110/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "100",
+      "Stage": "Basic",
+      "CardText": "Bouffer - Any damage done to this Pokemon by attacks is reduced by 20 (after applying Weakness and Resistance).  (Ability)",
+      "Attack 1": "[3] Gold Breaker (60+) If the Defending Pokemon is a Pokemon-EX, this attack does 60 more damage.",
+      "Weakness": "Fx2",
+      "RetreatCost": "2",
+      "code": "110/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60742,
+    "name": "Braviary",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83951_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83951_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83951_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "112/124",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Slash (30)",
+      "Attack 2": "[3] Fury Attack (50x) Flip 3 coins.  This attack does 50 damage times the number of heads.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "0",
+      "code": "112/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60743,
+    "name": "Buizel",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84023_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84023_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84023_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "32/124",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Wave Splash (10)",
+      "Weakness": "Lx2",
+      "RetreatCost": "1",
+      "code": "32/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60744,
+    "name": "Cascoon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84123_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84123_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84123_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "9/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Tangle Drag - Switch 1 of your opponent's Benched Pokemon with the Defending Pokemon.",
+      "Attack 2": "[2] Spiral Drain (20) Heal 20 damage from this Pokemon.",
+      "Weakness": "Rx2",
+      "RetreatCost": "3",
+      "code": "9/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60745,
+    "name": "Claydol",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84339_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84339_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84339_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "64/124",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Rapid Spin (30) Switch this Pokemon with 1 of your Benched Pokemon.  Then, your opponent switches the Defending Pokemon with 1 of his or her Benched Pokemon.",
+      "Attack 2": "[2F] Rock Smash (60+) Flip a coin.  If heads, this attack does 30 more damage.",
+      "Weakness": "Gx2",
+      "RetreatCost": "3",
+      "code": "64/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60746,
+    "name": "Cubone",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84536_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84536_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84536_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "60/124",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[F] Headbutt (10)",
+      "Attack 2": "[2] Beat (20)",
+      "Weakness": "Wx2",
+      "Resistance": "L-20",
+      "RetreatCost": "1",
+      "code": "60/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60747,
+    "name": "Deino (93)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84729_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84729_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84729_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "93/124",
+      "Rarity": "Common",
+      "Card Type": "Dragon",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[D] Deep Growl - Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[1P] Power Breath (30) Discard an Energy attached to this Pokemon.",
+      "Weakness": "Ox2",
+      "RetreatCost": "2",
+      "code": "93/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60748,
+    "name": "Deino (94)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84730_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84730_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84730_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "94/124",
+      "Rarity": "Common",
+      "Card Type": "Dragon",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[D] Guard Press (10) During your opponent's next turn, any damage done to this Pokemon by attacks is reduced by 10 (after applying Weakness and Resistance).",
+      "Attack 2": "[2P] Headbutt (30)",
+      "Weakness": "Ox2",
+      "RetreatCost": "2",
+      "code": "94/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60749,
+    "name": "Devolution Spray",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84783_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84783_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84783_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "113/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "HP": "0",
+      "Stage": "Item",
+      "CardText": "You may play as many Item cards as you like during your turn (before your attack).",
+      "Attack 1": "Devolve 1 of your evolved Pokemon and put the highest state Evolution card on it into your hand.  (That Pokemon can't evolve this turn.)",
+      "code": "113/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60750,
+    "name": "Drifblim",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84949_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84949_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84949_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "51/124",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Shadow Steal (50x) Does 50 damage times the number of Special Energy cards in your opponent's discard pile.",
+      "Attack 2": "[1P] Plentiful Placement - Put 4 damage counters on 1 of your opponent's Pokemon.",
+      "Weakness": "Dx2",
+      "RetreatCost": "1",
+      "code": "51/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60751,
+    "name": "Drifloon (49)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84961_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84961_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84961_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "49/124",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[P] Sneaky Placement - Put 1 damage counter on 1 of your opponent's Pokemon.",
+      "Weakness": "Dx2",
+      "RetreatCost": "1",
+      "code": "49/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60752,
+    "name": "Drifloon (50)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84962_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84962_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84962_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "50/124",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Beat (10)",
+      "Attack 2": "[1P] Gust (20)",
+      "Weakness": "Dx2",
+      "RetreatCost": "1",
+      "code": "50/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60753,
+    "name": "Durant",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85021_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85021_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85021_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "83/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Metal",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Pull Out - Put a card from your discard pile on top of your deck.",
+      "Attack 2": "[1M] Iron Head (30x) Flip a coin until you get tails.  This attack does 30 damage times the number of heads.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "code": "83/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60754,
+    "name": "Dustox",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85059_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85059_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85059_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "47/124",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "130",
+      "Stage": "Stage 2",
+      "Attack 1": "[P] Hazardous Scales - The Defending Pokemon is now Asleep, Burned, and Poisoned.",
+      "Attack 2": "[2P] Aerial Ace (50+) Flip a coin.  If heads, this attack does 30 more damage.",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "code": "47/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60755,
+    "name": "Electrike (41)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85144_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85144_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85144_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "41/124",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[L] Tackle (10)",
+      "Attack 2": "[1L] Quick Attack (10+) Flip a coin.  If heads, this attack does 20 more damage.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "41/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60756,
+    "name": "Electrike (42)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85145_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85145_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85145_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "42/124",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1L] Quick Turn (20x) Flip 2 coins.  This attack does 20 damage times the number of heads.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "42/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60757,
+    "name": "Emolga",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85191_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85191_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85191_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "45/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Call for Family - Search your deck for 2 Basic Pokemon and put them onto your Bench.  Shuffle your deck afterward.",
+      "Attack 2": "[L] Static Shock (20)",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "0",
+      "code": "45/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60758,
+    "name": "Feebas",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85406_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85406_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85406_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "27/124",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "30",
+      "Stage": "Basic",
+      "Attack 1": "[W] Add-a-Dash - Flip 2 coins.  For each heads, draw a card.",
+      "Weakness": "Lx2",
+      "RetreatCost": "1",
+      "code": "27/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60759,
+    "name": "Flaaffy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85486_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85486_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85486_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "39/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Cotton Guard (20) During your opponent's next turn, any damage done to this Pokemon by attacks is reduced by 20 (after applying Weakness and Resistance).",
+      "Attack 2": "[2L] Power Gem (40)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "39/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60760,
+    "name": "Floatzel",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85516_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85516_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85516_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "33/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Wave Splash (20)",
+      "Attack 2": "[WW] Waterfall (60)",
+      "Weakness": "Lx2",
+      "RetreatCost": "1",
+      "code": "33/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60761,
+    "name": "Foongus",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85539_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85539_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85539_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "17/124",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Double Spin (10x) Flip 2 coins.  This attack does 10 damage times the number of heads.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "code": "17/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60762,
+    "name": "Gabite (88)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85600_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85600_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85600_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "88/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Dragon",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Tackle (20)",
+      "Attack 2": "[FW] Shred (40) This attack's damage isn't affected by any effects on the Defending Pokemon.",
+      "Weakness": "Ox2",
+      "RetreatCost": "1",
+      "code": "88/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60763,
+    "name": "Gabite (89)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85601_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85601_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85601_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "89/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Dragon",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "Dragon Call - Once during your turn (before your attack), you may search your deck for a Dragon Pokemon, reveal it, and put it into your hand.  Shuffle your deck afterward.  (Ability)",
+      "Attack 1": "[FW] Dragonslice (20)",
+      "Weakness": "Ox2",
+      "RetreatCost": "0",
+      "code": "89/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60764,
+    "name": "Garbodor",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85616_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85616_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85616_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "54/124",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "CardText": "Garbotoxin - If this Pokemon has a Pokemon Tool card attached to it, each Pokemon in play, in each player's hand, and in each player's discard pile has no Abilities (except for Garbotoxin).  (Ability)",
+      "Attack 1": "[1PP] Sludge Toss (60)",
+      "Weakness": "Px2",
+      "RetreatCost": "3",
+      "code": "54/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60765,
+    "name": "Garchomp (90)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85624_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85624_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85624_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "90/124",
+      "Rarity": "Holo Rare",
+      "Card Type": "Dragon",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[F] Mach Cut (60) Discard a Special Energy attached to the Defending Pokemon.",
+      "Attack 2": "[FW] Dragonblade (100) Discard the top 2 cards of your deck.",
+      "Weakness": "Ox2",
+      "RetreatCost": "1",
+      "code": "90/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60766,
+    "name": "Garchomp (91)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85625_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85625_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85625_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "91/124",
+      "Rarity": "Rare",
+      "Card Type": "Dragon",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[1] Jet Headbutt (40)",
+      "Attack 2": "[1FW] Sand Tomb (80) The Defending Pokemon can't retreat during your opponent's next turn.",
+      "Weakness": "Ox2",
+      "RetreatCost": "0",
+      "code": "91/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60767,
+    "name": "Giant Cape",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85696_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85696_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85696_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "114/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "HP": "0",
+      "Stage": "Tool",
+      "CardText": "Attach a Pokemon Tool to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.",
+      "Attack 1": "The Pokemon this card is attached to gets +20 HP.",
+      "code": "114/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60768,
+    "name": "Gible (86)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85702_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85702_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85702_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "86/124",
+      "Rarity": "Common",
+      "Card Type": "Dragon",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Tackle (10)",
+      "Attack 2": "[FW] Gnaw (20)",
+      "Weakness": "Ox2",
+      "RetreatCost": "1",
+      "code": "86/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60769,
+    "name": "Gible (87)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85703_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85703_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85703_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "87/124",
+      "Rarity": "Common",
+      "Card Type": "Dragon",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[F] Sand-Attack - If the Defending Pokemon tries to attack during your opponent's next turn, your opponent flips a coin.  If tails, that attack does nothing.",
+      "Attack 2": "[1W] Knock Away (10+) Flip a coin.  If heads, this attack does 20 more damage.",
+      "Weakness": "Ox2",
+      "RetreatCost": "1",
+      "code": "87/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60770,
+    "name": "Gigalith",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85707_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85707_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85707_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "67/124",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[2F] Revenge Cannon (10+) Does 10 more damage for each damage counter on each of your Benched Pokemon.",
+      "Attack 2": "[2FF] Reckless Charge (120) This Pokemon does 40 damage to itself.",
+      "Weakness": "Gx2",
+      "RetreatCost": "4",
+      "code": "67/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60771,
+    "name": "Giratina EX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85740_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85740_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85740_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "92/124",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Dragon",
+      "HP": "180",
+      "Stage": "Basic",
+      "Attack 1": "[1GP] Shred (90) This attack's damage isn't affected by any effects on the Defending Pokemon.",
+      "Attack 2": "[2GP] Dragon Pulse (130) Discard the top 3 cards of your deck.",
+      "Weakness": "Ox2",
+      "RetreatCost": "3",
+      "code": "92/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60772,
+    "name": "Giratina EX (124 Full Art)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85741_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85741_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85741_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "124/124",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Dragon",
+      "HP": "180",
+      "Stage": "Basic",
+      "Attack 1": "[1GP] Shred (90) This attack's damage isn't affected by any effects on the Defending Pokemon.",
+      "Attack 2": "[2GP] Dragon Pulse (130) Discard the top 3 cards of your deck.",
+      "Weakness": "Ox2",
+      "RetreatCost": "3",
+      "code": "124/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60773,
+    "name": "Golett",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85833_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85833_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85833_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "58/124",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[2] Nap - Heal 40 damage from this Pokemon.",
+      "Attack 2": "[2P] Pound (40)",
+      "Weakness": "Dx2",
+      "RetreatCost": "3",
+      "code": "58/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60774,
+    "name": "Golurk",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85836_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85836_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85836_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "59/124",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "130",
+      "Stage": "Stage 1",
+      "Attack 1": "[2P] Devolution Punch (60) Devolve the Defending Pokemon and put the highest Stage Evolution card on it into your opponent's hand.",
+      "Attack 2": "[2PP] Ghost Hammer (90) During your opponent's next turn, this Pokemon has no Weakness.",
+      "Weakness": "Dx2",
+      "RetreatCost": "4",
+      "code": "59/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60775,
+    "name": "Gothita",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85847_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85847_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85847_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "55/124",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[P] Future Sight - Look at the top 5 cards of your deck and put them back on top of your deck in any order.",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "code": "55/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60776,
+    "name": "Gothitelle",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85853_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85853_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85853_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "57/124",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "130",
+      "Stage": "Stage 2",
+      "Attack 1": "[1P] Doom Decree - Flip 2 coins.  If both of them are heads, the Defending Pokemon is Knocked Out.",
+      "Attack 2": "[2P] Black Magic (40+) Does 20 more damage for each of your opponent's Benched Pokemon.",
+      "Weakness": "Px2",
+      "RetreatCost": "2",
+      "code": "57/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60777,
+    "name": "Gothorita",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85857_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85857_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85857_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "56/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[P] Hypnoblast (10) The Defending Pokemon is now Asleep.",
+      "Attack 2": "[2P] Mind Shock (40) This attack's damage isn't affected by Weakness or Resistance.",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "code": "56/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60778,
+    "name": "Gyarados",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86000_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86000_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86000_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "24/124",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "130",
+      "Stage": "Stage 1",
+      "Attack 1": "[2W] Sharp Fang (60)",
+      "Attack 2": "[3W] Swing Around (60+) Flip 2 coins.  This attack does 30 more damage for each heads.",
+      "Weakness": "Lx2",
+      "RetreatCost": "3",
+      "code": "24/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60779,
+    "name": "Ho-Oh EX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86130_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86130_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86130_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "22/124",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fire",
+      "HP": "160",
+      "Stage": "Basic",
+      "CardText": "Rebirth - Once during your turn (before your attack), if this Pokemon is in your discard pile, you may flip a coin.  If heads, put this Pokemon onto your Bench and attach 3 different types of basic Energy cards from your discard pile to this Pokemon.  (Ability)",
+      "Attack 1": "[3] Rainbow Burn (20+) Does 20 more damage for each different type of basic Energy attached to this Pokemon.",
+      "Weakness": "Wx2",
+      "Resistance": "F-20",
+      "RetreatCost": "2",
+      "code": "22/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60780,
+    "name": "Ho-Oh Ex (119 Full Art)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86131_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86131_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86131_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "119/124",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fire",
+      "HP": "160",
+      "Stage": "Basic",
+      "CardText": "Rebirth - Once during your turn (before your attack), if this Pokemon is in your discard pile, you may flip a coin.  If heads, put this Pokemon onto your Bench and attach 3 different types of basic Energy cards from your discard pile to this Pokemon.  (Ability)",
+      "Attack 1": "[3] Rainbow Burn (20+) Does 20 more damage for each different type of basic Energy attached to this Pokemon.",
+      "Weakness": "Wx2",
+      "Resistance": "F-20",
+      "RetreatCost": "2",
+      "code": "119/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60781,
+    "name": "Honchkrow",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86163_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86163_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86163_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "73/124",
+      "Rarity": "Rare",
+      "Card Type": "Darkness",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Whirlwind (30) Your opponent switches the Defending Pokemon with 1 of his or her Benched Pokemon.",
+      "Attack 2": "[2D] Diving Swipe (70) Discard a random card from your opponent's hand.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "2",
+      "code": "73/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60782,
+    "name": "Hoppip",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86183_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86183_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86183_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "1/124",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "30",
+      "Stage": "Basic",
+      "Attack 1": "[G] Flail Around (10x) Flip 3 coins.  This attack does 10 damage times the number of heads.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "code": "1/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60783,
+    "name": "Houndoom",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86212_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86212_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86212_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "75/124",
+      "Rarity": "Rare",
+      "Card Type": "Darkness",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[D] Bite (30)",
+      "Attack 2": "[2D] Fire Fang (70) The Defending Pokemon is now Burned.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "code": "75/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60784,
+    "name": "Houndour",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86233_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86233_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86233_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "74/124",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[D] Bite (10)",
+      "Attack 2": "[2D] Darkness Fang (30)",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "code": "74/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60785,
+    "name": "Hydreigon (97)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86241_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86241_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86241_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "97/124",
+      "Rarity": "Holo Rare",
+      "Card Type": "Dragon",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "CardText": "Dark Trance - As often as you like during your turn (before your attack), you may move a D Energy attached to 1 of your Pokemon to another of your Pokemon.  (Ability)",
+      "Attack 1": "[1DDP] Dragonblast (140) Discard 2 D Energy attached to this Pokemon.",
+      "Weakness": "Ox2",
+      "RetreatCost": "3",
+      "code": "97/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60786,
+    "name": "Hydreigon (98)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86242_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86242_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86242_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "98/124",
+      "Rarity": "Rare",
+      "Card Type": "Dragon",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "Attack 1": "[2D] Consume (40) Heal from this Pokemon the same amount of damage you did to the Defending Pokemon.",
+      "Attack 2": "[2DP] Destructor Beam (90) Flip a coin.  If heads, discard an Energy attached to the Defending Pokemon.",
+      "Weakness": "Ox2",
+      "RetreatCost": "3",
+      "code": "98/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60787,
+    "name": "Jumpluff",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86368_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86368_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86368_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "3/124",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "90",
+      "Stage": "Stage 2",
+      "CardText": "Leave It to the Wind - Once during your turn (before your attack), you may return this Pokemon and all cards attached to it to your hand.  (Ability)",
+      "Attack 1": "[G] Acrobatics (20+) Flip 2 coins.  This attack does 30 more damage for each heads.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "0",
+      "code": "3/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60788,
+    "name": "Krookodile",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86544_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86544_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86544_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "127/124",
+      "Rarity": "Secret Rare",
+      "Card Type": "Darkness",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "Attack 1": "[2D] Dark Clamp (60) The Defending Pokemon can't retreat during your opponent's next turn.",
+      "Attack 2": "[2DD] Bombast (40x) Does 40 damage times the number of Prize cards you have taken.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "3",
+      "code": "127/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60789,
+    "name": "Lairon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86584_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86584_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86584_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "79/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Metal",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1M] Metal Claw (30)",
+      "Attack 2": "[1MM] Wreak Havoc (60) Flip a coin until you get tails.  For each heads, discard the top card of your opponent's deck.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "3",
+      "code": "79/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60790,
+    "name": "Magikarp",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87036_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87036_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87036_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "23/124",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "30",
+      "Stage": "Basic",
+      "Attack 1": "[W] Soggy Rush (10x) Flip a coin until you get tails.  This attack does 10 damage times the number of heads.",
+      "Weakness": "Lx2",
+      "RetreatCost": "1",
+      "code": "23/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60791,
+    "name": "Magmar",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87053_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87053_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87053_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "20/124",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[1] Beat (10)",
+      "Attack 2": "[1RR] Magma Punch (50)",
+      "Weakness": "Wx2",
+      "RetreatCost": "2",
+      "code": "20/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60792,
+    "name": "Magmortar",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87062_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87062_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87062_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "21/124",
+      "Rarity": "Rare",
+      "Card Type": "Fire",
+      "HP": "120",
+      "Stage": "Stage 1",
+      "Attack 1": "[R] Flame Screen (40) During your opponent's next turn, any damage done to this Pokemon by attacks is reduced by 20 (after applying Weakness and Resistance).",
+      "Attack 2": "[2R] Flamethrower (90) Discard an Energy attached to this Pokemon.",
+      "Weakness": "Wx2",
+      "RetreatCost": "3",
+      "code": "21/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60793,
+    "name": "Manectric (43)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87165_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87165_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87165_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "43/124",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[L] Energy Crush (20x) Does 20 damage times the amount of Energy attached to all of your opponent's Pokemon.",
+      "Attack 2": "[2L] Flash Impact (80) Does 20 damage to 1 of your Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "Fx2",
+      "RetreatCost": "0",
+      "code": "43/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60794,
+    "name": "Manectric (44)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87166_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87166_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87166_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "44/124",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[L] Energy Assist - Attach 2 basic Energy cards from your discard pile to 1 of your Benched Pokemon.",
+      "Attack 2": "[1L] Quick Attack (30+) Flip a coin.  If heads, this attack does 20 more damage.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "44/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60795,
+    "name": "Maractus",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87190_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87190_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87190_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "16/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[1G] Stun Needle (20) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[2G] Reinforced Needle (40+) If this Pokemon has a Pokemon Tool card attached to it, this attack does 40 more damage.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "2",
+      "code": "16/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60796,
+    "name": "Mareep",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87208_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87208_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87208_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "38/124",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Cotton Guard - During your opponent's next turn, any damage done to this Pokemon by attacks is reduced by 20 (after applying Weakness and Resistance).",
+      "Attack 2": "[1L] Thunder Jolt (30) Flip a coin.  If tails, this Pokemon does 10 damage to itself.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "38/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60797,
+    "name": "Marowak",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87229_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87229_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87229_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "61/124",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[F] Bone Lock (30) The Defending Pokemon can't retreat during your opponent's next turn.",
+      "Attack 2": "[2F] Vortex Chop (60+) If the Defending Pokemon has any Resistance, this attack does 30 more damage.",
+      "Weakness": "Wx2",
+      "Resistance": "L-20",
+      "RetreatCost": "1",
+      "code": "61/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60798,
+    "name": "Mew EX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87411_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87411_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87411_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "46/124",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Psychic",
+      "HP": "120",
+      "Stage": "Basic",
+      "CardText": "Versatile - This Pokemon can use the attacks of any Pokemon in play (both yours and your opponent's).  (You still need the necessary Energy to use each attack.)  (Ability)",
+      "Attack 1": "[P] Replace - Move as many Energy attached to your Pokemon to your other Pokemon in any way you like.",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "code": "46/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60799,
+    "name": "Mew EX (120 Full Art)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87412_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87412_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87412_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "120/124",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Psychic",
+      "HP": "120",
+      "Stage": "Basic",
+      "CardText": "Versatile - This Pokemon can use the attacks of any Pokemon in play (both yours and your opponent's).  (You still need the necessary Energy to use each attack.)  (Ability)",
+      "Attack 1": "[P] Replace - Move as many Energy attached to your Pokemon to your other Pokemon in any way you like.",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "code": "120/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60800,
+    "name": "Milotic",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87457_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87457_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87457_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "28/124",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "Attack 1": "[W] Clear Search - Search your deck for any 3 cards and put them into your hand.  Shuffle your deck afterward.",
+      "Attack 2": "[2W] Water Pulse (60) The Defending Pokemon is now Asleep.",
+      "Weakness": "Lx2",
+      "RetreatCost": "1",
+      "code": "28/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60801,
+    "name": "Minccino",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87477_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87477_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87477_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "109/124",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Pound (10)",
+      "Attack 2": "[2] Reckless Charge (30) This Pokemon does 10 damage to itself.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "109/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60802,
+    "name": "Murkrow",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87657_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87657_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87657_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "72/124",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Peck (10)",
+      "Attack 2": "[1D] Wing Attack (20)",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "code": "72/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60803,
+    "name": "Nincada",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87762_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87762_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87762_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "10/124",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Dig (10) Flip a coin.  If heads, prevent all effects of attacks, including damage, done to this Pokemon during your opponent's next turn.",
+      "Weakness": "Rx2",
+      "RetreatCost": "1",
+      "code": "10/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60804,
+    "name": "Ninetales",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87778_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87778_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87778_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "19/124",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "CardText": "Bright Look - When you play this Pokemon from your hand to evolve 1 of your Pokemon, you may switch 1 of your opponent's Benched Pokemon with his or her Active Pokemon.  (Ability)",
+      "Attack 1": "[R] Hexed Flame (20+) Does 50 more damage for each Special Condition affecting the Defending Pokemon.",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "code": "19/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60805,
+    "name": "Ninjask",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87788_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87788_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87788_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "11/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Stage 1",
+      "CardText": "Cast-off Shell - When you play this Pokemon from your hand to evolve 1 of your Pokemon, you may search your deck for Shedinja and put it onto your Bench.  Shuffle your deck afterward.  (Ability)",
+      "Attack 1": "[1G] Night Slash (60) You may switch this Pokemon with 1 of your Benched Pokemon.",
+      "Weakness": "Rx2",
+      "RetreatCost": "1",
+      "code": "11/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60806,
+    "name": "Nosepass",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87804_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87804_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87804_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "62/124",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[2] Rock Throw (20)",
+      "Weakness": "Gx2",
+      "RetreatCost": "2",
+      "code": "62/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60807,
+    "name": "Palpitoad",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87924_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87924_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87924_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "35/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Supersonic - The Defending Pokemon is now Confused.",
+      "Attack 2": "[2W] Hyper Voice (50)",
+      "Weakness": "Gx2",
+      "RetreatCost": "1",
+      "code": "35/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60808,
+    "name": "Probopass",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88379_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88379_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88379_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "82/124",
+      "Rarity": "Rare",
+      "Card Type": "Metal",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Magnetic Lines (30) You may move an Energy attached to the Defending Pokemon to 1 of your opponent's Benched Pokemon.",
+      "Attack 2": "[2M] Heavy Nose (60+) If the Defending Pokemon already has any damage counters on it, this attack does 30 more damage.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "4",
+      "code": "82/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60809,
+    "name": "Rayquaza",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88630_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88630_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88630_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "128/124",
+      "Rarity": "Secret Rare",
+      "Card Type": "Dragon",
+      "HP": "120",
+      "Stage": "Basic",
+      "Attack 1": "[L] Dragon Pulse (40) Discard the top 2 cards of your deck.",
+      "Attack 2": "[1LR] Shred (90) This attack's damage isn't affected by any effects on the Defending Pokemon.",
+      "Weakness": "Ox2",
+      "RetreatCost": "3",
+      "code": "128/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60810,
+    "name": "Rayquaza EX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88645_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88645_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88645_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "85/124",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Dragon",
+      "HP": "170",
+      "Stage": "Basic",
+      "Attack 1": "[1] Celestial Roar - Discard the top 3 cards of your deck.  If any of those cards are Energy cards, attach them to this Pokemon.",
+      "Attack 2": "[LR] Dragon Burst (60x) Discard all basic R Energy or all basic L Energy attached to this Pokemon.  This attack does 60 damage times the number of Energy cards you discarded.",
+      "Weakness": "Ox2",
+      "RetreatCost": "1",
+      "code": "85/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60811,
+    "name": "Rayquaza EX (123 Full Art)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88648_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88648_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88648_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "123/124",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Dragon",
+      "HP": "170",
+      "Stage": "Basic",
+      "Attack 1": "[1] Celestial Roar - Discard the top 3 cards of your deck.  If any of those cards are Energy cards, attach them to this Pokemon.",
+      "Attack 2": "[LR] Dragon Burst (60x) Discard all basic R Energy or all basic L Energy attached to this Pokemon.  This attack does 60 damage times the number of Energy cards you discarded.",
+      "Weakness": "Ox2",
+      "RetreatCost": "1",
+      "code": "123/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60812,
+    "name": "Registeel EX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88681_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88681_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88681_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "81/124",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Metal",
+      "HP": "180",
+      "Stage": "Basic",
+      "Attack 1": "[3] Triple Laser - This attack does 30 damage to 3 of your opponent's Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Attack 2": "[2MM] Protect Charge (80) During your opponent's next turn, any damage done to this Pokemon by attacks is reduced by 20 (after applying Weakness and Resistance).",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "4",
+      "code": "81/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60813,
+    "name": "Registeel EX (122 Full Art)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88682_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88682_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88682_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "122/124",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Metal",
+      "HP": "180",
+      "Stage": "Basic",
+      "Attack 1": "[3] Triple Laser - This attack does 30 damage to 3 of your opponent's Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Attack 2": "[2MM] Protect Charge (80) During your opponent's next turn, any damage done to this Pokemon by attacks is reduced by 20 (after applying Weakness and Resistance).",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "4",
+      "code": "122/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60814,
+    "name": "Rescue Scarf",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88702_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88702_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88702_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "115/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "HP": "0",
+      "Stage": "Tool",
+      "CardText": "Attach a Pokemon Tool to 1 of your Pokemon that doesn't already have a Pokemon Tool attached to it.",
+      "Attack 1": "If the Pokemon this card is attached to is Knocked Out by damage from an attack, put that Pokemon into your hand.  (Discard all cards attached to that Pokemon.)",
+      "code": "115/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60815,
+    "name": "Reuniclus",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88722_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88722_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88722_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "126/124",
+      "Rarity": "Secret Rare",
+      "Card Type": "Psychic",
+      "HP": "90",
+      "Stage": "Stage 2",
+      "CardText": "Damage Swap - As often as you like during your turn (before you attack), you may move 1 damage counter from 1 of your Pokemon to another of your Pokemon.  (Ability)",
+      "Attack 1": "[PPP] Psywave (30+) Does 10 more damage for each Energy attached to the Defending Pokemon.",
+      "Weakness": "Px2",
+      "RetreatCost": "2",
+      "code": "126/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60816,
+    "name": "Roggenrola",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88807_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88807_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88807_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "65/124",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1F] Stone Edge (10+) Flip a coin.  If heads, this attack does 20 more damage.",
+      "Attack 2": "[2F] Hammer In (40)",
+      "Weakness": "Gx2",
+      "RetreatCost": "3",
+      "code": "65/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60817,
+    "name": "Roselia (12)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88824_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88824_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88824_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "12/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Double Whip (10x) Flip 2 coins.  This attack does 10 damage times the number of heads.",
+      "Attack 2": "[G] Relaxing Fragrance - Heal 30 damage and remove all Special Conditions from this Pokemon.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "code": "12/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60818,
+    "name": "Roselia (13)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88825_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88825_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88825_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "13/124",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1G] Needling Sting (10+) Flip a coin.  If heads, this attack does 20 more damage.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "code": "13/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60819,
+    "name": "Roserade (14)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88831_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88831_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88831_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "14/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[G] Crosswise Whip (30x) Flip 4 coins.  This attack does 30 damage times the number of heads.",
+      "Attack 2": "[2G] Poison Point (60) The Defending Pokemon is now Poisoned.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "code": "14/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60820,
+    "name": "Roserade (15)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88832_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88832_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88832_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "15/124",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "CardText": "Le Parfum - When you play this Pokemon from your hand to evolve 1 of your Pokemon, you may search your deck for any card and put it into your hand.  Shuffle your deck afterward.  (Ability)",
+      "Attack 1": "[1G] Squeeze (30+) Flip a coin.  If heads, this attack does 20 more damage and the Defending Pokemon is now Paralyzed.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "code": "15/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60821,
+    "name": "Rufflet",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88843_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88843_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88843_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "111/124",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Chirp - Search your deck for 2 Pokemon with F Resistance, reveal them, and put them into your hand.  Shuffle your deck afterward.",
+      "Attack 2": "[2] Sharp Beak (10+) Flip a coin.  If heads, this attack does 20 more damage.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "code": "111/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60822,
+    "name": "Sawk",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88939_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88939_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88939_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "69/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[1] Defensive Stance - Heal 30 damage from this Pokemon.  Switch this Pokemon with 1 of your Benched Pokemon.",
+      "Attack 2": "[2F] Karate Chop (70-) Does 70 damage minus 10 for each damage counter on this Pokemon.",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "code": "69/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60823,
+    "name": "Sealeo",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89034_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89034_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89034_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "30/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1W] Ice Ball (30)",
+      "Attack 2": "[2W] Aurora Beam (40)",
+      "Weakness": "Mx2",
+      "RetreatCost": "3",
+      "code": "30/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60824,
+    "name": "Seismitoad",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89058_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89058_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89058_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "36/124",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[3] Echoed Voice (50) During your next turn, this Pokemon's attack does 50 more damage (before applying Weakness and Resistance).",
+      "Attack 2": "[3W] Drain Punch (80) Heal 20 damage from this Pokemon.",
+      "Weakness": "Gx2",
+      "RetreatCost": "2",
+      "code": "36/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60825,
+    "name": "Serperior",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89072_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89072_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89072_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "125/124",
+      "Rarity": "Secret Rare",
+      "Card Type": "Grass",
+      "HP": "130",
+      "Stage": "Stage 2",
+      "CardText": "Royal Heal - At any time between turns, heal 10 damage from each of your Pokemon.  (Ability)",
+      "Attack 1": "[1G] Leaf Tornado (60) Move as many G Energy attached to your Pokemon to your other Pokemon in any way you like.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "code": "125/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60826,
+    "name": "Shedinja",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89121_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89121_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89121_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "48/124",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Stage 1",
+      "CardText": "Empty Shell - If this Pokemon is Knocked Out, your opponent can't take any Prize cards for it.  (Ability)",
+      "Attack 1": "[P] Cursed Drop - Put 3 damage counters on your opponent's Pokemon in any way you like.",
+      "RetreatCost": "0",
+      "code": "48/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60827,
+    "name": "Sigilyph",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89206_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89206_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89206_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "52/124",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "90",
+      "Stage": "Basic",
+      "CardText": "Safeguard - Prevent all effects of attacks, including damage, done to this Pokemon by Pokemon-EX.  (Ability)",
+      "Attack 1": "[2P] Psychic (50+) Does 10 more damage for each Energy attached to the Defending Pokemon.",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "code": "52/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60828,
+    "name": "Silcoon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89214_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89214_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89214_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "7/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Harden - During your opponent's next turn, if this Pokemon would be damaged by an attack, prevent that attack's damage done to this Pokemon if that damage is 60 or less.",
+      "Attack 2": "[2G] Bug Bite (40)",
+      "Weakness": "Rx2",
+      "RetreatCost": "3",
+      "code": "7/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60829,
+    "name": "Skiploom",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89258_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89258_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89258_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "2/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Stage 1",
+      "Attack 1": "[G] Bullet Seed (10x) Flip 4 coins.  This attack does 10 damage times the number of heads.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "0",
+      "code": "2/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60830,
+    "name": "Skuntank",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89283_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89283_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89283_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "77/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Darkness",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[D] Smogscreen (20) The Defending Pokemon is now Poisoned.  If the Defending Pokemon tries to attack during your opponent's next turn, your opponent flips a coin.  If tails, that attack does nothing.",
+      "Attack 2": "[1DD] Hammer In (80)",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "code": "77/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60831,
+    "name": "Slaking",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89293_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89293_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89293_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "103/124",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "150",
+      "Stage": "Stage 2",
+      "CardText": "Unobservant - If your opponent's Active Pokemon is a Basic Pokemon, this Pokemon can't attack.  (Ability)",
+      "Attack 1": "[4] Crushing Blow (100) Discard an Energy attached to the Defending Pokemon.",
+      "Weakness": "Fx2",
+      "RetreatCost": "4",
+      "code": "103/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60832,
+    "name": "Slakoth",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89300_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89300_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89300_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "101/124",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Smack 'n' Slack (10) This Pokemon is now Asleep.",
+      "Weakness": "Fx2",
+      "RetreatCost": "2",
+      "code": "101/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60833,
+    "name": "Spheal",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89450_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89450_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89450_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "29/124",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1W] Unstoppable Roll (10+) Flip 2 coins.  If both of them are heads, this attack does 30 more damage.",
+      "Weakness": "Mx2",
+      "RetreatCost": "2",
+      "code": "29/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60834,
+    "name": "Stunfisk",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89581_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89581_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89581_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "70/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[F] Muddy Water (20) Does 20 damage to 1 of your opponent's Benched Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Attack 2": "[1F] Rumble (40) The Defending Pokemon can't retreat during your opponent's next turn.",
+      "Weakness": "Wx2",
+      "Resistance": "L-20",
+      "RetreatCost": "3",
+      "code": "70/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60835,
+    "name": "Stunky",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89588_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89588_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89588_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "76/124",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[D] Acid Spray (10) Flip a coin.  If heads, discard an Energy attached to the Defending Pokemon.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "code": "76/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60836,
+    "name": "Swablu (104)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89661_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89661_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89661_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "104/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Sing - The Defending Pokemon is now Asleep.",
+      "Attack 2": "[2] Peck (20)",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "code": "104/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60837,
+    "name": "Swablu (105)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89662_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89662_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89662_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "105/124",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[1] Peck (10)",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "code": "105/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60838,
+    "name": "Terrakion EX",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89892_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89892_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89892_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "71/124",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fighting",
+      "HP": "180",
+      "Stage": "Basic",
+      "Attack 1": "[1F] Rock Tumble (50) This attack's damage isn't affected by Resistance.",
+      "Attack 2": "[1FF] Pump-up Smash (90) Attach 2 basic Energy cards from your hand to your Benched Pokemon in any way you like.",
+      "Weakness": "Gx2",
+      "RetreatCost": "3",
+      "code": "71/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60839,
+    "name": "Terrakion EX (121 Full Art)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89893_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89893_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89893_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "121/124",
+      "Rarity": "Ultra Rare",
+      "Card Type": "Fighting",
+      "HP": "180",
+      "Stage": "Basic",
+      "Attack 1": "[1F] Rock Tumble (50) This attack's damage isn't affected by Resistance.",
+      "Attack 2": "[1FF] Pump-up Smash (90) Attach 2 basic Energy cards from your hand to your Benched Pokemon in any way you like.",
+      "Weakness": "Gx2",
+      "RetreatCost": "3",
+      "code": "121/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60840,
+    "name": "Throh",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89901_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89901_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89901_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "68/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[2F] Squeeze (40+) Flip a coin.  If heads, this attack does 20 more damage and the Defending Pokemon is now Paralyzed.",
+      "Attack 2": "[3F] Superpower (70+) You may do 20 more damage.  If you do, this Pokemon does 20 damage to itself.",
+      "Weakness": "Px2",
+      "RetreatCost": "3",
+      "code": "68/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60841,
+    "name": "Tool Scrapper",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89947_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89947_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89947_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "116/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "HP": "0",
+      "Stage": "Item",
+      "CardText": "You may play as many Item cards as you like during your turn (before your attack).",
+      "Attack 1": "Choose up to 2 Pokemon Tool cards attached to Pokemon in play (yours and your opponent's) and discard them.",
+      "code": "116/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60842,
+    "name": "Trubbish",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90066_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90066_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90066_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "53/124",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[2] Pound (20)",
+      "Attack 2": "[2P] Poison Gas (30) The Defending Pokemon is now Poisoned.",
+      "Weakness": "Px2",
+      "RetreatCost": "2",
+      "code": "53/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60843,
+    "name": "Tympole",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90090_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90090_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90090_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "34/124",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[W] Bubble (10) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "Gx2",
+      "RetreatCost": "1",
+      "code": "34/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60844,
+    "name": "Vigoroth",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90372_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90372_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90372_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "102/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Ambush (20+) Flip a coin.  If heads, this attack does 40 more damage.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "102/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60845,
+    "name": "Vulpix",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90447_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90447_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90447_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "18/124",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[R] Singe - The Defending Pokemon is now Burned.",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "code": "18/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60846,
+    "name": "Wailmer",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90456_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90456_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90456_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "25/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[1] Lullaby - Flip a coin.  If heads, the Defending Pokemon is now Asleep.",
+      "Attack 2": "[2W] Water Gun (30)",
+      "Weakness": "Lx2",
+      "RetreatCost": "3",
+      "code": "25/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60847,
+    "name": "Wailord",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90462_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90462_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90462_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "26/124",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "200",
+      "Stage": "Stage 1",
+      "Attack 1": "[W] Water Cannon (30x) Flip a coin.  If heads, this attack does 30 damage times the amount of W Energy attached to this Pokemon.",
+      "Attack 2": "[3W] Giant Wave (80) This Pokemon can't use Giant Wave during your next turn.",
+      "Weakness": "Lx2",
+      "RetreatCost": "4",
+      "code": "26/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60848,
+    "name": "Walrein",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90469_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90469_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90469_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "31/124",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "140",
+      "Stage": "Stage 2",
+      "Attack 1": "[2W] Aurora Beam (80)",
+      "Attack 2": "[2WW] Ice Entomb (60) The Defending Pokemon is now Paralyzed.  This Pokemon can't use Ice Entomb during your next turn.",
+      "Weakness": "Mx2",
+      "RetreatCost": "4",
+      "code": "31/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60849,
+    "name": "Wurmple",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90653_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90653_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90653_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "6/124",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Sleep Poison - Flip a coin.  If heads, the Defending Pokemon is now Asleep and Poisoned.",
+      "Weakness": "Rx2",
+      "RetreatCost": "1",
+      "code": "6/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60850,
+    "name": "Yanma",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90689_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90689_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90689_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "4/124",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[2] Whirlwind (20) Your opponent switches the Defending Pokemon with 1 of his or her Benched Pokemon.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "code": "4/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60851,
+    "name": "Yanmega",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90695_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90695_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90695_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "5/124",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Agility (30) Flip a coin.  If heads, prevent all effects of attacks, including damage, done to this Pokemon during your opponent's next turn.",
+      "Attack 2": "[3] Cutting Wind (70)",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "0",
+      "code": "5/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60852,
+    "name": "Zweilous (95)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90780_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90780_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90780_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "95/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Dragon",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Crunch (30) Flip a coin.  If heads, discard an Energy attached to the Defending Pokemon.",
+      "Attack 2": "[DDP] Dragon Claw (80)",
+      "Weakness": "Ox2",
+      "RetreatCost": "2",
+      "code": "95/124"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-dragons-exalted",
+    "id": 60853,
+    "name": "Zweilous (96)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90781_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90781_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90781_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "96/124",
+      "Rarity": "Uncommon",
+      "Card Type": "Dragon",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Draw In - Attach 2 D Energy from your discard pile to this Pokemon.",
+      "Attack 2": "[1DP] Dragon Headbutt (40)",
+      "Weakness": "Ox2",
+      "RetreatCost": "3",
+      "code": "96/124"
+    }
+  }
+]

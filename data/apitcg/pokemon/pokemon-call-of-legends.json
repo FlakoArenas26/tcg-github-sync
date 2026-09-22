@@ -1,0 +1,2391 @@
+[
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61700,
+    "name": "Ampharos",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83546_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83546_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83546_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "23/95",
+      "Rarity": "Rare",
+      "Card Type": "Lightning",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "Attack 1": "[L] Acceleration Bolt (30) Search your deck for up to 2 basic Energy cards and attach them to 1 of your Pokemon.  Shuffle your deck afterward.",
+      "Attack 2": "[2L] Thunder (80) Flip a coin.  If tails, Ampharos does 20 damage to itself.",
+      "Weakness": "Fx2",
+      "Resistance": "M-20",
+      "RetreatCost": "1",
+      "code": "23/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61701,
+    "name": "Bayleef",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/83749_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/83749_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/83749_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "40/95",
+      "Rarity": "Uncommon",
+      "Card Type": "Grass",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Hammer In (20)",
+      "Attack 2": "[2G] Razor Leaf (50)",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "2",
+      "code": "40/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61702,
+    "name": "Cheerleader's Cheer",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84247_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84247_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84247_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "76/95",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "HP": "0",
+      "Stage": "Supporter",
+      "CardText": "You can play only one Supporter each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.",
+      "Attack 1": "Draw 3 cards.  Your opponent may draw a card.",
+      "code": "76/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61703,
+    "name": "Chikorita",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84280_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84280_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84280_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "53/95",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Nap - Remove 1 damage counter from Chikorita.",
+      "Attack 2": "[1G] Reckless Charge (30) Chikorita does 10 damage to itself.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "code": "53/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61704,
+    "name": "Clefable",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84348_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84348_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84348_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "1/95",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Fairy Power - Return 1 of your Pokemon and all cards attached to it to your hand.",
+      "Attack 2": "[2] Moon Impact (40)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "1/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61705,
+    "name": "Clefairy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84359_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84359_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84359_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "54/95",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Minimize - During your opponent's next turn, any damage done to Clefairy by attacks is reduced by 20 (after applying Weakness and Resistance).",
+      "Attack 2": "[1] Slap (10)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "54/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61706,
+    "name": "Cleffa",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84369_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84369_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84369_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "24/95",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "30",
+      "Stage": "Basic",
+      "CardText": "Sweet Sleeping Face - As long as Cleffa is Asleep, prevent all damage done to Cleffa by attacks.  (Poke-BODY)",
+      "Attack 1": "[0] Eeeeeeek - Shuffle your hand into your deck, then draw 6 cards.  Cleffa is now Asleep.",
+      "RetreatCost": "0",
+      "code": "24/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61707,
+    "name": "Copycat",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84428_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84428_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84428_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "77/95",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "HP": "0",
+      "Stage": "Supporter",
+      "CardText": "You can play only one Supporter each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.",
+      "Attack 1": "Shuffle your hand into your deck.  Then, draw a number of cards equal to the number of cards in your opponent's hand.",
+      "code": "77/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61708,
+    "name": "Croconaw",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84503_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84503_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84503_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "41/95",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1W] Wave Splash (30)",
+      "Attack 2": "[2W] Big Bite (50) The Defending Pokemon can't retreat during your opponent's next turn.",
+      "Weakness": "Gx2",
+      "RetreatCost": "2",
+      "code": "41/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61709,
+    "name": "Cyndaquil",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84553_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84553_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84553_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "55/95",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[R] Fireworks (20) Flip a coin.  If tails, discard a R Energy attached to Cyndaquil.",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "code": "55/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61710,
+    "name": "Darkness Energy (Basic)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84678_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84678_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84678_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "94/95",
+      "Rarity": "Common",
+      "Card Type": "Energy",
+      "HP": "0",
+      "Stage": "Energy",
+      "code": "94/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61711,
+    "name": "Darkness Energy (Special)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84694_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84694_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84694_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "86/95",
+      "Rarity": "Uncommon",
+      "Card Type": "Energy",
+      "HP": "0",
+      "Stage": "Special Energy",
+      "Attack 1": "If the Pokemon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokemon (before applying Weakness and Resistance).  Ignore this effect if the Pokemon that Darkness Energy is attached to isn't Dark.  Darkness Energy provides D Energy.  (Doesn't count as a basic Energy card.)",
+      "code": "86/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61712,
+    "name": "Deoxys",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84757_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84757_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84757_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "2/95",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[PPP] Cell Storm (60) Discard 2 P Energy attached to Deoxys and remove 6 damage counters from Deoxys.",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "code": "2/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61713,
+    "name": "Deoxys (Shiny)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84758_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84758_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84758_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "SL1",
+      "Rarity": "Shiny Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[PPP] Cell Storm (60) Discard 2 P Energy attached to Deoxys and remove 6 damage counters from Deoxys.",
+      "Weakness": "Px2",
+      "Resistance": "None",
+      "RetreatCost": "1",
+      "code": "SL1"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61714,
+    "name": "Dialga",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84806_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84806_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84806_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "3/95",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[MMMM] Time Rewind (70) Shuffle your hand into your deck.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "3",
+      "code": "3/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61715,
+    "name": "Dialga (Shiny)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84807_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84807_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84807_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "SL2",
+      "Rarity": "Shiny Holo Rare",
+      "Card Type": "Metal",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[MMMM] Time Rewind (70) Shuffle your hand into your deck.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "3",
+      "code": "SL2"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61716,
+    "name": "Donphan",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84879_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84879_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84879_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "42/95",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[2F] Rock Hurl (50) This attack's damage isn't affected by Resistance.",
+      "Attack 2": "[2FF] Double Spin (70x) Flip 2 coins.  This attack does 70 damage times the number of heads.",
+      "Weakness": "Wx2",
+      "Resistance": "L-20",
+      "RetreatCost": "3",
+      "code": "42/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61717,
+    "name": "Dual Ball",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/84989_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/84989_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/84989_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "78/95",
+      "Rarity": "Uncommon",
+      "Card Type": "Item",
+      "HP": "0",
+      "Stage": "Trainer",
+      "Attack 1": "Flip 2 coins.  For each heads, search your deck for a Basic Pokemon card, show it to your opponent, and put it into your hand.  Shuffle your deck afterward.",
+      "code": "78/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61718,
+    "name": "Eevee",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85089_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85089_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85089_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "56/95",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Tackle (10)",
+      "Attack 2": "[2] Bite (20)",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "56/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61719,
+    "name": "Entei (Shiny)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85274_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85274_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85274_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "SL3",
+      "Rarity": "Shiny Holo Rare",
+      "Card Type": "Fire",
+      "HP": "90",
+      "Stage": "Basic",
+      "CardText": "<strong>Poke-BODY — Extreme Speed</strong>\r\n<br>Entei's Retreat Cost is 1 less for each Fire Energy attached to Entei.",
+      "Attack 1": "[1RR] Wild Blaze (70) \r\n<br>Discard the top 3 cards of your deck.",
+      "Weakness": "Wx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "SL3"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61720,
+    "name": "Espeon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85324_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85324_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85324_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "4/95",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[P] Solar Suggestion - Move up to 4 damage counters from any of your Pokemon to any of your opponent's Pokemon in any way you like.",
+      "Attack 2": "[1P] Psybeam (30) Flip a coin.  If heads, the Defending Pokemon is now Confused.",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "code": "4/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61721,
+    "name": "Feraligatr",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85422_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85422_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85422_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "25/95",
+      "Rarity": "Rare",
+      "Card Type": "Water",
+      "HP": "130",
+      "Stage": "Stage 2",
+      "Attack 1": "[2W] Spinning Tail - This attack does 20 damage to each of your opponent's Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Attack 2": "[2WW] Surf (80)",
+      "Weakness": "Gx2",
+      "RetreatCost": "2",
+      "code": "25/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61722,
+    "name": "Fighting Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85445_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85445_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85445_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "93/95",
+      "Rarity": "Common",
+      "Card Type": "Energy",
+      "HP": "0",
+      "Stage": "Energy",
+      "code": "93/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61723,
+    "name": "Fire Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85465_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85465_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85465_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "89/95",
+      "Rarity": "Common",
+      "Card Type": "Energy",
+      "HP": "0",
+      "Stage": "Energy",
+      "code": "89/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61724,
+    "name": "Flaaffy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85485_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85485_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85485_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "43/95",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[L] Thunder Spear - Choose 1 of your opponent's Pokemon.  This attack does 20 damage to that Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Attack 2": "[2L] Thundershock (40) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "Fx2",
+      "Resistance": "M-20",
+      "RetreatCost": "1",
+      "code": "43/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61725,
+    "name": "Flareon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85499_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85499_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85499_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "44/95",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Flame Tail (30)",
+      "Attack 2": "[1RR] Flamethrower (90) Discard an Energy attached to Flareon.",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "code": "44/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61726,
+    "name": "Forretress",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85553_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85553_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85553_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "5/95",
+      "Rarity": "Holo Rare",
+      "Card Type": "Metal",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1M] Mirror Shot (30) If the Defending Pokemon tries to attack during your opponent's next turn, your opponent flips a coin.  If tails, that attack does nothing.",
+      "Attack 2": "[2M] Everyone Explode Now (30x) Does 30 damage times the number of Pineco and Forretress you have in play.  This attack does 30 damage to each of your Pineco and Forretress in Play.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "3",
+      "code": "5/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61727,
+    "name": "Granbull",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85866_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85866_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85866_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "26/95",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Timid Tackle (50) Granbull does 20 damage to itself.  Switch Granbull with 1 of your Benched Pokemon.",
+      "Attack 2": "[4] Chomp (40+) Does 40 damage plus 10 more damage for each damage counter on Granbull.",
+      "Weakness": "Fx2",
+      "RetreatCost": "3",
+      "code": "26/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61728,
+    "name": "Grass Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85880_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85880_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85880_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "88/95",
+      "Rarity": "Common",
+      "Card Type": "Energy",
+      "HP": "0",
+      "Stage": "Energy",
+      "code": "88/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61729,
+    "name": "Groudon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85925_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85925_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85925_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "6/95",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[FFFF] Volcano Stomp (80) Flip a coin.  If heads, discard the top 4 cards of your opponent's deck.  If tails, discard the top 4 cards of your deck.",
+      "Weakness": "Gx2",
+      "RetreatCost": "4",
+      "code": "6/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61730,
+    "name": "Groudon (Shiny)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85926_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85926_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85926_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "SL4",
+      "Rarity": "Shiny Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[FFFF] Volcano Stomp (80) \r\n<br>Flip a coin.  If heads, discard the top 4 cards of your opponent's deck.  If tails, discard the top 4 cards of your deck.",
+      "Weakness": "Gx2",
+      "Resistance": "None",
+      "RetreatCost": "4",
+      "code": "SL4"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61731,
+    "name": "Gyarados",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/85999_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/85999_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/85999_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "7/95",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "130",
+      "Stage": "Stage 1",
+      "Attack 1": "[2W] Hydro Splash (50)",
+      "Attack 2": "[2WW] Hyper Beam (80) Discard an Energy card attached to the Defending Pokemon.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "3",
+      "code": "7/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61732,
+    "name": "Hitmonchan",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86096_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86096_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86096_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "57/95",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[1] Detect - Flip a coin.  If heads, prevent all effects of an attack, including damage, done to Hitmonchan during your opponent's next turn.",
+      "Attack 2": "[1F] Sky Uppercut (30) This attack's damage isn't affected by Resistance.",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "code": "57/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61733,
+    "name": "Hitmonlee",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86108_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86108_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86108_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "58/95",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[F] Kick (20)",
+      "Attack 2": "[1FF] High Jump Kick (60)",
+      "Weakness": "Px2",
+      "RetreatCost": "2",
+      "code": "58/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61734,
+    "name": "Hitmontop",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86117_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86117_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86117_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "8/95",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[F] Triple Kick (20x) Flip 3 coins.  This attack does 20 damage times the number of heads.",
+      "Attack 2": "[2F] Close Combat (60) During your opponent's next turn, any damage done to Hitmontop by attacks is increased by 20 (after applying Weakness and Resistance)",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "code": "8/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61735,
+    "name": "Ho-Oh",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86126_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86126_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86126_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "9/95",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[2R] Combustion (50)",
+      "Attack 2": "[2RRR] Scorching Wing (100) Flip a coin.  If tails, discard all R Energy attached to Ho-Oh.",
+      "Weakness": "Wx2",
+      "Resistance": "F-20",
+      "RetreatCost": "3",
+      "code": "9/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61736,
+    "name": "Ho-Oh (Shiny)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86127_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86127_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86127_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "SL5",
+      "Rarity": "Shiny Holo Rare",
+      "Card Type": "Fire",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[2R] Combustion (50)",
+      "Attack 2": "[2RRR] Scorching Wing (100) \r\n<br>Flip a coin.  If tails, discard all R Energy attached to Ho-Oh.",
+      "Weakness": "Wx2",
+      "Resistance": "F-20",
+      "RetreatCost": "3",
+      "code": "SL5"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61737,
+    "name": "Houndoom",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86211_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86211_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86211_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "10/95",
+      "Rarity": "Holo Rare",
+      "Card Type": "Darkness",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[D] Fire Counterattack (20+) If your opponent has any F Pokemon in play, this attack does 20 damage plus 60 more damage.",
+      "Attack 2": "[DD] Dark Roar (50) Your opponent discards a card from his or her hand.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "code": "10/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61738,
+    "name": "Houndour",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86232_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86232_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86232_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "59/95",
+      "Rarity": "Common",
+      "Card Type": "Darkness",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[D] Jump On (10+) Flip a coin.  If heads, this attack does 10 damage plus 10 more damage.",
+      "Weakness": "Fx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "code": "59/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61739,
+    "name": "Interviewer's Questions",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86287_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86287_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86287_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "79/95",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "HP": "0",
+      "Stage": "Supporter",
+      "CardText": "You can play only one Supporter each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.",
+      "Attack 1": "Look at the top 8 cards of your deck.  Choose as many Energy cards as you like, show them to your opponent, and put them into your hand.  Shuffle the other cards back into your deck.",
+      "code": "79/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61740,
+    "name": "Jirachi",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86331_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86331_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86331_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "11/95",
+      "Rarity": "Holo Rare",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "Stardust Song - Once during your turn, when you put Jirachi from your hand to your Bench, you may flip 3 coins.  For each heads, search your discard pile for a P Energy card and attach it to Jirachi.  (Poke-POWER)",
+      "Attack 1": "[P] Time Hollow - Choose a number of your opponent's Stage 1 or Stage 2 Evolved Pokemon up to the amount of Energy attached to Jirachi.  Remove the highest Stage Evolution card from each of those Pokemon and put those cards back into your opponent's hand.",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "code": "11/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61741,
+    "name": "Jolteon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86346_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86346_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86346_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "45/95",
+      "Rarity": "Uncommon",
+      "Card Type": "Lightning",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Agility (20) Flip a coin.  If heads, prevent all effects of an attack, including damage, done to Jolteon  during your opponent's next turn.",
+      "Attack 2": "[1LL] Mach Bolt (70)",
+      "Weakness": "Fx2",
+      "Resistance": "M-20",
+      "RetreatCost": "0",
+      "code": "45/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61742,
+    "name": "Koffing",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86499_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86499_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86499_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "60/95",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Smokescreen (10) If the Defending Pokemon tries to attack during your opponent's next turn, your opponent flips a coin.  If tails, that attack does nothing.",
+      "Attack 2": "[2] Suffocating Gas (20)",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "code": "60/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61743,
+    "name": "Kyogre",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86550_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86550_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86550_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "12/95",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[WWWW] Destructive Tsunami - Flip a coin.  If heads, this attack does 40 damage to each of your opponent's Pokemon.  If tails, this attack does 40 damage to each of your Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "Lx2",
+      "RetreatCost": "4",
+      "code": "12/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61744,
+    "name": "Kyogre (Shiny)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86551_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86551_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86551_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "SL6",
+      "Rarity": "Shiny Holo Rare",
+      "Card Type": "Water",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[WWWW] Destructive Tsunami \r\n<br>Flip a coin. If heads, this attack does 40 damage to each of your opponent's Pokemon. If tails, this attack does 40 damage to each of your Pokemon. <em>(Don't apply Weakness and Resistance for Benched Pokemon.)</em>",
+      "Weakness": "Lx2",
+      "Resistance": "None",
+      "RetreatCost": "4",
+      "code": "SL6"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61745,
+    "name": "Leafeon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86681_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86681_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86681_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "13/95",
+      "Rarity": "Holo Rare",
+      "Card Type": "Grass",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Miasma Wind (50x) Does 50 damage times the number of Special Conditions affecting the Defending Pokemon.",
+      "Attack 2": "[G] Soothing Scent (30) The Defending Pokemon is now Asleep.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "1",
+      "code": "13/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61746,
+    "name": "Lightning Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86781_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86781_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86781_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "91/95",
+      "Rarity": "Common",
+      "Card Type": "Energy",
+      "HP": "0",
+      "Stage": "Energy",
+      "code": "91/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61747,
+    "name": "Lost Remover",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86829_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86829_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86829_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "80/95",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer",
+      "HP": "0",
+      "Stage": "Trainer",
+      "Attack 1": "Put 1 Special Energy card attached to 1 of your opponent's Pokemon in the Lost Zone.",
+      "code": "80/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61748,
+    "name": "Lost World",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86830_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86830_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86830_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "81/95",
+      "Rarity": "Uncommon",
+      "Card Type": "Stadium",
+      "HP": "0",
+      "Stage": "Stadium",
+      "CardText": "This card stays in play when you play it.  Discard this card if another Stadium card comes into play.  If another card with the same name is in play, you can't play this card.",
+      "Attack 1": "Once during each player's turn, if that player's opponent has 6 or more Pokemon in the Lost Zone, the player may choose to win the game.",
+      "code": "81/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61749,
+    "name": "Lucario",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86881_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86881_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86881_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "14/95",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fighting",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Dimension Sphere (30+) Does 30 damage plus 20 more damage for each of your Pokemon in the Lost Zone.",
+      "Attack 2": "[1FF] Sky Uppercut (70) This attack's damage isn't affected by Resistance.",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "code": "14/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61750,
+    "name": "Lugia",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86910_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86910_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86910_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "15/95",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[2W] Linear Attack - Choose 1 of your opponent's Pokemon.  This attack does 30 damage to that Pokemon.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Attack 2": "[2WWW] Hydro Splash (80)",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "3",
+      "code": "15/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61751,
+    "name": "Lugia (Shiny)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/86911_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/86911_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/86911_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "SL7",
+      "Rarity": "Shiny Holo Rare",
+      "Card Type": "Water",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[2W] Linear Attack\r\n<br>Choose 1 of your opponent's Pokemon.  This attack does 30 damage to that Pokemon.  <em>(Don't apply Weakness and Resistance for Benched Pokemon.)</em>",
+      "Attack 2": "[2WWW] Hydro Splash (80)",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "3",
+      "code": "SL7"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61752,
+    "name": "Magby",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87007_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87007_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87007_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "46/95",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "30",
+      "Stage": "Basic",
+      "CardText": "Sweet Sleeping Face - As long as Magby is Asleep, prevent all damage done to Magby by attacks.  (Poke-BODY)",
+      "Attack 1": "[0] Play with Fire - The Defending Pokemon is now Burned.  Magby is now Asleep.",
+      "RetreatCost": "0",
+      "code": "46/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61753,
+    "name": "Magikarp",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87035_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87035_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87035_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "61/95",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "30",
+      "Stage": "Basic",
+      "Attack 1": "[1] Splash (10)",
+      "Weakness": "Lx2",
+      "RetreatCost": "1",
+      "code": "61/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61754,
+    "name": "Magmar",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87052_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87052_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87052_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "62/95",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[R] Live Coal (10)",
+      "Attack 2": "[1R] Magma Punch (20)",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "code": "62/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61755,
+    "name": "Magmortar",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87061_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87061_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87061_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "16/95",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "Attack 1": "[2R] Hard Crush (50x) Discard the top 3 cards from your deck.  This attack does 50 damage times the number of Energy cards you discarded.",
+      "Attack 2": "[2RR] Mantle Bazooka (100) Discard 2 R Energy attached to Magmortar.",
+      "Weakness": "Wx2",
+      "RetreatCost": "2",
+      "code": "16/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61756,
+    "name": "Mareep",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87207_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87207_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87207_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "63/95",
+      "Rarity": "Common",
+      "Card Type": "Lightning",
+      "HP": "40",
+      "Stage": "Basic",
+      "Attack 1": "[L] Static Shock (10)",
+      "Weakness": "Fx2",
+      "Resistance": "M-20",
+      "RetreatCost": "1",
+      "code": "63/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61757,
+    "name": "Mawile",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87264_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87264_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87264_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "64/95",
+      "Rarity": "Common",
+      "Card Type": "Metal",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Selfish Draw - Look at the top card of your deck.  You may put it in your hand.  If not, discard it and draw a card.",
+      "Attack 2": "[2M] Destructive Jaw (30) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed and discard an Energy card attached to the Defending Pokemon.",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "code": "64/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61758,
+    "name": "Meganium",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87296_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87296_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87296_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "27/95",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "130",
+      "Stage": "Stage 2",
+      "Attack 1": "[G] Sleep Powder (30) The Defending Pokemon is now Asleep.",
+      "Attack 2": "[2G] Giant Bloom (60) Remove 2 damage counters from Meganium.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "2",
+      "code": "27/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61759,
+    "name": "Metal Energy (Basic)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87351_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87351_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87351_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "95/95",
+      "Rarity": "Common",
+      "Card Type": "Energy",
+      "HP": "0",
+      "Stage": "Energy",
+      "code": "95/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61760,
+    "name": "Metal Energy (Special)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87367_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87367_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87367_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "87/95",
+      "Rarity": "Uncommon",
+      "Card Type": "Special Metal Energy",
+      "CardText": "Damage done by attacks to the Pokemon that Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance).  Ignore this effect if the Pokemon that Metal Energy is attached to isn't M.  Metal Energy provides M Energy.  (Doesn't count as a basic Energy card.)",
+      "code": "87/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61761,
+    "name": "Mime Jr.",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87472_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87472_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87472_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "47/95",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "30",
+      "Stage": "Basic",
+      "CardText": "Sweet Sleeping Face - As long as Mime Jr. is Asleep, prevent all damage done to Mime Jr. by attacks.  (Poke-BODY)",
+      "Attack 1": "[0] Sleepy Lost - Put the top card of your opponent's deck in the Lost Zone.  Mime Jr. is now Asleep.",
+      "RetreatCost": "0",
+      "code": "47/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61762,
+    "name": "Misdreavus",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87512_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87512_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87512_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "65/95",
+      "Rarity": "Common",
+      "Card Type": "Psychic",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Mumble (10)",
+      "Attack 2": "[P] Dual Draw - Each player draws 3 cards.",
+      "Weakness": "Dx2",
+      "Resistance": "C-20",
+      "RetreatCost": "1",
+      "code": "65/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61763,
+    "name": "Mismagius",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87519_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87519_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87519_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "28/95",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[P] Sleeping Spell (30) Flip a coin.  If heads, the Defending Pokemon is now Asleep.",
+      "Attack 2": "[1P] Poltergeist (30x) Look at your opponent's hand.  This attack does 30 damage times the number of Trainer, Supporter, or Stadium cards in your opponent's hand.",
+      "Weakness": "Dx2",
+      "RetreatCost": "1",
+      "code": "28/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61764,
+    "name": "Mr. Mime",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87594_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87594_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87594_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "29/95",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "Trick Reveal - Once during your turn (before your attack), you may have both you and your opponent reveal your hands.  This power can't be used if Mr. Mime is affected by a Special Condition.  (Poke-POWER)",
+      "Attack 1": "[1P] Juggling (10x) Flip 4 coins.  This attack does 10 damage times the number of heads.",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "code": "29/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61765,
+    "name": "Ninetales",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87777_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87777_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87777_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "17/95",
+      "Rarity": "Holo Rare",
+      "Card Type": "Fire",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "CardText": "Roast Reveal - Once during your turn (before your attack), you may discard a R Energy card from your hand.  If you do, draw 3 cards.  This power can't be used if Ninetales is affected by a Special Condition.  (Poke-POWER)",
+      "Attack 1": "[1RR] Will-o'-the-wisp (60)",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "code": "17/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61766,
+    "name": "Pachirisu",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87904_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87904_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87904_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "18/95",
+      "Rarity": "Holo Rare",
+      "Card Type": "Lightning",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "Self-Generation - Once during your turn, when you put Pachirisu from your hand onto your Bench, you may attach up to 2 L Energy cards from your hand to Pachirisu.  (Poke-POWER)",
+      "Attack 1": "[LL] Shocking Bolt (50) Put all Energy cards attached to Pachirisu in the Lost Zone.",
+      "Weakness": "Fx2",
+      "Resistance": "M-20",
+      "RetreatCost": "1",
+      "code": "18/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61767,
+    "name": "Palkia",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87911_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87911_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87911_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "19/95",
+      "Rarity": "Holo Rare",
+      "Card Type": "Water",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[WWWW] Wormhole (60) Switch Palkia with 1 of your Benched Pokemon.  Then, your opponent switches the Defending Pokemon with 1 of his or her Benched Pokemon.",
+      "Weakness": "Lx2",
+      "RetreatCost": "3",
+      "code": "19/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61768,
+    "name": "Palkia (Shiny)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/87912_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/87912_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/87912_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "SL8",
+      "Rarity": "Shiny Holo Rare",
+      "Card Type": "Water",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[WWWW] Wormhole (60) \r\n<br>Switch Palkia with 1 of your Benched Pokemon. Then, your opponent switches the Defending Pokemon with 1 of his or her Benched Pokemon.",
+      "Weakness": "Lx2",
+      "Resistance": "None",
+      "RetreatCost": "3",
+      "code": "SL8"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61769,
+    "name": "Phanpy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88004_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88004_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88004_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "66/95",
+      "Rarity": "Common",
+      "Card Type": "Fighting",
+      "HP": "60",
+      "Stage": "Basic",
+      "CardText": "Ultra-Thick Skin - As long as Phanpy has any Energy attached to it, any damage done to Phanpy by attacks is reduced by 10 (after applying Weakness and Resistance)  (Poke-BODY)",
+      "Attack 1": "[1F] Rock Smash (20+) Flip a coin.  If heads, this attack does 20 damage plus 10 more damage.",
+      "Weakness": "Wx2",
+      "Resistance": "L-20",
+      "RetreatCost": "2",
+      "code": "66/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61770,
+    "name": "Pidgeot",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88035_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88035_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88035_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "30/95",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "120",
+      "Stage": "Stage 2",
+      "Attack 1": "[2] Headwind (20) During your opponent's next turn, the attack cost of each of the Defending Pokemon's attacks is 2 more.",
+      "Attack 2": "[3] Quick Attack (40+) Flip a coin.  If heads, this attack does 40 damage plus 30 more damage.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "0",
+      "code": "30/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61771,
+    "name": "Pidgeotto",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88043_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88043_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88043_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "48/95",
+      "Rarity": "Uncommon",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[2] Gust (20)",
+      "Attack 2": "[3] Twister (30) Flip 2 coins.  If both of them are tails, this attack does nothing.  For each heads, discard an Energy attached to the Defending Pokemon.",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "code": "48/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61772,
+    "name": "Pidgey",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88052_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88052_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88052_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "67/95",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Messenger - Search your deck for a Pokemon, show it to your opponent, and put it into your hand.  Shuffle Pidgey and all cards attached to it back into your deck.",
+      "Attack 2": "[1] Glide (10)",
+      "Weakness": "Lx2",
+      "Resistance": "F-20",
+      "RetreatCost": "1",
+      "code": "67/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61773,
+    "name": "Pineco",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88131_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88131_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88131_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "68/95",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Focus Energy - During your next turn, Pineco's Surprise Attack attack's base damage is 80.",
+      "Attack 2": "[1G] Surprise Attack (40) Flip a coin.  If tails, this attack does nothing.",
+      "Weakness": "Rx2",
+      "RetreatCost": "2",
+      "code": "68/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61774,
+    "name": "Professor Elm's Training Method",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88394_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88394_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88394_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "82/95",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "HP": "0",
+      "Stage": "Supporter",
+      "CardText": "You can play only one Supporter each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.",
+      "Attack 1": "Search your deck for an Evolution card, show it to your opponent, and put it into your hand.  Shuffle your deck afterward.",
+      "code": "82/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61775,
+    "name": "Professor Oak's New Theory",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88401_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88401_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88401_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "83/95",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "HP": "0",
+      "Stage": "Supporter",
+      "CardText": "You can play only one Supporter each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.",
+      "Attack 1": "Shuffle your hand into your deck.  Then, draw 6 cards.",
+      "code": "83/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61776,
+    "name": "Psychic Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88425_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88425_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88425_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "92/95",
+      "Rarity": "Common",
+      "Card Type": "Energy",
+      "HP": "0",
+      "Stage": "Energy",
+      "code": "92/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61777,
+    "name": "Quilava",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88487_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88487_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88487_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "49/95",
+      "Rarity": "Uncommon",
+      "Card Type": "Fire",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "Attack 1": "[1R] Flare (30)",
+      "Attack 2": "[2R] Flamethrower (60) Discard an Energy attached to Quilava..",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "code": "49/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61778,
+    "name": "Raikou (Shiny)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88536_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88536_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88536_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "SL9",
+      "Rarity": "Shiny Holo Rare",
+      "Card Type": "Lightning",
+      "HP": "90",
+      "Stage": "Basic",
+      "CardText": "<strong>Poke-BODY — Extreme Speed</strong>\r\n<br>Raikou's Retreat Cost is 1 less for each Lightning Energy attached to Raikou.",
+      "Attack 1": "[1LL] Raging Thunder (70)\r\n<br>Does 20 damage to 1 of your Pokemon, and don't apply Weakness and Resistance to this damage.",
+      "Weakness": "Fx2",
+      "Resistance": "M-20",
+      "RetreatCost": "2",
+      "code": "SL9"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61779,
+    "name": "Rayquaza",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88628_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88628_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88628_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "20/95",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[LLRR] Inferno Spear (100) Discard a R Energy and a L Energy attached to Rayquaza.",
+      "Weakness": "Cx2",
+      "Resistance": "F-20",
+      "RetreatCost": "2",
+      "code": "20/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61780,
+    "name": "Rayquaza (Shiny)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88629_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88629_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88629_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "SL10",
+      "Rarity": "Shiny Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[LLRR] Inferno Spear (100) \r\n<br>Discard a Fire Energy and a Lightning Energy attached to Rayquaza.",
+      "Weakness": "Cx2",
+      "Resistance": "F-20",
+      "RetreatCost": "2",
+      "code": "SL10"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61781,
+    "name": "Relicanth",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88690_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88690_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88690_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "69/95",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[1] Prehistoric Wisdom - Choose a card from your hand and put it in the Lost Zone.  Then, draw 3 cards.",
+      "Attack 2": "[2W] Granite Head (30) During your opponent's next turn, any damage done to Relicanth by attacks is reduced by 30 (after applying Weakness and Resistance).",
+      "Weakness": "Gx2",
+      "RetreatCost": "2",
+      "code": "69/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61782,
+    "name": "Research Record",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88703_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88703_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88703_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "84/95",
+      "Rarity": "Uncommon",
+      "Card Type": "Trainer",
+      "HP": "0",
+      "Stage": "Trainer",
+      "Attack 1": "Look at the top 4 cards of your deck and put as many of them as you like back on top of your deck in any order.  Then, put the remaining cards on the bottom of your deck in any order.",
+      "code": "84/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61783,
+    "name": "Riolu",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88758_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88758_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88758_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "50/95",
+      "Rarity": "Uncommon",
+      "Card Type": "Fighting",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[F] Tumble Over (20) Riolu can't attack during your next turn.",
+      "Weakness": "Px2",
+      "RetreatCost": "1",
+      "code": "50/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61784,
+    "name": "Sage's Training",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/88894_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/88894_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/88894_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "85/95",
+      "Rarity": "Uncommon",
+      "Card Type": "Supporter",
+      "HP": "0",
+      "Stage": "Supporter",
+      "CardText": "You can play only one Supporter each turn.  When you play this card, put it next to your Active Pokemon.  When your turn ends, discard this card.",
+      "Attack 1": "Look at the top 5 cards of your deck.  Choose any 2 cards you find there and put them into your hand.  Discard the other cards.",
+      "code": "85/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61785,
+    "name": "Seviper",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89088_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89088_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89088_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "51/95",
+      "Rarity": "Uncommon",
+      "Card Type": "Psychic",
+      "HP": "90",
+      "Stage": "Basic",
+      "Attack 1": "[1] Poison Buildup - Seviper is now Poisoned.",
+      "Attack 2": "[1P] Poison Effect (20+) If Seviper is Poisoned, this attack does 20 damage plus 60 more damage and remove the Special Condition Poisoned from Seviper.",
+      "Weakness": "Px2",
+      "RetreatCost": "2",
+      "code": "51/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61786,
+    "name": "Skarmory",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89243_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89243_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89243_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "31/95",
+      "Rarity": "Rare",
+      "Card Type": "Metal",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[M] Steel Coat - Search your deck for a M Energy card and attach it to 1 of your Pokemon.  Shuffle your deck afterward.",
+      "Attack 2": "[2M] Razor Wing (40)",
+      "Weakness": "Rx2",
+      "Resistance": "P-20",
+      "RetreatCost": "1",
+      "code": "31/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61787,
+    "name": "Slowking",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89319_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89319_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89319_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "32/95",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "80",
+      "Stage": "Stage 1",
+      "CardText": "Second Sight - Once during your turn (before your attack), you may look at the top 3 cards of either player's deck and put them back on top of that player's deck in any order.  This power can't be used if Slowking is affected by a Special Condition.  (Poke-POWER)",
+      "Attack 1": "[1P] Psyshock (30) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.",
+      "Weakness": "Px2",
+      "RetreatCost": "2",
+      "code": "32/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61788,
+    "name": "Slowpoke",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89334_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89334_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89334_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "70/95",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[1] Whimsy Tackle (20) Flip a coin.  If tails, this attack does nothing.",
+      "Weakness": "Lx2",
+      "RetreatCost": "2",
+      "code": "70/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61789,
+    "name": "Smeargle",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89357_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89357_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89357_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "21/95",
+      "Rarity": "Holo Rare",
+      "Card Type": "Colorless",
+      "HP": "70",
+      "Stage": "Basic",
+      "CardText": "Portrait - Once during your turn (before your attack), if Smeargle is your Active Pokemon, you may look at your opponent's hand.  If you do, choose a Support card you find there and use the effect of that card as the effect of this power.  This power can't be used if Smeargle is affected by a Special Condition.  (Poke-POWER)",
+      "Attack 1": "[2] Tail Rap (20x) Flip 2 coins.  This attack does 20 damage times the number of heads.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "21/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61790,
+    "name": "Snorlax",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89392_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89392_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89392_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "33/95",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "100",
+      "Stage": "Basic",
+      "Attack 1": "[3] Layabout - Remove all damage counters from Snorlax.  Snorlax can't use Layabout during your next turn.",
+      "Attack 2": "[4] Clomp Clomp Clobber (80) Put 1 Energy card attached to Snorlax in the Lost Zone.",
+      "Weakness": "Fx2",
+      "RetreatCost": "4",
+      "code": "33/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61791,
+    "name": "Snubbull",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89417_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89417_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89417_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "71/95",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Roar - Your opponent switches the Defending Pokemon with 1 of his or her Benched Pokemon.",
+      "Attack 2": "[2] Sharp Fang (20)",
+      "Weakness": "Fx2",
+      "RetreatCost": "2",
+      "code": "71/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61792,
+    "name": "Suicune (Shiny)",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89606_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89606_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89606_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "SL11",
+      "Rarity": "Shiny Holo Rare",
+      "Card Type": "Water",
+      "HP": "90",
+      "Stage": "Basic",
+      "CardText": "<b>Poke-BODY — Extreme Speed</b>\r\n<br>Suicune's Retreat Cost is 1 less for each Water Energy attached to Suicune.",
+      "Attack 1": "[1WW] Tsunami \r\n<br>This attack does 20 damage to each of your opponent's Pokemon.  <em>(Don't apply Weakness and Resistance for Benched Pokemon.)</em>",
+      "Weakness": "Lx2",
+      "Resistance": "None",
+      "RetreatCost": "2",
+      "code": "SL11"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61793,
+    "name": "Tangela",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89748_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89748_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89748_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "72/95",
+      "Rarity": "Common",
+      "Card Type": "Grass",
+      "HP": "70",
+      "Stage": "Basic",
+      "Attack 1": "[G] Nutritional Support - Search your deck for a G Energy card and attach it to 1 of your Pokemon.  Shuffle your deck afterward.",
+      "Attack 2": "[2G] Poisonpowder (30) The Defending Pokemon is now Poisoned.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "2",
+      "code": "72/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61794,
+    "name": "Tangrowth",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89754_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89754_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89754_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "34/95",
+      "Rarity": "Rare",
+      "Card Type": "Grass",
+      "HP": "110",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Grind (20x) Does 20 times the amount of Energy attached to Tangrowth.",
+      "Attack 2": "[2G] Plow Over (30) Flip a coin.  If heads, the Defending Pokemon is now Paralyzed.  If tails, put 1 Energy card attached to the Defending Pokemon in the Lost Zone.",
+      "Weakness": "Rx2",
+      "Resistance": "W-20",
+      "RetreatCost": "4",
+      "code": "34/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61795,
+    "name": "Teddiursa",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/89860_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/89860_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/89860_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "73/95",
+      "Rarity": "Common",
+      "Card Type": "Colorless",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[1] Fake Tears - Flip a coin.  If heads, your opponent can't play Trainer cards from his or her hand during your opponent's next turn, and any damage done to Teddiursa by attacks is reduced by 30 (after applying weakness and resistance).",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "73/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61796,
+    "name": "Totodile",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90003_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90003_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90003_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "74/95",
+      "Rarity": "Common",
+      "Card Type": "Water",
+      "HP": "60",
+      "Stage": "Basic",
+      "Attack 1": "[2W] Aqua Tail (30+) Flip a coin for each W Energy attached to Totodile.  This attack does 30 damage plus 20 more damage for each heads.",
+      "Weakness": "Lx2",
+      "RetreatCost": "2",
+      "code": "74/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61797,
+    "name": "Typhlosion",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90109_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90109_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90109_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "35/95",
+      "Rarity": "Rare",
+      "Card Type": "Fire",
+      "HP": "130",
+      "Stage": "Stage 2",
+      "Attack 1": "[1R] Magma Punch (50)",
+      "Attack 2": "[1RR] Fire Spin (120) Discard 2 Energy attached to Typhlosion.",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "code": "35/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61798,
+    "name": "Tyrogue",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90132_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90132_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90132_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "36/95",
+      "Rarity": "Rare",
+      "Card Type": "Fighting",
+      "HP": "30",
+      "Stage": "Basic",
+      "CardText": "Sweet Sleeping Face - As long as Tyrogue is Asleep, prevent all damage done to Tyrogue by attacks.  (Poke-BODY)",
+      "Attack 1": "[0] Mischievous Punch (30) This attack's damage isn't affected by Weakness or Resistance.  Tyrogue is now Asleep.",
+      "RetreatCost": "0",
+      "code": "36/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61799,
+    "name": "Umbreon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90147_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90147_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90147_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "22/95",
+      "Rarity": "Holo Rare",
+      "Card Type": "Darkness",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[D] Moonlight Fang (30) During your opponent's next turn, prevent all effects, including damage, done to Umbreon by attacks from your opponent's Pokemon that has any Poke-Powers or Poke-Bodies.",
+      "Attack 2": "[1D] Quick Blow (30+) Flip a coin.  If heads, this attack does 30 damage plus 30 more damage.",
+      "Weakness": "Fx2",
+      "RetreatCost": "1",
+      "code": "22/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61800,
+    "name": "Ursaring",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90256_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90256_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90256_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "37/95",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "100",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Confront (20)",
+      "Attack 2": "[3] Cross Chop (50+) Flip a coin.  If heads, this attack does 50 damage plus 30 more damage.",
+      "Weakness": "Fx2",
+      "RetreatCost": "3",
+      "code": "37/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61801,
+    "name": "Vaporeon",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90287_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90287_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90287_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "52/95",
+      "Rarity": "Uncommon",
+      "Card Type": "Water",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[1] Spiral Drain (20) Remove 2 damage counters from Vaporeon.",
+      "Attack 2": "[1WW] Dual Splash - Choose 2 of your opponent's Pokemon.  This attack does 30 damage to each of them.  (Don't apply Weakness and Resistance for Benched Pokemon.)",
+      "Weakness": "Lx2",
+      "RetreatCost": "2",
+      "code": "52/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61802,
+    "name": "Vulpix",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90446_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90446_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90446_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "75/95",
+      "Rarity": "Common",
+      "Card Type": "Fire",
+      "HP": "50",
+      "Stage": "Basic",
+      "Attack 1": "[R] Singe - Flip a coin.  If heads, the Defending Pokemon is now Burned.",
+      "Attack 2": "[1R] Ember (30) Flip a coin.  If tails, discard a R Energy attached to Vulpix.",
+      "Weakness": "Wx2",
+      "RetreatCost": "1",
+      "code": "75/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61803,
+    "name": "Water Energy",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90525_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90525_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90525_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "90/95",
+      "Rarity": "Common",
+      "Card Type": "Energy",
+      "HP": "0",
+      "Stage": "Energy",
+      "code": "90/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61804,
+    "name": "Weezing",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90565_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90565_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90565_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "38/95",
+      "Rarity": "Rare",
+      "Card Type": "Psychic",
+      "HP": "90",
+      "Stage": "Stage 1",
+      "Attack 1": "[P] Super Poison Breath - The Defending Pokemon is now Poisoned.",
+      "Attack 2": "[2] Super Explosion (90) Weezing does 90 damage to itself, and don't apply Weakness to this damage.",
+      "Weakness": "Px2",
+      "RetreatCost": "2",
+      "code": "38/95"
+    }
+  },
+  {
+    "source": "apitcg",
+    "deck": "pokemon-call-of-legends",
+    "id": 61805,
+    "name": "Zangoose",
+    "image": {
+      "small": "https://tcgplayer-cdn.tcgplayer.com/product/90708_200w.jpg",
+      "medium": "https://tcgplayer-cdn.tcgplayer.com/product/90708_400w.jpg",
+      "large": "https://tcgplayer-cdn.tcgplayer.com/product/90708_in_1000x1000.jpg"
+    },
+    "attributes": {
+      "Number": "39/95",
+      "Rarity": "Rare",
+      "Card Type": "Colorless",
+      "HP": "80",
+      "Stage": "Basic",
+      "Attack 1": "[1] Swords Dance - During your next turn, Zangoose's Lost Claw attack's base damage is 60.",
+      "Attack 2": "[3] Lost Claw (30) Choose 1 card from your opponent's hand without looking and put it in the Lost Zone.",
+      "Weakness": "Fx2",
+      "RetreatCost": "2",
+      "code": "39/95"
+    }
+  }
+]
